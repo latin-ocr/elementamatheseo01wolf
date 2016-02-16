@@ -1,0 +1,126 @@
+Cap. VI. GEOMETRIA SUBMMIOR.
+
+PRoBLEMA CLXXXI.
+
+410. Determinare quantitatem filb-
+tangentis PT &¹ fhbnormalis PR in
+Parabola. ¹
+
+Sit AP—-x‚ MR ad tangentem TM
+perpe11dicularis=t, RA=v, erit PR
+r—-v—x2PM²=ax (§. 388) &(§·417
+Geom.)
+
+ax=t²——v² —}- 2vx—-x2
+hoc est ἀἷὶῂκκ -1— v²=0 ’⁴
+›4- ax-t2
+
+Eadem aequatio provenit ‚ fi recsta
+TM parabolam secet, & quidem ad
+utrumque sestionis punastum. Quoniam
+itaque in punsto contacstus duo illa
+pumsta coincidunt5 aequatio duas radi-
+ces aequales habere debet, coinciden-
+tibus nimirum etiam absciffis per x de-
+fignatiS. Qare fi fiat κει seu x—z=0
+&inde formetur aequatio x2—2zx ÷
+z²=0, duas aequales radices continens
+(§. 329);haec curn antea inventa eadem
+effe debet , consequenter
+
+·-2z=——2v 4- a
+
+Ergo Ob z=x) x=v—}a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+÷a=v—x=PR
+Porro (§. 406) PR: PM———PM .· PT
+hoc est, {a :daxzffaxt PT
+Ergo PTzax: {11:222
+Theorema. In parabola subtmgens PT
+
+est abfiiffae ΑΡ dupla; subnormalis vero PR
+parametri subdupla , adeoque constans.
+
+COROLLARI UM Ι.
+411. aniam TA :x & distantia f0·i
+Τὼ· a verme AF: {affl 396)-.e1;r ΤΡ :ga-ma
+,υἷ’ Ergo reeh PM ex foco F ad pur-<stum con-
+53⁶4& maus Μ ἀιιὲὶι aeq112turtcdkae TF 5399),
+consequenter TFM triangulum aequictutum.
+
+J
+
+tionem figmentorum HF (ῥ’ FN.
+
+347
+CoRoLLAR1UM II.
+
+41 2. Qoniam PA= x & AF Ξὲα (§.
+396), erit PF :x ι-ἑα , consequenter cum
+fit PR ={a(§. 410), FR=x ›1‹ ἦα, adeo—
+
+que FR=FM (§. 399)=:TM (AY. 411).
+Circulus igitur ex foco parabolae F per
+pumstum ejus M dncstus subtangentem PT
+& subnormalem PR determinat, consequen-
+ter pune‘kum T, ex quovducitur tangens TM.
+
+CoRoLLAmuM 11⁴1.
+
+413. Qodfi MG ducatur parallela axiAQ Τὼ.
+erit angulus GMS = FTM (§. 233 Geom.). 111⁰
+eumque fit TF=1⁵M (55. 411)·, erit ΠΜ Fig.4⁶2.†
+= FMT (§. 1 84 Geom.), consequenter FMT
+.·=: GMS (§. 87 Arithm.).
+
+PROBLEMA CLXXXII.
+
+414. Dm‘Ja ΟΝ tangenti TM ‚ ὠ Tab.;
+MG axi AQarallela ‚ determinare ra· ΠΙ.
+
+Fig.43.
+Sit AP-zAsz ,- crit Pnizdax
+
+(§. 392) PTle (ob TO=MF=PL
+(§. 257 Geom.)=2x (§. 410). Sit ΜΡ
+=P1=v, erit T1=v -f- 2x , 1A=v
+-ι- x. Sit denique 1Q=FG=t2 erit
+OQ-:OI -Ι- IQz2x -ἦ- t, QAzx
+-Ι- v ÷t, & hinc QN2=ax ÷ av -†-at
+(§. 388). Porro (§. 268 Geom.).
+
+OI : IF :OQ QN
+h. e. 01²: 1F2=OQ QN‘
+
+426²: ax=(2x†t)²:Q²
+
+4x : a :(2,·c÷t)²: ,ἮΞῖ-ΐῖ-
+
+Est itaq5 a(x -ἧ- v ÷ t):a(2x-}- t)²: 4x
+
+——.-.—. 0——— —— —-
+
+4x² -i- 4xv ÷ ιιικ---Ἶικι ÷ 4tx† t²
+
+——-.-——-—-—————. -ῤ-
+
+4xv=t²
+
+X x 2 QOd·
+

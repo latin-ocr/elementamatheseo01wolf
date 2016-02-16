@@ -1,0 +1,125 @@
+Tab. I.
+figao.
+
+432 ELEMENTA ANALYSEOS.
+
+CAPUT ΙΙΙ.
+
+De asta Calculi dtffirgatialls ’in‘ Methodo de maximis
+mmzmts.
+
+DEF1N1T10 IV.
+
+61. I semiordinatae alicujus curvae
+usque ad certum terminum con-
+tinuo crescunt vel decrescunt, quem
+praetergreffae denuo decrescunt vel crell
+cunt; methodus, per quam determina-
+tur earum maxima vel minima , dicitur
+Methodas de maximis (ῥ’ minimis.
+
+ScHoLloN.
+
+62. Potest vero haec methodus etiam ad de-
+terminandas quantitates alias , quae ad cer-
+tum aliquem terminum crescunt vel decres-
+cunt ‚ adhiberi. Sed repraefhntandae funt per
+
+curvarum semiordinatas, ut exempla inferius ¹
+
+adducenda loquuntur.
+PROBLEMA XIII.
+
+63. Determinare maximam vel mi· ὲ
+
+nimam applicatam in curva algebraica.
+R Ε s ο L U T Ι ο.
+
+Qoniam in curvis maximum vel mi-
+
+nimum habentibus tangens TM degene-
+rat tandem in DE & axi parallela eva—
+dit , adeoque normalis MH coincidit
+cum maxima vel minima applicata CG ;
+erit in casu maximi vel minimi subtan-
+gens TP infinita atque subnormalis PH
+nihilo aequalis. Est vero PH: ydy : dx.
+Qodsi ergo ponatur ydy : axz: Ο 3 re-
+perietur dy: Ο & ob PT τε ydx ε dy
+Ξ 00 ( quae est nota infinitatiS) dx
+Ξ 00 . .
+Fieri potest, ut tangens HG in direc-
+
+tum jaceat semiordinatae GC : quo in Τὼ,
+
+⁷ y intuitu dy infinitefimae.
+
+vel infinito aequandu3‚ ut habeatur va-
+lor abscissae, cui maxima applicata co-
+
+PARs Μ’. Sect'. Ι. ¹
+
+   
+
+qasu subtangens PT nihilo aequatur & Fig.12
+lubnormalis PH fit infinita. Est vero PT
+
+:⁴ ydx: dy: 0 (§. 20.) quare fi pona-
+tur ydx ε dy τ’.. 0 habebimus dx Ξ ο.
+Vel ob PH: ydy : dx Ξ 00 reperitur
+dy == 00 . Sunt nimirum tam dx ‚ quam
+
+Ex aequatione itaque curvae quaeren-
+dus est valor ipfius dy, δε vel nihilo,
+
+ordinatur.
+
+CoRoLLARIUM Ι.
+
+64- Qoniam in circulo (5377. part. 1. )
+ax -⁴ xx: y²
+
+erit aa'x — 2xdx ,τι-ῥῖψ’] -μ-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a-·⁴ 2x.·.-¹.‹o
+
+ 
+
+ 
+
+—
+
+a: Zx
+
+*—
+
+{atzx
+
+ 
+
+‘Nempe maxima semiordinata in circulo
+erigitur ex centro ‚ uti ex elementis constat
+(5. 299.Geom.).
+
+Qiodli porro valor ipfius x in aequatione
+ax— xx=y2 substituatur, prodibit—¹· a-- -34-aa
+:yy hoc est, Jssaa ε*- yy. Unde {a ..y ε id 3
+quod denuo ex elementis manifestum est. “
+
+Qodfi ponamus 2ydy : (a ·-= 2x) = dx
+Ξ 00: etit a ·-· zx tespedffl muneratoris
+zydy infinite parva , adeoque (503 )a—- ωε
+= 0 , ut antee
+
+CoRoL-
+

@@ -1,0 +1,93 @@
+Caths: DIMENSIO SOLIDOR. ET SUPERFICIERUM. 483
+
+CAPUT
+
+ 
+
+lv.
+
+Dc tufi} Calculi integralis in cubandis solidis Εἴ dimetiendis
+superficiebus eorundem.
+
+DEFINITIO VIII.
+196. Oliclum cubare idem est ac
+spatium solido comprehensum
+dimetiri.
+PRoss LE M Α LXXIV.
+
+'TabJL 197. Cubare filidum ex rotatione
+
+Hg.19.fi<urae planae ANQ circa reblam Αἱζν
+
+tanquam axem fasta genitum.
+R E s 0 r. u T 1 o.
+
+Sit semiordinata pm alteri PM infi-
+nite propinqua: parallelogrammulum
+PMRp haud differet atrapeziolo PMmIJ
+(§. 99). Cylindrulus ergo, quem in
+rotatione figurae ANQcirca axem AQ
+describit parallelogrammulum PMRp
+(ᾗ. 4 5 6 Geom.) est elementum solidi per
+illam rotationem producti: cujus adeo
+summa dat integrum solidum , quia ex
+innumeris cylindrulis eodem modo for-
+matis constare concipitur.
+
+Sitjam AP=x, ΡΜΣ), erit Pp=dx.
+Sit porro ratio radii ad peripheriam =r:p‚
+erit peripheria circuli radio PM descrip-
+ti=pyz ν, consequenter area py2: 2r
+(ς. 429 Geom. ) ‚ quae ducta in Pp five
+dx dat soliditatem cylindruli seu elemen-
+ti solidizpst dx: 2r (§.541 Geom.).
+
+Qodfi jam ex aequatione ad curvam
+speciali substituatur valor ipsius y‘ss 3 ha·
+bebitur‚ fi elementum integrari poffit ,
+soliditas segmenti, cujus altitudo Al),
+radius batis ΡΜ, hoc est revolutione
+ipfius AMP circa ΑΡ geniti.
+
+PROBLEMA LXXV.
+198. Cubare Canum. Tabfl„
+Conus describitur , fi triangulum figam
+ADC circa axem DC rotatur (§.467.
+Geom.). Sit DC=a‚ ACzr, ΡΜΣ-Ἰ,
+DP=x5 e1·it(§. 268 Geom.)
+DP: PM=DC: CA
+
+——---—*.———
+
+py² dx: 2r :prk x²dx= 2a²r :prx2dxz 212Z
+
+(§. 189).
+
+spy2 dx: 2r =p7x³t ὀπὶ.
+
+Qodfi pro x substituatur ας habebi-
+tur soliditas totius Conipra³z 6a2=÷apr
+=}pr.}a. ssafis nempe {pr ducenda
+est in tertiam altitudinis partem {a , ut
+ex elementis Geometriae constat (ς. 548.
+Ceam).
+
+PRoB LE MA LXXVI.
+
+199. Cubare sphaeram.
+
+Sphaera cum describatur per rotatio-
+nem semicirculi circa diametrum ejus
+(§· 470. Geom.); erit, fi diameter fit 2r.
+
+yy=2rx-—x2 (§.376·part.1.)
+
+---——-—-—
+
+spy'ssdx: zr:{px2—-px³: 6r
+Habemus adeo indefinitam cubationem
+segmenti sphaerici, cujus diameter 2r ‚
+
+altitudo x.
+Pp p 2 (Qlodx
+

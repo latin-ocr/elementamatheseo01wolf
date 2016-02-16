@@ -1,0 +1,160 @@
+Tab.11.
+fig. 2 ο.
+
+Tab. 1.
+fig. 8.
+
+492
+
+fi semiordinatae in circulo ΡΜ suman-
+tur pro absciffis curvae quaefit‘ae ς erunt
+ejusdem semiordinatae arcubus AM
+aequales⁸ ’
+PROBLEMA CV.
+
+249. Invenire curvam , in quafitb-
+tangens cst ady ut νΖ ad νζ 4< y2.
+
+Qoniarn per hypoth. δε §. 20
+
+ydx
+d?
+
+hoc est , dx: dyzr2: νΖ ›I-y2
+
+erit dx :fl dy:—(72”÷ y2 J)
+
+Qoniam sr2dy : (r2 ἦ. yz‘) aut , fi
+r=1 ‚stly : (Ι ›ff‹ γὲ τ) est elementum ar-
+cus BM ‚ cujus tangens ΒΚΖ] (§.1 585
+evidens est , construffloncm curvae quae-
+fitae denuo pendere a reecificatione ar-
+cuum circuli indefinita. Sumtis nempe
+tangentibus arcuum ΒΚ pro abscissis cur-
+vae quaefitae ; semiordinatae ejusdem erunt
+arcubus ΒΜ aequales , radio circuli
+
+existenter.
+PRoBLEMA CVI.
+
+250. Invenire curvam , in qua tan-
+gens est constans.
+
+Sit constans iila Ξ a, abscissa Ξ x,
+seiniordinatay5 erit ( §. 34 )
+
+Qx²÷472)³dy=w
+
+——--——--———
+
+v<dx2÷dy2>=a7d2
+
+:31:7⁴2 r²÷y²
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+——-—-..
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dx² fflassv :t {3752
+dx: a'dyzi-I-LdZ
+x=s-}Lil(a2-*y )
+
+Curva ‚ in qua tangens constans est,
+describitur punCto M , fi alterum extre-
+mum restae TM in reeta ΑΗ incedit, di-
+
+ELEMENTA ANALYSEOS. PARS ΙΙ. Sea. ΙΙ.
+
+citurque Trac‘t'oria. Ad ejus adeo de—
+scriptionem non opus est, niii baci1102in
+cujus utroque extremo cuspis infixa ,
+ita ut cuspis in M prematur in planum
+e latere, vei pondere. Estitaque aequatio
+inventa ad T raftoriam.
+
+Eadem aequatio fic eruitur. Qoniam
+*ΤΡ :2 a, PM=y;erit PT: „l (αλ-ψ).
+Sed PT: ydx : dy( §.20 ). Ergo ydx: dy
+:2 „s (α’- ——-y2) ‚ consequenter dxx:
+dyd (κί’ -4 yz) : y , aut, quia semiordina—
+tae continuo decrescentis differentiale
+negativum, dx: -ι dy vs (αὶ .-« y2):y.
+
+COROLLARIUM I.
+
+251. Si fuerit x: 0 ‚ erit etiam dx :s o ,
+adeoque
+-- dyV (eff—2¹²) : y: 0.
+ιβ’(αι —-jy²) z: ο
+a² —·y² = ο
+
+a=y
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Est igiturin A , ubi origo indeterminat'ae x ‚
+AB: a: id quod etiam ex descriptione liquet⁵
+
+CoRoLLARIUM 11.
+
+252. Qoniam dx: dfll (a² -y² ):y erit
+ydx= dyas( a'· -y³) adeoque spatium inde„
+terminatum HPMI :sdyV(a³—y²). Qa-
+dratura igitur tra&01·iae pendet a Qadratura
+circuli (Β. 124) ‚ cujus radius est a, abs-
+ciffae a centro computatfe sunt y.
+
+COROLLARIUM ΙΙΙ.
+
+. ²dv²-·· v²dv²
+
+-ἔ- eri ζ
+
+ 
+
+253 . Similiter quia dx² :::
+
+dxz ..1- dyz =: ἶὶὲἷέζὶὲζι 4., dyz
+
+———-————————-——u—.-.
+

@@ -1,0 +1,104 @@
+62 ELEMENTA ARITHMETICAE.
+
+addi nequeunt , nisi fuerint homogenci
+( §. 61 ) 5 ad eandem denominationem
+sunt reducendi( §. 3 ς), Qud.
+
+PROBLEMA XXIII.
+
+237. Fraffl‘ionem datam ex alia da-
+
+tastaebtrahere.
+Rfis01.trT1o.
+
+*1- Sifraffiones datae diversos habent de-
+nominatores , reducantur ad eandem
+denominationem ( §. 235 ).
+
+2. Numerator unius ex numeratore al-
+terius subducatur( §. 103 ) &refiduo
+denominator communis subscribatur.
+
+E. gr. Ξ-ὲ--Ξ-ῒὲ (§.231 > &
+
+ς ι -
+
+3—3*{³3-‡⁴5(§.235)=f¹5·
+T H Ε 0 R E M A L.
+
+2 3 8 . Frafflo aequatur Numeratori per
+denominatorem divisi), hoc est ‚ {z3 .· 4.
+
+DEMoNSTRATlo.
+
+Est enim fraeno {ad unitatem seu in-
+tegrum ut numerator 3 ad denomina-
+torem 4(§. 38. 59). Qarc cum fitut
+,antecedens ad consequentem ita expo-
+nens rationis ad unitatem (ἕ. 140) ‚ fi
+,antecedens sumatur numerator 3 2 con-
+sequens denominator 4, erit fraastio »ᾗ
+exponens rationis (§. 177 ). AEquatur
+tergo fractio numeratori per denomina-
+
+torem diviso(§. 136). ξε. d.
+PRoss LEMA XXIV.
+
+239. Frac‘t'ionem pcrft·a07ionem mul-
+,xiplicareu
+R ε s o L u T 1 o.
+
+Ducatur numerator unius frastionis
+in numeratorem , ὃς denominator unius
+
+in denominatorem alterius ς saera cons- '
+stituunt fractionem quaefitam.
+
+E. ἓῑῌξὲΞέ-ἶξ(5. 231).
+DEMoNSTRATlo.
+Sit}(})———A:B(§.238)=F‚&
+{({):C: D(§. cit. )=G. 'crit B :A
+=1:F&D:C:1:G(§.69). Ergo?
+BDzAC=1.-FG( §.213),hocest ‚
+35<÷1÷ :¹12 (§.169)=FG(})·
+Qad.
+SCHOLION Ι.
+
+240. Non mirum , quod fac'lum sudoribus·
+minus ‚ cum revera divisio fit , quae multiplica-
+tio vocatur. E. gr. ξ multiplicare per ἐς idem
+es} ac invenire dimidium duarum partium ter‹
+uarum.
+
+S C H 0 L 1 0 N I Ι.
+241. Hinc frattionum multiplicatio lbquen-
+
+te modo facilius demonstratur. Si fractio}
+
+multiplicanda per ξ , duae partes tertiae 'qua-
+
+tuot quintarum inveniendae. Data igitur
+fra&i0{i11stat totius confiderata dividendae
+est in tot partes aequales, quot multiplica-
+toris denominator 3 habet unitates, scilicet
+in nostro casu in tres,& pars ista multiplican-
+da per numeratorem multiplicatotis , nempe
+hic pet2(§.59).
+
+SCHOLION III.
+
+242. Vix autem opus esi ut annetemus ‚⁴
+fi frafiio per numerum integrum multiplican-
+da, ducendum effe solum numeratorem in in-
+tegrum numerum datum. E. gr. fastum ex
+
+ξ in 2 est ξ.
+PRossLE MA XXV.
+243. Frac‘lionem ἔξ- per aliam frastim
+nem ξ dividere.
+R ε s o L υ τ 1 ο.
+1. Divisor invertatur. E. gr. loco
+ξ scribe ξ.
+2. Divisor inversus ducatur in dividen‘
+dum
+

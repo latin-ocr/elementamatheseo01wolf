@@ -1,0 +1,110 @@
+196 ELEMENTA GEOMETRIAE. PARsII.
+
+Coni denique recti superficies pro-
+
+dit, peripheria baseos in latus ejus di-
+
+midium ducta (§. 519) & bafi, qui
+circulus est, eidem addita.
+
+E. gr. Sit diameter coni NM Ξ 56¹ erit
+
+Tab. peripheria 17584¹‘'‚ bafis 246176s‘ (5429).
+
+IX. Sit altitudo KL Ξ 246‘'. Qoniam
+
+fig. LM :3 NM: 28¹ &- ΚΜΖ : Κυψ-
+
+144'. LM2: 60516÷784 :61300 (5417) etit-
+
+KM: 2475''' 5. 269 Arithm.) ‚ consequen-
+ter superficies coni seclusa bati 216602o''
+δε hinc integra 2412196‘12
+
+P'Ross LE MA XX.
+⁷ 549. afletiri saperficiem ac solidita-
+Tss'x’ tem com truncati ς datis ejus altitudi-
+126³} ne CH ὠ diametris basium ΑΒ &CD.
+
+πη.. Κέεοιυτῐο.
+
+1. Datis diametris basium'CD & AB
+invenIantur peripheriae (§. 429 ),
+
+2. Ad quadratum altitudinis CH adss
+
+datur quadratum semidifferentiae ra-
+diorum AH & ex aggregato extra-
+hatur radix ( §'. 269 Arithm.) ‚ ut
+habeatur latus AC.
+
+3⁷. Semisumma peripheriarum multipli-
+cetur per latus AC4
+
+Sit e. gr‚AB Ξ 8¹,CD Ξ 6', CH ’.·.““- 10', erit
+AHzx'.
+200 -314-8''¹
+8
+
+ῑῑῆεκῐρῇ. maj.
+(ΞΗι :¹ 100¹*
+ΑΗΖ Ξ 1
+
+Ac2: 101
+Ergo AC: 1005''' ἷξες,
+100-‘314-*6'‘
+6.
+
+ι 8 8 4¹ ¹' Periph. min.
+
+- cati inventurus⁴
+
+z 5 1 2 Periph. mai.
+
+43 9 6 Summa.
+
+——-.——-
+
+2 1 9 8 Semisumrna,
+1 o o 5 AC
+
+10990
+219800
+
+2 2 0 8 9 90 Superfic. coni· trunco
+
+ 
+
+DEMONSTRATIO. ο
+
+Superficies coni truncati relinquitur, T b X*
+fi superficies coni minoris ECD a super· ἐξ ’
+ficie majoris ΑΕΒ subtrabitur. Sed fu· 133.-
+perficies minoris aequatur triangulo, cu· n. 1.
+jus bafis HI peripheria diametro CD n·2·
+descripta, altitudo MK , latus EC ; su-
+perficies majoris vero triangulo, cujus
+basis ΝΟ> peripheria diametro AB de-
+scripta, altitudo ML > latus ΑΕ (§.5 19).
+Cum vero prior fit pars posteriori& illa
+cx hac subtratita, relinquitur pro super=
+ficie coni truncati trapezium parallelau
+rum ballum HION ‚ cujus quidem ba·-
+ses HI δε ΝΟ peripheriis diametris CD
+atquc AB descriptis aequales sunt, alti-
+tudo KL vero latus AC existit. Habe-
+tur igitur superficies coni truncati semi-
+summa dictarum peripheriarum in AC
+dueta (§. 400 ). ᾦξε. d.
+Dcmissa ex C perpendiculari CH ad
+diametrum ΑΒ, curn etiam fit axis EF
+ad eandem in cono resto perpendicula-
+ris (§.467)‚ erunt CH ἃ· EF parallelae
+(§. 492 ). Qtamobrem cum triangu-
+lum EAF secet duo plana parallela CD
+& AB per hypoth. erunt semidiametri
+CG & AF parallelae (§.499)‚ conse-
+quenter CGzHFffl. 2 2 6) δε CH———FG
+(S. 238). Soliditatem adeo coni trun-
+LIII&
+

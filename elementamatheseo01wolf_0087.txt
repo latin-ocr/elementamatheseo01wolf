@@ -1,0 +1,106 @@
+capnt DE NUMssnrs FRAcrrs. 59
+
+Si denique numerator major est
+
+denominatore ,· per hypoth. plures dan-
+tur partes , quam habet integrum.
+
+Sed tot partes, quot habet integrum,
+integro aequales sunt (§. 86). Ergo
+integrum parti fraffionis aequale est,
+consequenter ipsa integro major (§.20).
+de erat tertium.
+
+SCHoLloN.
+
+222. Frafflones integro ‘equales vel eo-
+dem majores dicuntur vulgo spuriae, quia
+
+proprie loquendo studiones non lunt nz'fi¹
+
+quae integro minores. (ὃ. 38).
+
+PROBLEMA XVII.
+
+223. Invenire, quot integra frac-
+tio (Ξ) , quae integro major ‚ conti-
+mat.
+
+R E s o L U T 1 o⁴
+
+Numerator 8 per denominatorem
+4 dividatur: dico , quotum 2 indi-
+care, quod petebatur.
+
+DEMONSTRATIO.
+
+Qotus enim 2 indicat ‚ quoties
+denominator 4 in numeratore 8 con-
+tineatur ( §.69). Sed denominator
+idem est cum integro (§. 59). Ergo
+quotus indicat, quoties integrum in
+fraffione contineatur. Qe. d.
+
+PROBLEMA XVIII.
+
+224. Integros numeros reducere ad
+
+frac‘lionem denominatam dati.
+
+REsoLUTlo.
+
+1. Multiplicetur numerus integer per
+denominatorem datum.
+
+2. Fadium scribatur loco numeratoris.
+Ita teperies 3ss2ssg, :³6⁰³ :²53-
+
+DEMONSTRATIO.
+
+Est nempe faffum ad denominato-
+rem datum , ut numerus integer ad
+unitatem (§. 66. 169 ). Sed unitas
+δε denominator datus sunt idem inte-
+grum (§.59). Ergo fractio <Sc numerus
+
+integer aequales sunt (§· 177 ). Qad.
+THEOREMA XLIX.
+
+225. Fraaziones homogeneae aequales
+stmt , quarum numeratores adsttos de-
+nominatores eandem rationem habent,-
+major est , cujus numerator habet ra-
+tionem majorem 5 minor vero ‚ cujus
+numerator habet minorem. ³
+
+DEMoNSTRATIO.
+
+Cum fractiones inter se fint homo-
+geneae , ex hypoth. ad eandem unitatem
+referuntur (§. 35), adeoque ipsarum
+denominatores idem totum referunt
+(§. ς9), Qare fi numeratores ad suos
+denominatores eandem rationem ha-
+bent, fraCtiones aequales sunt (§.177):
+cujus vero frastionis numerator ad de-
+nominatorem suum rationem majorem
+habet , ea major ests cujus numera-
+tor minorem habet , ea minor est
+
+E. ζ, . -ἓ ,0=}g={. Sed
+<
+
+S C H o L 1 ο Ν.
+
+226. Intelligittaer adeo identitas fraflio-
+num, si numerator unius toties continea-
+tur in denominatore suo , quoties numera-
+tor alterius in fito continetur. Frac‘h'o mi-
+nor effe intelligitur ‚ fi numerator ipsius
+pluries continetur in suo denominatore, quam
+numerator alterius in denominatorefuo: id
+quod divisio denominatoris per numerato-
+rem prodit.
+
+H 2 (20κοί-
+

@@ -1,0 +1,119 @@
+Tab.
+
+ἧς.
+
+167.
+
+ 
+
+Cap. W DE DIMENSIONE SOLIDORUM.
+
+ter plana ista inter se aequalia sunt
+(§. 177 Arithm. ). Igitur & disci,
+quantumlibet exiguae craffitiei‚ in ea-
+dem a bafi distantia inter se aequanss
+tur. Qoniam itaque ob aequales al-
+titudines per hypoth. ex una pyramide
+tot disci secari possunt, quot ex altera;
+pyramis una alteri ‘aequalis sit necesse
+cst (§.' 88 Arithm. ). Qud erat unum.
+oQodfi triangula Ac B & ADB
+fuerint sectiones triangulares conorum;
+erunt EF & GH diametri circulorum
+bafi communi parallelorum (5.468).
+Cum adeo circuli isti aequales fint
+(5. 171 ) ‚ eodem quo ante modo de-
+monstratur, conos aequales effe. Qud
+erat alterum.
+
+THEoREMA XXVI.
+
+543. Prisr'na triangulare in tres py-
+ramides aequales dividi potcst.
+
+DEMoNs TRATIQ.
+
+Qoniam planum ΑΕΒ parallelum
+plano ADE (S. 456) , pyramides
+ABCF δε DFEA habent altitudinem
+eandem (92498) atquc bases ACB &
+DFE aequales (5.457). Sunt ergo εε-
+
+quales (5. 543). Similiter cum BEFC fit
+parallelogrammum (5. 457 > , Δ CFB
+
+:A BFE (55, 337). Habent adeo pyra-
+mides ACBF δε BEF A :equales ba-
+ses. (Quoniam vero hae bases in eo-
+dem sunt plano , quod per se patet ,
+& verticem communem in A habent,
+ab eodem vero puiieto sublimi A ad
+idem planum BEFC nonnisi unica per-
+pendicularis duci potest (§. 488)‚· py-
+ramides istae eandem quoque altitudi-
+nem habent ‚ consequenter aequales
+
+sunt (5, 543). Qamobrem tres istae
+
+195
+
+pyramides inter se aequantur (S. 87
+Arithm. ). Qad.
+
+Senot-ron.
+
+544. Si ex ligno paretur prisma (ἔν’ de.
+bita ratione fhcetur,· demonstratio captui
+tyronum magis accommodatur. Immo ad
+bilancem aequalitas ponderum examinari Θ*
+inde magnitudinis aequalitas colligi potest,
+
+CouoLLAftruml
+
+545. Pyramis triangularis est tertia pars
+prismatis supet eade-m basi & eJusdem al-
+titudinis.
+
+COROLLARIUM Π.
+
+546. Et quoniam multangulare quodvis
+in triangularis. resolvi potests quaelibet py-
+ramis est pars tertia prisinatis supet eadem
+bafi δε ejusdem altitudinis (J. 187.Arithm· >0
+
+COROLLARIUM ΙΙΙ.
+
+547. Quia conus pro pyramide influis·
+tangula haberi potest & cylindrus Pro pris.
+mate infinitangulo , conus pars tertia est cy-
+lindri super :equali bafi ὃς ejusdem altitudinis.
+
+PROBLBMA XIX.
+548. ..ἢὼῑίνί superficiem ac stlidita·
+
+tem pyramidis ὠ cani.
+R Ε s o L υ T 1 o.
+
+Qaeratur soliditas prifinatis vel cy-
+lindri eandem cum pyramide vel cono
+basin habentis (§. 540. 542), inventa-
+que pcr 3 dividatur: quotus erit solidi-
+tas pyramidis vel coni (5. 547 548 )
+
+Egi-,Si soliditas prismatis fuerit 670 103 2 8¹2
+
+ut in probl. 17. (ς. 540 ),· etit soliditas
+
+pyramidis 22336776's. Si soliditas cylindri
+fuerit 605592960'' ut in probi. 18 (5·542)3
+erit soliditas coni 201864320“.
+
+Superficies pyramidis liabetur ‚ fi Tab:
+tam basis ΑΒΕ , quam triangulorum IX.
+lateralium ACD 2 CBD 2 ΒΗΑ areae Fig-
+investigentur ( §. 392) atque in unam 14⁶⁰
+
+summam colligantur.
+
+B b 2 Coni
+

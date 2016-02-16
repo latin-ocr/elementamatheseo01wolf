@@ -1,0 +1,121 @@
+Capsu. METHODUS TANGENTIUM DIRECTA.
+
+COROLLARIUM Ι.
+
+36. In parabola Apolloniana dy: adx: zy,
+(9121). Ergo PH =ydy: dx :ay dx: zydx
+’.τ-ξιτ, ut supra reperimus (J. 41 ο. parta.)
+
+CoRoLLARIUM ΙΙ.
+
+37. In‘ infinitis parabolis dy = cam—1 dx:
+mym—¹ (§. 22). Itaque PH=yafyx dx:
+arn—¹y: πίννη-Ι Ξ ava—¹312: mym (§·54.
+part.1.)= am—1y2: mam-‘¹ x (ς. 519.
+part.1.) =y2z mx, ut adeo fitmx:y=y:P1-1,
+
+COROLLARIUM III.
+
+ab. 1. 38.1n circulo adx— 2xdx = zydyo(,9“.23).
+
+Fig. 3· hoc est, {a -· x :ydy: dx = PC. Apparet a-
+
+deo, in circulo omnes ad peripheriam nor-
+
+males in centro concurrere , consequenter
+
+tangentem TM radio CM ad angulos reetos
+infistere.
+
+CoRoLLARIUM IV.
+
+39. In infinitis circulis (marm—¹ dx
+--(m-{-1)xmdx):(m÷1)ym=dy,
+Unde subnormalis PH ydy: == ( maxm—1y
+-(m-{-1)xmy): (nt-i· 1)ym ²(max'⁷¹‘·¹y2
+
+-‹m-1>xmy2>=<m÷1>ym÷1=<maxm·1y2 .
+
+22321><223»25231333553 {²221ssss
+
+Est itaque ax-x2:y2: ffi—Ia v-x: PH.
+
+COROLLARIUM V.
+
+T b Ι 40. In infinitis ellipfibus dy: (mbxm-1
+ΗΞ. · 2: (a-x)” dx—nbxm (a-——x)⁷²-·1dx) ⁸. (m 4- n)
+,φημι-ι (δ. 26). Unde PH :ydy : dx
+
+Ξ (mbxm- ¹ (a—.v>⁷¹y—nbxm (a'x)⁷²,3¹y) :
+
+Φ (Μ’ἦ- n) aym†n—1 :- (bem-¹ (a—X)'¹y2
+
+J ——nbxrn(a->q)n-1y2):(m -ᾖ- n) aym÷n five
+³ (m-†-n) bxm (a-x)⁷‘ ²⁴- (my2 (hv-mest)
+ἕψῃ-Ρη) (ax-x2). Est itaque ax- xz:
+
+y2= 5⁷3⁴} a—-xz PH.
+
+W'offii Oper. Mathem. Tom. Ι.
+
+8
+
+'425
+
+Co ROLLARI U M VI. Tab.1.
+42. Pto hyperbolaintra asymptotos (3129.) fig. 4·
+dy: —-ydx: x. Unde PH :ydyz dx = —y²:x
+Valor negativus indit-io est ‚ subnormalem
+PH cadere versus sinistram. Qia xy = αἱ ‚
+adeoquey = a2: x &y²= α”ε x², erit PH
+= a2y: ,τὶ vel α* : x³ , consequenter ,τῖε a²
+=y: PH&x³: a³:a: PH, hoc est, semi-
+ordinata habet ad subnormalem tationem
+duplicatam, & ad latus potentiae hyperbolae
+rationem triplicatam absciffae ad latus po-
+tentiae hyperbolae.
+
+CoRoLLARIUM VIII.
+
+43·'1¹¹ Cissoide Dioclis zydy= (ειυςΖ dx
+-· 2x³dx).· (a ·-·x)² ( 5. 31). Igitur subnot-
+malisydy: dx =(3ax2—· 2x³): 2(a—- x)². Est
+adeo (αν-,ὼε x2={a-x:PH.
+
+CoRoLLARIUM IX.
+
+44· Qia PH = ydy : dx (Ι. 35.) ὃς ΡΜ Τξὼ. 1⁸
+:yz erit ΜΗ -.-· ls(y²dy²:dx²·i‹y²)=y1s(dy2 fig· Ζ,
+*Fa'x'h dx.
+
+S C H o l'. 1 o N.
+
+45 Equidem data per problema praecedens
+subtangente sulmormalis reperitur facillime
+absque calculo differentiali (ΛΥ. 409.): quo-
+niam tamen subinde (tzhnormalv‘s inveniri de-
+bet data tantummodo cequatione acl curvam .-
+ideo in problemate praesente docendum erat ,
+quomodo independenter a subtangence ex aequa-
+tione eruenda.
+
+PROBLEMA VI.
+
+46. Detcrminare curvarum algebraif
+carum asy'mptotos.
+
+RfisoLurro.
+
+1. Qoniam asymptotos CD eumq-³514
+curva non concurrit , nisi inter· fig, 2·
+
+vallo infinito emens05 haberi
+
+potest pro tangente in ρυηέὶο,
+cui abscissa infinita respondet.
+
+Qantitates ergo constantes respe-
+Ctu variabilium x & y sunt infinite
+
+H h h parvae
+

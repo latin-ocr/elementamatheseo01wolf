@@ -1,0 +1,99 @@
+58 ELEMENTA ARITHMETICAE.
+
+DEMONSTRATIO.
+
+6: 3=4z 2 Sit A: Bzc:
+3: 1= 2:4 D, E.-F=G.· H,
+§21:2024 1.·K=L .· M2per
+——ae- hypoth. erit ΑΕ .-
+90.·3=96o:32 ΕΒΓ-(ΞΟ DH
+ι Ξ30 (5.213), adeoque
+ὃ( ΑΕΙ; FBK:
+CGL: MHD (§.cit.). Ratio vero
+AEI .· FBK componitur ex rationibus
+A.-B, E .-1=&1.· K‚· ratio CGL .-
+DHM ex rationibus C .· D , G: H,
+L: M (S. 159). Ergo constat propo-
+fitum. Qad.
+THEORE MA XLVII.
+
+ 
+
+219. Si fuerint quatuor quaentita- ’
+
+tes proportionales A ‚ B ‚ C ῤ’ D ‚⁴ aeque-
+multiplices primae atque tertiae A ὠ C ,
+itemque sicundae ac quartae Β &¹ D 2
+juxta quamlibet multiplicationem , utra-
+
+CAPUT
+
+que utramque vel una superant , vel
+
+una equales simt ‚ vel una deficiunt »
+inter st’ comparatae.
+
+DtMoNSTRArlo.
+
+Denotentur aequemultiplices ipsa*
+rum A ὃς C per mA & mC , item-
+que aequemultiplices ipsarum B ὃ( D.
+per nB & nD. Cum sit A : B=C2
+D , per hypoth. erit etiam mA ε nB
+= m C: n D <§.18 5) , consequenter
+mA: mC=nB: nD (§.173 ). Qam-
+obrem fi m A=mC ‚ erit nB=nD,· fi
+mA t> mC‚etiamnB ;> nD3 fi mA <2
+mC, etiam nB < nD (§.151). Qnd.
+
+Scfloton.
+
+220. Hac proprietate proportionalium
+utitur Euclides (a) in iis definiendis, acin-
+de ceteras demonstrat.
+
+(a) Elern. V. def. ς.
+
+IV.
+
+De speciebus Arithmeticae in numeris frustis,
+
+THEoREMA XLVIII.
+
+221.
+
+minatam· > fral't'io Ξ ‹equiva-
+let integras st minor, fraHio Ξ minor
+est integro 3 st major , fracillo ἑ integro
+seu unitate major cst.
+
+DEMONSTRATIO.
+
+Denominator enim indicat unita-
+tem seu integrum in partes aequales
+(e. gr. in nostro casu in 4) divisum,
+ἃ numerator numerat partes istiufino-
+
+I numerator cst aequalis deno--
+
+di in casu aliquo datas ( §.59 ). Quodsi
+
+ergo numerator denominatori aequalis 3
+
+per hypoth. tot dant-ur partes , quot
+
+habet integrum. Ergo fractio integro
+aequalis (5. 86). Qod erat primum.
+
+Si numerator denominatore mi·
+nor 3 per hypoth. aliquot saltem dan-
+tur partes integri, non omnes. Er-
+go fraffio tantum aliquot partibus
+integri aequalis ‚ consequenter eadem
+
+minor (§, 20). Qud erat ficun-
+
+dume
+
+Si
+

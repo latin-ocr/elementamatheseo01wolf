@@ -1,0 +1,112 @@
+cap. ΗΠ. D E
+
+COROLLARIUM ΙΙ.
+339. Eodem modo patet, logarithmum
+
+cubi ess'e triplum (5. 248) 3 biquadrati qua-
+druplum 3 porentiae quintae quintuplum 3
+sextae sextuplum &c. logarithmi radicis
+
+(5. 250 )·
+CORoLLAMUM III.
+340. Est ergo unitas ad exponentem dig-
+
+nitatis, ut logatithmus radicis ad logarith-
+
+mum potentia: seu ipsius dignitatis( J. 251.
+
+255 )· . ·
+CoRoLJ. A Rrum IV.
+
+341. Qare logatithmus potentia: prodit ,
+fi logarithmum radicis multiplices per expo-
+nentem ejus( ᾤ’. 65 ); adeoque logarithmus
+radicis habetur, s1 logarithmus dignitatis per
+ejus exponentem dividatur( ,οἵ 210 ).
+
+SCHOLION.
+
+342. E. gr. 3 summa logarithmorum 1 θ’
+2 est legarithmus produffi 8 ex 2 in 4. Simi-
+liter 7 summa legarithmorum 2 ἐφ 5 est loga-
+rithmus prodztc‘lc' 1²28 ex4in 32· Porro 3 lo-
+garithmus radicis quadratae 8 esc dimidius lo-
+garithmi 6 quadrati 64 , ὄπ’ 2 logarithmus
+
+ναῖξεὶς cubicae 4 est subtriplus legarithmi 6
+cu ι 64.
+
+THEOREMA LXIV.
+
+243. Si logarithmus unitatis est Ο,
+erit legarithmus quoti aequalis dffren-
+tiae legarithmorum diviso'ris (Ay divi-
+dendi.
+
+DEMONSTRATIO.
+
+Est enim ut divisor ad dividendum
+ita unitas ad quotum (§. 69). Qare
+logarithmus quoti est aequidifferentium
+quartus ad logarithmos divisoris δε di-
+videndi atque logarithmum unitatis
+(§. 334) adeoque differentia inter lo-
+garithmum divisoris & summam loga-
+rithmorum dividendi& unitatis (§. 3 3 1 ).
+Sed logarithmus unitatis est ο , per
+
+‘ Ι Woffij Oper. Mathem. Tom. I.
+
+LoGARITHMrs. 83
+
+hypoth. Ergo differentia logarithmi di-
+visoris a logarithmo dividendi est loga-
+rithmus quoti. Q. e.d.
+
+SCHOLION L
+
+344· E. gr. 2 differentia inter 7 εἶτ 5 es}
+logarichmus quoti 4 ex 128 per 32. Similiter
+5 differentia inter 8 <9⁸ 3 ef} logarc'thmus quoe
+ti 32 ex 256 per 8.
+
+SenorroN II.
+
+34 5. Progreffiones arithmeticas cum geo*
+metricis confert, logaritlmzorum proprietates
+haffenus recensitas recenset ‚ atque varios eo-
+rum u us monstrat Stifelius( a ): qui tamen
+longe cedunt usui logarithmorum in Trigono.
+metria a J usto Byrgio primum reperto (b ) ,
+sed cz Johanne Nepero supra laudato primum
+
+ostenfiv ( ⁶ )·
+
+PRoBLEMA XXXVI.
+
+346. Numeri cujuscunque legarith-
+mum invenire ac Canonem legarithmo.
+rum pro numeris naturalibus construere-
+
+Resoru‘rlo⁹
+
+1.Qoniam 1. 10. 100.1000.10000
+δίε. Progreffionem Geometricam
+
+constituunt ( ς . 3 3 2 ) ς eorum loga-
+rithmi arbitrario assumi poffunt21nodo
+fintnumeri in Progreffione Arithmeti-
+ca progredientes ( §.3 34 ). Ut igitur
+intermediorum logarithmos per stac:
+tiones decimales exprimere liceat ε
+assumantur 0. 00000000 , 1.
+OOOOOOOO ) 2· OOOOOOOO 2
+3. OOOOOOOO > ’4. OOOOOOOO
+&a
+
+L 2 2. Equi-
+(a) In Arithmet. lib. ι. c. 4. p. 353 & seqq.
+&lib. 3.c. ς. . ²49· b. & 50. (b ) Ixeplerfcs¹ ¹¹3
+Tabulis Rudoiphinis e. 3. f. 1⁴1.'(c)1ss mirifici
+Logarithmorurn canorus descriptione·
+

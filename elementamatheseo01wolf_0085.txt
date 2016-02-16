@@ -1,0 +1,110 @@
+αφ. 111. DE RATIONE ET PROPORTIONE. 57
+
+DEMONSTRATIO.
+
+Cum fit per hypoth.
+A:B:CzD & E:F=G:H
+E F E F C D
+erit EA: FB-:EC :FD & CE: DF:
+CG:DH. (§. 185). SedEC=CE ὃς
+FD=DF( §. 207). Ergo EA: FB:
+CG : DH (§. 1 67 ):GC ε HD( §. 207).
+ζωαί.
+
+THEOREMA XLIII.
+
+214. Rationis compostae exponens est
+aequalis fac‘t'o , quod producunt exponen-
+tes fimplt'cium.
+
+DEMoNsTRATlo.
+
+Si rationis primae A : Bexponens=
+ηις secundae C : D exponens fit z n.
+Erit tna—:A:B &n:1:C:D(§. 140).
+Ergo mn τ 1=AC:BD(§.213),
+consequenterm n est exponens rationis
+AC: BD( §. 140), hoc est composita?
+ex A:B &C:D(§.159).Qed.
+
+S c H o 1. 1 o N.
+
+ 
+
+ 
+
+215. Sint rationes 8 : 4 Θ 24: 6. Illius
+exponens est 2 , hujus 4. Rationem compositam
+datarum habent 192 &¹ 24. Sed 192 ε 24
+Ξ 8 , quocies} fadum ex 2 in 4. Ceterum ca-
+
+dem demonstratio locum habet ‚ fi plures fue-
+'rtnt rattottes.
+
+THEOREMA XLIV.
+
+216. St plures fuerint quantitates
+continue proportionales A ., Β , C ‚ D
+&a prima Α ad tertiam C cst in ratio-
+ne duplicata ,- ad quartam D in ratione
+triplicata &a primae A adsecundam Β
+
+DEMONSTRATIO.
+
+petit: &ZZEmCzuget—Eiissempgusslji:
+Wotfii Oper. Mathem. Tom. 1.
+
+CD',
+
+Ι stitit, interſs aquales sunt.
+
+catam ipfius A ad Β ( §. 1 59). Sed AB:
+BC=A: C (§. 181). Ergo etiam A ad
+C rationem duplicatam habet ipfius A
+ad Β ( § 167 ). Qod erat unum.
+
+2. Qoniam ΑεΒΞΒ· C=C: D
+
+1 per hypoth. ABC est ad BCD in ratio-
+
+ne triplicata ipfius A ad B( §. 159 ). Sed
+AssC: BCD=A: D( §. 178 ). Ergo
+etiam Aad Dest in ratione triplicata ip-
+fius A adB (§. 167). Qod eratſscun-
+dum.
+
+3. Facile apparet , quod eodem
+modo demonstrari possit ‚ primum ter-
+minum habere ad quintum rationem
+quadruplicatam ς ad sextum quintupli-
+catam δεῖ. primi ad secundum. Qod
+erat tertium.
+
+THEOREMA XLV.
+
+217. Si fuerit quaecunque quantita-
+tumA, Β , C, D, E, F&c.ftries‚·ra-
+tio primae A ad ultimam F componitur ex
+rationibus quantitatum extremis interja-
+centium A:B 2 B:C> C:D‚ D:E.
+E: F &c-
+
+DEMONSTRATlo.
+
+Si enim omnes antecedentes, itidem-
+que omnes consequentes m se mvicem
+multiplices, faeta ABCDE & BCDEF
+sunt m ratione compos ta rationumA: ·‚B
+B:C‚ C:D, DtE> E:.(F&c (.§159).
+Sed ABCDE: BCDEFzAzF (§. 178).
+Ergo etiam Aad F est in ratione com-
+posta omnium modo rcccnfitarum
+
+(§.).167 Qewd
+THEOREMA XLVI.
+
+218. Rationes compositu ex rationi-
+bus ‚ quarum fingulae siugulis aquales
+
+H DE-
+

@@ -1,0 +1,112 @@
+Tab. 1.
+fig. 2-
+
+Tab. Ῐ.
+fag. 4,
+
+216
+
+tentia finuum BD ἃς FE , ΒΚ vero dif-
+ferentia cosinuum FH & BI atque FKB
+triangulum reetangulum (§.9 1. Geom.).
+Ergo cum fit EI? ² :BK ²÷FK2(§‚417.
+vGeom.); reperietur chorda BF, 6 ex
+summa quadratorum differentiae finuum
+FK ὃς cofinuum ΒΚ radix quadrata ex-
+
+trahitur, ( §. 246.'Arithm.). Qe. d.
+
+PROBLEMA VL
+21. Invenire finum 45. graduum.
+
+Rfisommo <sy DEMoNsrRArio. ξ
+
+Sit HI citculi quadrans ,- erit HCI
+angulus rectus (5. 143. Geom.) adeoque
+Δ cognomine rectangulum(§.91.Geom.)‚
+consequenter ΗΡ -zHC2 4- C12 (§.417.
+Geom. ) :2 ΗΕΖ (ᾗ. 40. 374. Ceam).
+Qare cum HC 611113 totus (§. 2.) fit
+10000000 (AY-13 ) ς 6 ex 2HC² qua-
+drato 200000000000000 extrahatur
+radix 14142136. (5. 269. Arithm. );
+prodibit chorda HI (55- 246. Aridum),
+cujus dimidium 7071068 611113 450 de-
+sideratus. Qe. i. &ast
+
+SCHOLION.
+
+22. Inferius in Analysi docebimn5‚ quo-
+modo ex dato radio latus pentagoni regularis,
+hoc est , 720 (J. 34 z. Geom.), consequenter
+finus v36⁰ ( 5. 2.) inveniatur.
+
+PROBLEMA VII.
+
+23. ΒΑΜ stnu unius minuti [ἐκ 60¹²
+FG ‚ invenire finum unius vel aliquot
+
+ficandorum MN.
+
+Resommo (ῥυ DEMONSTRATIO. ³
+
+Quoniam arcus AM 3< AF sunt ad-
+modum exigui, AMF pro linea rena
+haberi potest citra eirorem in fractio-
+nibus radii decimalibus ‚ quibus finus
+exprimimus 2 affignabilem , hoc est, ar-
+ι013 ΑΜ ὃ( AF chordis eorum propor-
+
+‘ELEMENTA TRIGONOMETR1AE PLANAE.
+
+tionales assumere licet. Qare cum MN
+fit ipfi FGgparallela ( §. 3) erit AF: PG
+:AM: ΜΝ (9⁶. 268 Geom.). .Da-
+tis ergo AF , FG & ΑΜ, per hypothi
+invenitur MN ( §- 302 Arithm. ).
+‚Q e. i. dy d¹
+
+S c H o L 1 0 N.
+
+24. Eadem ratione, fi opus foret, inve-
+niri poffer finus aliquot scrupulorum tertio·
+rum. ’
+
+PRoBLEMA VIII.
+
+25. Datisfinibus 30 (§.15.)‚ 15 (§.
+17), 45 (5. 21) (ff 36graduum (§.22);
+canonem omniumfinuum construere, non-
+nist unico minuto aut denis secundis ,
+immo unico effundo inter ft differenti-
+bus.
+
+RESOLUTIO ά DEMONSTRATIO.
+
+1. Ex sinu 36 graduum inveniatur Si-
+11113180, 90 , 40 30¹, 20 1ς’(1.17>;
+finus 54027202 810, 85⁰ 30'287045'
+(9⁶. 16): porro finus 270, 130 30¹,
+60 45'; 400 3o'‚ 200 15¹3 420 45³
+(§.17): inde finus 63⁰, 760 30',
+8301524φο 3ο’, 690 45¹, 470 151
+(§.16): ulterius smus 310 30'2150 451,-
+38⁶15¹;24⁰45¹ (§.17): hincfinus
+580 30127401512 51 451265⁰1s¹‚
+(§.16): denique 611113 290 15¹(§.17>
+3< ejus cosmus 60⁰ 45¹ (5. 16).
+
+2. Ex finu 45⁰ inveniantur finus 22⁰ 301
+δε 11015¹(5.17)‚smus67⁰ 30¹&780
+45¹ (546), 611113 denique 33⁰ 45‘(§.
+17) δε 56⁰15¹i.6.16)..
+
+3. Ex finu 30⁰& 61111 54⁰ inveniatur
+finus 12⁹ (ὃ. 20)-
+
+4. Ex 61111 12⁰ inveniantur 611113 6⁰.
+3021030‘, 45¹ (11· 17), finus 780,
+
+840, 87 ³ 88⁰ 301, 89⁰ 151 (§.16r)
+po ·
+

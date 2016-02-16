@@ -1,0 +1,113 @@
+172
+
+demonstrata .· erit etiam DG=DF ( §.
+177. Arithm. ) adeoque FC: 2 DG,
+ξε. i. &ast
+
+E. gr. Sit CD=AB=1oooo; erit
+AE=5000& ECss8660 ( §.423 )‚
+
+adeoque DG=57⁷73. Hinc FC:
+11546.
+PROBLEMA LIX.
+
+42 5. Invenire rationem diametri ad
+
+peripheriam.
+
+Re soLrJ T 1 o,
+
+l. Qaerantur per continuam biseftio-
+nem latera polygonorum inscripto-
+rum ( §. 423 ) , donec perveniatur
+ad latus arcum quantumlibet exiga-
+um subtendens.
+
+2. Invento hoc littere , quaeratur porro
+latus polygoni similis circumscripti
+(§·424).
+
+3. Multiplicetur utrumque per nume-
+rum laterum polygoni , ut habeatur
+perimeter polygoni tam inscripti 2
+quam circumscripti( ᾗ, 106).
+
+Erit ratio diametri ad peripheriam
+circuli major quam ejusdem ad peri-
+metrum polygoni circumscripti ς minor
+vero , quam ejusdem ad perimetrurn
+inscripti ( ξ. 416 Geom. <Sc §. 205
+Arithm. ). Differentia vero inter utram-
+que perimetrum cognita 2 haud diffi-
+culter definitur ratio diametri ad peri-
+pheriam circuli in numeris prope veris.
+
+Sit e. gr. radius circuli 1 seu ( ut latera po-
+lygonorum per fraekiones decimales exprime-
+re liceat)1.000, 000 , ooo ‚ 000, 000,000,
+ooo ‚ooo ‚ ooo ‚ 000 3reperietur, continuaa
+quadrato biseffione, latus polygoni 1 , 073 ,
+741 , 8 2 4 laterum inscripti vero 'proxi-
+me minus 0. 0000000005851 6723
+
+1 7 06 8 63 8 7 1 2 2. circumscripti autem la-
+tus vero itidem proxime majus 0. 000000
+
+ELEMENTA GEOMETRIAE. PARS 1.
+
+090585167-2317068638737840
+Hinc perimeter circumscripta 6. 2 83 1 8 5
+301717958649156537 vero proxime
+major 3 inscripta autem 6. 2 8 J 1 85 3 07
+1 7958 64 5 093 vero proxime minor.Cmn
+ergo circuli peripheria intra hos limites con-
+timeatur 3 posita diametro 2. 0 0 0 0 0 o 0 0 0
+0 0 0 O 0 oo ‚ erit peripheria minor quam
+6.28318530717958651, major vero
+quini 6.2831853071795863· Unde
+ratio prope vera diametri ad peripheriam ut
+10000000000000000 nd314159 ι
+6 5 3 5 897 9 3 2. compendia calculi tradit
+Ludolphns a Ceulen (a).
+
+⁷S‘cHoL10N. I.
+
+μή. In quadrando circulo ab omni aevo ,
+quo Geometria exculta, desudarunt ingenia
+praestantiffima : perfeh'iam tamen quadraturam
+in numeris finitis nemo adhuc dedit 2 utut nos-
+tra praesertim aetate ars inveniendi egregie
+promota fuerit. Rationem tamen diametri
+ad peripheriam in numeris prope veris dede-
+runt multi: Archimedes ς b) ea fini excogi-
+tavit methodum quadrandi circulum per poly-
+gona regularia inscripta (φ’ circumscripta, Θ
+polygonis 96 laterum usus invenit rationem
+dtametri ad peripheriam effe ut 7 ad 22 fere.
+Nimirum fi diameter 1 ‚ perimeter polygoni
+inscripti reperitur 3}ss 5 perimeter vero cir*-
+
+cumscripti 33. Ejus vestigiis insilientespos-
+
+' teri rationes propiores investigarunt. Nemo
+
+autem plus operae impendit Lndolpho a Ceu-
+len(c) ‚ qui tandem reperit ‚ pofita dia-
+metro periplu’riam¹ esse minorem quam
+3·141592653589793238462643
+38 3 2 7 9 50, sed majorem quam idem nn-
+merus‚ cyphra ultima in unitatem mutata,
+Enimvero quoniam numeri adeo prolixi
+praxi parum respondent 3 in Geometria
+
+praffica hodie a plerisque assumitm ‚ diam&
+trum
+
+(a) Inlibro de circulo δε adscriptis conf. Funda-
+menta Arithmetica & Geometrica lib. 6. probl-
+
+Ι· (ΡΒ) ¹flnn iiiii-llic {ieeqcclirculi dimensione Ρτρρ. ².'·
+(c) In zetematum Geometncorum Epilogrsmo
+
+Zetem· η)- 922
+

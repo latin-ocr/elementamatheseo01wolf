@@ -1,0 +1,111 @@
+226 ELEMENTA TRIGONOMETRIAE PLANJF.
+
+S c H o L 1 ο N.
+
+57. Exempla non addimus, cum problema-
+ta ‚ quibus triangula in hac trigonometriae ap-
+plicatione solvuntur , jam in superioribus fuc-
+rint exemplis illustrata. Ut tamen de commo-
+da stationis elvetione A judicari poffit , qum-
+dam adhucadclenda sunt. Nimirum limas AB
+
+, &Aa quae sunt latera tri mguli resolvendi
+
+Tabn.
+feg. 1 5 .
+
+BACsatis accurate in campo metiri licet ( 5.
+1 26) . fed in metiendo angulo facile aliquot
+[crapulis primis vrl iq cxcessu , vel in defeffu
+peccamus.- cum tamen hoc ang lo erroneo in
+calculo utamur tanquam varo , fieri omnino
+non potest quin. dfstantia erronea obtineatur.
+Qamobrcm de quantitate erroris admittendi
+
+bic nobis. dispictemium.
+T H E o> R E M A V.
+
+58. Si error aliquot strupulorum in
+quantitate anguli A admittatur , lute-
+rum vero BA όν AC magnitudo suerit
+accurata ς, erit arc'uli CD errorem CAD
+metientis quantitas, ad DE differentiam
+dtstantiae verae BC ab erronea per calcu-
+lum praduc‘ta BD ‚· ut finus totus, adst-
+num anguli BCA, qui lateri AB oppo-.
+
+nitur.v
+
+I)Emw)NS1÷RA1·1Q
+
+Etenim fi in angulo ΒΑΕ metiendo
+peccetur ‚ ut prodeat tantillo major
+BAD, ob rectarum AC & ΑΙ) aequa-
+litatem per hypoth. triangulum ΒΑΕ de-
+generat in alterum BAD, Describatur
+ex A intervallo AC tanquam radio ar-
+cus CD, qui per pundtum Dob AC:
+AD ( J. 40 Geom. ) necessario tranfit.
+Qoniam angulus CAD nonnifi aliquot
+scrupulorum cst ‚ arcus exiguus (ΣΙ),
+qui eum> metitur (§. 57 Geom.) , -pro
+retsta haberi, Se , fi ejus ad periphe—
+riam¹ detur r-ati'o- , in cadem mensura
+determinari potest, in qua datur latus
+
+AC ( §. 435 Geom. ).Describatur fimi-
+liter ex centro B intervallo BC arcus
+CE , qui ex eadem ratIOne pro reffla
+haberi poterit ,⁷ eritque ob BC :BE
+( §,. 40 Geom.) ΕΙ) differentia inter dis-
+tantiam veram BC & erroneam BD t.
+anguli vero ACD, BCE & CLD sunt
+reffl ( ΑΥ. 308 Geom. )‚ consequenter
+BCE= ACD (§.145Geom.), atque
+adeo BCAzficl) ( §.91‘Arithm.).
+Est vero ut finus totus ad (ΣΙ) ita finus
+anguliEfD five BCA per demonstr. ad
+ΕΙ) ( Δΐ. 33) : ergo etiam ut finus totus
+ad smum, anguli ΒΕΑ ita CD ad ED÷
+(52173Arithm.) Qe. d.
+
+COROLLARIUM Ι.
+
+5-9. Eodem ergo manente errore CD in
+Angulo A metiendo admisso, error in diss.
+tantia admissus ΕΙ) major est, fi angulus.
+BCA major fuerit 3 minor autem, fi hie
+quoqne minor fuerit (5. 205. 206 Arith.)0.
+
+COROLLARIUM 11.
+
+60. Statio itaqne in A ea eligenda , quae
+acutum valde effieit angulum BLA ( J. 59 ):
+qnod obtinetur , fi angulus Α, fuerit major
+reem (9⁶. 240 Geom.)& latus AC > AB
+(J. 189 Geom. ).
+
+CoRoLL A mum 111..
+
+63. Cum angulus BAD major strangulo-
+BMD (92 288 Gevm. ); praestat eligi statio.
+nem A vuiniorem , quam remotiorem]
+( 5· 59 )·.
+
+S c H ο 12 1 o N.
+
+61. Supponimus hic parti lateris AB cona
+gruere semidiametrum instrumenti goniome-.
+trzci ‚ dum angulum metimur, lat« ri vero
+AC respondere negatam mobilem ς 5. 1522
+Geom.).,
+
+COROLLAnlum IV.
+
+63. Qoniam error ΕΙ) in distantia deff-
+nienda admiffus major est , fi quantitas at.
+
+- cus CD majpt fuerit (5. ς 8), quantitas antem,
+
+attus«.
+

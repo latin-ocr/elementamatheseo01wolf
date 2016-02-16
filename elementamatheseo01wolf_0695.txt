@@ -1,0 +1,98 @@
+Cap.VI.DESUPPUTANDIS LOGARITHMIS. 493
+
+Qnre cum [ἐρ snt logarithmus ipfiusy ·, nr.
+
+cus ῑτηᾶοῐίεε sunt ut logarithmi, semiordina-
+tae ut numeri.
+
+Et quin Jady: y est abscissa Logarithmicae‚ Δ
+
+cujus subtztfigens z a; arcus tradhffiae [effi-
+ficmtur per abscissas Logarithmicae.
+
+COROLLARIUM IV.
+
+254. Si EO: v ‚ erit OA= PM: a·- v,
+adeoquea-—⁴ v :⁶ y ὃς ·-· dv: dy ‚ consequen-
+ter dx = - dy V(a²—y²): y: dvls(2av
+-v²) .- (a- v). Habemus adeo aequ-uio-
+
+nem ‚ quae Traehumm definit respedhx axis
+
+De usn Calculi integralis in Logarjthmomm doffrina.
+
+PROBLEMA CVII.
+
+25 ς. Ate numera , invenire loga-
+rithmum. ·
+ἒξ· Sit Logarithmicae ordinata AB Ξ 1 2
+
+ch 30⁶ (§. 54.) aequalis , erit PM numerus uni-
+
+tate major , Q numerus unitate minor,
+ΑΡ logarithmus numeri unitate majm is,
+AQlogarithmus numeri unitate minoris.
+
+Qodsi jam differentia inter AB δε
+PM iity3 erit PM=1 »ι- y, consequen-
+ter Al> seu logarithmus unitate majoris
+numeri-fily : (1 ψ] ) (§. 243 ). Est vero
+1=<1÷y)=1——-y÷y2·-⁴y³ »ΡΥ &c-
+in infinitum ( §.. 45.part. 1). Ergo ιξν :
+
+<'1÷J)=dy-ydy÷ staff—yffi& ἶ . . . . .
+“ ΒΕΜΙ) loganthmus numen umtate maJ01·1s;
+· fimilitex· absciffi AQest numerus unitate mi-
+
+»μγ dy ἃς. in infinitum > consequenter
+sdy: ( 1 ›f‹ y), seu logarithmus numeri
+1 »ῖ- y unitate majoris ‚ :y —- ἐν ÷ {3³
+—·;²;y⁴ ψ ÷y5 &a in infinitum.
+
+Qodfi differentia inter ΑΒ & QN
+fity ‚ erit QNzl——y2 consequenter
+Ach logarithmus numeri unitate mi-
+noris =s—dy: (1———y ) Est ve1·o—--1:
+(¹*y>=—1-*y—y²-*y³—y⁴ “ &c-
+ininfinitum (§. 45 part. 1 ). Ergo— dy:
+( 1—'y)= -· dy* de -“ y2dy “ γ’ἅᾱ-ι
+
+cademque subtangenti, quae constans cst -
+
+ᾗ fdy &oin infinitum, consequenters-dy:
+μ -α ))’ seu logarithmus numeri unitate
+
+minons, Ξ --‹y -}y2⁷-‹ {y3 »ἑῇ —}y⁵
+&c. in infinitum.
+CoRoLLARIUM Ι.
+
+256. Si latus potentiae hyperbolae AB vel
+BCfuerit 1, BP=y3 erit Ap: 1 *hy δι’ spa-
+tium hyperbolicum asymptoticum :y— {ss ’rab-11¹
+ἦ· }y³ -· {31⁴¹}- {7⁵ &oin infinitum (φιλο). figm-
+Et ubi 13sz ‚ erit AQ': 1—-y ‚ adeoque
+(fisz) ob 1=v-· vy(J. 490p.zrt.1),
+clementum spatii hyperbolici asymptotiki
+„. 1ydy : (1-—y ) , consequenter spatium
+= -y— {31² — ξγὲ -· {314 ·- ἐγ &c. in infi-
+nitum (Β. 120). Possunt e1g0 etiam loga—
+rithmi per hypetbolam exhiberi z: nimirum
+
+si latus patentiae AB: 1 , abscissa Al) est nu-
+
+merus unitam major, spatium asyn‘sptoticum
+
+nor & spatium hyperbolicum asymptoticum
+QJCE lognrithmus numeri unitate minoris.
+
+COROLLAklUM IL
+257.Q10d[iy= 1, erit 1 ÷y= 2‚· adeoque
+log.1rithmus hyperbolicas binarii ’.εξ —- ὲ
+ἦῆ.. ὲ qv} &a in infinitum.
+COROLLARJUM ΙΙΙ.
+
+258. Qoniam logarithmusipsms1:(1·1·⁴x)
+& numeri integri 1 -1- ,τ idem est (Ε. 35¹·
+
+Q] q 3 Arithm-
+

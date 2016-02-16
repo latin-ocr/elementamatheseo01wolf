@@ -1,0 +1,107 @@
+cip. I. DE SOLVENDIS PROB'LEMATIS DETERMINATIS.
+
+Ybeorema, Si fuerint tres numeriharmo-
+nice proportionales , erit differentia secundi
+a duplo primi ad primum, ut secundus ad
+tertium.
+
+C0R10L'LAR1UMl‘2-
+
+188. si za =b,· eritx :abz o, consequen⁴²
+ter 1 . ο ==x= ab (Β. 174Arithm. l. Qare
+cum non fit 1 :0 , nec erit x rub, adeo-
+quein hoc casu nunus numerus harmonice
+proportionalis ipfisa δε b inveniri'potest. Ε.
+gr. fia Ξ 12', b = 24: juxta regulam x =
+12.. 24: (24 -24).-*·=12. 24: ο. Sed nonlicet
+ιι.. 24 seu 288 pro termino tertio affi1mere2
+aliasenimforet 12: 264 :122 288(5.186):
+Qod absurdum. Multo minus inveniri po-
+terit, s1 b > ιω
+(ἷοκοιιΛκιυΜ ΙΙ.-
+
+189.Q0ds1 ex tribus proportionalibus 6.
+8. 1 ι.. terminus secundus {innatur‘pro a, ter-
+tius prob ‚ invenietur quartus continue pro—
+portionalis :=8. 12.: (16 ο- 12) =8. 12 ; 4
+=8. 3 = 24.
+
+COROLLKRIUM III.
+
+190. Cum eodem modo , fi tertius pro
+'a , quartus pto b sumatur, quintus inveniri
+queat& ita porro in infinitnm3 datis duo..
+bus terminis progressi0,' fi pofflbile (54 88) 2
+continuatur per regulam inventam. E. gr. fi
+a= 10, b=12, erittertius 1z.1o: (20 ,...
+12) ιτ·- 15. Indequattus 12. 15: (24 -15y
+τις), quintus 15. 20 : (30-ιο) :303
+sextus 20. 30.- (40 —3o) =6O. Serlulterius
+continuarinequitob 60 ει. 30 (5. 1 88).
+
+Pnoss LE M A LXXIIL
+
+191. Datis duabus quantitatibus ,
+invenirq mediam hannoniae proportio.
+nalem.
+
+Sit prima :a
+secunda :x
+tertia:b
+
+285
+erit ,κ’-*ατ b———xssm b (ἓ. 186)
+
+bx-——ab z αὖ ——- ax ( §. 2'97
+’ Arithm.)
+
+ 
+
+ 
+
+ax÷ bx==2ab
+——m—-afflb div.
+xzzab: (a *1⁴ b)
+E. gg. Sita: 10, b ’.ι-4ο .- erim-2800:
+50=1 ·
+
+AEquatio penultima in hanc resolvitur
+analogiam , a 4· b: 2a Ξ b : x, unde
+Theorema ε Si fuerint tres numeri hanno„
+
+nice proportionales , erit summa primi & ul-
+timi ad primi duplum ut ultimus ad medium,
+
+PROBLEMA LXXIV.
+q 192. Datis tribus quantitatibus > in„
+venire quartam harmonice proportiona-
+lem.
+Sit prima =st
+secunda Ξ b
+tertia. :=- c
+quarta :x
+erit ( §- 186)
+b ·-· a: x ·-··c=a: x
+„bf -aaxzax —ac(§.297.Arithm.) .
+acz-zax —bx
+——LQ (za... b) div.
+ac ε (2a —b )=x
+Sit e. gr. a=62 b=8,c=1‹2: erit x:
+72: (12 —8) :72 :4 :18-
+AEquatio penultima in hanc resolvitur
+analogiam :· 2a vab: a=c : x.
+Theorema. Si fuerint quatuor quantitates
+
+harmonice proportionales , erit ut differentia·
+secundae a duplo primae ad primam , ,ita tera
+
+tia ad quartam.
+DQFINITIO XIV.
+Ι 93. Propertio Contraharmonica cst ea
+terminorum trium relati0,in qua differem·
+
+zia primi ὃς secundi est ad differentiasm
+. Νη 3, ei
+
+ 
+

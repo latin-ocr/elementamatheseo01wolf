@@ -1,0 +1,102 @@
+Cap. III. DE RATIONE ET PROPORTIONE. 49·
+
+PorroA:B:C: D, &F :G=H:E‚
+itemqueC: D—-H : E ‚ per hypoth. Sed
+A: BzHAE, per demmssr. Ergo etiam
+A: B=F : G, per demonstr. ,Qtod erat
+alterum.
+
+THEo REM A XIV.
+
+168. Idem Cad aequalia A dr B3 ὠ
+aqualia A (ῤ’ Β ad idem C vel etiam
+aequalia C &D‚ eandem rationem ha-
+bent·
+
+DEMONSTRATIO.
+
+A=B , per hypoth. ErgoC : A=C2
+B ( §.71.94); consequenterC adA&
+B eandem rationem habet ( §- 152 ).
+Qod erat primum.
+
+Similiter quia A=B > per hypoth‘ erit
+&CL-B: C(§. 71. 94) , consequen-
+ter A & B ad C eandem rationem ha-
+bent ( §. 1 52 ). Qod erat ſscttndum,
+
+Sit denique A=C δε B=D ‚ erit
+A: B==C: D(§. 71. 94), consequen-
+ter ratio utrobique eadem ( §. 152 ).
+Qod erat tertium.
+
+THEOREMA XV.
+
+169. Sifuerit ΑεΒΞΟε D , erit
+etiam invertendo B: AzD : C.
+DEMoNSTRATIO.
+
+Sit quotus ex divifione ipfius A per
+B emergensE, & quotus ex divifione
+ipsius C per D emergens (35 erit B ad
+A ut unitas ad E, ὃς D ad C ut eadem
+unitas ad G ( §. 69); consequenter B:
+A:1 :E &13:011 : G(§.152).
+Sed A : B=C= D, per hypoth. seu
+EzG. (§. 15). Ergo unitas· eadem ad E
+&G eandem rationem habet( Ξ. 168),
+consequenter B : A=D :C( §. 167 >-
+
+QZVZ- ι’ Ομν. Mathem. Tom. Ι. ’
+
+THEOREMA XVI.
+
+170. Partes stmiles P (ῤ’ p eandem
+rationem habent ad tota T ὠ· t .· sl 10-
+ta ad parfes eandem rationem habent ,
+partes stmt stmiles .· ά tota ad partes
+ssmiles eandem rationem habent.
+
+DEMONSTRATIO.
+
+Habeatemn , fi fieri potest, Pad T
+aliam rationem quam p ad t5 partes p &
+P per diverfitatem rationis ad tota a se
+invicem distingui poterunt( §. 132 ).
+Erunt adeo diffimilcs( §. 24).· Quod
+cum fit absurdum , utpote contra hy-
+pothefin 3 erit P ad T ut p ad t. Qod
+erdt unum.
+
+Si t: p=T: P, per hjpothst erit p ε
+l-“=P:T(§. 169 ). Erg0‚per demmslra-
+ta, P ὃ( p sunt partes similes. Qod erat
+alterum.
+
+Si P &p sunt partes fimiles totorum
+T& t, erit P: Tssmpernum. Ladeo-
+que T:P:t:p(§. 169 >2 hocest‚to-
+ta ad partes fimiles eandem rationem
+habent.
+
+THEOREMA XVII.
+
+171. Partes ssmiles P ὠ p fimt in-
+
+ter st ut tota T&t.
+DtMoNSTRATlo.
+
+Cum totum fit idern curn partibus
+suis fimul sumtis( ς. 9) ,· quoties sumi-
+tur totum ‚ toties etiarn sumitur pars
+ejus quantalibet ‚ e. gr. quarta , vige-
+fima , millesima , minione-sima aut quae
+rationem aliam quamcunque ad to-=
+tum habet. Quare fi ponamus totum
+'rninus t toties sumi ‚ donec toti T
+aequale fiat3 quoties ipsum sumitur ³
+toties etiam sumenda ejus pars p ,
+
+donec parti ipfiuqu finu'h‘ , qua* est
+P, :cqua-
+

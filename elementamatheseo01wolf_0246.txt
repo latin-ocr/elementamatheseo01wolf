@@ -1,0 +1,95 @@
+·184
+
+DEMONSTRATIO.
+Ducatur in plano parallelarum ΑΒ
+& CD reda GH ad AB perpendicu-
+laris , & cx H perpendicularis HI ad
+EF in plano parallelarum CD δε EF.
+Jungantur punSta G & Ι rec‘ta Gn
+erit triangulum GHI in codem plano
+(§. 480). Qoniam AG perpendicula-
+ris ad GH δε ΕΙ perpendicularis ad HI
+per conft'rudY. erunt etiam AG δε EI
+perpendiculares ‘ad GI (5. 484), con-
+sequenter inter se parallelae (5. 256).
+. e. d.
+Q THEOREMA XII.
+Τὼ· 496. Si dure refft'ae AC ὠ CBfuerint
+Χ· parallelae duabus restis DF ὠ FE, etiam-
+{3637 fi non fint in eodem plano, anguli, quos
+⁸ comprehendunt , aeqzmlesfhnt.
+DEMONSTRATIO.
+Fiat CsszFE δέ CAzFD: quo-
+niam CB parallela ipfi FF, & CA pa-
+rallela ipfi ΡΙ) per hypotheſsn ς erit BE
+ipfi CF ὃ( AD eidem CF parallela δε
+aequalis ffi- 257), consequenter BE
+parallela (5. 4959 ὃ( :equalis (§. 87
+Arithm.) ipsi AD, ac ideo AB paral-
+lela δε aequalis ipsi DE (S. 257). Est
+igitur angulus DFE=ACB [ἓ. 204).
+. e. a'.
+Q THEOREMA XIII.
+Τὼ. 497. Si rec‘Ja [K duobus planis ABCD
+ΧῙ· ῤ’ EFGHfuerit perpendicularis, erunt
+
+’ἓξὲξ plana inter fi’ parallela.
+⁶ DEMONSTRATIO,
+
+Ducatur reda IL in plano ABCD
+& erigatur ML ad eam perpendicula-
+ris , quae plano EFGH in M occurrit ,
+cumque angulus Ι rectus fit per hypoth.
+
+ELEMENTA GEOMETRIAE. PARS II.
+
+ad IK parallela est (§.492 )‚ consequen-
+ter plano EFGH ad angulos rectos infistit
+(ὗ- 492). Qamobrem fi primita M & K
+jungantur recta MK , erit angulus K rec-
+tus <5- 485), consequenter LM=1K
+(5. 2 3 8 ). Cum eodem modo demons-
+tretur rectam ex quovis alio punsto pla-
+ni ABCD dudam ipfi IK parallelam ei-
+dem aequalem effe ‚· plana ABCD &
+EFGH ubivis a se invicem eodem in-
+tervallo distare ( 5. 225 ) patet. Sunt
+igitur inter se parallela.
+
+SCHOLION.
+
+498. Nimirum planum ABCD alteri
+EFGH dicitur parallelum , perinde ac νεὲἶιι
+alteri νεὲἶιε parallela est (5. 81) ‚ fi ubivis
+eandem ab eadem distantiam servat.
+
+THEoREMA XIV.
+
+499. Si planum ADCB ficet duapla- ‚ :-
+na parallela EFGH ὠ IKLM5 erunt XI. ,Ι
+staffines AD (θ’ BC inter st parallelae. flg- ⁴
+
+DEMON STRATIO.
+
+Ponamus enim sectiones AD ὃς BC
+non effe inter se parallelas ; ergo conti-
+nuatae alicubi concurrent (AY- 81. 83).
+Cum igitur sl plana cum ipfis continuen-
+turtorae in iisdem lint (§.478); ipsa quo-
+que plana EFGH & IKLM concurrent.
+Parallela igitur non sunt ( 5- 49 8) : quod
+cum fit absurdum , secriones AD & BC
+
+planorum parallelorum EFGH &IKLM
+parallelae sunt. Q e. d.
+
+T H E o R ε Μ A Χ V.
+
+5 00. Si duae rec‘Jae lineaeſs mutuo tan· Tab-
+gentis AC (ῤ’ ΑΒ duabus aliis st mutuo ἐφ’
+tangentibus EG ό* EF fuerint paralle- Ῑὲἕὸι
+lle, etiam plana ACDB ὠ EGLF per
+zpstzs ducs't'a erunt parallela.
+
+Ds-
+

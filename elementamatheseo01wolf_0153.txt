@@ -1,0 +1,112 @@
+’ maun.
+, th.41.
+
+ΞΤρικῃ.
+βμψ 1 .
+
+ 
+
+ 
+
+cap. 111. DE L1NE1s nuens ετ TRIANGULIS. 115-
+
+ 
+
+(3 A» :P tJ› 1?
+
+1112
+
+De? Linearum Redaram εἴ Uiangulorum &mptomatt'h
+
+THEOREMA XIX.
+
+179. I in duobus triangulis ABC
+S ὅ] a b c fuerit Am, AB=a b,
+Ac=a c ς erit etiam BC=b c , C=c ‚
+B-——b totaque triangula aequalia &fimi-
+lia erunt.
+DEMostrRAT 1 0.
+
+Concipiamus triangulum a b c ita
+poni super alterum ABC , u} pundmm
+a super A & redta a b super AB cadat.
+Qoniama b: AB, a=A &a εει-ΑΟ,
+per hypoth. puntstumbsuper B (§. 168) ‚
+resta ac super AC(§.166) &pundtum
+csuper C (§. 169 )‚ consequenter bc
+super BC ( §. 170) cadit , adeoque
+Δ abc alteri ABC congruit ( §. 3),
+consequenter bc=BC ( §. 161 )‚ c:
+C ὃ( bzss(§. 167) , totaque triangu-
+la aequalia & sunnia sunt ( §. 161).
+Q e. d.
+
+PRoBLEMA VIII.
+
+180. Datis duobus lateribus AB &
+AC cum angulo intercepto A triangu-
+
+lum construere.
+R E s²o L u T 1 0.
+
+1. Affumto AB pro bafi , in A consti-
+
+tuatur angulus datus ( §2 1 5 5 ).
+2. In crus ejus alterum transferatur
+
+altera datarum AC.
+3. Tandem ducatur reeta BC.
+Erit ΑΒΕ triangulum desideratum ( §.
+
+179)-
+
+SCHOLION.
+
+181. Tyrones latera (²9⁸ angulos datos z‘n
+numeris assumant : quod in aliquibus casibus
+ad demonstrationes empiricas distinctiusper.
+cipiendas proderit ‚¹ quas supra (ΛΥ. 158) com-
+mendavimus.
+
+CoRoLLA RI um Ι.
+182. Determinatis adeo duobus lateribus
+cum angulo intercepto ‚ tota trianguba de-
+termmantur.
+
+CoRoLLAR1uM II.
+
+’ἤ 183. Qare fi in duobus triangulis ACB
+
+&a c bfiat azA& ab2aczABAC;
+triangul] eodem modo determinantur ( 5.
+
+119) , adeoque fimilia sunt (J. 120), con-
+sequenter etiam c:C δε 12:13, ab : bc
+
+z AB:BC &c. (5175).
+THEoREMA XX.
+
+184. In triangulo aequicruro DFE Tabfl,
+1⁰. anguli ad basin y ὠ u stmt aqua· Fax-440
+
+les , 20. νεέῗιτ PG, qux angulum DFE
+bifariam ftcat , basta qaoque DE ‚ (θ’
+30. triangulum ipsam bifariam ficat:
+immo 4⁰. F G ad basin DE perpendi-
+calaris.
+
+DEMONSTRATIO.
+
+Nam o=x , per hypoth. DF :PE
+(ς. 89 > & FG=FG (§. 81 Arithm).
+Ergo 10.y=u‚ 20. DG=GE ‚ 30A
+DFG=A GFE ( §- 179 ). Et quia
+etiam anguli ad G aequales‚ (per §. cit.)
+40. FG ad DE normalis cst (§. 79) Q-
+
+C 02
+
+e. d.
+
+P 2
+

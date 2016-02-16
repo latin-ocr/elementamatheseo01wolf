@@ -1,0 +1,139 @@
+Cap. VIII. DE CONSTRUCTIONE AEQUATIONUM.
+
+⁴¹¹’.‘1*'ab.
+
+   
+    
+
+„js ιο.
+
+,. Ξ ¹ ι. ῖεηίέιιῃ ΑΙ.
+
+(Σοηίὶηιέὶὶοηεε reliquas facile proprio
+
+Marte addent , qui superiora rite per-
+ceperunt.
+
+PROBLEMA CCLIX.
+
+630. Numerum irrationalem datum
+per lineam exprimere.
+Sitpotentia imperfesta quaecunque x
+& radix ex ea extracta irrationalis x12m.
+Ponatur ,κ ¹:⁷²² :y
+erit A< :ym
+'hoc est, a pro unitate assumta
+
+ 
+
+ 
+
+am-—x xzym
+quae est aequatio ad infinita parabolarum
+genera (§. 519). ‘Quare fi parametro a
+parabola primi generis fit descripta &
+absciffa fit ad parametrum ut numerus
+sub ligno radicali. e. gr. ut 3 ad 1‚li xl 3
+
+rum quaefiturn.
+Α Est enim in casu primo„ fi a=1 , x
+==3‚y²—-—.3,adeoquey :xl 3. Etsi fue-
+
+, consequenter xz} Hinc y2 ετξ, adeo-
+¹que y = xl} Eodem modo patet ‚
+describendam effe parabolam secundi
+generis seu cubici ordinis, firadices cu-
+m bicae dentum parabolam vcro tertii ge-
+fg? neris seu biquadratici ordinis , fi ra-
+dices dentur biquadraticae δί ita porro.
+
+Sed possunt ctiam parabolae inferio-
+
+, res satisfacere radicibus superioribus.
+Sit enim e. gr. quaerenda linea y, quae
+eandem habeat rationem ad lineam da-
+
+Notandum vero est, cum eadem aequa-
+sX ¹· tio prodeat fi ponatur qm=y , esse qm
+t‘fig' trientis complementi ad circulum sub-
+
+415
+
+tam a , quam habet 1 ad ξ] ς. Per
+
+conditionem problematis erit
+
+ 
+
+ 
+
+ 
+
+1: {ML—:azy
+’ΜΞ-Α
+5a³=y
+
+Construetur adeo problema per pa-
+rabolam primi generis &circulum, quae-
+rendo nempe inter a & §a duas medias
+continue proportionales
+
+Fiat enim a : y: y : x
+
+erit I. y2= ax -.
+AEquatio proposita 5a³ Ξ y3 resolvitur
+ln hanc analogiam:
+
+a : y Ξ st: μ’·
+= ax: 5a2
+Ξ x: §a
+unde y: x=x: 5a
+x2= §ay
+y2 = ax
+
+ 
+
+ 
+
+ 
+
+ 
+
+vi num. Ι.
+Π. yz ‚1⁴ xz: §ay ιιι ax
+AEquatio prima est ad parabolam &
+
+ 
+
+ 
+
+ 
+
+ 
+
+desideretur, vel ut 3 ad2³fi quaerafflr l secunda ad circulum. Unde aequatio
+ψξς ejus semiordinata exprimet nume- ‘ 3¹² Ξ 5a3 COUstsl-”ffls ut supra·
+
+PRo Β LE M A CCLX.
+631. Invenire pundla quotcunque,
+
+'r quae stat in curva datae aeqztationis.
+
+rita-:12 a: ³6:3³ 2, esst 3x=2a=2, '- 1.Dusta linea recta, quae pro axe cur-
+
+vae describendae affirmatur , pro ar-
+bitrio determinentur absciffae quotr
+cunque.
+
+2. Brigantur perpendiculares inderen-
+minatae ad fingulas absciflias.
+
+3. Qoniam abscissa determinata est,-
+aequatio data pro determinata reste
+habetur. Construaturitaque per me-
+thodum supra expolitam : ita enim
+invenietur semiordinata abst-issa: res<
+pondens..
+
+E. gn. ’
+

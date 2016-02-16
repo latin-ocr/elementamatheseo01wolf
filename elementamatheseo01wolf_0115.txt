@@ -1,0 +1,144 @@
+Cap. VIII. DE LOGARITHMIS. 87
+
+R E s 0 L U T 1 o.
+1. Logarithmus numeratoris subtraha-
+tur a logarithmo denominatoris.
+2. Refiduo praefigatur {ignum subtraetio-
+nis-——.
+E. gr.Qaerendus est logarithmus fraffionis {-
+
+ 
+
+Logatithmus 7 Ξ Ο.8 4 5 0 9 8 0
+Logatithmus 3 Ξ 0·4 7 7 1 z 1 3
+Logarithmus {z— 0.; 6 7 9 7 67
+
+DEMONSTRATIO.
+
+Cum frastio fit quotus , ex divifio-
+ne numeratoris per denominatorem
+emergens ( §.238 ),· logarithmus ejus
+est differentia logarithmorum numera-
+toris ac denominatoris( §. 343 )‚ adeo—
+que fi numerator minor denominatore ,
+major logarithmus e minore subtrahen-
+dus , quo in casu differentia evadit ne-
+gativa(§. 105). Qe. d.
+
+’ S C H o L Ι o N.
+
+3 52. Logarithmum fraffionis propriae csse
+negativum, fi unitatis (ic o , jam notavit
+Stifelius ( a ) , &⁹ mirum non est. Frat‘iio enim
+minor unitate( J. 221 ). Sed unitatis logarith-
+
+mus esto ( Β, 346 ). Ergo frac‘tionis logarc'th-
+mus est nihilo minor.
+
+COROLLARIUM Ι.
+553. Cum in frafflone spuria {numera-
+
+tor sit major denominatore5 ejus logarith-
+mus habetur ‚ fi logarithmus denominatoris a
+logarithmo numer-amris subtrahitur (ΒΛ-38.
+ww
+
+Logarithmus 9 Ξ o. 9 5 4 2 4 2 5
+
+Logatithrnus 5 Ξ ο. 6 9 8 9 7 ο 0
+
+--—---.-¹ ———--—
+
+Logarithmus ἓξ ο. z 5 5 2 7 2 5
+CoRoLLARIUM II-
+354„ Qoniam integra cum adhaerente
+
+ftaffione 33 ad fruetionem spuriam ²7³ re-
+
+duci poffunt ( 5. 224 )3 eodem modo inve-
+nietur eorum logarithmus.
+
+(a) lnArithmet. integra lib-3· c. ς. p. 249 b,
+
+Logarithmus 2531. 3 61 7278
+7:0.8450980
+
+Logarithmus 3}=-—0. 5 1 ρ 6 2 8 Γ
+
+PROBLEMA XXXIX.
+
+3 ς 5. Invenire numerum legarithmo
+respondentem ‚ qui in tabulis accuratus
+non occurrzt.
+
+R Ε s o L tr T 1 o.
+
+I. Si numerus 2 cui convenit logarith-
+mus inter 1000 ὃ( 10000 cadit, hoc cst,
+fi characteristica fuerit 3 ( §. 347).
+
+1. Logarithmus proxime minor dato
+subtrahatur a proxime majore 2 iti-
+demque a logarithmo dato.
+
+2. Insctatur: ut differentia prior ad 100,
+ita secunda ad partes centesimas per
+probl. 3 3. s §. 302 >inveniendas &nu-
+mero 2 qui logarithmo proxime mino-⁷
+ri in tabulis respondet, addendas ‚ ut
+
+' habeatur numerus prope verus 2 cui
+logarithmus datus convenit.
+
+E. gr. {Qaeratur numerus respondeus
+Logarithmo 3. 7589982
+Logarithmus proxime major 3.7590632
+
+Logittithmus
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+——-.--——-—- minor 3.7589875
+Differentia prima 757
+Logarithmus datus 3. 75 8 9 9 8 2.
+—proxime minor. 3. 7 5 8 9 8 7 5
+Differentia secunda 107.
+757—-100—107 107.00 (14
+100 7 ς 7
+
+10700 3 13.0
+
+3 02 8
+
+Α 1 ο 2
+
+ 
+
+Cum numerus logarithmo minori conveniens
+s1t57413 quaefitus etit 5741 {5³⁴6-
+
+ΙΙ. Si numerus ,, cui convenit logatith-
+mus datus, inter 1 & 1000 locum repe·=
+
+, rIat , hoc est ‚ fi charatsteristica fuerit 0,
+
+1 vel 2 ( §. 347¹), chara&eristica*mu-
+tatur in 3 & logarithmus quaerrtut
+mtet
+

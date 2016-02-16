@@ -1,0 +1,112 @@
+* Tab. 1.
+
+fig-15
+
+⁷. TabJI.
+fig 23.
+
+cap. III. DE USU TRIGONOMETRIAE.
+
+arcus CD m j‹·r prode-t ‚ eodm] errore
+
+CAD admiss) fi l tus AC innuitis, quim
+
+fi brevius fu rit, ideo hine qno μισ pitin,
+
+stationem viciniorem ptaesttre remotiori.
+S c H ο L 1 o Ν.
+
+64. Ceterum hinc apparet ‚ praxes accu-
+ratt'ffimas effe ‚ quae solis lineis in campo
+mensuratis nituntur, uhi in earum pofitione
+ob errorem in angulorum quantitate com-
+missum aberrare· nequit. Dedimus hic spe-
+ciem aliquod eorum, quae circa piaxin Geo-
+metriae accuratam expendi merentur, ut os-
+tend rem is theori m accuratam pirere pra-
+x n accurat zm, ἴθ’ aa theoriam perfecie ad-
+discendam excitemus, qm' olim praxi ope.
+ram daturi. fallamur emm , qui fibz per-
+suadent , per theoriam addisci non poffi· cer-
+tas praxium accuratarum circumstantias ‚
+tum demum observandas , ubi manum pra-
+κί’ admoveris. Etenim plsrumque tantum
+confuse observantia-3 pes theoriam veto ac-
+curate d-‚terminantur.
+
+PROBLEMA XXVI.
+65. Invenire distantiam duarum lo-
+corum AC ‚ quorum unus A tantum
+acceffibilis..
+R E s o L u· T 1 o.
+
+⁷ 1. Investigetur quantitas angulorum A
+
+δε Β , statione in B electa (§. 152
+Geom.) , itemque. rectae. AB (5126
+
+Geom. ).
+2. Inveniatur AC (5. 36). Qef.
+
+T H E o R E M A VI.
+
+66. Si in distantia AB ex duobus an-
+gulis A & ACB una cum latere AC
+investiganda nonni ι in angulo uno ACB
+metiendo aberretur3 arcus BE 2 qui er-
+rorem in angulo ECD admzſjb metitur,
+erit ad BI) differentiam inter distan-
+tiam veram ΑΒ &³ erroneam AD ut
+finus anguli tertii ο distantiaestationum
+AC oppositi ad finum totum.² ἱ
+
+227
+
+DEMONSTRATIO.
+
+Illud per se patet in hoc casu dis-
+tantiam erroneam calculo producstam
+AD continuo in direeium jacere verae
+AB, consequenter latus CD terminans
+angulum erroneum ACD secare dis.
+tantiam veram in praesente casu pro-
+ductam in D. Describatur ergo ex
+centro C radio CB arcus BE , qui est
+mensura erroris BCD (§. 57 Geom. ) ‚
+cumque nonnifi paucorum minutorum
+fit ex hjpothesz , pro reeta haberi po-
+test. Quamobrem cum anguli BED
+δε CBE fint resti (5. 309 Geom. ),
+erunt anguli o & u ( §. 147‘Geom'. J ,
+itemque u & x aequales recto ( §. 241
+Geom.) , consequenter 0 -†- n=x ÷ u
+(§.145 Geom.) > atque ideo οἰκ (§.91
+Arithm.). Est vero ut finus angulix
+(five o per demonstr.) ad arcum BE5 ita
+finus totus ad' BD (5.33). Ergo BE
+est ad BD ut finus anguli o ad finum
+tot-um (5. 173 Aritbm. ). Ωιι». d.
+
+CoRoLLAkluM L
+
+67. Cum finus anguli o majorem habent
+ad finum totum rationem, fi imnjor, quam
+ubi minor fuerit (5. 203 Arithm. ); eodem
+errore in metiendo angulo ACB admiffi,
+hoc est,;1rcu BE existente eodem, minor
+erit error in dist ntia determinanda admis-
+sus BD, ubi angulus o mijor, quam ubi.
+minor fuerit (5. 206 Arithm. )
+
+CoaoLLAMUM H.
+
+68. Unde consequitur, talem hoc in ca.‘
+su fieri debere statinnum A & C 61εᾶἰο-
+nem , ut anguli A & C fint admodum obli-
+qui , ai gulus veto ο. emolat recto proxi-
+mus: id quud obtinetur fi anguli A & C
+junustirn sumti tantillo extedint rectum
+( 5. ι4ρ Geom. ).
+
+F. f 3 Coton-⁴.
+

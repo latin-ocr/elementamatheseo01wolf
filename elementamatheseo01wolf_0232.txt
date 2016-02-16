@@ -1,0 +1,107 @@
+'170 ,
+
+‘DEMONSTRATIQ
+Eadem est, quae theorematis praece-
+dentis( ς. 410 ).
+THE OR EM A LXXXVIII.
+416. Polygonum inscriptum minas 5
+circumstrtptum majas est circulo. Simili-
+ter illins perimeter minor ,- hujus autem
+perimeter majorv estperzpheriaecirculi.
+DEMONSTRAT100
+Tab¹ Latera AB, BC, CD ἅτε. polygoni
+V1⁸ inscripti sunt chordae arcus cognomines
+Eg. subtendentes( §. 342 ). Sed chordce sunt
+107· arcubus minores( §. 191 ). Ergo singula
+polygoni latera ΑΒ , BC, CD &cst sunt
+lingulis arcubus eisdem respondentibus
+minora ‚ consequenter perimeter poly-
+gonicirculoinscripti est hujus peripheria
+minor < §. 90 Arithm. ). Et quoniam
+
+chordae totaeintra circulum cadunt: arear*
+
+polygoni parti circuli congruit( §-. 9
+
+Arithm. δε §. 3 Geom. >2 adeoque ipfi.
+
+aequalis est < §· 16 Ι ), consequenter poly-
+gonum inscriptum circulo minus ( §. 20
+Arithm.) Qod eratprimum &strandum
+
+Latera polygoni circumscripti ὠ, bc ,
+cd &a tangunt circulum ( §. 3 ς ς) adeo-
+que totae extra eum cadunt ( §. 47 ) > con-
+sequenter circulus parti polygoni con-
+(θ’-11111199 Arithm. &3st 3 Gema). Hinc
+ipsi aequalis(§. 161) , hoc est, circulus
+polygono circumscripto minor est ( §.⁷
+20 Arithm. ). Qod erat tertium.
+
+Area polygoni circumscripti 611ι> ad
+aream circuli in ratione composita radii
+circuli δε perimetrorum( §. 401. 410.
+388 ) , consequenter ut faftum ex radio
+'in perimetrum poligoni ad factum ex ra-
+dio in peripheriam circuli ( §— 1 59 Arith).
+Ergo illa adhanc ut illius. perimeret ad
+
+⁷ sttmtis.
+
+ELEM'ENTA GEOMETRIAE. PARs[
+
+hujus peripheriam ( AY. 181 Arithm. ).
+Sed‘ polygonum majus circulo per de-
+monstr. Ergo & ejus perimeter major
+peripheria hujus ( §- 149 Arith. ). Qod
+erat quartum.
+THEoRr-:MA LXXXIX.
+417. In triangulo recf't'angulo ABC *sab-4 Ἰ
+
+quadratum hypothenuste AC aequale est qua· v1114
+dratis laterum AHIB ὠ BCED simul Eg.
+
+130„
+DEMONSTRATIO. “
+Ducantur recstoe AE&BF(5. 121),
+
+“ itemque BKipfi CF parallela (J. 2 5 8 ).
+
+Qoniam Δ ACE cum quadrato CEDB
+super eadem bafi δε inter easdem paral-
+lelas < §. 3 36 >existit; hujusdimidium est
+( §. 391 ). Ex eadem rationeA BCF est
+dimidium parallelogrammi LCFK.Eni1n—
+vero quia x=o(§. 98. 145 ) 2 adeoque
+x-†-y=o†y (§. 88 Arithm. ), ΒΕΞΕΕ
+& AC=CF(§. 98);- ideo Δ ACE:
+Δ Β C F ( ς. 1 7 9 ) , consequenter
+BCED—-LCFK ( §. 93 Arith.). Eo—
+dem modo ostenditur , effe AH1B==
+ALKG. Qamobrem BCED-i—Afflk
+
+VLCFK ÷ALFG (§. 88 Arithm. ) Ξ
+
+ACFG ( ἕ, 86 Arithm. ). ᾖε. d.
+S c H 0 L 1 0 N.
+
+418. Hoc theorema Pythagoras invenit.-
+unde Pythagoricum dicitur. Amplzffimi per
+Mathesin univerfizm esf? usus : ideo ab illius cm-
+ditoribus Hecatombe , boc est ‚ centum houm
+sacrificio redemtum fertur,
+
+CoRoLLiARIUM Ῑ. ,η
+
+419. Qadratum construitur duobus aut Tab- ,
+pluribus datis simul sumtis aequsse, fi 10. la. vus: ⁸
+tera duorum Ac& AB jungantur ad angu- ΗΚ ”“ .’
+Ios reftos(5. 249); 20. super duc'ta hypo· ⁵
+thenusa BC erigatur latus tertii CD perpen-
+diculariter ( 5. cit. ) ducaturque hypothenu-
+[ει BD &a Est euim BC* z AB² 'i'' ACz δα
+
+’ ΒΙ)’”
+
+151κ l
+

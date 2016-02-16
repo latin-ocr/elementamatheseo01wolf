@@ -1,0 +1,93 @@
+ 
+
+ 
+
+Cap.IV. DE USU ALGEBRAE IN TRIGONOMETRIA⁴ 321
+
+reaae ΕΒ , AD &BR Qoniarn x=o
+(§· 3 Ι 5 Geom. ), & ob parallellsmum
+linearum AD δε BF (§. 257 Geom. ) κ
+=y ( §.233 Geom.);erit o=y (§. 87
+Arithm. ). Est vero etiam ob (33:13ss
+( §. 40 Geom.)u=o (§. 184 Geom. ):
+y, consequenter CF: CB=CB: CE
+(§.2 67 Geom. ). Sit jam ΑΒΕΔ, CE=
+r ‚ CB=x; erit CF Ξ a vl< 2r , conse-
+quenter,
+
+a ’Β 2r :
+
+COROLLARIUM L
+321. Cum angulus CBD fit rec'kus (5.
+317 Geom. ); etit ΒΕΖ = 4r2-·- ar ι- 2r²
+= 2r²·-· ar ( §- 417 Geom. ), consequenter
+BD subtensa dimidii complementi ad semi-
+circulum arcus AB ΞΜ( 2r2 --ar).
+COROLLARIUM IL
+322. Qadtatum ergo chordae DB arcum
+quadrante minorem subtendentis aequatur
+reCkangulo ex radio CE in differentiam chor-
+dae diametro parallelae ex ριιηᾶο Β ἀυᾶεε ΑΒ
+a diametro CD.
+
+CoRoLLARIUM 111.
+323. Qadratn chordarum CB &1302thae
+
+ambae fimul semicirculum subtendunt‚ sunt
+inter se ut 2r2-1·⁴ ar ad zr2 *ar (9⁶. 319.
+320)‚l10cest‚ utzr-Fa ad zr—a(„§5. 181
+Arithm. ) ‚ hoc est, ut aggregatum ex dia-
+metro CD δε chorda AB ex puano concur-
+sus B eidem parallela ducta, ad differentiam
+hujus chordae a diametro.
+
+PRoBLI-:MA CLI.
+
+, , 324. Datis in quadrilatera circu-
+. .ίο insc'ripto lateribus ΑΕ, ΕΒ ‚ BC (θ’
+AC una cum diagonali EC ‚ invenire
+diagonalem AB.
+
+Wffiii Oper. Mathem. Tom. I.
+
+SitAE=a‚ EB=b‚ BC=c, Ac:
+d ‚ Ec=f, AB=y. Ducatur EF 2 ita
+ut fit o=x (§. 208 Geom.). Qoniam
+praeterea ACE=ABE (5. 31 ς Geom.);
+erit EC: AC=E132B12‚ hoc est,f.· d
+:b τ BF (S. 267 Geom.) Reperitur er-
+ι {22 1133Ρῖἑᾶ : fGQonian} ρὲῑὲἓ ΕΑέ-εὲ
+l (ς. 88 2r35h22.)5?'⁷33t12<2 (θεῷ)
+=EA (a >2 AF(ac:f)(§.267 Gema),
+
+¹ Qaret(§. 86 Arithm.>.
+
+Theorema. In quadrilatero circulo inscti'p⁴
+to AEBC redbangulum ex diagouiis EC <Sc
+
+AB aequatut reelangulis ex lateribus oppo-
+fitis ΕΒ ἰη AC & EA in BC.
+
+PROB LEMA CLII,
+325. Datostnu anguli simpli 2 inve-
+
+nire finus όν Casinus angulorum multi-
+lorum,
+p Sit angulus quicunqueA , fiat AB: Τὼ·
+BD=DF=FH2HL2LM2 MP:- 111· Ἴ
+PQ=Q2TW crit A=ADB (§. 184 ἦς’ ³ ⁵ ⁴
+Geom.)‚ EBD :A ψ ADB (§. 239
+Geom. ) =2A‚ per demonstr. Eodem
+modo ostenditur ‚ effe FDH=A νι- F> f A
+=3A,· HFL=A÷ AHF24A; [ΗΚ
+Α 4« ΑΕΗ-ε 5 A; PLM-:A ›1- AML=
+6A &a Demitrantur perpendiculares
+BC, DE, FG, ΙΗ, LK , ΜΝ ἃς. Qod-
+fi AB sumatur pro finu τοῖος eritBC fi-
+nus , AC Cofinus anguli simpli A;
+ΕΙ) finus , ΒΕ Cofinus anguli dupli ,
+ΡΟ finus , DG Cofinus anguli tripli,
+&c. ( 5. 2. 11. Trigon.)
+Sit AB=r , Ec: b, AC-za, erit
+ob angulum A utrique Aa BAC
+

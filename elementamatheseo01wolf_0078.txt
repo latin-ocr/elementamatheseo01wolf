@@ -1,0 +1,96 @@
+50 ELEMENTA ARITHMETICAE.
+
+P , aequalis fiat. Toties itaque Ι) con·
+tinet p, quotiesT ipsum t. Sunt ergo
+partes ssmiles ut tota ( §. 151). ξε. d.
+
+Sc11oL10N,
+
+172. Notandum est , numerum , qai in-
+dicat ‚ quotics sumatur totum minus , ut
+majori aeqn-zle fiat ‚ non semper effe ratio-
+nalem; led irrationalem quoque effe posse:
+quo in casu tota ad se invicem rationem
+irrationalem habent. E. gr. ln Geometria dc-
+monstrabimus latus quadrati , ut· diagonali
+aequale fiat , toties fumi dehere , quoties uni-
+tas continetur in radice ex binario. Evidens
+vero eli , [ἱ latus quadrati fit divisum in
+duas partes, quarum una (ε’[ιι pars quarta
+cotias, altera continet tres quartas 3 par.
+tem quoque quartam totie· sumi quoties ani-
+tas continetur in radice ex binario, donec
+parti quarta diagonalis aqualis fiat.
+
+ΤΗ EoRE Μ Α XVIII.
+
+173. Si. Α : B-——C: D; erit etiam
+‘gernando ſsu permutando A: (3:132
+
+DEMONSTRATIQ
+
+Ι. Si antecedentes A &C consequenti-
+bus B & Ι) fuerint minores eorum
+partes (§. 20), eaeque fimiles (9 . 170)
+haberi poffimt. Sunt igitur ut tota ‚
+hoc est antecedentes A & C eam
+inter se rationem habent quam con-
+sequentes B & D. (35. 171 ).
+
+ΙΙ. Si antecedentesA &C consequenti-
+
+- bus B δε D majores ς tum quia A:
+R=C: D > per hypoth. erit B : A:
+D: C (§. 169), consequenter B ε
+D--z-A: C per caſs Ι. Qe. a'.
+
+COROLLARIUM Ι.
+
+174. Ergo in divifione unitas ad divisa,
+rem ut quotus ad dividendum (5. 69 J
+
+COROLLARIUM ΙΙ,
+
+¹75· Si fueritA:B: C ε D&B:D‚
+etit etiam A·:.C. Est enimA: 0:33 D
+(5. 173 ). Sed B: D, per hypoth. Ergo
+A:C(J-149)-
+
+CoRoLLAR1UM III.
+
+176. SifueritsszA:D: C&B:D;
+etit etiam A:C. Cum enxm fitA: Bzc:
+D (§.169)·‚ etitetiam A:C (5. 175).
+
+THEOREMA XIX.
+
+177. Qae ad idem vel aqualia ean-
+dem habent rationem , aqualia siant .-
+& ad qua idem vel aequalia eandem ha-
+bent rationem 2 ea itidem aequalia fimt,
+
+DEMONSTRATIO.
+
+A: B=D2 Β, per hypoth. Ergo A:
+
+=B:B(§.173). SedB=B(§.81)f
+Qare A=D ( §. 149). Et idem eo-
+dem modo ostenditur , fi A : B=D÷
+C & B:C. Qod erat mmm.
+
+Similiter C: ΑΖΕ : Β, per hypath,
+ErgOC: szA: B(§. 173). SedC=
+C (§. 81). Qare A=B ( 55. 149).
+Et idem eodem modo patet 2 fi C :
+A: D : B ὅτ, C=D. Qod erat al-
+terum.
+
+T H E o R E M A XX.
+
+178. Si quantitates quascunque A
+ὠ Β per eandem tertiam C multipli-
+ces 3 facta D &a E stmt inter ft ut
+A ά Β, D
+
+Effi-
+

@@ -1,0 +1,115 @@
+92 '⁹ ELEMENTA ARITHMETICAE.·
+
+apex⁴ quoti inveniatur ‚ fi apex divi-
+'soris ab apice dividendi subtrahatur
+( ᾗ. 343) & dividendo adjungantur
+cyphrae , fi divisor major fuerit vel di-
+
+videndum non metiatur.
+
+E. gr. Si 0·00²014279 dividatur per
+o. 0047 ‚ quotus est 0. 42857 (ᾗ. 374.
+210), Nimirum 2014279 dividitur per
+47 ‚ ut obtineatur quotus 42857. Jam
+cum notae divisoris 4 conveniat apex 3&
+notae dividendi 0 apex 4, differentia 1 est
+apex notae primce quoti 4. Cum adeo quo-
+tus incipiat a partibus decimis, ut omnia
+loca compleantur eidem praefigitur cyphra,
+cum nullum fractioni adhaereat integrum.
+Similiter si ο. 002014279 dividatur pet
+o. 42857 , quotus est o. 0047 (ficit.)-
+Nimirum 2014279 dividitur per 42857,
+ut obtineatur quotus 47. Jam cum notae
+dividendi o conveniat apex 4 & notce di-
+visoris 4 apex 1 , differentia 3 est apex
+notae quoti 4. Cum adeo quotus incipiat
+a particulis millesimis (J. 364), eidem
+praefigenclae sunt cyphrae 3, ut habeatur
+fractio completa· ο. 0047.
+
+CORoLLARIUM Ι.
+
+380. Qodfi divisor fuerit fractio deci-
+malis approximans, adeoque nota ultima
+vel justo major ‚ vel minor (ᾗ. 371 );
+saetam ex divisore in quotum duabus ulti-
+mis notis deficere potest. Qare cum- a
+notis dividendi vel justo plus, vel minus
+subtrahaturs ubi divisor ad eafilem fuerit
+promotus , notae quoti incertae evadent.
+E. gr. Si dividendus fuerit 21. 3456 Sc
+divisor 3. 82 fruitio approximans , nonnisi
+unica nota quoti ς certa est.
+
+CoRoLLARIUM IL
+
+381. Si dividendus fuerit frnCtio decima-
+‘lis approximans , divisor exustus·³ nonnisi
+notam quoti ultimam subinde incertam eva.
+dere posse patet.
+
+COROLLARIUM III.
+
+’ 382. Si & dirior, & dividendus fue-
+
+rint fraitiones approximantes, evidens est
+porro in determinandis locis certis respi-
+ciendum effe vel dividendum , vel diviso-
+rem, prout divisoris, vel dividendi nota
+deficiens propior fuerit primae divispris no.
+tae, Ε. gr. Si divisor sit 2. 5786. divi-
+dendus 3. 067 , adeoque cyphris augen-
+dus, ut divisio fieri possit3 evidens est cer.
+titudinem expirare in nota tertia divisoris
+6, consequenter junffls duabus cyphris di-
+vifionem eo usque contii-mari ‚ ut prodeat
+quotus certus Ι. 1.
+
+PROBLEMA XLV.
+
+383. NJtas certas in multiplicatio-
+ne ὠ divssone [ναι-Ἡρωίνῃ decimalium
+approximantium accuratius determina-
+
+ΤΕ.
+REsoLUTIO.
+
+Notae fastorum dextimae suman-
+tur nunc justo majores ‚ nunc justo
+minores ς in divisione nunc nota dex-
+tima in dividendo justo major ‚ in di-
+visorejusto minor & contra z quae in
+utraque multiplicatione ac divisione
+eaedem proveniunt notae , eae suntac-
+curatae.
+
+Qodfi ergo in exemplo superiori mul-
+tiplicationis , ubi notae ultimae faetorum po-
+nuntur justo minores, eorum loco su-
+
+mantur 18. 358 & 6.
+
+1 8. 3 5 8 35 3 fastum quod ob..
+
+6-35 timetur 116. 57330
+-—-—--—-— convenit cum superio-
+
+91790 ri116. 38338 quo-
+5 5 o 7 4 ad tres notas dextimas
+110148 116: eae igitur solae
+
+-—- certae sunt. Patet au-
+
+1 1 6.5 7 3 3 0 tem certam fic fieri no-
+tam tertiam 6 ‚ quae
+
+per superiora in dubio relinquebatur (5. 3 76).
+Similiter fi in exemplo divisionis superiori
+(J. ζει ) nunc 3068 dividas per 2. 5786,
+
+nunc 3067 per ι. 5737 , quotus urobiqu?b
+e
+
+ 
+

@@ -1,0 +1,115 @@
+138
+
+Μ
+
+————
+
+CAPUT
+
+ELEMENTA GEOMETRIAE. PARS I.
+
+ 
+
+IV.
+
+De Circuli &mptomatis
+
+TnEoREMA LIII.
+
+Tab. Ι. 287. Irculiss intus tangentes unt
+
+- eccentrici.
+DEMONSTRATIO.
+
+Fc'g. 5.
+
+Qloniam circulus unus alterum In-
+
+tus tangit‚ per hypoth. ille totus intra
+hujus peripheriam continetur(§. 47).
+Qare fi ex centro ejus Cducatur in pe-
+ripheriam majoris renf'ta CN (§. 121 ) ς
+ea peripheriam minoris in M secabit (§.
+50), eritque adeo radius minoris CM
+pars ipfius CN( §. 9 Arithm.). Qodfi
+
+iam C ponatur centrum commune cir-
+
+ 
+
+ 
+
+ 
+
+ἶ fit absurdum( per demonstr. ὅ] §- 84
+
+Arithm. )‚· circuliX ἃ Ζ idem centrum
+habere nequeunt. Sunt ergo eccentrici
+
+(§.44). ᾦα. d.
+THEoREMA LV. Τήϊε
+
+2 89. In eodem vel in aequalibus circulis fig-87· J
+
+chordae aequales ΑΒ & DE aequales ar-
+
+cus sitbtendantj &y contra.
+DEMoNSTRATlo.
+Quoniam AB: DE per hypoth. BC
+
+:CE ὃς AC: CD( §. 40)‚· angulus Γ
+
+ACB=DCE ( §.204 ), consequenter ar-
+
+cus AB & DE, mensurae angulorum ACB
+
+culorum ,- erit CL=CM & CL=CN ὃς DCE(§. 57), aequales sunt(§.142 ).-
+
+(§. 40), adeoque CM=CN( §. 87
+Arithm. > , quod cum fit absurdum (per
+demonstr. ὠ §.84 Arithm.) 3 circuli idem
+centrum habere nequeunt. Sunt ergo
+eccentrici (§.44). Qe. d.
+. THEOREMA LIV.
+Tab.V. 288. Duo circuli se= mutuo ficantes
+fig.86· simt eccentrici.
+DEMONSTRATIO.
+Qoniam circulus X alterum Z secar,
+per hypotb. pars illius intra hunc cadit
+
+Quod erat primum.
+
+Arcus AB &DE :equales sunt per hy- γ
+poth. Sunt vero etiam iidem mensurae an-
+gulorum ACB & DCE ( §. 57 ) : anguli
+igitur isti aequales sunt( §- 142). Qo-
+niam porro BC=CE ὃς AC Ξ CD( §.
+
+40); erit quoque AB Ξ DE ( §. 179 ).
+Qod erat alterum.
+THEOREMA LVI.
+
+290. Si in circulis inaequalihus arcus Tftb·V·
+
+AB ά* ab fiterintstmiles, charace cogno- F2g.87.
+
+( §. 53). Ducatur itaque ex C centro Ῑ mines ad fisos radias AC ci* ac eandem
+circuli X radius CB ,qui continuatus ad Ι rationem habent.
+
+peripherIam circuli Z secabit periphe-
+tiam illius in E(§. 50) eritque CB pars
+
+DEMONsrRArlo.
+Qoniarn arcus AB& ab ssmiles sunt,
+
+³pfius CE ( §. 9 Arithm‘ x)‚ Qodfi C per hypoth. iidemque mensur-„e angulo-
+§onatur centrum etIam circuli Z ς erit rum ACB δέ acb (§. 57 >3 erit ACB:
+
+CB=AC δε (ῑΕΞΑς <§- 40 ) , adeo-
+que Csszcfi ( §. 87 Arith. ). Qod cum
+
+ssC=ab2bc (§0183 ). Qud.
+
+acb § . 142 2. Est vro AC:BC=ac:bc j
+(§.40Geam.& §.149 Ανίτῶω.).Ετςῗὲξέ ᾐ
+

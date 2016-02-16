@@ -1,0 +1,113 @@
+108
+
+P R 0 B L E M A V.
+’ 13 Ῑ. Ex dato quovis centro C dato
+radio qut- με A C Circulum de cri·
+bere.
+R Ε s ο L u T 1 o.
+Tabdl. Ι. In charta
+th·34· 1. Collocetur circini crus unum in
+centro dato C δε aperiatur interval-
+lo radii dati A C.
+
+2. Moveatur circinus circa centrum C:
+ita crus alterum peripheriam defi-
+gnabit(§. 37 ).
+
+11. In solo δε quotiescunque circini a·
+pertura tanta fieri nequit , quanta
+requiritur , radii vice fungitur filum,
+funiculus , aut virga five lignea, fi-
+ve ferrea.
+
+SCHOLION I.
+
+132. Si fune autftlo utimur ‚ cavendum
+
+est, ne stylus F A ‚ quo peripheria defignatur‚
+e fitu perpendiculari dimoveatur: id quod im-
+
+pedit filum transversarii F E ‚ fi fuerit A F:
+,3‚AE ’.ἱ-’4 &PE Ξ 5.Ratio patet per
+theorema Pythagoricum infra demonstrandum.
+
+(AY-417).
+ScuoL 1 oN ΙΙ.
+
+TabJI.
+
+fig& 5·
+
+TabJI. 133. Circz'ni , ut instrumenta Geome-
+fig-warini reliqua ‚ ex orichalco parantur ob
+durabilitatem, instabilitatem (P nitorem
+hujus metalli. Cuspides tamen crurum ex
+chalybe fiunt: fert enim ejus durities,
+ut subtilius exacuuntur. Circini , quov
+ad lineas metiendas Θ dividendas utimur ‚
+crura eadem sunt (r invariata. γ Sed circi-
+ni , qui peripheriis &⁸ arcubus describendis
+inservit, crus alterum variari· potest, ut
+tam plumbagine , quam atramento Sinico uti
+detur , prout commodum visum fuerit. Plum-
+bagine nempe utimur, quoties arcus deli-
+neantur absoluta operatione rursus delendi.
+Longicudo vel §vel 6 digitorum esse βία.
+
+ELEMENTA GEOMETRIAE. PARS Ι.
+
+COROLLARIUM.
+
+134. Qouiam unius circuli periphe-
+ria eodem modo determinatur. quo peri-
+pheria alterius cujuscunque (ὧι 19),· omnes
+peripheriae sunt inter se fimiles (5120). Eo-
+modo patet, ornnes circulos ἅς semicircu-
+los effe inter se similes.
+
+T Η Ε o R E M A Ι Ι.
+
+135. Diameter A E dividit tam· TabJ.
+perillheriam > quam circulum ipsum in Hg- 2· ¹
+duas- partes aequales.
+
+DEMONSTRAqu.
+
+Partes peripheriae ADE ὃς ΑΒΕ,
+
+itemque circuli ADECA ὃς ABE CA
+determinantur 2 recta AC circa centrum
+C mota , donec fibi indircstum jaceat
+(§. 131 ). Sunt adeo arcus ABE &
+A DE partes peripheriae , segmenta
+ABECA δέ ADECA partes circuli
+eodem modo determinatae, adeoque fi-
+miles (§· 120). Qamobrem illi ad
+peripheriam ‚ haec ad circulum eandem
+rationem habent (§. 170.Ariihm.)‚
+consequenter turn illi 2 tum haec inter
+se aequantur (§· 177 Arithm. ). Q
+e. d.
+
+COROLLAnlum.
+
+136. Super quavis igitur linea ΑΕ (pro-
+ducta, s1 opus fit, 5. 21 ) ex assumto in ea
+punito C describi potest semicirculus.
+
+THfioREMA ΙΙΙ.
+
+137 . Si ex centro C duorum circula- TabJI..
+rum concentri'corum ducantur radii CDA fig, 3 ἦ,
+& CEB÷ tum arcus DE ὠ ΒΑ ad ⁴
+peripherias 2 tum ec‘t'ores DCE ὠ ACB ³
+ad areas suorum circulorum eandem ra-
+tionem habent.
+
+DEMONSTRATIO.
+
+Cum circuli concentrici per hypoth-
+
+idcm centrum C habeant (§. 44), &
+arcus
+

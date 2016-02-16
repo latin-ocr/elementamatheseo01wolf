@@ -1,0 +1,125 @@
+Tab.
+VI.
+
+Fig.
+
+109.
+
+150
+
+vidatur 360 per 5 , quotus 72 est arcus AB ‚
+
+qui ex 180 subduehu· relinquit 108 angulum
+
+pentagoni quaefitum.
+
+THEORE M A LXXVII.
+
+350. Qadrilateri circulo inscripti
+GHIK anguli him· oppostti H c& K ,
+item G& I conficiunt duos rec‘Jos.
+
+DEMoNSTRATro.
+
+Infistunt enim junctim sumti integro
+circulo, e. gr. K arcui GHI & H corn-
+
+, plemento ejus ad circulum GKI ( §. 5 6),
+
+Tab.
+VI.
+fig*
+
+adeoque ipsorum mensura est semicircu-
+lus (§. 314). Sunt ergo duobus restis
+
+aequales (§. 143). Q. e. d.
+
+Pnoss LEMA XLI.
+3 5 Ι. Circulo quadratum circumstri-
+bere.
+ResoLuTJQ
+21. Ducantur diametri AB ἃ DE se mu-
+tuo in centro C ad angulos rectos se-
+cantes (§. 210).
+‘2. Ex A, E, Β, Ι), intervallo radii, fiant
+interseuiones in F , G , Η, Ι.
+3. Ducantur senff-„e FG , GH , IH δε IF.
+Erit FGHI quadratum circulo circum-
+scripturn.
+
+DEMONSTRATIO.
+
+Anguli ad A, E , 1321) sunt recti (§.
+338) adeoque PG , GH ³ HI &112 circu-
+lum tangunt ( §. 304). Sunt vero anguli
+G‚F‚ 1,H recti(§. 338) &FG———GH
+=H1=F1=2 AC per constr. Ergo
+FGIH est quadratum (§. 98 >idque cir-
+culo circumscriptum (§. 117). Qe. d.
+
+PRoBLEMA XLII'.
+3 5 2. Super duta rolla ED polygonum
+regulare quodcunque destruere.
+
+ELEMENTA GEOMETRIAE. PARS I.
+E. gt.Qaeratur angulus pentagoni. Di-
+
+ 
+
+R E s o L u T 1 ο. l
+
+Ι. Qaeratur angulus polygoni ( §. 344. ‘gutizi Ἰ
+2.F31{?111)Eipfi aequalis (§. 155 ) ὃς ΕΑ ἐξ
+3. fferEpldncfta A , E ‚ D describatur cir-
+
+culi peripheria (§. 294).
+4. In ea applicetur data recsta ΕΙ) , quo-⁴
+
+ties fieri potest. x
+Ita describetur figura quaefita ( §- 342.
+
+348).
+
+Aliter.
+
+1. InE &D fiant anguli dimidio angulo
+polygonifigillatim aequales ( §. 155),
+quorum crura EF δε DF se mutuo se-
+cabunt in F (§. 262).
+
+2. Ex F tanquam cent1·0,radio EF‚descri<
+batur circulus ‚ qui erit circulus 1301)]-ι
+gono circumscriptus ( §. 347).
+
+3. Reliqua absolvantur ut ante.
+
+PRoBLEMA XLIII.
+35 3. Circulo dato polygonum regulare
+quodcunque inſsribere.
+
+R E s o L U T 1 ο.
+
+1. Dividantur 360 per numerum latess Tab'g·
+rum, ut innotescat quantitas anguli VI.
+EFD ( §. 59 ). fig.
+
+2. Construatur is ad centrum (§. 1 5 5 ). ¹07!
+
+3. Chorda ED ad peripheriam toties ap-
+plicetur, quoties fieri potest.
+
+Ita figura regularis erit circulo inscripff
+
+ta(§.342. 117). Qe.fi&d. Β
+
+ScHoLloN.
+
+354. Resolutio problematis praesentis εῖν
+l precedentis mechanica quidem est, cum ad
+. construfflionem instrumento transportamrio
+
+l utamur (5. 1 5 5 ) : non tamen ideo contem..
+
+nenda 2
+

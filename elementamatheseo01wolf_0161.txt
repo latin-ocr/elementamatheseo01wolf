@@ -1,0 +1,106 @@
+Cap. III. DE LINEIS RECTIS ET TRIANGULIS. 119]
+
+μΒεΜοΝετΚΑτιο,
+
+Etenim AC=AB & BczAB
+
+(§.40).Erg0 AC=BC (§. 87 Arithm.).
+ere triangulum A Β C est aequilate-
+rum (§. 88). Q e. d.
+
+PROBLEMA XI.
+
+199. Data bast DE (sy crure DF,
+equod illa dimidia masas fit , triangu-
+lum aequicrurum construere.
+R Ε s ο L υ T 1 o.
+
+Tab. 1. 1. Ex uno bafis extremo D intervallo
+fig-17. cruris dati DF describatur ar-
+cus , &
+2. ex altero extremo E eodem inter-
+vallo arcus alius (§. 131 ) ‚ qui ob
+DF ÷ EF 1> DEper hypoth& cozssr.
+priorem in F intersecabit ( §. 197 ).
+3. Ducantur reaaeDF & EF (§. 121).
+Dico, DFE effe triangulum aequi-
+crurum.
+DEMONsrRATIO.
+
+DF = FE , per constr. Ergo EDF
+est triangulum aequicrurum (§. 89 ).
+
+Qe. d.
+
+CoRoLLARIUM I.
+
+200. Detetminatis ergo bafi D Ε & crure
+D F totum triangulum aequicrurum deterrui,
+natur.
+
+COROLLARIUM 11.
+
+201. Duo igitur triangula aequicrura DFE
+δε dfe eodem modo determinantur , fi fiat
+
+DF: DE: df: de (5. 119), consequen..
+ter similia ( 5. 1 20 ) , adeoque sibi‘mutuo ae-
+
+quiangula sunt ( 5. 175 & 109).
+THEOREMA XXVII.
+
+Tant. 202. Duestmicirculi CL E t& DGF
+
+fig, 4 5· nonm‘st in punc‘i‘o unico G st mutuo st-
+ατε pqffimt..
+
+DEMONSTRATIO.
+
+Seccnt enirn , fi fieri poffit 5 praeterea
+se etiam in L. Ducantur ex centris A
+ἂ Β ad puncta interfectionum L &G
+recrae AL , AG, BL ‚ Β (Ξ,- puncta
+item interfectionum connectantur reita
+GL (ς. 121 ). Qloniam Β L==BG
+(§. 40) ,- erit BGLzssLG (ἕ. 184).
+Sed BGL > A GL ( ἓ. 84. Arithm.):
+ergo BLG > AGL( §. 89 Arithm. ).
+Porro quia AL=AG < §. 40) ; AGL
+:ALG (§. 184 ), Qare BL G
+> ALG (ᾗ. 89 Arithm.) : quod curn
+fit absurdum ( §. 84 Arithm.) 3 duo se-
+micirculi nonnifi unico in puncto ser
+
+mutuo secare pofl'unt. ξε. d„
+
+CoRoL LARIUM.,
+203. Ergo duo integri circuli, non nisi
+duobus in puntstis se mutuo secare possunt.
+
+THEOREMA XXVIII.
+
+204. Si in duobus triangulis AC B Tqulf
+&a C bfuerit Α C: ac 2 ,ΑΒ-ΞΜ), Rg'd‘h
+BA=b ες etiam A=a , Βζι) , C
+Ξ c 2 totaque triangula aeqttaliastmt (ἐν,
+stmiliar.
+
+DEMONSTRA 110.
+
+Ex centro A radio A C , descriptus
+concipiatur arcus y <Sc , ex centro B ra-
+dio B C> aliUS x (§· 131 ). Concipia-
+mus porro Δ ac b ita poni supra Δ Α
+CB ‚ ut punctum a super A <Sc recta ab
+super A B , cadat. Q10niamab=A B ‚
+per hypoth. pun&um b super B cadet
+(§. 169 ). Et quia ac=AC δε bc
+:BQ per hypoth. resta ac in arcu y
+& b c in arcu x terminabitur (§. 173 ) ,
+consequenter punctum c super C cadet
+(§. 202) ὃς Γεόὶαῑ ac ‚ bc rectis A C,
+
+B C congruent (ὃ. 170). ere a :A 2.
+
+b=B ζ
+

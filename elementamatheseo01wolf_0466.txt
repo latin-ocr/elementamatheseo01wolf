@@ -1,0 +1,143 @@
+346
+Sint absciffae x & v, semiordinatae ·
+y & ις erit y²=ax &z²=av(§.388), l
+
+consequenter
+y² ε z²= ax : av
+
+-—-..—-——--.-.— .—
+
+y²:z:x.v (§.124)
+y : z :xlm dv
+Theorema. Qulrata semiordinatarum sunt
+
+Inter se ut abssissae z ipsae autem semiordinatae
+in tatione subduplicata absciffirum.
+
+P Ross L ε Μ A CLXXVII.
+
+,ᾖξ’ 403. Determinare quantitatem rec-
+fig,40. tanguli ex stemma duarum ſsmiordinata-
+
+rum PM -l- pm in dfyfirentiam earun-
+dem-Rm.
+
+PM ÷pm=slax ÷ «sav (§.402
+
+—ZnRssysav—slax 3 88).
+
+( PM ἦ- pm)mR:av ›-a:<=a(v ›-·x)
+
+za. Pp
+Theorema. Rectangulum ex summa dna-
+tum semiotdinatnum in diffireutiam earun-
+
+dem aequamt teetangulo ex parametm in dif-
+ferentiam abscissatum.
+
+COROLLARIUM.
+
+404. Est ergo patameter ad summam dua-
+rum semiordimtarum ut earundem differentia
+ad differentiam abscissarum. (ᾗ. z 9 9 Arithm. )
+
+P Ro Β LE M A CLXXVIII.
+
+ 
+
+ 
+
+ 
+
+ 
+
+405. Determinare quantitatem rec-
+tanguli ex fimiordinata in absc'tſj'am.
+
+Tab.
+
+dax& x² (§.124)
+hoc est a : PM—-r-PM, ΑΡ : AP2. ·
+
+Tbeorema. In parabola est redtangulum
+'ex semiordinata in absciffim ad quadratum
+
+abscissae ut parametet ad semiordinatam,
+
+ELEMENTA ANALYSEOS. PARS 1.
+
+ἰ tangu‘i ex absczfflz una in alteram.
+
+miordinata nna:=y , alterazz 3 eritx
+=y²:a&v=z²: a (§. 391) ‚ conse-
+quenter xvzyfffft a²‚ adeoque a2: y²
+:zzfft xv.
+
+QoniamPleglax (§. 392 >3 erit
+
+111. PM. AP=x2lax=2sax³ (§.61). Qare
+Υἱὲ-40· cum fit ax: xlax³=2lax³z x² , hoc est ‚
+ax: xdaxzdax³t x2 5 erit a : dax:
+
+Seffc'. II.
+
+PROBLEM Α CLXX. ,
+406. Determinare quantitatem rec-
+
+Sit absciffa una-:x , altera=v3 se-
+
+Theorema. In parabola quadratum para-
+metti est ad quadratum semiordinatae unius ,
+ut quadratum semiotdinatae alterius ad tedbau-
+
+gulum abscisslrum ‚
+
+‘PROBLEMA CLXXX. Tb
+a.
+
+407. Determinare quantitatem chor· ΠΙ
+dae ᾼΜ· . , Fig.41·
+Slt Parameter-:a , ΑΡΞκ, ent
+PM* :ax < §. 388). Qare cum ΑΡι
+=x2 ; erit AM² :ax -†- x² ( §. 417
+Geam. ), = (a -}-· x) x:(a÷AP).
+
+Theorema. ln parabola chorda est media
+proportionalis inter abst-issam ὃς comp'ofitam
+
+ex parat-netto δέ abscissa.
+
+DEFINITI ο XXXV.
+
+ 
+
+408. Si, TM curvam tangit in M , ff?
+
+ducatur MR ad tangentem normalis ς Fz'g.42.
+re8ta PT inter tangentem TM ἃ semi-
+
+ordinatam PM intercepta Subtangens vo-
+catur : quae vero inter semiordinatam'
+
+δε normalem intercipitur PR, Sztbnor-
+malis audit.
+
+COROLLARIUM.
+
+409. Est adeo TMR triangulum rectangua
+lum (ᾗ. 91 Geom.) ‚ adeoque ob PM ad AR
+normalem (ᾤ’. 329. 267 Geom.) , PR: PM
+
+:PMspTssc PM:PT :MR: TM, hoc est , ln
+omni curva subnormalis est tertia proportio-
+² nalis ad subtangentem & semiordinat.un ‚ δε
+normalis est ad tangentem ut semiotdinata ad
+
+, subtangentem.
+
+**†<·p·—2;1;,.„„§„A—m . .
+
+ 
+
+PRO-
+

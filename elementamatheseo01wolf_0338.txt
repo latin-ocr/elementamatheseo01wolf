@@ -1,0 +1,115 @@
+Tab.11.
+Fig.23
+
+228
+
+CononLAtttnM III.
+
+69. Anguli obtufi eundem sinum habent
+cum acutis, qui ipfis deinceps ponuntur
+(925 ’1. Qanmbrem si redto fuerint multo
+majores, perinde est in praesenti casn , ac
+st angulus ο elset valde acutus. Qodli an-
+tem angulum ο in electione stationum ob-
+tusum desideres , tantillo rectum excedere
+debetsconsequentet anguli A & C simula
+εεᾶὶῑο tantillo deficiant necesse est.
+
+CoRoLLARIUM IV.
+
+70. Si angulus ο fuerit rectus, arcus BE
+cum ipsa BD coincidit, atque adeo errori
+in distantia admisso aequalis reperitur , ubi
+in eadem mensura determinatur ‚ in qua
+datur distantia stationum AC ex radio nem-
+
+pe CB (AY-435 Geom.).
+COROLLARI υ M V.
+
+71. Estote adeo in angulo C existente
+eodem , qui in distantia admittitur minimus
+onmium est, ubi angulus ο fuerit tectus.
+
+THEoRss MA VII.
+72. St* in dimetienda diffamia lv-
+
+·corum AB ex dnobus angulis A ὠ* C
+
+ό* uno latere AC error etiam in alte-
+ro angulo metiendo A admittatur prae-
+ter eum , qui in angulo C committitur3
+erit errorent in angulo A commifsttm
+metiens arcus DI distantia uno errore
+implicita AD tanquam radio descriptus
+ad errorem inde in distantia prodnc‘tum
+IH ut finus anguli tertii O quantitate er—
+roris primi m diminuti ad ejas cofinum.
+
+DEMONSTRATlo.
+
+Etenim fi AH fuerit reeta politione
+data ‚ in quarn ob errorem in angulo
+A metiendo admissum promovetur dis-
+tantia AB , recta errorem primum m
+terminans CD continuanda, donec illi
+
+ELEMENTA TRIGONOMETRIAE PLANAE. ”
+
+in H occurrat ‚ eritque AH distantia
+Jatn
+
+ex duplici errore m δε k admiffo.
+distantia uno errore implicita AD tan-
+quam radIO describatur arcus DI men-
+
+·sura erroris k (§. 57Geoni.) 3 crit is
+
+tum ad AD. tum ad AI perpendicularis
+( AY. 309 Geom.) ‚ consequenter anguli
+DIH δε ADI resti( §. 75 Geom ) ‚ cum-
+que arcus DI fit paucorum minutorum
+(ᾗ. 59 Ceam.) pro resta habeti potest.
+Hinc porro ut in demonstratione praece-
+dente colligitur effe y=x=o—m
+(5239 Geom. 3. Est vero ut finus anguli
+y ad DI ita finus anguli z ad IH (§.36).
+Ergo DI ad IH ut linus anguli y ad fi-
+num anguli z ( 5. 173 Arithm. ), si-
+ve colinum anguli y (ς. 241 Geom. ).
+
+Q. d.
+
+SCHOLION.
+
+73. Sl in dimetienda angulo peccetur in
+defec‘tu ‚ error in <nstantia admiffus eodem
+modo determinatur ‚ nisi¹ quod tum fiat sub-
+trac‘tivus, atque adeo unus alterum immi-
+nuere , immo prorsus compensare possit ‚ ubi al-
+ter additivus‚alter subtraffivus fuerit.Sed plu-
+ra non addimus ob rationem paulo ante dictam.
+
+PROBLEMA XXVII.
+
+74. Invenire dtstantiam duorum lo-
+corum inacceffbrum ΑΒ.
+
+RESOLUTIO.
+
+1. Statione commoda in C electa in-
+vestigetur quantitas anguli ACB ,
+itemque angulorum D ὃς E' atque
+BCE(§.152 Geom. ), ρυηᾶἰεΙ) &E
+cum C in eadem linea designatis ( Δΐ.
+1 25 Geom. ).
+
+2. Investigeturetiam quantitas redtarum
+
+DC & CE (9:126 Geom. ). ‚
+3.Su1n-
+
+Tab.11.
+fig-17·
+
+ 
+

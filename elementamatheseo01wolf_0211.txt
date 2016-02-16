@@ -1,0 +1,96 @@
+‚capnon FIGURARUM DESCRIPTIONE. ις,
+
+l bet. Pentngoni , Decagoni (φ’ Qtindecagoni
+ρ - τοηβνιιὲἶὶοηενη tradunt Euclides ζ a) εἴ Ptole-
+maeus (b ): de qua in Analyfi. Equidem (Τ
+heptagoni ‚ enneagoni θ hendecagoni constru-
+&iones Geometricaepaffim apud Antores, prac-
+ticos inprimis, occurrunt: sed a rigore de-
+monstrationum abhorrent. J oh. Carolus Renal.
+‘l dinus (c)omnium polygonorum describendo-
+rum regulam catholicam praescribit , paffim
+Geometriis prafficis insertam: sed quantum
+fallat, CLWagnerus , Mathemnt. in Aca-
+demia' Helmstad. Professor ostendum) Θ
+
+nos inferius in Analyfi ostendemus.
+PRO B L E M A XLIV.
+
+35 ς. Polygonum regulare quodcun-
+
+que circulo circumstribere.
+
+RESOLUTIO.
+
+stab. 1. Inscribatur figura regularis fimilis
+'vL circulo dato , V. gr. pentagonum
+fig. ABCDE , fi pentagonum abcde cir:
+&107- cumscribcndum (§. 353 >.
+2.Chorda AB bifariam secetur in H
+per rectam F h ad eandem in H nor-
+malem ( §.210),‘quae arcum cogno-
+minem in h secat.
+3. Per A δε Β producantur radii ΡΑ 6<
+4. Per h ducatur ipfi AB parallela radiis
+continuatis in a & b occurrens: erit
+⁷ ab latus unum polygoni circums-
+cripti..
+
+ 
+
+(a) Elem, 4. prop. 11. 16. δε Elem. 13,
+
+pr?ili›.)1?&·lmag. lib. 1. c. 9. f. m. 8. conf. joonnes
+Ι Regiomontanus in epitome hujus Almag, lib. 1.
+{EQ->xiib ι de Resolut. δε compofit. Mathem. f.
+
+7
+
+habita. .
+
+(21) 11] peculiari Differtatione Helmstadii 1700 ἰ
+
+venda , tum quia universalis &facilis ‚ tum 3 ς. Producantur radii FE‚FD, FC , do-
+quia construc‘tionis rite perat‘bae indicium prae- ⁴
+
+nec fiat Fe z fd: Fc :Fa ἃ punc-
+ta a, e , d ‚ c ‚ b connectantur rectis ae,
+ed, dc , cb .· erit abcde polygonum cir-
+culo circumscriptum. Qe. f.
+
+DEMoNSTRATIO.
+
+Quoniam ab parallela ipfi AB per
+construel. erit angulus Pha=FHA
+(§. 233 ). Sed ob-FH ad AB perpen-
+dicularem per construe? FHA rectus est
+(§. 78). Ergo etiatha reetus ( §. 145 ),
+consequenter ab circulum in h tangit
+(§.78. 304). Est vero etiam angulus
+FaszAss ( ἓ. 233) , adeoque dimi-
+dius angulus polygoni ( §. 347 ).Por-
+ro quoniam AB=AE per construe?
+δε ΡΑΣΡΕΞΡΒ (5. 40) 5 erit an-
+gulus bFazaFe (AY. 204). Qa-
+re cum etiam fitF a: F e per con-stru&
+ὃς, ob F (1sz ba per demonstrata 2
+ῑεέὶοε ad h & latus F h utrique trian-
+gulo Fah ὃ( th commune, Fb=Fa
+(Β. 252) 3 erit ae=ab & Fae:
+Fab ( Δΐ. 179 ), consequenter stangulus
+polygoni> e. gr. in nostro casu pentago-
+ni. Eodem modo ostenditur· , angulos
+quoque e, d³ c, b effe angulos' polygoni
+circumscribendi δε edzdczcbzab„
+Qod vero etiam ae circulum in g tan—2
+gat 2 ita demonstratur. Demittatur ex
+F perpendicularis ad ae ( 5. 216 ) 5 erit
+angulus ad g rectus (ᾗ. 78). Quoniam
+porro F ah-——Fag per demonstrata 2 &-
+&2sz erit Jth--sg (AV. 252).
+Qun-e cum F h lit radius circuli per
+conserua. crit etiam Fgradius circuli
+(§. 40) , atque adeo ae circulum iu g
+
+tangit.
+

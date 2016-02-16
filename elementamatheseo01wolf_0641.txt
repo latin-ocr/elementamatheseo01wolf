@@ -1,0 +1,112 @@
+mandum propofita nulli illarum formu-
+larum fimilis3 aut reducenda cst ad sum-
+
+· S c H 0 L 1 ο Ν.
+96. ,Qzemadmodum in analyfi finitorum
+
+ἔ εφη. DE QJADRATURA CURVARUM. 441
+ξ
+ἔ
+
+, mabilem finitam ‚ aut ad serIem infini-
+ἒ ⁷ tam cujus finguli termini summati pos-
+’ sunt,ve1 etiam ad quadraturas &rectifi-
+cationes Curvarum simpliciorum, quae
+quadrari vel reetificari nondum poffimt ,
+veluti ad Qadraturam Circuli, ch reeti-
+
+ficationem arcus circuli : quas reduetio- 1
+
+nes exemplis potius, quam regulis docc-
+mus ‚ ne calculi tyronibus nauseam
+moveamus.
+Et quia eadem differentialis prodeunt,
+fi variabifibus constantes quantitates ad-
+jiciantur,quam1ieaedem abfuerint(§.10)3
+itaque fieri potest,utsc'lxfitx ψ a vel x a,
+Rxdyq-ydx)= κ] ἶῖ-ιιῑ , vel xy ,ᾖ ab , ita
+porro. Sed quid de quantitate adJicimda
+tenendum fit ‚ docebitur paulo post.
+
+DEFINITIO VI.
+
+[ffi’rentiale Je'u elementum areaee
+dicitur reffangulum PMR P ex
+
+stmivrdinata PM in dtffirentiale aff
+ctffie Pp.
+COROLLARI υΜ. Ι.
+
+98. Si ergo semion-dinam PM=y abscissa
+AP: x , erit Pp Ξ MR = dx ‚ consequenter
+Elemeutum areae PM. MR πμ»
+
+COROLLAKIUM ΙΙ.
+Ι99. Qoniam mR= dy <Sc MR = cix-3 erit
+, v AMRm: {dxdy (§.392 Geom.).Sed÷dxdy
+,ᾖ est ipfiusydx infinitefima (51 2⁴.)‚consequen-
+
+ter trapezium 1⁴Mmp aequale est‘retstangulo
+PMRp in praesente nimirum casu ubi pm ipfi
+
+PM infinite propinqua intelligit11r<,§'.4‚).Qa-
+Wlffii Oper. Mathem. Tom.1.
+
+ 
+
+ 
+
+*C A P U T
+De uste Calculi integralis in quadraturis curvarum.
+
+ 
+
+quaelibet quantitas ad quemcunque dignitatis
+gradum evehi , sed non vice verfic cx qualibet
+radix extrahi potest defiderata ς ita simili-
+ter in analysi infinitefimalc' quantitas quaelt'„
+bet variabilis aut ex variabilibus (γ’ constanti-·
+bns quomodocunque compofita haud difficulter
+differentiarum sednon vice versa quodlibet dif-
+ferentiale integrari potest. Qemadmodumau.
+tem porro in analyfi finitorum non ex omnibus
+aeqlzatiottibus radices extrahenda· Methodus
+haetenus inventameque enim amfnoslra trans·
+cendit limites ultra seculum ἄν quod excurrit
+Algebrae jam affignatos ε ita similiter ιή analy- .
+si infinitorum calculas integralis suam perfec*
+tionem nondum est afflecutus. Sicuti autem in
+analyfi'sinitomm ad methodos extrahendi radi-
+cem per approximationem recurrimus ‚ ubi
+perfecffbam extrahere non datur ; ita similiter
+in analyfi infinitorum adseries infinitas confu-
+
+gimus , uhi perfeblam summationem dare non
+va emus.
+
+Μ
+
+ΙΙ..
+
+re cum area AMP in infinita istiusmodi tra-⁴
+pezia resolvi poffit3 erit ea [ydx (μ’. 91. 94).
+CoRoLLARl ΠΜ ΙΙΙ.
+
+100. Qodfi itaque ex aequatione ad cur-
+vam datam substituatur valor ipfiusy‚ &ydx
+integrabile evadam integratione petailza habe-
+rur quadxatura curvae. Curvam igitur qua-
+drare idem est ac summare ydx.
+
+PRossLEMA XXV.
+101. Invenire aream trianguli,
+Sit CP: xMN: y, cD: a,Ass= b,- Tum,
+erit ob MN ipfi AB parallelam , (§.26 8, ch. 1 8,
+396. Geom.)
+
+ 
+
+ 
+
+y Ξ bx :a
+

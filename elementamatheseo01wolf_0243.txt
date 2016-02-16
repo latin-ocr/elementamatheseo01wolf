@@ -1,0 +1,129 @@
+Tab.
+X 1.
+Eg.
+ι 76.
+
+Tab.
+X I.
+Eg.
+
+177.
+
+Tab.
+X 1.
+fig.
+178·
+
+Tab,
+XI.
+Fig.
+¹79-
+
+Cap.11. DE SECTIONE ET SITU PLANORUM.
+
+surdum (§. 19), recstae lineae quaedam
+pars AB non potest effe in subjeeto pla-
+
+no DE , pars vero quaedam BC in su·
+blimi. Q e. d.
+
+COROLLARIUM Ι.
+
+479. Duae igitur reihe ADEB δε CDEF
+segmentum commune DE habere nequeunt
+
+(§. 478 ) , consequenter duae reetae (ΖΑΒ
+& CF se mutuo non intersecant nis1in uno
+
+pundko D.
+
+CoRoLLARI u M II.
+
+480. Cumque pars retstae AD esset in sub.
+jecto plano , pars vero BD in sublimi, s1
+trianguli ΑΒΕ pars ADE esset in subjecto
+plano, pars vero DBCE in sublimi 3 triangu-
+lum ABC erit in eodem plano.
+
+CORoLL Anium ΙΙΙ.
+
+481. Et quoniam rectarum BE & DC se
+mutuo secantium in A partes AB & AC sunt
+crura trianguli ABC‚· eruut eadem in eo-
+dem plano(§.. 480). Sed in eodem plano
+est EA , in quo est AB, &AD in eodem
+est ‚ inquo est AC ( §- 478 ). Ergo lineae se
+mutuo secantes ΕΒ & DC in eodem sunt
+plano.
+
+T H E o R E M A ΙΙ.
+482. Si duoplana ABCD ὠ EFHG
+
+(⁶⁷ mutuostcent3 erit communis [ἑὲῗίο rec-
+
+ta JK.-
+DEMONSTRATIO.
+Qoniam reecae AB & EF se mutuo
+non intersecant nisi in puncffo I , nec
+rectae DC & GH nifi in puncto K (§-
+479); ficommunis planorum sestionon
+est recta unica ‚ sed aliquod planum³ ter-
+mini illius plani in pundfisl & Κ coire
+debent. Ducantur ergo in plano EFHG
+resta ILK ὃ( in plano ABCD recta IMK,
+quod fieripoffe patet , fi sectio commu-
+nis planorum ABCD δε EFHG non est
+reeta unica IK ‚ utut planum scetionis
+
+181
+
+lineis curvis in puntstis 1& K coeunti-
+bus terminari sumas ( ς. 191 ). Duae igi-
+tur rcetae ILK δέ ΙΜΚ ‚ curn earum ex-
+trema inl & K coincidant , tota: in
+punctis omnibus coincidere debent (§.
+170 ) 2 consequenter communis sectio
+este nequit nifi reeta jungens punsta 1
+8< K. Qe. d.
+Timone M A 111.
+
+483. Si dmrec‘ifie AB &CDfuerint Tab.
+in eodem plano ‚ rec‘Ja EF eas stcans in X 1.
+G ὠ H erit in eodem plano. Fig-
+
+DEMoNsTRATIO. 180.
+
+Secet planum aliud planum datum ‚
+in quo positae sunt rccraeAB ὃ( CD, in
+punctis G & H; reeta tranfiens per G
+& H est communis festio planorum ( ᾗ.
+
+482 l. Sed eadem est pars lineae EF (§.
+170), quae duas ΑΡ) 8< CD secat per
+hypoth. ReAEta igitur EF est in eodem
+plano ‚ in quo ponuntur duae ΑΒ &
+CD. Q e. d. ‚
+
+T H E o R Ε Μ A IV.
+
+484. Si recsi‘a IE fuerit perpendicula· {a}
+ris ad restam KL in plano ABCD duc· fig,
+tamJ erit ea perpendicularis ad rec‘Jas om· 181.
+nes MN , ΟΡ &a quae per punci't‘um E
+ducuntur.
+
+DEMoNSTRA‘rlo.
+
+Concipiamus enim ree-stam KL, cui
+IE perpendiculariter insistit , circa
+puncftum E moveri, donec ipfi MN
+immineat. Qonizun reeta KL cum
+reeta MN coincidit (§. 36), ΗΞ ve-
+ro situm ad eandem non mutat: erit
+ipsa IE etiam perpendicularis ad
+MN. Eodem modo patet ‚ ean-
+dem rectam 115 etiam perpendicularem
+effe debere ad renam ΟΡ & quam-
+
+Z 3 cunque
+

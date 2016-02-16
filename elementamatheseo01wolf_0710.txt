@@ -1,0 +1,163 @@
+508
+
+semiordinatae MP continuatae in E oc-
+currat , δε MG eidem axi ΑΒ paralle-
+la. Qioniam anguli E & R sunt resti
+& ob EMG ὅτ. CMm (§. 317) rectos
+adeoque aequales (§.145 Gema.) utrin-
+quc angulo CMG sublato 2 EMC=
+GMm5 erit (§. 267 Geom.)
+MR: Mm Ξ ME: MC
+
+dx: 5! (dx21 -Ι- dy2):t: &Vsdxti—vffl—gl-JL)
+Jam cum radius MC constans intelli-
+gatur ‚ quandiu ex centro C arcus in-
+finite parvus Mm describitur, interea
+vero ME augeatur quantitate differen-
+tiali Rm‚· erit radii osculi CM differen-
+tiale nullum (5.7). Sed , fi dx suma-
+tur pro constante , differentiale ipsius
+MC est
+
+dtV (ἀπεΖ »Ι- gis) τά] ddy
+dx “ '¹‘ maxi—Hyan Ξ
+dtdx² ›FAEyJ—ff: tdyddy
+de(dx² ’ὶ- dy2) ⁸
+Er O dtdx2 Qdf 4 tdyddy
+
+————— -20
+
+dx ts<dx2 ›1‹ dy)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘3222 [χι -1- dtdy2 =—tdyddy
+
+Qloniam mR differentiale semiordina-
+tae etiam differentiale ipsius ME ob
+PE constantem5 erit dtrzdy.
+
+Qare dxz »1- &bx-— tddy
+
+(dx2 ›1‹ dy2): -——- ddy= c·
+Quodsi itaque ex xquatione ad cur-
+vam datam substituatur valor ipfius dy2„
+&---— ddy3 prodibit MD Ξ t in quau-
+sitatibus ordinariis.
+
+Si vero radius evoluta? MC ipse de=
+fideretur (quem interdum inveniri prae-
+stat) fiat (ἕ. 267 Geom.) ob Pszdy:
+dx (ἕ. 3 5)
+
+ELEMENTA ANALYSEOS. PARS 11. seffllls.
+
+MP2PH=ME: EC
+Q=dx²÷dg· dx²dy>i⁴dy÷z
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7² ‘1²‘ - ddy ' — axady
+Unde 1302: ff-——dy‘ „pig-gd? ᾧ aya
+
+Mfiz Ξ “x“ *F 2dx² 51ss ›1‹ dy*
+:4²6⁶ *Fssdzffydw ψ dit-232
+
+.---- dx2ddy
+Μαι ζέΞΞΞΞΞΞν-Ἔκὲ ÷ ff
+Ξ (dx-⁴ 4 zdx zdjth)—(dx3 ,p d—-)
+dx²ddy²
+
+ 
+
+ 
+
+—— ——--—.-—.----—- .—
+
+ 
+
+MC=Q²⁴⁴ dy2)1f<dx2 4322)—
+
+*dxddy
+PROBLEM A CXXXIX.
+
+321. Data aequatiane ad curvam al-
+gebraicam > invenire aequationem ad e·-
+volutam.
+
+ 
+
+ 
+
+Rsssorurro.
+
+1. Investigentur quantitates BN δε CN Tab„
+
+in valore absciffie ΑΡ aut semiordi- ἐξ 274
+
+natae PM. Nimirum ME invenitur
+(§. 320): unde subdubia PM relin-
+quit PE=NC Sed per analogiam
+PM: PH=ME: EC (§.267 Ceam.)
+reperitur EC. Si vero ex ΑΙ) 4- EC
+:AN subtrahatur AB radius evom
+lutae in vertice B per probl. praec.
+determinandus, relinquitur BN.
+
+2.Fiat valor ipfius BN=v, CN=z
+ὃς communis aequationum reductio
+ad evolutam in puris v δε z atque
+constantibus„
+
+PRoBLEMA CXL.
+
+322. Invenire radium circuli para⁶
+bolam aſsulam& (ῥ’ aquationem ad ejm
+
+evolutam.
+Ι. Q&
+
+ 
+

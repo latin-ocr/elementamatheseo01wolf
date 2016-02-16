@@ -1,0 +1,135 @@
+'gg’ Ξ· curvam defidcratam algebraicam , quae
+
+430 ELEMENTA ANALYSEOS. PARS 11. seffllls
+
+Porro cum ΤΚ (per hypoth. ) & CH
+(§. 37) lint ad MK perpendiculares ς erit
+mH ipfi KT parallela (§. 256. Geom.) ‚
+adeoque (§. 268. Geom.)
+
+Mm: MT=MH: ΜΚ.
+
+Similiter mR δε TI, q'uia ad ΜΙ per-
+pendiculares (per hypath.)‚ inter se pa-
+rallelae ( §. 256. Geom. ) , adeoque (§.
+268. Geom.)
+
+Mm: MT=MR2 MI
+consequenter (§. 167. Arithm. )
+MR : MI = MH: MK
+dy: b-—y=EZ-x : ‘gc-*1235-
+Est vero ex natura quadratricis (ς.
+518.para 1.)
+hx = ay
+bx: a= y
+Item , dx=adyt b
+Substitutis ergo in valore ipfius MK
+
+pro dx & y valoribus modo inventis ‚
+prodit MK: “ff—— ffl=fflzp νῆμα)
+b=(a———x)p: b=NB. MC: AC.
+
+Est vero NB arcus radio NC descrip-
+tus adeoque constructio a rectificatio-
+ne arcus illius ‚ seu a quadratura circu-
+li pendet.
+
+PRoBLI-:MA XII.
+
+ς 6. Intra angulum Q H destribere
+
+ 
+
+recJam TQn dato punilo M tangat.
+R n s o L U T 1 o.
+Demittatur ex M ad TH perpendicu-
+laris PM , erit TP subtangens ‚ PM se-
+miordinata curvae quaefitae. Sit TP=v‚
+PM:y‚ erit (ξ 20.)
+TP: PM: MR: mR
+v ε y τ·- dx : a'y
+τά] = ydx
+
+ 
+
+ 
+
+ 
+
+Qare fi ex aequatione curvae deter÷
+minatur valor ipfius dx vel dy &in aequa-
+tione modo inventa substituatur3 per
+communes Algebrae regulas determi-
+nantur tum abscissa x semiordinatae PM
+datae respondens , ut habeatur vertex
+curvae A,· tum lineae ret‘tae , quibus da-
+tis curva datur. Qodfi vero contin-
+gat ‚ aliquas ex his determinari non pos-
+se; id quidem indicio est, eam variis
+modis assumi posse adeoque plures cur-
+vas ejusdem speciei satisfacere propofito.
+
+COROLLARIUM Ι.
+
+5⁷· Si curva AMO parabola primi gene.
+ris effe debet5 erit (5, 388. part. 1.)
+-ax = Γ ,-
+adx = zydy
+dx = zydy: a
+Qodfi hic valor in aequatione vdy :ydx
+pro dx substituatur5 habebimus
+vdy = 272 dy: a
+av ..τε 231² [εἶῖι-ε-ἷγτε v
+Porro ex aequatione ad parabolam a: y².·x
+uate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x = {v
+Divisa nempe ΤΡ bifariam in A, habetur
+vertex parabolae A, ut jam ex superioribus
+(ᾗ. 21.) constat. Parametro itaque 221².- v
+circa axem AH parabola describenda (92401.
+
+paral.)
+CoRoLLARIUM ΙΙ.
+
+58. Si curva AMO hyperbola aequilatera:
+
+erit (5-505.part.1.)
+axfflxx =y²
+
+amc& :Q
+dxssffzydy: (a »Β zx)
+
+ 
+
+ 
+
+ 
+
+&²⁴
+
+ 
+
+fl
+ι
+
+l?
+
+‚v
+
+ 
+
+Qodq
+

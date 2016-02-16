@@ -1,0 +1,116 @@
+310
+
+Sit AF =b, ΑΕ =y‚ erit (§. 272)v
+b² Ξ 2y² *Q-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Est igitur b:y=y:b·-1< d{b²
+conseq& bzy ,ιτ-,χε 2b÷ 25s{b²
+Hinc elicitur sequens geometrica.
+
+Construflio. Super latere odbogoni AB :b
+Tab. describatur semicirculus δε ex centro C eri-
+X 11- gatur perpendicularis indefinita CF , erit rec-
+
+Fl'g- εει DB= xl} b² ( 5. 417 Geom ). Fiat ΑΕ =
+ι 1 5 · χΙ, -1- 2 xl} ὑὶ, descriptoque semicirculo AFE;
+erit AF ,τ ss( b² 4 lus-{- b2) ‚(§. 327 Geom.)‚
+
+consequenter radius circuli octogono circurn-
+scribendi: quod adeo super tedia AB cons.
+truetut‚s1 radio AF describatur circulus tran-
+liens per A δέ B.
+
+PROBLEMA CXXIV.
+
+275. Dato radio circuli AC, inveni-
+re latus decagoni regularis inscribendi
+
+Qoniam AB est {3 totius peripheriae,
+angulus ACssz360(§. 57. 59 Geom.)‚
+consequenter ob AC Ξ BC ( §. 40
+Ceam), ABC=CAB=720 ( §. 248
+Ceam), adeoque DAC=IO8 (§. 149
+Geom.). Fiat AD=AC‚ crit ADC:
+ACDss36⁰ (§. 248 Geam.)‚ consc-
+
+TabJ.
+Eg. 1 4.
+
+¹ centro E erigatur perpendicularis 113 =a. Fiat
+
+ELEMENTA ANALYSEOS. PARS Ι. Sea. II.> ᾖ
+
+quenter DCB=72⁰. Sunt ergo ‘trian-
+gula ΑΒΕ & BDC aequiangula & hinc »
+hD: BC:BC: AB ( 5. 267 Geom. ). « Ὺ
+
+Sit jam AC= BC ετ·- a ‚ AB=x3 erit ’ἱ
+BD==a ὦ κ, consequenter per demens-⁸
+trata.
+
+Est ergoa media &extrema ratione secan-
+da, cuius pars inajorx (5. 258). vel ra-
+dio a quaerendae sunt reciprocae a ὦκ- δικ,
+
+(5. 265 ).
+
+Theorema. Latus decagoni regularis cir· Tab. ’
+culo inscripti est pars major radii media δε fig· ις(
+extrema titione seffi.
+
+Construffio. Qoniam x = ἥξω ...ξ- a
+(ΒΛ-585 radio a describatur circulus &in
+
+   
+
+EF: {a z eritFI z aa? Qare fi ex F
+radio IF describatur arcus K1; erit ΚΕ =
+ss} ‘1²—-{‘a.
+
+SeHoLION.
+
+276. Hanc ipsam construilionem tradit
+Ptolemaeus in suo Almageffo.
+
+CoRoLLARIUM.
+
+277. Invenitur ergo per problema prae-
+sens sinus ι8Ο (35. 2. Trigon. ).
+
+μΡιῑΟΒΙΛΞΜΑ CXXV.
+
+278. Dato lasere decagoni regularis Τὼ. 13}
+circula ieſsribendi ΑΒ , invenire ra- flg- 145.
+dium AC. ¹
+
+Sit ΑΒ :a , AC :x ς erit BD ’π’-ἲ ,
+a -†- x &per demonstrata in probl. praec, ’ς {¹
+
+γ a ,μ « ,
+

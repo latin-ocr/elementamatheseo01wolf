@@ -1,0 +1,96 @@
+514
+PROBLEMA CXLIX.
+
+337. Invenire simmam &finitarum
+frac‘i‘ionum ³ ubi numerator communes
+deficit a denominatore primae data quan-
+titate , denominatores vero progrediun-
+tur ἐκ ratione unitam- ad denominato-
+rem primi.
+
+Si terminus primus z (m ——n): m , ,
+
+qui utpote aequalis summ-ac primi ὃς
+ultimi divisus per (m ——- 1) dat sum-
+mam omnium terminorum maxlmo
+excepto (m ——n) ι (m2———m).. Qa-
+re summa seriei integraez( etz—n)=
+(ΜΖ ·-⁴ m)-}-(m ·-⁴ n)= mzstn- με 4- καὶ
+-ι ψη·- m ÷n) τ (711³- -ι m): (mh-mn)
+(νηὶ-ι m):: (m-* n): (fn-⁴ 1).
+Sit e. gr. κζ’-Ἰ, erit (ru—iz): (νη-Ι)
+’ =(m——-1):(m1 1)=1,
+ΒΜΓ-2 2 m=4 2 critffl ὴὲ ÷ εἰ ecc.
+= (4—2)= (4—1)=}.
+Sit n=2‚ m: 5 5 erit s({-F ἴῃ.
+=(5-—2)= (5—1)={·
+Sit n=21 m=6; erit s (g -1- ᾖ -1- ᾖδες.)
+=(6--2)= <6 θεέ·
+Sit n=2, m=75 erits& ›f‹ ἒξ 4 ἲὲῑ ἃς.)
+=(7—2)= (7—1)=÷}·
+Similiter
+Sit n=3‚ m=6 3 erits(-} *F 5} ÷3{3&c.)
+===(6*-3):(6--1)=={·
+
+ 
+
+ 
+
+== —- t -Ι ΞΣ·
+Sit ηεὲῗθπ-ΞἸΞ), {311 s (ὦ ’Β ἰθ-«ξε †' ³3³6&
+
+ELEMENTA ANALYSEOS. PARS 11. Seetst.
+
+&c.)=(10— 4): (10—1)=g:-}.2
+&a &c-
+Ρ R o B L E M A C L.
+
+338. Invenire simmam frate-'fimum
+infinitarum, quarum con-:mmm est nu-
+merator, denominatores vero in ratia-
+ηε quacunque progrediuntur.
+
+Sit numerator communis Ξ m de-
+nominatos fraftionis pnimae Ξ a , deno-
+minator rationis = 723 erit series sum-
+manda E ›1‹ E »1- -ΪΞΖ- ÷ ⁷4¹ &c. in infi·
+
+ιῖ na n a 11 ίΖ
+nit. Unde eodem ‚ quo in problema-
+tibus praecedentibus , modo reperitur
+summa 772 ε (na—a) ψ m : a: (m ᾧ mn
+-m): (πα-«ὼε mn: (na—⁴ n)=
+mn: a(n—1).
+Site. gr. m: 5, a: 6 , φιτ-τ 2; erit
+
+s<÷÷r{÷÷{&c.)= 10: 6(2——1)=
+
+2:321}
+
+Sitm= 3, a: 5,n:4; eritsffgfflr-
+3³3÷z³z÷z}E&c-)=12=5<4-*1)=
+
+37:3³.
+
+Sit mzl, (2:27, n=23‘erits(‘³1 *⁷
+
+fflfiffiffi÷ss&c.)=2:7(2—1)=÷²·
+S c H 0 L 1 o N.
+
+339· Hoc problema universalitate sua an-
+tecedentia omnia compleffiitur. Sit enim n
+= a (θ’ m :n —- l , qui est casus problematis
+praecedentis : substitute& hisee v.zloril2us in for-
+mula prasente ‚ prodit (ηι -- ln) τ (n- 1 ) n
+= (n— l) : (n— 1), quae est formula proble-
+matie praecedentes. Similiter fit n = a ‚ m
+= n —· 1, er-it summa: (η’-α n): (⁷1²-· n)=1‚
+utsupra (53 3 5). Deniquefi m: 1‚72= cr, eric
+summa: n: (n—1)n= 1:(n-1), zztfitpr.2(5.3 34)
+
+PRO B LEM A. CLI.
+340. Invenire rationem stimme pro‘
+greffiom's arithmeticae fimplz'ct's ab 1 in>
+infinitum continuate (1 *1- 2 ›1‹ 3 »ἑ- 4 ›i‹ ἓ
+⁷¹1*
+

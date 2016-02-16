@@ -1,0 +1,114 @@
+Ῠ Tab. 1.
+¹ fig. 2.
+
+Tab. 1.
+fig· 3.
+
+Tab. 1.
+Eg04,
+
+Cap. J. DE CONSTRUCTIONE CANONIS.
+
+P R 0 B L E M A II.
+17. Dato stme AD arcus ΑΕ , ῖηυεέ
+nire finum arcus dimidii ὲ AE.
+R E s o L u T 1 0.
+Inveniatur chorda arcus AB( §. 423.
+Geom. ). Hujus enim dimidium est ejus
+
+finus (§. 2.).
+Ε. gr. Sint AC & AD ut in probl. praec.
+reperietur smus arcus-¹23 ΑΕ seu finus 150 Ξ
+
+2588190.
+PRoBLEMA III.
+18. Dato finu DG arcus DF ‚ inve-
+m're finum DE arcus dupli DB.
+RfisoLUT10&DEM0Ns·
+TRATIO.
+
+Cum anguli ad E ἃ G reffi fiut
+( §. 3.) & angulus B utrique triangulo
+BCG & DEB communis ς erit BC: CG
+:BD: DE (§. 267. Geom. ). Qare
+cum CG inveniri poffit ‚ dato smu DQ
+( §. 16.) , & BD fit duplum ipfius DG
+(§. 2.) z invenieturquoqueDE (§· 302.
+Arithm. ). Qenfss (Ἀφ’ d.
+
+P R 0 B L E M A IV.
+
+19. Datis finibus FG ὠ· DE arcuum
+FA ό* DA ‚ quorum dffrentia DF 45'
+masor nonest ‚ invenire finum quemcun-
+que intermedium IL„
+
+R E s ο L υ T 1 O.
+
+Ι. Qaeratur ad differentiam arcuum
+FD , quorum smus dantur , differen-
+tiam arcuS, cujus finus “quaeritur, AI
+atque arcus AD finui dato majori
+respondentis IF δε differentiam sx-
+nuum datorum DH quartus nume-
+rus proportionalis < §. 302. Α·
+rithm. ). ’
+
+2. Is addatur smui dato minori PG.
+Erit aggregatum finus quaefituS IL.
+
+215
+
+DEMONSTRATIO.
+
+Cum arcus DF δε FI paucorum fiut
+minutorum, per hypoth. pro lineis rectis
+citra errorem senfibssem haberi pote-
+runt. Porro FG , IL Sc DE parallelae
+sunt (5. 3. ). Quare fi exF ad DE per-
+pendicularis demittatur FH (§. 216.
+Geom. ) ,- erit HE=PG ( §. 2 2‘6.Geom.),
+adeoque DH differentia finuum dato-
+rum FG & DE (§. 64. Arithm. ) Unde
+ob parallelas ΙΚ & DH per demonstratas
+DF: F1=DH: ΙΚ ( §. 268. Ceam).
+
+je. d.
+
+Q PKRoBLEMA V.
+
+20. Datis finibus BD ὠ FE duo· Tffb· ¹⁰
+rum arcuum quorumcunque AB (ῤ’ AF ‚ ᾖξ’ 5 ³
+invenire finum arcus sbmidtfferentiae eo=
+rundem ΒΕ
+
+R ε s 0 L u T 1 ο.
+
+1. Sinus minor BD subtrahatur a man
+jore FE ‚ relinquetur differentia FK.
+
+2. Ex datis finibus BD ὃς FE invenIan=-
+tur Cofinus BI & FH (§. 16).
+
+3. Cofinus minor PH subtrahatur e ma*
+jore BI , erit ΒΚ differentia.
+
+4. Ex summa quadratorum differentiam
+rum ΒΚ &PK extrahatur radix qua-⁷
+drata ( §. 269. Arithm.) ς prodibit
+chorda arcus differentiae BF , cujus
+dimidium est finus quaesitus (ᾗ. 2. J.
+Qe. i„
+
+DEMONSTRATIO.
+
+BD , PE &GC, tum AC, BI&FH‘
+inter se paralleloe δε illae ad AC, hae ad
+GC perpendiculares ( 5. 3.) , conse«
+quenter FH=K1 δε ΒΠΞΙΞΚ < §- 226-
+Geom. ) & angulus BKF rectus ( §. 2 30.
+
+78. Geom.) Qamobrem ΓΚ diffc-
+
+tentia
+

@@ -1,0 +1,115 @@
+214 ELEMENTA TRIGONOMETRIAE PLANAE.
+
+CoRoLLARIUM ΙΙΙ.
+
+10. Duo igitur anguli, qui sunt deinceps,
+eandem habent tangentem atque secan-
+tem.
+
+DE FINITIO IV.
+
+'1‘ ab· I.
+
+figa. gens ,- Caſscans secans arcus ΑΗ, qui est
+
+alterius ΑΕ complementum ad qua-
+
+drantem. Ita e. gr. AG finus arcus AH
+
+dIcitur ColInus arcus ΑΕ. Vocantur
+
+etiam Sinus ‚ Tangentes atque secantes
+complementi.
+
+THEOREM⁴A Ι.
+12. Sinus arcuum fimilium ad radios
+filos eandem rationem habent.
+
+DEMONSTRATIO.
+
+Chordae enirn arcuum similium ad
+radios eandem rationem habent( §.
+290. Ceam.) Sed finus sunt chorda-
+rum dimidia ( §. 2. ). Ergo &hi ad ra-
+dios rationem eandem habent (§. 181.
+Arithm.). Qud.
+
+H Y P o T H E s 1 s.
+
+13. Sumatur radius pro unitate ὠ
+per ejus frachones decimales determine-
+tur quantitas sinuum , tangentium at-
+que ficantium.
+
+S c H o L 1 o N.
+, 14. Ex Ptolemaei Almagesto dsscimtts, ve-
+teres radium in 60 partes , quas gratim vo-
+cabant, divisisse & inde chordas per minuta
+prima, secunda , tersia &a hoc es} smilio-
+⁷635 radii sexagesimales decermr'nasse , quibus
+in ana-lysi triangulorum uteb.mtur. Dimvdiis
+chordis feu finibus primum usi sunt, quantum
+constit, Sarac ni. Jahmncs Regiomont nus
+primum radio cum veteribus tribuit 60 gra-
+dus Θ· finus singulorum graduum per ejus frac-
+tiones decimales determinavit. Enimvero
+
+11. Costmts cstfim185 Cotcingens tan- —
+
+postea animadvertit , commodius fbre ‚ fi ›ra-
+dius sumatur pro unitate ‚ ac ideo hypothesin.
+prasentem in Trigonometriam introduxit. In
+tabulis firmum Θ tangentium ordinariis ra.
+
+’ dius concipiat« in 10000000 partes divisus
+
+&⁶ ultra lm sraeliones in dete›rninanda st- ⁴
+nuum e'y· tangentium quantitate non descendi-
+tur. Qi tamen tabutas lstas construxerunt ‚
+ad fi‘ailiones multo minores descenderunt. nc
+error irreperet in scrupulis primis affignabi-
+lis. Setantibus hodie opus non habemus , cum
+omnia Trigonometriae problemata absque illa-
+rum ope fhlvi poffint.
+
+CORoLLAthrM.
+15. Cum latus hexagoni regularis (cxtam
+circuli partem subtendat(.9‘. 116. 342„
+Geom. ) atque radio aequale [ἰῆς. 356.
+
+Geom. )·‚ smus graduum trigintaest 5000000
+(55. 2. Tiigon. δε ,β’μμ. Geom.).
+
+PROBLEMA Ι.
+
+16. Datofinu AD , invenire cofi- pig-21 l
+
+num AG. „
+
+RE soLuTio dy DEMONS-
+T R A T 1 o.
+
+Qoniam EC finus ipsius ΕΗ ( §·2.)
+ad HC& AG finus arcus AH (§. 2 )
+perpendicularis ad eandem HC ( §-
+3. merit AG parallela ipfi DC(§ 256.
+Geom.) δε ad G angulus restus (§. 78„
+Ceam), adeoque Δ AGC rediangulum
+( §.¹ 91. Geom. ). Quare cum AD &HC
+fint ad EC perpendiculares ( §. 3. );
+erit GC=AD< §. 226. Ceam). Si ergo
+1. Ex quadrato radii AC subtrahatur
+
+quadratum finus AD vel GC; relin-
+
+quetur quadratum Cosmus AG( §-
+4¹7· Ceam, ). Undefi
+
+2. Radix quadrata extsahatur ( §- 269.
+Arithm. )‚· prodibit Cofinus AG.
+
+E, gr. Sit AC10000000;AD 5000000:
+repetitur AG 8660254 2 smus*60⁰. PRO
+
+*r ⁴ . „
+

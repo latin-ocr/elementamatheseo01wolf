@@ -1,0 +1,175 @@
+43 8
+aUnde 2a2xdx ..' 4x² dx=1 6y³dy=0
+
+———--,.-—.-—---—-—
+
+‘Patet adeo triangulum maximum effe
+aequicrurum. Nam {i AB2=aa ὃ( AO
+Ξὲιια, erit etiam CB'- ={aa, conse-
+
+quenter AC=CB³
+
+PROBLEMA XX.
+
+nbat.
+fig.
+
+ficiem.
+
+Sit soliditas conorum aequalium εἳ,
+
+rado radii ad peripheriam r: p , radius
+
+Coni [XC-:2²5 eritr :pzxt ᾳ. Haec
+
+peripheria bafispx: r ducta in {x dat
+bafin Conipx2: 2r (§. 429 Geom.): per
+quam fi dividatur a³, habetur ÷DC :2
+2a³r:px2 (§. 548 Geom.). Unde DC
+Ξ 6a³rz px² ὃς
+DC² = 36a⁶r² : p2x⁴
+AC² ΕΞ x?-
+ΑΙ)ζ :26² ὦ 3 6a⁶r2:p²x⁴ (§.417Gco.)
+AD Ξ «J (p²x⁶ 4- 36a⁶r²): px'-
+{peripheria Bas. px: 2ν
+
+ 
+
+ 
+
+ 
+
+ 
+
+Superf. Comi ff (ρ’-κδ 4- 36a⁶r²)2 2rx
+(ἓ. 548 Geom.)
+Habemus itaque vi methodi de ma-
+ximis ὃ( minimis (§. 63.)
+(ρ’-κ6 4- 36a⁶r2): 4r2x2 :s-
+h.›e. p2x41 4r2 —†- 912⁶: x2 :yz
+
+4p2jv³asw 4r2*1 SaZxdm x* =2ydy το
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ρῑκς dx: 7²&I 8a⁶d.·<: ,ek-:0
+
+ 
+
+ 
+
+ 
+
+ 
+
+87. Inter omnes Canos aequales deter-
+17· minare eum , qui maximam habet stapefi
+
+EL'EMENTA ANALYSEOS. PARs 11. scell.
+
+¹pq, x⁶=18a⁶r²
+px³ Ξ 3a³rss
+x³ =}1³7Ws2 -p
+x=a el(3r5l2:p)
+Quoniampx³= 3a³r «2, eritx³: αἲ
+=3r ω : lp, consequenter evidens
+est
+
+Theorema. Cubus radii Coni inter aequa-
+les maximam superficiem habentis est ad ip-
+sum Conum iu ratione composita radii ad
+peripheriam δε 3V2 ad ι.
+
+PROBLEMA XXI.
+
+88. Sit ADB ſsmicirculus ό· curva
+AMD ejus naturae, utstt BP: PN=AP2
+PM ,- determinare pandum M , in quo
+
+MN est maxima linea earum, quae fimili
+mado determinantar.
+
+ 
+
+ 
+
+ 
+
+Sit diameter semicirculi AB ξιτ, Tab.
+ΑΡ Ξκς erit PB=a--x ὃς FN: IV.
+
+efflat—affl) (§. 327. 377 Ceam). Est fig-45.
+
+vero per hypoth.
+
+B P : ΡΝ Ξ ΑΡ z ΡΜ
+α-κῑ χίμκ-κῦεκε PM
+xis (ax 22)- ζ Vx,
+a -- x V(a-x)’
+
+consequenter NM = ΡΝ — PM Ξ
+ff (ax—x2)——5lx³: χ] (ct—x) ὅ( hinc
+MN2=a2x—-2ax2 ἦ· 2x³—2 §s (a²x⁴
+—2ax⁵÷x⁶>:(a-z) :(ob ts(a2x⁴—2ax⁵÷x⁶)
+ιε’-,τ -. 4ax² ›1‹ 4x³
+
+adeoque PM:
+
+ 
+
+ 
+
+ 
+
+ 
+
+:ax2-—x³) , Ua-
+
+a ·-· x
+re cum ΝΜ)- fit maximum aliquod erit
+
+{Ji-{3341 2262) (d-jch-x-(az-4ax24 4x³)dx
+
+—
+- -—-——O
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+———..————————————————=—-
+
+(a2—8ax-i- Ι 2x 2) (ιι-κ) ›1- a2x-4ax2 >b 4x³=0
+h. e. =
+
+‘r
+ί 1
+

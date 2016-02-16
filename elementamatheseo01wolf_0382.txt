@@ -1,0 +1,92 @@
+266
+
+Cum terminus compositus exacte di-
+vidi poffit per numerum alium praeter
+unitatem ( §.76 Aritb. ); exprimetur
+
+idem per mn. Qare fi in progres-
+fione geometrica ab unitate incipiente
+terminus secundus fit mn3 erit series
+
+I.mn.m² n².m³ n‘mf n⁴.m³ ης .m⁶n⁶.&c.
+
+atque adeo patet numeros primos m ὃ( n,
+qui metIuntur secundum terminum, me—
+tiri quoque ceteros omnes , nec prce-
+ter eos alium quendam numerum pri—
+mum ceterorum quemcunque metiri.
+Unde habemus
+
+Theorema 3. Si ab unitate fuerint nu-
+meri quotcunque continue proportionales,
+primus numerus, qui metitur ultimum ,
+metietur & unitati proximum ac omnes in-
+termedios„
+
+In utraque serie exponens termini
+secundi est 1 , tertii 2 ‚ quarti 3 2
+quinti 4 ἃς. consequenter exponens in
+loco impari est numerus par ‚ in loco
+pari est impar, & quidem in loco
+quarto seu a secundo tertio exponens
+est ternarius , δε duobus locis inter-
+
+miffis sequitur continuo numerus pcr-
+
+ternarium divisibilis, seu quem terna-
+rius metitur. Similiter in loco septi-
+mo seu a secundo sexto exponens se-
+narius est & quinque locis intermistis
+continuo sequitur exponens , quem se—
+narius metitur. Singula hinc intuiti-
+ve patent ‚ quod exponentes ex con-
+tinua unitatis additione nascantur. His-
+ce vero notatis prodit-
+
+ELEMENTA ANALYSEoS. PARS 1. seez. I.
+
+Tmeorema 4. Si numeri quotcunque fue.
+rint ab unitxte continue proportionales , se.
+cunnus ‘unit-tte seclusa) quadratus erit &
+uno intermisso omnes: tertius autem cubus
+est, & duobus intermistis omnes: sextus
+vero cubus simul & quadratus & quinque
+intermistis omnes,
+
+Si terminus primus fuerit unitas ,
+secundus numerus quadratus ‚ vel cu-
+bus, vel potentia cujuscunque gra-
+dus , erunt series
+
+1. νηὶ. m4. ωε. 7923. m¹⁰. m¹² &a
+Ι. 722³. ωε. m⁹.m¹². m¹⁵. m¹⁸ ἃς.
+1. ψη. mm. m³'’. m4'⁷. mm, m⁶n &c-
+
+Qoniam in qualibet serie termini
+continuo prodeunt multiplicatione per
+secundum ‚ exponens secundi conti-
+nuo additur exponenti termini cujus-
+cunque dati‚ ut prodeat proxime se-
+quens ( 5, 54) ‚ consequenter cum
+exponentes omnium terminorum , qui
+a iecundo sequuntur , fint multipli
+exponentis termini secundi ‚ per se-
+cundi quoque termini exponentem di·
+vidi potsunt ‚ consequenter omnes ter-
+mini sunt dignitates ejus‘gradus, cu-
+jus dignitas est secundus (§. 56). Ha-
+bemus itaque
+
+‘Theorema 5. Si in serie continue pro..
+portion.1liurn ab unitate numerorum ter.
+minus secundus seu ab unitate primus est
+quadratus, reliqui omnes quadrati erunt5
+fi idem fuerit cubus, reliqui etiam omnes
+cubi erunt3 fi idem fuerit dignitas cujusf-
+cunque gradus, quarti, quinti, sexti &c-
+reliqui etiam omnes erunt dignitates ejufi
+dem gradus, quarti, quinti, sexti &c.
+Seno÷
+
+fl
+

@@ -1,0 +1,143 @@
+,Tab.
+
+³v1
+
+l Eg..
+ί 108.
+
+Tab.
+
+VI.
+
+v Eg.
+μη.
+
+δίῳ. V. DE FIGURARUM DESCRIPTIONE.
+
+terum divisis ( ,οἵ 344 ). Utimhr hac tabula
+tum in figuris regularibus dtfcribendiu tum in
+angulorum quantitate examinanda , utrum sci-
+licet instrumento rite explorata fuerit , nec
+ne: Aberratum enim effe intelligimus ‚ ubi eo-
+rumsumma minor vel major deprehenditur ea ,
+quae in tabula definitur, e. gr. fi in heptagono
+superet 900·
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Num. Sum. {Angfi} Num. Sum. Aug.
+Lat. Aug! regul. Lat. Ang. Fig.reg.
+111“1ι3ο” 60 “ vm 1080 135
+IV 360 90 IX Ι 1260 140
+V 540 108 X 1440 144
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VI 720l 120
+vn Ι 900! ηεξ
+
+———-——-———-———-———
+
+ 
+
+COROLLARIUM II.
+
+346. Si latera figurae polygonae cujus-
+cunque continuentur , anguli externi 1 ‚ 2,
+3, 4 &c. cum angulis figurae internis effi-
+ciunt bis tot festos, quot sunt latera( J.
+147 ). Sed interni soli efficiunt bis tot rec.
+tos quot sunt latera, demtis quatuor (5.
+343 ); Ergo externi in omni casu conficiunt
+4 rectos seu 360⁰.
+
+PRo BLEM A XXXIX.
+347. Dato polygono regulari cuicun-
+que ABCDE circulum circumstrIbere.
+
+Resortm 1.o.
+1‚.‡Duo ejus anguliE & D dividantur*
+bifariam restis EF ὃς DF (§. 209)
+ob angulos FED ἃ PDE duobus rec-
+tis minores concursuris in F ( §.262).
+2‘. Ex Ριιηέὶο ςοηςιιινίυεμ F describatur
+radio EF circulus (§. 131).
+
+DemonsTRAmQ
+
+Qoniam o & nsunt angulorum po—
+lygoni dimidii , per construc‘t'. erit o=u=
+(ᾗ. 1:06 Geom. & §- 94 Aritbm.),
+
+XI l1620 147331
+
+149,
+
+consequenter EF :FD ( §. 2 ς 3 ). Cir-
+culus adeo transiens per E transit eriam
+per D( §. 40). Ducarur jam ex F in A
+
+recta ΡΑ (§. 121 ). Qoniam o Ξ x ‚
+
+per constr. ED=EA( §. 106) δέ EF:
+
+EF3 erit AF=FD < §. 179 ). Ergo cir-
+culus transiens per D δε E transit etiam
+per A(§. 40). Porro quia AF=EF ,
+
+per demonstr. erit m=x( §. 184). Sed
+
+x dimidius angulus polygonL per constr.
+Ergo ὅ( m ( §. 87 Arithm. ), consequen-
+ter etiam y. Qare fi ducatur FB(§‚-
+121 ),·erit ut ante FB=FE‚ adeoque
+radius circuli. Eodem modo ostendi-⁷
+tur FC ‚ δε s1 quae plures fuerint restae
+istiusmodi ‚ effe radios circuli, adeoque
+circulum transire per omnes angulos
+polygoni, hoc est 2 eidem circumseri<-
+
+bi(§.116). ζωή.
+
+COROLLARIUM.
+348. Omnis ergo figura. regularis estcir-
+culo inscriptibilis (5. 216).
+
+PRO-B L EMA XLIX.
+349. Invenire angulum in dato poly*
+gono regulari.
+
+Resorumo ό* Πει-
+ΜοΝεΤκΑτιο.
+concipiatur polygonum regulare
+ABCDE circulo inscriptum (§.348.)
+Quoniam arcus'dimidius BCDE est men-
+sura anguli quaesitiffffl. 31.4)‚· arcus
+vero ΑΒ , qui ipsius ΕΑΒ dimidius, ha-
+betur, circuli peripheriam per nume-
+rum laterum dividendo ( §. 289 >3 an-
+gulus polygoni Α relinquitur , 11· ar-
+cum AB a semicirculo filbrraxcris.
+
+Qmffd.
+
+Τ. 3 E· gh·
+

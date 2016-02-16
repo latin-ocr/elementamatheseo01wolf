@@ -1,0 +1,130 @@
+204
+
+ 
+
+*ff
+
+ELEMENTA GEOMETRIAE. PARerI.
+
+ 
+
+ 
+
+———
+
+CAPUT VI,
+
+De Stereometria Doliorum.
+
+PnossLEMA XXVII.
+582.
+
+Irgulam construere , cujus
+ope haud difficulter inveni-
+tur numerus mensitrarum fluidi alicu-
+jus 2 e. gr. vini, cerewfiae &a in vast
+cylindrico contenti.
+
+RESOLUTIO.
+
+frah.. 1.Diameter vafis cylindrici ABDE‚uni
+
+x, mensurae qua ad fluida mensuran-
+Fig.> da utimur aequalis , AB jungatur li-
+172·· neae indefinitae A 7 ad angulos ree-
+ῊιῘοΖο
+
+tos (Δΐ. 249).
+
+2. Ex A transferatur in 1 recta ΑΙ
+ῐεέὶεε ΑΒ aequalis ς erit B Ι. diameter
+vasis, quod duas mensuras capit, sed
+eandem cum vase priori altitudi-
+nem habet.
+
+3·- Fiat A2:BI 2 erit ΒΖ dIameter
+vafis tres mensuras capientis , sed
+ejusdcm denuo altitudInis cum va-
+se ‚ quod nonnisi unam capit. Eo-
+dem modo inveniuntur diametri va-
+sorum capaciorum Α4, AS ‚ A6‚
+A7 &c. .
+
+μμ, In unum virgula? latus transferan-
+tur divisiones inventae Ar, A2‚ A3 ‚
+A4 &c. in alterum vero altitudo cy-
+lindri uni mensurae aequalis, quoties
+
+fieri potest, Ita virgula. constructae
+
+esti
+
+Alitem
+
+Diametri A2, A3‚ A4‚ Ας, A6 J
+A7 &c. etiam per calculum inveniri in
+numeris δε in particulis diametri AB
+per modum scalae Geometr1cae divisae
+(§. 277) centesimis aut millesimis dee
+terminari possunt. Sit nempe diame-
+ter AB:IOOO; erit ejus quadratum
+1000000. Ex hujus duplo extraem
+radix quadrata ( §. 269 Arithm.) erit
+A,2·. Si ex triplo, quadruplo, quin—
+tuplo &a radix extrahatur3 prodi÷
+bunt diametri A3 ‚ A4, A5 &c. quem
+in usum construdta est tabula sequens:
+
+ 
+
+ 
+
+ 
+
+Immn4 {lrnaenff {itm n'l ’
+
+———--- ⁷—-
+
+ 
+
+Ι LOOO 17¹4.123 33 §.744
+2 1.414 18 4242 34 §.831
+3- 1·732l19l4-359 35 5·916
+4, 2
+
+ 
+
+,00012014472 36÷6.000
+5,¹2..236¹2114.582 37ὶόπ>82Α
+6 2·449 22 4-690 38 6.164
+7 l 2645 l 23 l 4796 39 6.244-
+
+ 
+
+ 
+
+9 3000'25 §.000 41 {6403
+10 3³162 26 §.099 4226480
+11¹3.316l27l5.196 43‘6557
+1213.464l28l5.291 44 6-633
+13 3-60512915385145 6708
+14 3.741'30'5·.477 46 6-782
+15l3-873 31 5·567l47 6-855
+16l4-000 32 §.657148 6928
+
+.----
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-ι--υ-υσ--ι--ι--υ-η-ῇ
+
+DE&
+

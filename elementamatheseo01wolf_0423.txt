@@ -1,0 +1,142 @@
+Cap. ῙΙῙ. DE USU ALGEBRAE IN GEOMETRIA.
+
+PRoBLEMA CXVII.
+
+ΤΛ), Ῑ, 260. Datam reei‘am AC divifhm
+Fz'g. 8. in B deauosscare in D , ita ut stt CB:
+DB=DA: BA.
+Sit CB=a Dsszx
+BA=b erit DA=b Ῥ x
+
+Qare per conditionem problematis
+a: x=b »ιι x: b
+
+——..
+
+ 
+
+ 
+
+ab-—-b>c··}⁴ x²
+ff ssb2 add. (§.143).
+
+ 
+
+ 
+
+{ff ›1‹ ab: {ff ψ bx ψ x2
+
+ 
+
+.- ——————— Ext. Rad.
+ql(‡b² -l-ab) =÷h÷x
+———-———- ὲ b subt.
+V(‡b²44b) -ἑὲ :x
+
+Construflio. Inter EG = b & GF = a quae-
+⁶ ratur media proportionalis HG , quae erit
+·..-·.. (ab. Fiat G1 = {— b & ducaturHI: erit HI
+
+= flsslfl 4· ab) Fiat denique K1= GI: erit
+KH :ssfflbz *P ab) --÷b. Invenitur etiam
+VUzbb ιιι ab), fi inter ὲὺ »1⁴ a & b quaeratut
+
+media proportionalis (5. 3²7! 33oGeom.).
+Τὼ. 1. Item quia {bb-1< ab est dsfferentia qua-
+
+Fig. 4. dratorum {bb »1- ab ›i‹ αΖ ἔφ’ a², super AB
+= ὲ b »Ρ a describatur semicirculus & jn eo
+
+applicetur AC :a‚· erit CB= ysbe ›1‹ ab),
+(5, 317. 417 Geom.).
+DEFIN 1 T10 XIX..
+261. Si quatuor fuerint linere pro-
+portionales ‚ extremae mediis , mediae
+extremis recipt‘ocae dicuntur.
+PROBLEMA CXVIII.
+
+Tab. 1
+th. 9.
+
+Tab. Ι. 262. Datam rec‘i‘am AB ita secare in
+Hgao. C, ut partes AC (β’ CB sint duabus
+datis DE ό* FG rectProcae.
+
+Sit ΑΒ ΞΑ AC Ξ x
+DE Ξ b CB :a--x
+
+FG:c
+
+307
+Ergo (5. 261 ).
+
+x: b=cz a—x ⁶
+
+ax—-x2 :cb
+--—. ----- --- mut. fig‘
+—-cb=x²——ax
+
+{aa add. (5143)⁴
+
+{aa -cb=‡a² --ιικ-ὶ-,εζ
+------ E x t.Rad„
+«επὶ-ιω {fia-³⁶
+
+'—·¹-a
+z
+
+ssaa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Construclio. Quaeratur inter HI = b & Τὼ, Ῑ,
+
+lK = c media proportionalis Ml :xl Cb f· u
+(J. 327 Geom.), Radio lLss-'ia dest-riba· tg- ⁹
+tur arcus & ducatur PM ipsi IK parallela
+(5. 258 Geom.), erit NM = x& ΜΡ :a— x.
+me' demisso ex centro Lperpendiculo LO,
+er1tN0= ΟΡ (5. 291 Geom.) & OL=M1
+=5lcb (J. 226 Geom.). Sed NL=L1
+(5, 40 Geom.) ⁵:3¹4. Ergo ΝΟ =
+
+&aa —cb) (5. 417 Geom. ), consequen-
+ter ob Mo: IL (5. 238 Geom.) ιιι-ξιτ,
+MN=={a·-V(‡aa·-·cb) =x&1³M=}ae .
+*F Wssda-CW :cl—x·
+
+COROLLARIUM.
+
+263· construere ergo aequationem qua.
+draticam affesstam ax -· x² = cb idem est ,
+ac datis duabus rcffis c & b ‚ vel s1
+c Ξ l, ‚ eidem [πᾶσι b reciprocas x ὃ( a -x
+invenire.
+
+PROBLEMA CXIX.
+264. Datis duabus rechs DE C'f ΡΟ Tab. 1.
+
+reczprocas invenire, quarum dtfferentia 5340,
+fit datae rech AC aequalis.
+Sit DE:a Reciproca minor
+1³sz
+AC=c
+
+:x
+
+crit major z c ἦ· x
+
+Qq 2. Ergo
+

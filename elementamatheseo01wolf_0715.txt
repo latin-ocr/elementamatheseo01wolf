@@ -1,0 +1,96 @@
+cap. I. DE A'RITHMETICA ‘tNriNttoRUM 513
+
+SECTJO QUINTA.
+
+DE ARITHMETICA
+
+INFINITORUM.
+
+CAPUT Ι.
+
+De natura Arithmeticae infinitorum.
+
+DEF1N1T10XIX.
+
+333. Rithmetica itffint‘torum est
+methodus summandi series
+numerorum infinitis terminis constan-
+
+tes, aut earum rationes investigandi.
+
+PRoBLEMA CXLVII.
+
+334. Invenire summam fi‘atfffianum
+infinitarum , quarum numerator commu-
+nis cst unitas, denominatores vero pro-
+grediuntur in ratione numeratoris pri-
+mae ad fitam denominatorem0
+
+Sit frac‘tio prima Ι .· e Numerus ter-
+minorum cum fit infinitus & termini
+continuo decrescant ,, ,ἀενεηίεωτ tan-
+dem ad infinitefimam (§. 2.) ‚ adeoque
+summa &actionis primae ὃ( hujus , quae
+tanquam ultima consideratur, ipfi frac-
+tioni primae 1 : e aequalis(§. 4). Divisa
+
+ergo per e -1 dat summam omnium.
+
+terminorum 1 : (ee— e) excePto primo
+( §. ΗΕ). part. 1). Qtare summa in-
+
+Sit e: ς ; erits( ξ. ›1‹ ἐξ ›z‹ ῖξς &c. in infinit.)= ξ.
+Sit e: 6 ,- ετίῑβζὲ 4« ῑὲ ›i‹ 5¹,ss &a in infinit.)= ἓν.
+
+PROBLEMA CXLVIII.
+
+33 5. Invenire fitmmam infinitarum
+
+ftaHionum ‚ ubi numerator communis
+
+est unitate minor denominatam primae
+
+(ff denominatam progrediuntur in ra-
+
+tione unitatis ad denominatorem primae.
+
+Sit denominator frafflonis primae :2
+
+m 3 erit numerator: m -‹ 1. Summa
+
+primi & ultimi termini utpote primo
+aequalis: (md 1):m, quae per m μ-Ι di-
+
+visa dat summam omnium terminorum
+excepto maximo seu primo Ι : m. Qa-
+
+re summa integrae seriei: m: m :1 Ι.
+
+Sitegr. m = 2 &fg-1⁴34 ’'s-4¹} ἃς.
+
+in infinit.) ,τε 1 , ut ante (§. 334.)
+Sit m z 3 , erits( {4} ψ ἷξ- ἅςλι] infinit.)= L·
+Sit m τε 4‚erit s &4³³3 43³ss ἃς. in infinit.)=. 1⁴³
+S o H o t 1 o N.
+
+336. Poterat idem ριν modum corollarii
+ex theoremate prandente deduci. Est enim
+
+tegra? serIei 1 : (ee— e)†- 1 .· et: (1-}- s({*†}·†‘3·¹7“ δίς· :⁴ {(§·334). ΗΕΘ duplum
+
+e—‹ i): (σε-«ωεστ (σε-ηε) =⁴-· 1:
+e -ι 1 .
+Sit e.(gr. e=)2; erits({÷‡÷-¹5÷ 1} ›ff‹ 3¹3 ἃς,
+in infinit.
+Sit e :⁴ 3,· erits(}÷ ὲ-μῑξ 43}- ἃς. in infinit.)=}.
+Sit e: 45 est‘sGvffi& 4· 32¹3 &a in infinit.) Ξ ὲ.
+Wozfii Oper. Mathem. Tom.1.
+
+hujus seriei, hoc est ,fg †} »p 1²J&c·:}⁷
+ΞΙ. Et in gerzeaeeffss † 51¹3- 4ss
+-i- ᾖ* &c. in infinit.) = 1: (νη- 1) Ergo
+
+mulriplum hujus [briei ‚ cujus denominato»-
+m- 1 , fit neceffe est (νη-«ηε (m— 0:12
+T t t P R 0-
+

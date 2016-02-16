@@ -1,0 +1,116 @@
+Cup. ΙΙΙ. DE LINEIS RECTIS ET TRIANGULIS. 133
+
+S c H ο L 1 o N.
+“ 278. Qemadmodum hic linea exigua A 9.
+’ἴῃ 10 partes aequales dividitur5 ita ea-
+dem in quotcunque alias eodem artificio di-
+vidi potest. Neque opus est, ut angulus A
+lit reflus 3 fied idem obliquus esse potest.
+CoRoLLARIUM.
+279. Qodfi ergo circini crus unum col-
+locatur inl δε alterum in K ‚ erit intervallum
+JK: 1⁰ 4' 5'‘ &ita porro.
+
+PROBLEMA XXV.
+
+280. Invenire distantiam duorum lo-
+iI-{b‘ corum AB , quorum unus B tantum ac-
+figbffi cedi pote-’sb 1
+R ε s 0 L U T 1 o.
+
+J. Baculo ad arbitrium in E defixo,
+recta BE transferatur ex E in C ‚
+ita ut baculus in C defixus fit cum
+E & Β in eadem recta (§. 125).
+
+2. In C constituatur angulus ECF ipfi
+B aequalis (§. 208).
+
+3x Tandem ex C progrediendum versus
+D, donec baculus in D defixus fit
+cum F ἃς, itemque cum E &A in
+eadem recta (§. 125 ).·
+
+Dico effe DczssA.
+
+DEMoNsTRA TIO.
+Nam BE=EC ‚ o=x 2 per construe?
+
+&y=u (§. 156). Ergo AB=DC
+
+(§. 251). Qe. d.
+
+Aliter.
+Τὼ. 1. Defigatur baculus in Icum B ὃς Α
+ἐν· in eadem recta (§. 125), itidem-
+’ἐπ’ quc alius utcunque in K.
+
+2. Ex K in L transferatur IK‚ in M
+vero KB.
+
+3. Denique ex K progrediendumin Ν,
+donec baculus ibi defixus fit cum
+M δε L , itidemque cum K ἃ Α in
+eadem recta ( §. 125 ).
+
+,Dico effe MNz—Bnq-
+
+DEMONSTRATIO.
+BKz-—KM & 1K=KL , per construb't‘.
+o=u,(§. 156). Ergo IB=ML &
+yssx (§.179). Quare cum fit o-l-m=u
+÷n ( §. 156) , & IK=KL per constr.
+erit 1A= NL (9225 1 ) , consequenter
+AB=NM (5. 91. Arith.) Qe. d.
+
+Aliter.
+
+1. Mensula Geometrica in C collocata,
+per dioptras collineetur in A ἃς Β , Tab,
+ducanturque rcc‘tae ac δε cb. {V}
+
+2, Qaeratur distantia stationis a loco Rg‘7⁰‘
+accefl'o AC (J, 126 ).&
+
+3. Ex Scala Geometrica in a c transfe-
+ratur ( 5. 277 ).
+
+4. Translocetur mensula in A, ita ut
+
+“ punctum a ipfi A immIneat & per
+dioptras regulae ad ac applicatae ba-⁵
+culus i'n prima statione C defixus
+conspiciatur.
+
+ς. Mox collineatio in B fiat , duca«
+turque ab.
+
+6. Denique in Scala Geometrica ca⁰
+piatur intervalium ipfius ab ( §. 277).
+
+Ita distantia quaefita AB innotescet.
+
+DEMONSTRATIO.
+
+Qoniam c=C & a=A (per coust
+
+trusi. & 5. 167), erit ac: ab-——AC τ
+
+ΑΒ (AY-267), hoc est , iidem numeri
+
+rationes ac: ab δε AC: ΑΒ indigitant
+
+(§. 149. Arithm.). „Q e. d,
+
+Aliter.
+
+Ι. Baculo in C defixo investigetur quan- ΤΛ),
+titas angulorumA &C <5152 ),itc1n- IV.
+que longitudo ipfius AC (§. 126). figqs„
+
+2. Ope instrumenti transportatorii δέ
+scalae Geometricae construatur trian-
+gulum a c b (Δΐ. 264 ).
+
+R. 3 3.A'd.
+

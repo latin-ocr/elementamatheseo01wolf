@@ -1,0 +1,120 @@
+Cap. III. DEgINVENIENDIS THEOREMATIS. 251
+
+Sint numeri impares 2a÷ 1 2b -Ι- 1,
+2c÷1‚ 2d÷1 ὅτε. (§. 73 Arithm.)
+numerus eorundem 2m (.§ 72 Arithm. ).
+Erit summa 2a 4- 2b -Ι- 2c ÷ 2a' δεῖ.
+÷ 2712, numerus par (ς. 72 Arithm. ).
+
+Tot scilicet sunt unitates ‚ quot ter-
+
+mini.
+
+Theorema. Summa numerorum impa-
+rium quotcunque multitudiue pati est nume-
+
+IUS Dat.
+:Sint numeri impares ut ante 2a÷ 1,
+
+2b*·l⁴l‚ 2c·}‹1‚ 2a'·1-1 &a nume-
+
+rus eorundem 2m÷ 1. Erit summa 2a
+»ΜΗ-Ζῶ 2a' &c. »Ρ 2m÷1, nu-
+merus impar ( §- 73 Arithm. ).
+
+Tlaeorema. Summa numerorum imparium
+quotcunque , sl numero impares fuerint , est
+numerus impar.
+
+S c H o L 1 o N.
+
+76. Notetur in his problematibus deno-
+minandi artificium , quod consistit in analy-
+tica expreffione numeri paris &imparin quae
+eorum definitiones repraekntat.
+
+PRoBLEMA XVIII.
+
+77. Invenire qualis sit numerus ‚
+per quem impar parem metitur.
+
+Qodfi numerus impar parem me-
+titur ‚ erit par facium ex impari pcr
+parem ‚ (S. 74 Arithm.) , adeoque
+(zani-1) zb—4ab42b. Est igitur
+(Mb-1⁴2& (za-1< 1 ) =2b (§. 210
+Aritbm. ).
+
+Theorema. Impar metiens parem eum me-
+uitur per parem.
+
+CoRoLLAMuM Ι.
+
+78. Patet simul, numerum, qui metitur
+parem pet imparem, effe parem.
+
+COROLLARIUM 11.
+
+79· Et quoniam (2ab ffib): (ια-ΡΙ )
+=b3 liquet porr0‚ fi' impar metiatur pa-
+:em . illum quoque hujus dimidium metiri.
+
+PRoBLEMA XIX.
+
+80. Invenire qualis fit numerus ‚
+per quem impar imparem metitur.
+
+Qodfi impar imparem metitur ‚erit
+hic reustum ex impari in imparem (S.
+73.74),ade0que (2a -Β 1) (2b-1-1)
+scu 4ab÷ 2a *F 2b ff· 1. Est igitur
+(4ab ÷2ab÷2b÷ 1): (2a·1··1)=2b·1-¹1
+numerus impar (§ 210. Arithm. ).
+
+Theorema Impar metiens imparem eum
+metitur per imparem.
+
+PRossLEMA XX.
+
+81. Determinare dffrentiam quadra-
+torum , quorum radices unitate dffrunt.
+Sit radix unazn , erit altera wi* 1 ε
+quadratum majoris η’ *1⁴ 2n 41 (§.
+
+minoris n² 246 Arith.)„
+
+———-——.-
+
+Differentia 2724« 1
+Theorema. Differentia duorum quadra.
+torum ‚ quorum radices unitate differunt,
+est numerus impar duplo radicis minoris
+unitate audio aequalis ‚ seu summa radicum.
+
+CouoLLARluM Ι.
+
+82. Facillime ergo construuntur Tabulae
+numerorum quadratorum pro radicibus m
+serie naturih pro redientibus. Summa nem
+pe radicis antecedentis & consequentis conti-
+nuo additur quadrato antecedenti, ut pro-
+
+deat consequens.
+COROLLARIUM ΙΙ.
+
+ 
+
+.-
+
+ 
+
+83. Sin: 1 , erit 2n41= 3=fi⁷1= 2 ,
+erit 2714« 1 =: 5: fi n=3 etit ιη’-Η = τε
+si n ,τε 4, erit 2 mi< ι = 9 &c. Differentiae
+itaque uu· uerorum quadratorum sunt nurne—
+ri impares in continua serie progredientes:
+unde ex continua numerorum imparium ad
+ditione nascuntur numeri quadrati.
+
+1 i 2. Radic-
+

@@ -1,0 +1,93 @@
+'302
+
+fit numerus primus3 summa in maximum
+multiplicata faciet numerum perfectum.
+
+'Umorem 2. Si in numerorum serie in
+ratione dupla ab unitate continue propor-
+tionalium occurrat terminus, qui unitate
+muletatus est numerus primus; numerus iste
+primus in proxime ptaecedentem duetus effi-
+cit numerum perfeetum.
+
+In serie numerorum ab unitate in ra-
+tione dupla continue proportionalium
+
+1. 2. 4. 8. 16. 32. 64. 128. 256. 512.
+1024. 2048. 4096.
+4--1 = 3, 8 ·-1 =7, 32—1=312128
+—-1=127, 512--1:=511‚ 2048—1
+:2¹ 2047 &c.sunt numeri primi. Ergo 2. 3
+πό, 4·7ss28› 31.16=496‚ 127. 64
+
+CAPUT
+
+ELEMENTA ANALYSEOS. PARS 1. secan.
+
+:8128 , 511. 256=130816 , 2047·
+1024 = 2096128 &c. &c. sunt numeri
+perfecti.
+S c H o L 1 ο N.
+249· Problemata indeterminata, qualia
+plurima solvit Diophantus , difficiliora fiant
+determinatis , nisi fimplicia fuerint. Unde ty-
+
+7 rones sub initium ea praetermittere poffunt ,
+
+quie difficultatem creant, ad sequentia pedem
+promoventes. Non tamen prorsus negligenda
+sunt, cum maximus eorum sape fit usus iu
+
+⁷ problematibus G eometriae sublimioris solvendis.
+
+Ceteram ars resolvendi problemata indetermi³
+nata numerica Analyfis‚Diophantea apppella-
+ri fhlet.
+
+111.
+
+De Algebra ad Geometriam Elementarem applicata.
+
+PROBLEMA CX.
+Roblema Geometricum Alge-
+
+2 O·
+ς braice resolvere:
+
+REsoLurto.
+
+1. Obscrventur ea omnia , quaein probi.
+36. (§. 141) fieri praecepImus.
+
+2. Cum vcro rariffime ad aequationem
+eodemmodo in problematis geome-
+tricis perveniatur, quo in numericis
+uli sumus; hic ulterius quaedam pe-
+culiaria notanda sunt. Nempe
+
+a) Concipiatur jam faeium , quod ad
+<faciendum proponitur.
+
+a) Omnium linearum in schemate de-
+
+pictarum relationes , nullo habito
+discrimine Inter cognitas ὃς incog-
+nitas , excutiantur 3 ut appareat ,
+quomodo aliae ab aliis dependeants
+seu quibus datis , alia-³ una dentur,
+five per triangula similia ( §. 175
+Geom. )‚ five per rectangula (5.
+417 ἅνω), five per alia (quod
+tamen raro fieri solet ) theore-
+mata.
+
+7) Ut igitur triangula similia δε rec-
+tangula obtineas , saepius producen-
+dae sunt lineae, donec vel direc-
+te datis fiant aequales , vel alias se-
+cent, saepius lineae parallelae atque
+perpendiculares ducendae , saepius
+
+punc-‘ta quaedam connectenda, saepitp
+angu ι
+

@@ -1,0 +1,99 @@
+52 ELEMENTA ARITHMETICAE.
+
+quoti eandem inter se'· rationem habent.
+DEMONSTRATIO.
+
+3:6=12:24 A:B:C:D,per
+
+-2 3 2 3 hypoth. Ergo E A:
+——-—-——-—- BzfictD(§.184)2
+62 18: 24:72 consequenter E A :
+
+F R—-EC :F D(§.c1't.). Qoderat
+
+{inum .
+
+3=6=12224 sitA2E—-—G‚13:F
+3¹ 2 3 2 =H‚C:E=K &D2
+Ι : 3--ζ4-Ῑ2 ’ F :LQoniamA :B
+
+ 
+
+Ξ C: D ‚ per hypoth.
+GzssszD (§183 ). Ergo &Gz
+14:14AE (§. cir.¹ ). Qoderat alterum.
+THEOREMA XXV.
+186. Pars antecedentis in ratione
+majore ad conſsquentem eandem ratio-
+nem habet , quam antecedens minoris
+ad constquentem strum. Et majus an-
+tecedente rationis minoris ad const-
+quentem eandem rationem habet 2 quam
+antecedens majoris adstmmconſsquentem.
+DEMONSTRATIO.
+
+Si A ad B rationem majorem habet
+quam C ad D; erit A:B > C:D
+( §. 158 ). Ut igitur ratio prior al—
+teri aequalis evadat , necefl'e est ut mi-r
+nus quam A , hoc est , pars ipsius
+(§. 20), perB dividatur (§.182):
+quae pars si dicatur F , erit F : B:
+C : D, hoc est, in majore ratione
+antecedentis pars eandem rationem ha-
+bet ad consequentem , quam minoris
+antecedens ad suum (5. 152). Qod
+Crdt unum.
+
+Similiter fi A ad Β minorem habet
+rationem , quam C ad Ds erit A:B <
+
+sc τ D (§.158.). Ut igitur ratio
+
+prior alteri aequalis evadat , necesse est
+ut majus quam A ‚ cujus adeo pars Α
+est A(§. 20 )> perBdividatur(§.182):
+quod fi dicatur F 2 eritF : B=C: D,
+hoc est , in ratione minore majus ante-
+cedente rationem eandem habet ad
+consequentem , quam majoris antece-
+cedens ad suum consequentem (§. 1 52).
+Qoa' erat alterum.
+
+THfloRnMA XXVI.
+
+187. Si fuerint quotcunque ratio-
+nesfimiles A: B,C:D, E: F, G:H
+&a fhmma omnium antecedentium
+A÷C÷E÷G&c. cst adfiaemmam
+omnium conſsquentium Β -l- D÷F÷H
+&a ut antecedens unius rationis A ad
+fitam conſsquentem Β.
+
+DEMoNsTRATlo.
+
+ponamus e. gr. effe A: ἒ Β, C
+=÷D ,E=÷F‚G=÷H; erit Px
+÷C÷E÷G=}B÷} D÷÷ F÷
+ξ H (§. 88 > , hoc est summa omnium
+antecedentium est subdupla summae
+omnium consequentium > consequenter
+ut antecedens unius rationis ad suum
+consequentem. Eodem modo cum
+argumentatio procedat , fi alia,
+quaecunque ratio antecedentium ad
+consequentes ponatur vel etiam anteo
+cedentes sint consequentibus nmjores;
+patet propositum. ξε. d.
+
+THEOREMA XXVII.
+
+188. Si fuerit ut totum A -ᾗ- C ad
+totum Β -ὶ- D , ita ablatum C acl Abla-
+tum D 3 erit etiam reliquum A ad
+reliquum B ut ,, totum A -ὶ- C ad to-
+tum Β ÷ D 2 vel m ablatum Cad ab-
+ablatum D.
+
+D 54
+

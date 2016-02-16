@@ -1,0 +1,172 @@
+520
+
+CORoLLARIUM L
+
+13. Ergo d(x²) τε xdx÷xdx ,τι 2.de d(x³)
+
+Ξ x² dx »1« x} dx ›k‹ x²dx= 3x2dx ὕες. & in
+genere d (xm) :mxm-1 dx. Unde patet,
+quomodo potentiae differentientur.
+
+COROLLARI UM„ 112.
+
+14. Cum 1 ‚ ι. , 3 ‚ 4 &mexponentes digni-
+tatum x¹ ‚ ,τὶ ‚ χῖ, 2⁴⁴, &mfint earundem lo-
+garithmi ‚ pofito logatithmo unitatis :2 0
+
+(5· 3 3 4. Arithm.),· lognrithmi vero dignita.
+
+tum decrescentium L, -1—-‚ —1-—7 L· ‚f &⁰-
+χ xz χᾶ x*
+
+smt ·--1,- 2,- 3,-- 4 &c.(5.358.Arithm.)
+erit} :zm-21 , ᾗ = x-2 ,ἐς = x-3, &c-
+
+& in ὅςμετεῂ == x-m2consequenter d (1 zm)
+
+’Ξ d (x-m) Ξ -mx-m-1dx (5·13)· Vel
+cum fit 1 =x⁰ (Αἵ. 55. part. 1· ·), etit· 1 t xm
+
+:x2zxmzx-n1 ( §- 54‚pa1t. L), adeoque
+
+d 1—-:.—-,mx—⁷”—¹ dx (ς. 13 )⁹
+xm ν·
+
+CORoLlARIUM II‘L,
+
+15. Et quia (⁵7:23¹ = xntm ( §.J-7. Analyfi,
+finit.) ὃς ι,- &lxv = 1 : xnzmzx—nm ( J.
+n
+
+cit⁰ ἀρηρώς εωῗςᾱῦχηΞ-ἶη.. „mm—1 dx
+
+Ξ ἐκῶ-Ἥῦῑῆἳ dx: ἐάας <fxv—nam ἕξ
+m
+
+a <1= ω) = {rm-1 dx ΞΟ ,η
+
+x (·-·n -m):m dx Ξ .- ndx: m <sxa-bn
+
+§1²²
+
+SefzoL1<2m
+
+' 16. Qodfi cuipiam non satis manifestum
+videatur, quomodo corollaria duo posteriora
+ex priore inveniantum is differentialia po-
+unciarum mperfeftarum alio adhuc modo in.
+vestigare potest: quem in liquente problema-
+
+ELEMENTA ANALYSEOS.
+
+PARsIL.sta. L
+
+te exponimus ‚inprimis cum ejusdem methodi
+ufiaes effe poffit‚ quoties in formulis compofitis
+differentiandv's‘ aqua baeret.
+
+P‘RoBLtMA 11.
+
+17. Dzffiremiare 1.: xm, item <J κη
+&⁴ 1 ε ΚΜ] κ”.
+- Resonurta
+
+Ι. Fiat 1: x⁰¹=v
+
+1 =xmv
+
+(§.10.12.) οε·- mxm-1vdx -Ι- xma'v
+
+ 
+
+——mxm-1vdx = xm dv
+
+marm-*¹ vdx — χ
+xm —-· —— dv,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*-
+
+ 
+
+ 
+
+ 
+
+ 
+
+mxm-1dx
+
+..-.. - ==dv (§·42.54.part.1.y
+
+h.e. -ι mZ—m*¹dx=dv (§· 5 4part91.)
+11. Fiat xms κ’*ῗ
+
+ 
+
+ 
+
+xn=ym
+
+ 
+
+nx”-¹dx-:·=·⁴ nam-¹ dy (5, 1 3) .
+hoc cst, nx'¹··²dx=m7m αἶ’ (ς. 54.part.1.)
+
+—-—njmmq1
+
+ 
+
+y
+
+πψτη-Ι
+mym
+nx⁷¹²m ,cn-*1 ,
+mx„ —- dx = dy
+nxntm
+m
+
+h, e. {xo—mmm dx=dyf
+
+ΙΙΙ. Fiat denique 1 z ὓ x⁷¹=z
+erit 1 = z 'clxn = zxmm
+
+—————-—— ——n—
+
+o =⁴· {xv-mkmzdx-l—x’ssm dz (ΠΛ 23)
+
+ 
+
+dx=a17
+
+ffll
+
+ 
+
+ 
+
+ 
+
+ 
+
+x-1dx=dy(§.54.part.1.)“
+
+ 
+
+· ..anx
+
+ὀ
+

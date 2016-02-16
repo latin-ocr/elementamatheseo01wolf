@@ -1,0 +1,110 @@
+60 ELEMENTA.ARITHMETICAE.
+
+CoRoLLARIUM.
+
+’ 227. Qodsi ergo tam numerator , quam
+denominator alicujus fractionis (g) per eun-
+
+dem numerum ( 2) multiplicetur vel divida-
+tur,· in casu priore fasta (ᾗ), in poste
+
+tiore quoti( ξ ) constituunt frafflonem datae
+(ἓ) aequivalentem (5178. 1 8 1).
+
+PRoBLEMA XIX.
+
+228. Invenire communem mensitram
+maximam duorum numerorum.
+
+RESOLUTIO.
+
+1³. Dividatur numerus major per mino-
+rem.
+
+2. Divisor primae divifionis seu numerus
+datus minor denuo dividatur per re-
+fiduum primae divisionis,
+
+3. Similiter divisor secundae divisionis
+dividatur per refiduum secundae &ita
+porro , donec nihil rcnmnean
+
+Dico, divisorem ultimum effe commu-
+
+nem mensuram maximam numerorum
+
+datorum„
+E. gr. Sint numeri dati 168 & 240 ‚ re-
+
+perietur eorum communis mensura maxima
+,τι-4 hunc, in modum:
+
+7
+
+482 ις. ae
+2330 *3²3st ζῇ· <³
+
+Similiter communis mensura maxima nume-
+rorum 95& 47 aperitur 1.
+
+DEMONSTRATIO.
+
+Divisor ultimus 24 metitur diviso-
+rem antecedentis (in nostro quidem ca-
+su sccundae) divisionis 72 , (per hyposh.
+ὠ §. 74). Ergo δέ metiturdividendum
+antecedentis ( hoc est , in nostro casu
+secundae) divisionis· 168 , quippe ex
+
+Χ
+
+dividendo ultimae divisionis 72 , εὶΙῑ(]ι]()η
+ties ( hic quidem bis) sumto δε ejus di-
+visore 24 compositum. Metitur adeo
+numerum unum datorum 168 δε refi-
+duum primae divisionis 72 ‚ adeoque δε
+nume-rum alterum datorum 240, quip-
+pe ex minore 168 aliquoties ( in nostro
+casu semel) sumto Sc residuo primae di-
+vifionis 72 compositum. Est itaque
+communis numerorum datorum rnen-
+sura (3878 ).
+
+Effe vero communem mensuram ma-
+ximam ordine retrogado per indirec-
+tum demonstratur. ponamus enim nu-
+mero invento 24 majorem effe mensu- ’
+ram numerorum datorum 240 δε 168
+communem. Patet igitur ex· anteceden-
+tibus, quod etiam metiri debeat resi-2
+duum primae seu divisorem sccundae di-
+vifionis 72 2 adeoque δε residuum sc-
+cundae divifionis seu divisorem tertie-e ,
+hoc est, in nostro casu inventam com÷
+munem mensuram 24. Sed numerus is
+eadem major est , ex hyp, Ergo commu--
+nem mensuram inventam 24 metietur
+numerus major, quam 24: Qod cum
+
+Α sit absurdum < §. 74), maior communis
+
+mensura non datur. Est igitur ea , quam
+invenimus , maxima. Qre. d,
+
+SCHOLION L
+
+229. Qi demonstrationem uno quafi ob-
+tntu comprehendere cupiunt ς illos haec nume-
+rorum datorum resolmio invasit.
+
+1. 72:3- 24 , per divis. tert.
+
+11. 16822. 72 ἦ- 24 ‚ pet divis. sec, z
+2.3.24-}- 24, per num. I.:7. 24.
+
+111.240=1. 168 ÷⁷72 per divis. prim,
+:7- 24÷ 3. 24 per num. 1& 11:
+
+10. 24<
+SCHQ:
+

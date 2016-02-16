@@ -1,0 +1,295 @@
+...—-—— —-———-——-—·-————-———-—-———.-..-—-
+
+Diametri pro mensuris integris δέ ¹
+earum partibus decimalibus.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¹ ¹3.0 1.7326.0'2-449 9.073.000
+0.1 316 ι 1.761 1 z 469 ι 3.016
+2 447 21.788 ziz-489 2,3·033
+3 548 31.816l 3 2·509 33.049
+4 632 41.844‘ 4 2629 4 3.066
+5 707 51.871 5 2.549 5 3.082
+5 775 61.897 62.569 63·098
+7 837l 71.92.3¹ 72.5SS 713.1141
+8 894 8 1.949 8 2.607 8¹3·130
+9 949 91·975 92.626 93.146 ,
+1.0 1.000'4·0¹2,000¹7.0 2·645 10 0¹3 162
+1 1.049 1 μοις 1 2·664 13.178¹
+Ἴ 2 1.095 2³2.049 2 2.683 2 3.194
+3 1.140 3z.073 3¹2·702 33.210
+4 1.183 420097 420720 4÷3·226
+5‚1.225 52.121 52·738 5¹3.241
+61.265 62..145 62.756 63.256
+7 1304Ι 7μ.168 72.774 7 3·27¹
+8 1.342 82.191 82.792' 83.286
+9 1·378 92.214 92.810 93-301
+-Ι -Ἶ-- — ————-
+2.01.414 5.0 2.2368.0 2.828 11.0l3.316
+1 1-449 12.258 12.846 13.331
+2 1,483 22.280 22.864 2‚.346
+51.517 52·302l 32.881 3‘3·361
+441.549 442-324 42-898 41³·37¹
+51-581 5·2-545 52.915 5¹3·391
+6 μω), 62..366 5²⁰9ss 63.4o6
+, 7 1.643 7 2.387 7l2·949 l ΜΗ
+8 1.673 82.408 82.966] 83.436
+Ι 9 1.703 ⁴92429 912.383' 93,451
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCH0L10N V.
+
+587. Ceterum me non monente patet ‚
+cylindrorum mensuram hic constitui cylindrum,
+quemadmodum supra solidorum omnium men-
+sura affumtus esi cubus. Unde &⁹ virgula
+pithometrica fic confiruffa virga cylindrica
+appellatur. Similiter hic circulorum menfic-
+ra constituitur circulus , ficati supra omnium
+superficierum mensura quadratum.
+
+PROBLEMA XXVHL
+588. Invenire soliditatem Delii , hoc
+est, determinare numerum mensurarum,
+quas capit.
+R ε s ο L u τ 1 o.
+
+1. Virga pithometrica vi probl. praec. Tab.X. l
+(§· 583) decenter applicata , explo- fig.
+tetur tam longitudo Dolii AC, quam 173· ¹
+
+utraque diameter GH ὃς ΑΒ.
+
+2. Cum experientia non invita, rigo-
+re licet Geometrico repugnante ,
+Dolium pro cylindro habeatur, cu-
+jus bafis inter fundum <Sc ventrem
+Dolii media aequidifferen35 inter ΑΒ
+& GH quaeratur numerus medius
+aequidifferens (§. 348 Arithm. ) ,
+qui Diameter aequata dici solet.
+
+3. Numerus inventus multiplicetur pet
+longitudinem Dolii AC, erit fastum
+vi demonstrationis problem. praeced.
+( §. 5 8 3 ) numerus mensurarum 2
+quas capit Dolium.
+
+Sit e. gr. AB Ξ 8
+GH=12 {me-reum ιω
+
+etit AB -ὖ- GH Ξ 20
+
+————--—-.--—-
+
+÷(AB÷GH):10
+
+capae. dolii 150
+mens.
+
+Sciiot ION L
+
+589. Qodfi contingat, fundum non effi:
+perfecie circularem ‚ sed unam diametrum
+effe altera longiorem, utramque diametrum
+metiri θ’ earum semisummam pro diametro
+circuli fundo Delii aeqnatis assumere solent·-
+
+S C H 0 L 1 0 N ΙΙ,
+
+590. Tabulae, ex quibus inter se coas-
+satis Dolia coitstruiffilent ‚ ultra fundum pro-
+minent. Pro longitudine igitur Dolii non
+ciffumenda eli reeta Fe, sed AC, quae ha-
+
+betur , ft quantitas prominentia tabularum
+Mna
+

@@ -1,0 +1,134 @@
+314
+
+PROBLEM Α CXXXIV.
+
+290. Ex angztlo C rhombi dati ABDC
+ducere rec7am CG lateri AB continuato
+occurrentem in G, ita ut EG stt aequalis
+lineae dam.
+
+Ducatur Diagonalis CB & in E cons-
+tituatur angulus CEF Ξ CBG ( ς. 208
+Ceam), cujus latus EF producatur, do-
+* ⁴ nec diagonali continuaret* in F. occurrat.
+
+Sit AB=b , CB: c, EG: cl,
+BG: z, CF: y: erit BF: y -—c.
+BG:GE Ξ ΑΒ; EC(9“. 268. Geom.)
+Unde reperitur EC: bd: z.. Qio-
+niam angulus CEF Ξ CBG per cos-,fi
+truc‘J. erit ob angulum communem (ἶ
+(5. 267 Geom.) CB: EG: CE: EF
+Unde reperitur EF: zlm': cz Ξ bd: c.
+Porro o Ξ xffl. 156 Geom.) 8< x: u
+( ᾗ. 99. 204 Geom. >. Ergo o: u
+(J. 87 Arithm.) consequenter CBG
+Ξ EBF( §.88 Arithm.): CEF (Δΐ.
+87 Arithm·). Ergo ol> angulum coin-
+munem F ζ §.267Geonn ).
+
+CF: ΗΞ Ξ FE: BF
+bd bd
+
+y =ss= τεν-ε
+
+Tab.11.
+‚fig-22..
+
+--—..-—-—-..-—-
+
+. cy .· bd Ξ bd : cy——cc
+
+——-—-— ——--—
+
+ 
+
+y²——-cy= hbdd: cc
+*7²*- ἷῘ-ὶ-ὲ cc ''J-2¹3 cc -}- bbdd: ce
+
+———-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—y-ffi-CEJA {cst-Qgss
+y== ³1c÷xs (ὲκ ÷ bbdd: cc.)
+Ex aequatione prima statim liquet,
+
+inveniendas effe ipfi bd: c reciprocas y δε
+
+y ...a Ex ultima autern haec elicitur.
+ConstruHio. Fiat EM: EG = d &ducatur
+-LM ipsi Ac paranda,- erit LM= bd: c ( 5. 268
+
+ELEMENTA ANALYSEOS. PARS 1. seez. II.
+
+Geom.) Dividatur BC bifariam in N & in
+C erigatur perpendicularis CO Ξ LM; erit
+ON== Vl‘sscc *Pbbddtccmjll 417
+Geom. ). Translata ergo ΟΝ ex N in 1³3 erit
+CF: y. Denique curn EF Ξ bd.- c Ξ
+LM; ex puncto F intervdlo EF determine-
+tur punitum Ε. Quodsi jan] ex C ducatur
+reeta per E occurrens ipsi ΑΒ continuatae in
+G, erit EG aequ..lis lineae datae.
+
+PRoBLeMA CXXXV.
+
+ 
+
+Tale'
+
+291. Α data pltnc‘t'o E ducere restam 2 fig-23
+
+quie circulum datum tangat.
+
+Quia punctum E politione , circu-
+lus GDFG δε positione δέ magnitudine
+darum dantur etiam EG & GC. Sit
+ita-que EG: a, GC: b, ED= κς
+erit EF= a ηι- 2b δε (J. 379 Geom.)
+
+aa -}— 2ab= ,τὶ
+
+——-—.-——
+
+ 
+
+xs(aa-†-2ab)= x
+Conslrnc‘tio. connectantur centrum circu-
+li C δε ρηῃξὶυιῃ datum E τεῶ] EC. Super
+ea describatur semicirculus CDE ducantur-
+
+que chorda: CD & DE3 erit D tetstus ( ,οἳ
+317 Geom. ). [³st vero Css2= aa »Ρ zab ›1‹
+
+bb ‚ CD2= bb: ergo DE: V( zab fflaa)
+= ,Νῶϊ 417 Gevm).
+
+PROBLEMA CXXXVI.
+
+292. Examinare reguffam Renaldi— TabJ
+niam , polygonum regulare quodcunque fig,-
+circulo inscribendi.
+
+Regula Caroli Renaldini (e) haec est.
+Dividatur diameter AB in tot partes
+aequales ‚ in quot peripheria dividi de-
+bet. Super AB construatur triangulum
+aequilaterum AFB. Ex F per secundum
+divisionis punt‘mm D ducatur resta FG.
+
+Erit ex ipsius mente BG latus polyggni.
+a „
+
+(e) De Resolurione δε Compofitione Mathe-⁷
+marica lib. 2. f. 367.
+

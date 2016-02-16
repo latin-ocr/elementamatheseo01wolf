@@ -1,0 +1,116 @@
+Tab.
+
+viu.
+
+Α] 29 0
+
+Cap. W. DE FIGURARUM DIMENSIONE ET DIVISIONE. 1022.
+
+Qlodfi jam polygonum circulo in—
+scriptum tot sumatur laterum ‚ donec
+subtensa a peripheria magnitudine inas-
+fignabili differat 3 polygonum cum cir-
+culo idem erit. Unde etiam circuli erunt
+iuter se ut diametrorum quadrata.
+
+CouoLtAkrums
+
+409. Habent ergo circuli rationem dupli-
+
+catam diametrorum (5. 374) ‚ adeoque ,
+cum radii sint ut diametri (5. 39 Geom. &⁶
+
+5. 181 Arithm.)‚& radiorum (ᾗ. 260. 259
+Arithm. ).
+
+THEOREMA LXXXVI.
+
+410. Circulus aequalis est' triangulo ‚
+cujus bafis periplaeriae , altitudo radio
+equalis.
+
+DEMONSTRATIO.
+
+Concipiatur peripheria circuli in par-
+tes numero infinitas interse aequales a·
+deoque infinite parvas divisa; arcus infi-
+nite exigui ab supra chordam cognomi-
+nem excessus erit quovis dato minor ‚
+seu inaffignabili32adeoque revera nullus.
+Concipiantur porro ex centro c‘ad ex-
+trema arcus infinite parvi ab dursti ra-
+di cb & ca : erit angulus a cb infinite
+parvuS, adeoque a & b nou different a
+resto ( §. 240), cousequenter fi a b
+sumatur pro basi, radius ac erit trian-
+guliabc altitudo (ς. 228). Cum adeo
+area circuli resolvatur in istiusmodi
+triangula numero infinita, quorum al-
+titudo communis est radius a c ‚ bases
+vero junffim sumtae sunt peripheriae cir-
+culi aequales , per demonstrata3 erit ille
+aequalis triangulo , cujus bafis periphe—
+ria ‚ altitudo radius circuli ( §. 401 ).
+
+Qsshcj'ji Oper. Adathem. Tom. Ι.
+
+Sonottou.
+
+41 1 . Hac demonstrandi methodo primur
+usin est Keplerus (a J. Eam exemplo ejas ex-
+citatus (b) sub nomine Methodi indivisibilium
+magis excoluit Cavalerius. Demonstrationem
+indirestam dedit Archimedes ( c) non contem.
+vendam , qnoniam ipsius demonstrandi metho-
+do principia methodi infirsitcfimalis rigidantur·
+
+CoRoLLARIUM Ι.
+
+41 2. Sunt igitur circuli in ratione compo.
+fita peripheriarum δε radiorum (ς. 388 ).
+Sed iidem sunt in ratione duplicata radiorum
+(5409). Qare peripheriae sunt inter se ut
+radii ( ὤ. 159 Arithm. )
+
+CoRoLLARIUM 11.
+
+413. Cum adeo fit, ut peripheria circuli
+unius ad suum radium ‚ ita peripheria alte·
+rius cujuscunque ad suurn ( 5. 173 Arithm.);
+ratio peripheriae ad radium seu diametrum
+(J. 39. Geom. & §- 181 Arithm.) in om-
+nibus circulis eadem.
+
+ScHoLION.
+
+414. Idem etiamhoc modo 0slenditur: cum
+omnes circuli inter se fimiles sint (ᾗ. 134),
+per quae distingui possent ‚ ea eadem sunt ( ,οἳ
+24 Arithm. ). Qoniam itaque per rationem
+peripheriarum ad diametros distingui poffent .
+fiquidem ea in diversis circulis diversi: foret
+(5. 132 Arithm. ) ‚- ratio in omnibus eadem
+
+effe debet. (ξε. d.
+
+THEOREMA LXXXVII.
+
+415 sector circuli ACD aequalis est
+triangulo, cujus basis arcus AD ‚ alti-
+
+tudo radim AC.
+Y D E-
+
+(α) In Nova stereometria doliorum vinariorum
+part i. theon 2. f. 132.
+
+(b) v÷d0 praefat. ad Geometriam indivisibilium
+coritiniioruvn navasationepromotum. p· b 2.
+
+fc) ln libello (ιε circulidiinenficne, pxop. 1.
+
+Tab.
+vlu.
+fig:
+¹ 53 ι
+

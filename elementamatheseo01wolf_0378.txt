@@ -1,0 +1,103 @@
+262
+
+summa= n-x-‹n'z ·- n (5. 108)= n2(5.21).
+Patet adeo numeros quadratos prodite con-
+tinua numerorum imparium additione, conse-
+quenter differentias numerorum quadratorum
+esse numeros impares : id quod supra alia ra-
+tione fuitv demonstratum ( 5. 83 ).
+
+COROLLARIUM IV.
+
+111. Sita Ξ n: {clarit summa Ξ n²÷
+‚93³ --·ηι (5. 108)= n³ (5. ιι). Qili-
+bet adeo cubus resolvitur in progreffionem
+arithmeticam ‚ cujus terminus primus ‚ semi-
+differentia &numerus terminorum sunt ra-
+dici eJus aequales. Ita 8 = 2 »Β 6 , 27 =
+34⁴9 4¹15, 64 :44124204 28.
+
+ScHOLION.
+
+112. Patet modus ex formulis'nlgebraicis
+eruendi theoremata specialia , qui continetur
+sub problemate logico de specierum notioni-
+bus ex notione generis formandis (5. 712
+
+Log.).
+DEF1N1T10 IV.
+
+113. Denominator rationis est quo-
+’.ἱ-[13 ex divisione termini majoris per
+‚minorem emergens.
+
+COROLLAR1UM Ι.
+
+114. Major ergo prodit ‚ minore pet
+*denominatorem multiplicato ( 5. ιιι.
+Arithm. ): minor vero habetur ‚ majore per
+denominatorem diviso (5. 210 Arithm. >.
+Unde fi terminus minor a , denominator
+m, erit major mer, fi terminus major a,
+
+minor erit} Qare a z m a exprimit ratio-
+
+nem minoris inaequalitatis ς a: ᾗ νεεοτειῑίο.
+
+nem majoris ( 5. 13 3 Arithm. ). Immo quo-
+
+a 1-
+
+fflam Z .- a,‡(5. 43) 3 fi m explicetur per
+
+ELEMENTA ANALYSEOS. PARS 1. δείν’. Ι.
+
+ἱταὲὲίοηειη , cujus numerator unitas deum
+minator idem cum denominatore rationis ³
+a: ma tationem quamcunque designat.
+
+COROLLARIUM H.⁸
+
+115. Qia in ratione majoris inaequali„
+tatis antecedens major consequente (5. 133
+Arithm.); ejus denominator idem est cum
+exponente (5. 136 Aritlim. ).
+
+CoepLLARIttM 111.
+
+116. In ratione minoris inaequalitatis ex-
+ponens tationis nl] (5. 136.Arithm. Θ· 5.
+
+1 14 Analyfi ): hoc cst ‚ss(5. 2 3 1 Aridum).
+
+AEquntut ergo fraaeffioni , cujus numerator
+unitas ‚ denominatos: idern cum denomina-
+tore tationis.
+
+ScHoLloN.
+
+117· Exponens (φ denominatur rationis
+„datoribus voces synonymae sunt. Aliter
+vero veteres , aliter recentiores exponentem
+definiunt. Nos veterum definitionem reti·
+nuimus in Arithmetica ( 5. 136) ‚ tum quod
+naturam rationum clare explicet , tum quod
+ad demonstrandum utilis. Etenim fi rationis
+2: 3 exponens dicatur {finde intelligitur;
+antecedentem terminum effe aequalem duabus
+tertiis consequentis , adeoque pro mensnras
+qua utrumque metimur ‚ assumi tertiam
+consequentis partem. Hinc vero clarius co-
+gnoscitur rationis hujus natura ‚ quamfi cum
+recentioribus nonnullis dicas exponentem effe
+1} : quod innuit , antecedentem in consequen-
+
+te contineri Ιὲ. Recentiores vero exponen-
+tem rationis eodem modo defi22imtes > quo
+denominatorem definimus , ideo eundem ex—
+ponentem constituant rationum majoris& mino-
+ris inaequalitatis (5. 1 1 5 )‚ quod nomen etiam
+in casu posteriori suggerat ( 5 . 147 Arithm. Kys*
+
+, demo -
+

@@ -1,0 +1,112 @@
+86 ELEMENTA ARITHM-ETICAE.
+
+4. Enim vero non opus est , ut omnium
+numerorum logarithmi tanto labore
+investigentur: compofiti enim cum per
+alios numeros dividi poffint (§.76),
+adeoque ὃς ex aliis se mutuo multi-
+plicantibus(§. 212)oriantur‚ eorum
+logarithmi perTheor. 6 3 ὠ* 64. (§. 3 3 7
+(ῥυ ſsqq. ) inveniuntur. E. gr. fi loga—
+rithmus numeri 9 bisecetur , pro-
+dit logarithmus o. 47712125 nume-
+
+ri 3 (ᾗ. 338 ).
+COROLLARIUM.
+
+347. Charaeteristica igitur logarithmorum
+'pro numetis ab 1 ad 10 est 0, pto numeris
+a 10 ad 100 est 1 , pto numeris a 100 ad
+1000 est 2 &c.
+
+S c H o L 1 o N.
+
+348. emonem Logarithmorum pro nume-
+ris naturalibus ab 1 uftluc ad 20000 Θ a
+90000 ad ιο0000 primus construxit Hen-
+ricus Briggius, Professor Geometriae Savilia-
+nus in Academia Oxonienfi ‚ ex confilio ta·
+men primi inventoris Neperi (a ) (ff metho-
+dum construendi una exposuit in sua Arithme-
+tica Logarithmica. Lacunam inter zocoo &⁸
+90000 mox explevit Adrianus vlaccus (b).
+In libellis vulgaribus habetur tantum CanonLo-
+garithmorum pro numeris ab 1 usque ad1 0000.
+
+PRoss LE MA XXXVII.
+349. Invenire legarithmum pro nu-
+meris majoribus , quam in Canone con-
+
+tinentur ‚ minoribus tamen 10000000.
+
+R E s o L u T 1 o.
+
+1. Resecentur 4 notae ad finisti-am nu-
+meri dati ὃς earum ex canone excer-
+patur logarithmus.
+
+2. Charaetcristicae tot addantur unita-
+tes , quot notae ad dextram reliduae
+
+(9347)ὗ
+
+(a) Vide praefat. ad Arithmeticam Logarithm.
+&igini altera editione Arithmeticae Logamhmicae
+Δ ³ .
+
+3. Logarithmus inventus subtrahatur a
+proxime sequente in canone.
+
+4. Inferatur : ut differentia numerorum
+in canone evolutorum‚ ad differen-
+
+> tiam tabularem logarithmorum ip-
+{is respondentium 3 ita notae refiduae
+numeri dati, ad differentiam logarith-
+micam per Probl. 33. (§. 302) in-
+veniendam : quae fi
+
+5. Addatur logarithmo per n. 1 ὠ· 2 in-
+vento ; summa erit logarithmus quae-
+
+fitus. ·
+E. gr. quaeritur logarithmus numeri 92375.
+Reseca quatuor notas 9237 & charaekeris-
+ticam 3 logatithmi iis in tabulis minoribus
+respondentis 3. 965 5 309 auge unitate. Hinc
+e logarith. numeri 9238: 3.9655780
+
+subduc. log. num. 923723·9655309
+
+ 
+
+ 
+
+relinquitur differ. tabul.
+Interamn· : 10 471 ··— 5
+5) 2 —- ι (ᾗ 316).
+23 5
+Jam logarithmo 4.9 65 5309
+addatur different. inventa 23 ς
+Summa estlogar. quaes. 4.965 5 544
+
+SCHoLloN.
+
+350· Differentiae equidem logaritbmorum
+non sunt differentiis numerorum proportio-
+nates : ad praxiu tamen , ubi in minimis
+scrupulosi non sumus, methodus traditulitffi-
+cit, fi praesertim notae residuae numeri dati
+non fuerint adeo multae. Certe in nostro
+casu adeo erastum reperimus , ut accus-a..
+tior in tabulis majoribus Briggii non oc<
+currat.
+
+›PROBLEMA' XXXVIII.
+
+351. Invenire legarithmum fiac-
+tionis ‚ cujus numerator minor deno-
+
+minatore.
+R E s o-
+

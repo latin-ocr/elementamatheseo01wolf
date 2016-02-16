@@ -1,0 +1,106 @@
+Cap. III. DE INVENIENDIS THEOREMATIS. 267
+
+ScHOLtoN.
+
+127. Patet adeo ‚ per calculum litera-
+lem facilltme symptomata rationum &pro-
+grc tonum geometricorum ab unitate incipien-
+tium vel ignorata , vel oblivioni tradita re·-
+pertrz.
+
+PROBLEMA XXXIV.
+
+1 2 8. Invenire rationem fhpezficierum
+atque corporum in geometria elementari
+explicatorum.
+
+Sit parallelogrammorum & triangu-
+lorum altitudo communis a ‚ bases fint
+h & c .· erunt illorum areae ab δε ac
+(§. 375. 387 Geom.) , horum ὲ ab δε
+÷ac (§. 392 Geom.). Sunt ergo ut ab
+ad ac, hoc est, utbad c ( §.1 81Arithm.).
+
+Theorema 1. parallelogramma & trian-
+gula aeque alta basium rationem habent.
+
+Eodem modo invenitur
+
+‘Theorema 2. parallelogramma & trian-
+gula aequalium balium sunt in ratione al-
+titudinum.
+
+Sit diameter circuli a ‚ peripheria
+ma (§. 114): erit quadratum diame-
+tri αἱ, area circuli ᾗ ma² ( §. 429 Geom.).
+Est ergo illud ad hanc ut a² ad ᾗ καί,
+hoc est , ut aad ὲ ma (§.18 1 Arithm.)‚
+
+Theorema 3. Qadratum diametri est ad
+aream circuli, ut diameter ad quartam pe.
+ripheriae partem.
+
+Sint bases parallelogrammorum &
+triangulorum fimilium a ἃ b , altitu-
+dines ma ὃς mla (§.114Anal. & §. 396
+Geom.) .· erunt areae ut ma² ad mb² (§.
+375. 387. 392 Geom.) , hoc est ‚ ut Δὶ
+ad b² (§. 124).
+
+Theorema 4. parallelogramma ὃς trian-
+gula fimilia sunt ut quadrata basium5 scu
+(quia quodlibet latus pro basi affumi po-
+
+test ,οἱ 113 Geom.) ut quadrata laterum
+
+. homologorum.
+
+Sint bases parallelepipedorum‚ pris²
+matum, cylindrorum, pyramidum, co-
+norum , a ὅ( b, altitudo communis c:
+erunt corpora ista ut ac ad bc ( §· 536.
+539. 541. 548 Geom.) 2 hocaest, ut a
+ad b (§·113)· Eodem modo c affumi
+potest pro bafi communi ita ut a & b
+
+fint altitudines.
+
+Tbeorema ς. parallelepipeda‚ prismata,
+cylindri, pyramides & con-i ejusdem altitu.
+dinis bafium rationem habent3 eandem ve-
+ro bafin habentes sunt in ratione altitudi-
+num.
+
+Non absimili modo alia hujus ge-
+neris theoremata investigantur.
+
+PROBLEMA XXXV.
+
+129. Invenire , quoties quantitates
+quotlibet permutari queant, hoc est, or-
+do earum variari poffit.
+
+Sint quantitates duae a & b. Cum
+aut scribi poffit ab , aut b ας patet es-
+se numerum variationum 2=2.1. Sint
+tres quantitates a, b , c. Ordines earum
+
+erunt
+
+cab
+acb
+abc
+cba
+bea
+bac
+
+id quod patet , c primum cum ab,
+dein cum ba combinando. Unde nu-
+merus variationum 3. 2. 1=6.
+
+Qodfi quantitates fuerint quatuor,
+
+una quaelibet quatuor modis combi-
+
+Ll 2 ⁴nari
+

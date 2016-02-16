@@ -1,0 +1,120 @@
+286
+
+secundi & tertii ut tertius ad primuni.
+E. gt. 3. 5 &6 sunt numeri contraharmonice
+proportionales .· est enim 2 .· 1 :1 6: 3.
+
+.PR.03LEMA LXXV.
+194. Datis duabus quantitatibus int
+venire tertiam contraharmonice propor-
+tionalem.
+Sit prima ==a
+secunda :2 b
+tertia Ξ x
+erit < §. 193)
+b—-a: Χ ab: x .“ a
+ab——aa Ξ afim—bx ( §- 297 Arithm. )
+{W {ff add. (J, 143)
+
+{st »ιι ab--- a2-—-x² bx »1« {ff
+————— --——---—Ext. Rad·
+»ᾳ (ἕὲῑ fflab——ffl ) Ξ κ-Ῑῑόοὺ x > b
+
+ 
+
+ 
+
+ 
+
+,ὲὺ-ξ( «stiffi ⁴⁴ ab—-a²)=x
+
+E. gr. Sita=3,b=5:eritx ξ
+xl(²‡⁵*1⁴15-=-9)={÷ «2⁹2 ἐῶ
+2 ¹3² Ξ. 6. ν
+
+PROB LE M A LXXVI.
+
+195. Datis duabus quantitatibus in-
+venire mediam contraharmonice propor-
+simulem.
+
+· Sit prima = a
+tertia Ξ h
+erit( §- 193)
+
+x———a.·b--x:b:a a
+
+media -.-..-· ‚v
+
+ 
+
+ 
+
+a »ιη b div.
+
+ 
+
+x Ξ (a2 ἧφι) .· (aff-b)
+
+E. (ἐι-,Γπ a=3 ‚ b=6seritx=(9ffl 36):
+(34⁴6)=45= 9 = 5·
+
+Theorema. Si stimma 2 quadratorum di-
+fiditur pet summam tadicum ‚ quotus est
+
+ELEMENTA ANALYSEOS. PARS 1·. sefflll.
+
+intet- radlices medius contraharmonice pro«
+portlona 15.
+
+,DEFINITIO XV.
+
+196. Numerus pronicus est , qui ag-
+gregato ex radice 8( quadrato ejusdem
+aequalis.
+
+CoRoLLARIUM Ι.
+
+197. Si in progressione arithmetica ter..
+minus primus fuerit 2, differentia termino-
+rum itidem 2 , numerus terminorum = n 3,
+erit stimma progressionis: κη 4} (n2 -n)2
+(5. 108 ) ³ =2n ›1‹ n2-——n= n2-I- n,
+adeoque numerus pronicus , cujus radix nu-
+nero terminorum aequalis.
+
+COROLLARIUM ΙΙ,
+198. Patet adeo numeros pronicos pro..
+dire per summationem progressionis nume-
+torum parium. Sit enim
+progreffio 2. 4. 6. 8. 10 ὅτε.
+erunt pronici 2. 6. 12. 20. 30. δίς. ⁷
+
+PRoBLEMA LXXVII,
+. 199. Ex dato numero radicem pro-
+nicam extrahere.
+R E s o L υ T 1 ο.
+
+Sit numerus datus z a , radix pro·
+ulca Ξ x
+erit(§. 196)
+x² *i* x Ξ a .
+:3- ὲ ( §. 143 )
+
+—-—-———--——-=.a
+
+*A————-
+
+ 
+
+——n—*——
+
+x=÷xs(4a÷1)*-{
+Theorema. Si quadruplo numeri pronici
+addatur unitas δε radix unitate muldhi bifa-
+riam dividatur ‚ quotus est radix pronica.
+
+Sita = 72, eritx= &VM-724⁴ 1)--ἔ
+εξ ς] 289-ὲΞὲἎ-ὲῐ ·
+Examen. Nam 64 ›i‹ 8:72·PRO
+

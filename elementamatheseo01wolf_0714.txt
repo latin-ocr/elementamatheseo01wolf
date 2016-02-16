@@ -1,0 +1,114 @@
+512
+
+CORoLLARIUM L
+
+329. Si x==o3 etit radius evolutae 2V1 ¹
+
+= z= 2AD , quia AD = 1. Qnre fi DG
+fiat -τ AD ·, in G terminabitur evoluta ex una
+parte. Six Ξ AD Ξ 1 ferit radios cvoiutfe
+2V(1-· ι ): 2Vo = 0. szte evolutaex
+altera parte in B terminatur.
+
+CoKoLLARIUM II.
+
+330. Qndfi BL ipsi QD vd MC paralle-
+la ducatuum-st LBD: BJ'JQ(§.23 3 Geom.) ‚
+adeoque arcus Q & BL (5323 2 2 Geom.)d1‹,r-
+daeque cognomines( §- 289 Geom.) , conse-
+quenter BL: EC (5. 337 Geom.) & hinc
+LC ipfi BE aequalis δε parallela (5. 257
+Geom.). 13st vero BE arcui (Qu-§.575 parm)
+adeoque &alteri BL ‚ per demonstr. aequalis.
+Qare LC aequzlis arcui BL(9‘.87 Arithm.).
+Est imque evwluta cycloidis itidem cyclois
+aequalis ὃ( fimilis (μῦ. 575part. 1), hoc est,
+cyclois sui evolutione seipfiun describit.
+
+S C H 0 L 1 O N . ,
+
+331. Cum radius osculi aut evolutae vel ,
+aequalis stt arcui &volum ‚ vel cundem quanxi- fl
+tate data excedat ( 5. :163 ; omnes arcus Ι
+evolaturum geometrae refflficantur , quarum
+radii per construffiones geometricas exhiberi
+poffunt. Unde psctct , cur arcus cycloidis BC
+fit chordae BL duplus (AY. 168): esi‘ enim ra-
+dius evolutae MC ejusdem duplus (ὣ. 328 ) Θ
+evoluta cycloidis ipſtr quoque cyclois esi ( 5.
+330). Liquet etiam innumeras invefzin' poffe
+curvas , ΨΜ saltem geometrice reflefi‘cantnm
+Ceterum utilis eff radii osculi inventio , quia
+arcus circuli osculareris subflz'tui potest pro ar-
+cu curvae, quam osculatur ‚ in praxi. Ita spe-
+culum sphaericum cavum, observante Leibnitio
+in Astis Erudit. A. 1686. substituitur px-
+rabolico, qnia parameter parabolae cll diame-
+ter circuli eam in vertice osculanzis ς §53 17 )
+ficque perinde ac parabolicum dzstczntc‘am foci
+⁴babet quartae diametri parti aeqmlem.
+
+PRoBLEMA CXLVL
+332. Determinare radium oſsuli stu
+tvolutae in Logaritbmica:
+
+ELEMENTA‘ANALYsssos
+
+PARS II. Seci‘t'. IV.
+(Quoniam in Logarithmica (§. 54.)
+
+ 
+
+ 
+
+ydx’ : dy Ξῖ a
+
+ydx ξ a :dy
+’Ἦῖτᾏίᾙιῖἑ ddy ,quiazdx con stans
+
+seu ddy Ξ γιίκὲ : az,
+
+Est vero dy'- z y2dx2: a2 ‚ adeoque
+dy'- -ὶ- dx2 =y2dx2 :az-4· dx2
+Ξ ('y2 -†-a2)dx2:a2
+(dy²÷dx²)¹s<dx²÷dy2):dx³01=÷a²Wsy²÷a2>=a³
+(dx2÷ dy2) ss (dx2 ..1- dy²): —dxddy=
+dx³0¹² ÷a²)1s(y²÷a²)— (γι -1- αῇιζίγ-ᾞ· αἱ)
+αῧᾶάκὸε a² ζ’* ay ῳ
+Est igitur radius osculi seu evolutae Tab. 1·
+=(y2†a2)5s(y2†a²)2ay· fig, 8·
+Enimvero cum a fit subtangens Lo-
+gisticae PT 2 y semiordinata PM ‚ erit
+xs(y2 ÷a²) tangens TM (§.417 Ceam).
+Porro cum fit
+TP: PM ..τ- PM : ΡΝ
+a z y Ξ y : ΡΝ
+erit stxbrxommlis PN=y2:a ‚ consequen-
+ter TN compofita ex subnormali y2 : a
+ἃ subtangentc a=(y2-}- a2): a.
+Habemus adeo
+
+ 
+
+212L3E=w2÷a2>=
+h.e. PM ε TN: TM:
+
+Theorema. In Logistica radius osculi stu
+evolutae est quarta proportionalis ad semior-
+dinatam , tangentem atque compositam ex
+subtangente ac subnormali.
+
+Qantitas negativa est ob valorem
+ipfius y in praesente casu negativum.
+
+Porro quoniam ayrrest spatium logisti-
+cum interminatum HPMJ ( §. 134) δε
+(a2 ⁴72) «022 ὼγ) :2 TM³3erir HPMI:
+TM'- z TM: MC. Habemusitaque hoc
+
+Theorema. Spatium logisticum intermina-
+tum est ad quadratum tangentis nd radium
+
+osculi seu evolutae.
+SEC-
+

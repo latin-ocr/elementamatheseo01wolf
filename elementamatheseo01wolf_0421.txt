@@ -1,0 +1,165 @@
+Tab. Ι.
+Fig.3.
+
+Cap. ΙΙΙ. DE USU ALGEBRAE IN GEOMETRIA.
+
+ratur (5. 271 Geom.) quarta proportionalis
+‘BH-:⁴ 2b22 α. Fiat CB τ--ὲιι & CI: BH 2
+>erit 131: {a -· 2b² .· a :x- Dividatur BI
+bifariam in O , quaeraturque ad Bo=÷x‚
+& BE=BG=b tertia proportionalis ΒΚ,
+quae erit altitudo trianguli quaefita =b²:{x.·
+
+Qare fi super BI describatur semicirculus
+δε ex K agatur eidem parallela KL secans
+semicirculum in 1.; ductis rectis BL & LI
+erit BLI triangulum quaelitum.
+
+AEquatio secunda in hanc resolvitur anas
+
+logiam ε
+2a2a42b=a·-2b:x
+seu a: ὲ a ÷b=}a —b.·x (3318 5Arithm.).
+Habetur adeo
+
+Theorema. In omni triangulo morangulo
+est ut perimeter advcompositam ex dimidia
+perimetro &· quadrati latere, quod trian-
+gulo aequale , ita differentia hujus lateris a
+petimen-o dimidia ad hypothemisam.
+
+SCHOLroN.
+
+256. Cum areas figurarum in Geometria
+metiamur investigando earum rationem ad
+quadratum aliquod datum (5. 1 18. Geom.)·,
+ideo quoque tum in Geometri.z‚ tumjn Al-
+gebra dantur per latus quadrati ipsis aequale.
+
+PROBLEMA CXIV.
+
+25 7. Data area trianguli refflmgu-
+li , cujus latera AC , AB & BC in
+
+proportione continuas invenire latera.
+
+Sit area =a2 Β BC=x
+ΑΒΖ]
+erit Aczy22x
+
+Ergo
+(§.417 Geom.)
+,7⁴³ x²=x²†y²
+
+-.-..——--———x²
+
+Wlfii Oper. Mathem. Tom. 1.
+
+(§.392 Geom.)
+
+{xyzffi
+
+ 
+
+-ι-ι-ηι-
+
+ 
+
+ 
+
+ 
+
+ 
+
+305
+y4==xff -l- x2y2 .v)=2a2
+y4 z: ,1-6-a-Sfff- 4a4 -.-..
+y4 x=2a2 : y
+fzssffiw · 5:332
+2¹4:- 1 6a8: y4
+y⁸--4a4y⁴=1 611⁸ x²y2=4a4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.—-—-—- ———.—.-—
+
+y=a <7 (2 -ι- 2 ds)
+Nempe quia 2a4 <¹ 2a4 §s 5, radix 2a⁴-y4
+est falsa.
+
+Similiter reperitur valor ipsius x. Est
+enim, vi aequationis xy=2a2,y=2a2: x, 1
+adeoque 74:16a⁸: x4 δε hinc ob y⁴
+=x2y2 ÷ x4 porro
+
+Ι 6a⁸: x4= 4a4 -Ι- x4
+
+ 
+
+16a⁸=4a4 x4 -l— x8
+
+ 
+
+ 
+
+-η-
+
+ 
+
+ 
+
+ 
+
+2oa⁸=4a⁸ ÷ 4a4x⁴ -†- ,τῖ’
+
+ 
+
+ 
+
+ 
+
+ 
+
+244 «5:2124 ÷ x4
+
+ 
+
+ 
+
+ 
+
+x4= 244 ,ἴς-ὴ 244
+
+κΞΑ 5⁴! (2 xs5--2)
+
+f' Constructio. Jungantur AB=a δε AC ¹
+== 2a ad angulos rectos, erit BC=aV5. Tab:
+fiat BD=Ass‚ erit Dc=asf5 -α, Fiat XU-
+porro (ΞΕ = CD‚ & ducka per C resta NL fig·
+ad ΑΚ perpendiculari describatur super ΑΕ ΙΙ4·’
+semicirculus 3 erit CN :V (2a2V 5 »- 2a2)
+:ats(21l5 -2). facus CH=a & CG:
+
+CN ‚ descriPtoque semicirculo super HG,-
+
+erit 01:5²(a21s (21s5—2l(=at²'ls(2V
+5-2)=a &mss—m„
+
+(ζῆ
+
+ 
+
+ 
+
+ 
+
+Simi-
+

@@ -1,0 +1,122 @@
+Tab. 1.
+fig. ς.
+
+Cap.V. METHODUS TANGENTIUM INVERSA. 491
+
+curvae quaefitae a Qadratura hyperbo-
+
+1ae pendet.
+COROLLARIUM VII.
+
+243.Q0niam linea‚ad quam x=fhy·-¹dy‚
+est logatithmica ad asymptotum relata (5³54)
+atque x in asymptoto sumta logarit'hmus se.
+miotdinataeipfi respondentisffl‘. 555 . part-1);
+etit quoquesay-⁴ 'dy logarithmus ejusdem se-
+miordinataey, c011sequentersay-1dy= asdy .· y
+= ly : (ly denotat {ogarithrnum ipfiusy in
+logistica sumtum, cujus subtangens = α), Un-
+de liquet. quomodo differentialelogarithmi
+aut qumtitatis ‚ quarn logarlthmus ingredi-
+tur, fit inveniendum. Qoniam enim adyzy
+= dly erit etiam dl²²y = ncn- ¹y ady: y ubi a
+notat fitbtangentem logisticae.
+
+COROLLARIUM II.
+
+‘244AEt quia as-ZT--est spatium hyperbolicum
+
+per latus potentiae hyper-bolae divisum3 spatia
+hyperbolica per idem latus divisa exprimunt
+logarithmos , quotum numeri suntut semi-
+ordinatae ad asymptotuffl relatae.
+
+⁰ PROBLEMA CH.
+
+245. Invenire curvam ‚ in qua cst
+ut a ad y ita χ] ( aa -ι yy) adficbtangcn-
+tem.
+
+Qoniam per hypoth. ὠ §. 2'0
+
+aty=M(aa-·yy):3};
+
+hocest, a: 1: dyxlota —yy): dx
+
+——-—-—-——--——— ———-—-—
+
+crit αἴῃ] (dd-*3901 a: dx
+
+*ffl———Qss
+
+Qoniamſsz'y „s (aa—⁴ yy ) est portio cir-
+culi CDP‘M , cujus radius AC Ξ a ‚
+abscissa PC: y (§· 124) .· construcstio
+curvae a quadratura circuli pendet ,
+hoc est , circulus est quadratrix curvae
+quaefitae ( ς. 234). Retentis nempe abs-
+ciffis PC, semiordinatae x erunt aequales
+spatio PMDC per constantem a diviso„
+
+P ROB L E Μ A CIII.
+246. Invenire curvam , in qua cst, uta
+ad y ita χΙ (aa ψῃ) ad (abtangemem.
+Qoniam per hypoth. dv* §. 20
+any: xl(aa·-}‹)y): lg}
+hocest‚a: [Ξ dyd(aa÷yy): dx *
+
+——-—.———-——.-——-
+
+erlt dy d(aa÷ yy) za: dx
+
+stiy xl(aa*{<yy):a:= dx
+
+Qoniamfiz'y ᾳ (Μψῃ ): a est arcus Tab Π
+parabolae AM ‚ cujus parameter 2a(§. fig} 9:
+146.); fi semiordinata parabola* PM
+sumatur pro absciffa curvae quaefitae ,
+
+erit semiordinata ejusdem arcui para-
+bolico AM aequalis. ·
+
+ 
+
+S C H 0 L 1 ο N.
+
+247. Apparet adeo ‚ interdum construe.
+tionem pendere a reflifimtione curvarum.
+Praest‘at autem eam ad curvarum potius reili-
+ficationem , quam quadraruram reducere ,
+quia in priori casu praxis es} facisior ‚ ubi ar-
+cam filo metiri datur. In posteriori autem
+spatiorum quadratura opese1icrum infinita-
+rum definienda 1,szz in numeris prope veris (θ’
+inde sumiliter in istiusmodi numeris semiordi-
+natae curvarum quaefit.ct·l1mficnt computandae.
+
+PROBLEMA CIV.
+
+248. Invenire curvam, in qua est
+fitbtangens ady m quantitas censtans
+
+r ad d (r2—y2 ).
+Quoniam per hypoth. ἀ §. 20
+
+ἒξεχε mustra—72)
+
+ 
+
+ent dx: rdy: χ] (νι -‹y²)—-
+
+x =frdy=
+
+Qiastdyul'( r2 - y2) est arcus circu. Tab. L
+
+li AM,cujus radius AC: r,1>M:y(§0 fig. 3·
+1 5 3) ,- construfflo curvae pendet a reeu-
+ficationc peripheriae circuli. Nempe
+
+ΨΜ 2 ¹³
+
+ 
+

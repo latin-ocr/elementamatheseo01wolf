@@ -1,0 +1,129 @@
+Cap. II.
+
+lineam inventam y2 quarta proportio·
+
+nafis
+PRoBLEMA CXXL
+
+Τὼ, 284. Determinare minimam applica-
+ΙΙΙ. tam SR in curva exponentiali ‚ ad quam
+
+Βέ-οόο xx =y.
+
+Qoniam ylssx‘dx -ky'dbc-:dy (S. 2 8 2); κ
+
+fiat ylxa'x ÷ ya'x-zo (ᾗ. 61).
+
+——- ——Q
+
+erit lx -{·- 1=0
+
+Iz——lx
+
+Fiat ergo AT: ΑΒ* 1‚· erit TV
+
+=AR:x(§. 554par t.1..)
+
+Qlodss pro lx in aequatione curvae
+xlley substituatur valor modo in-
+ventus— 15 prodibitxz—ly. Fiat igi-
+tur AQ=VT= —x ς erit NQy (5. ctt.
+
+part.1).
+PROBLEMA CXXII.
+
+285. Qadrare curvam exponentia-1
+
+lem , ad quam x‘zy.
+
+Qoniam elementum areae ydx (5
+98. >5 er t area curvae=s³c dx:(fipr0
+xponastur1÷v)v†{ «υζ ÷÷ v 4-- v*
+-Ι-ι1ς v ⁵7÷¹ 3v ⁶&c. minfinitum (§. 267)
+
+PROBLEMA CXXIII.
+
+286. Invenire aequationem ad cur-
+va n, cujus silbta a=ngens 1: (Ι ψίκ).
+Qoniam 1: (Ι -Ιι lx)zydx: a'y (5. 20)
+
+ 
+
+ 
+
+ 
+
+ 
+
+dy: y=dx *F lxdx
+
+ssly: yjhr, s(dx÷lxdx)=xlx
+
+ly Ξ xlx ψ’*
+
+y—- x (§ 337 Arithm.)
+PR·OBLEMA CXXIV.
+
+287. Invenire aeqttationem ad cur-
+vam, cuju,- fizhnormulss y² (lx ᾧ Ι).
+
+ 
+
+ 
+
+DE CURVIS EXPONENTIALIBUS.
+
+499
+Qoniamy2(lx 41)=ydyt dx(§ 35)
+
+——.—-—-——.—-———-—
+
+erit y2(lx÷1)dx=ydy
+
+lxdx ·1< dxzdy: y
+
+--ῂ--ῇ —
+
+>3330 (§· 243)
+=y(§. 341. ᾖΑνὶιόηι. )
+PROBLEMA CXXV.
+288. Invenire aequationem ad cm·-
+vam , cujm fitbnomnalt's y2 la.
+
+Qonia1ny2la: ydy: dx (§· 3 5)
+
+—..,.--—·— -—.
+
+erit y2 ladx = ydy
+
+ 
+
+ 
+
+a¹'=y (§. 341 Arithm.)
+Est ergo Curva quaefita Logarithmi-
+ca vulgaris seu Logistica (5. 272).
+PRossLEMA CXXVI.
+289. Invenire aeqztationem ad cur-
+vam, cujus area (2x2lx—-x2):4la.
+
+Qoniam (§. 98)
+(4xlxdx ÷ 2xdx-—‹ 2xdx): 4la =ydx
+
+x Ξα1 (5. 341 Arithm.)
+Curva haec vi probl.114- (5. 268)
+ita construitur ope Logarithmicae vul· Tab-
+gar is ΜΒΝ. Sit nempe t'AB=13 quae ῙῙῙ·
+in infinitum pro du matur. Fiat AD-a fg 3²·
+& ΑΕΖΔ( , du canumque DL ὃς CM
+ipfi ΑΡ, HL δέ PM ipsi AC paralle1ae;
+erit DLzAHzla ὃς CMzApzlx
+(§. 268). Fiat AFzAH &ducatur FE
+ipfi CG parallela , per A vero & E re-
+Cta AG ipfi CM continuatae in G oc-
+currens ‚ crit CG=xlxz lazy(§.268
+Gema), adeoque punCtum G in curva
+
+quaefita, quae definitur per x* Ξ ay.
+Rrr 2 C o-
+

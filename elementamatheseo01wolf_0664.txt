@@ -1,0 +1,118 @@
+S c Η o L 1 ο Ν.
+
+167. Seriem pro sinu ά sinu verso ex ar-
+cu, atque pro arcu ex iisdem determinando in-
+venit Newtonus (l); seriem pro tangente (Τ
+secante cx arcu, atque arcu ex tangente de-
+terminando , Jacobus Gregorius (m). Exi..
+stimavit autem Leibnitius series istas Trigo-
+nometriam canonicam ad quantamcunque exa-
+
+altudinem in numeris a Tabularum neceffi-
+tate liberare.
+
+PROBLEM A LVIII.
+
+168. Rede'ficare cycloidem.
+
+Sit AQ=x‚ Ass=1‚ erit Q-——MS
+:dx , PQ: ss (x-‹ xx) (§. 377
+part. Ι.) Sc hinc Apzffx: x¹²2 (§.417
+Ceam), consequenter ob ΔΔ APQ
+ἃ Mms fimilitudincm supra demonstra-
+tam (§. 131).
+
+AQ ApzMS: Mm
+x: x¹²² Ξ dx: x—¹²² dx
+
+Est ergo Mm differentiale arcus Cy-
+(loidicigAM Ξ x-—uz dx. U nde ss-¹‘2dx
+Ξ 2x¹³2z 2AP est arcus AM‚scu arcus
+Cycloidis AM est chordae arcus circuli
+genitoris ipfi respondentis ΑΡ duplus.
+
+PRoBLEMA LIX.
+
+169. Data chorda arcus ΑΡ inveni-
+re arcum regna-minem , quemsizbtendz't.
+
+Sit AB: 1 ‚ ΑΡ Ξ x : cum angulus
+
+Tnb. 1.
+Eg. 7.
+
+Tab.
+Ι V
+
+γ ἒζὲτΑφΑΡΒ fit scetus (§. 317· ὥρη) crit PB
+
+Ξ Ml -ῆ x2) (§.417 Ceam.) Sitpor-
+
+>ro Ap ipfi ΑΡ infinite propinqua. Qro-
+‘niam angulus AQ Ξ ΑΡΒ -ξ- PAp
+(§. 239. Geom.) ἃ PAp , cujus men—
+sura est {- Pp (§. 314. Geom.) infi-
+nite parvus erit AQ3 Ξ ΑΡΒ (5.4),
+consequenter rectus ( §. 145 Geom.)
+Est igitur δε PQp= ΑΨ (§.! 56Geom.)
+
+> scetus (§.145 Geom.) itidemque AQ)
+(1)Vide Commercium epistolicum D. Joh.
+
+Collins p. 40. 52.
+(πὶ) lbjdem ξι 4ς.
+
+ELEMENTA ANALYSEOS. PARS 11. Sed. II.
+
+rectus (§. 65. Geom. adeoque ipfi APQ
+aequalis (§.145.Geom.) ὃ( hinc AP=AQ
+(§. 253. 89. Geom.) , consequenter QP
+differentIale chordae ΑΡ (§. 6) = dx.
+Porro anguli ΡΑΒ mensura est arcus
+dimidius PB ἃ anguli Qp mensura
+ffss (§. 314. Geom.): quare cum arcus
+PB δε pss ob infinite parvum Pp fint
+aequales (§.4. ), erit ‘angulus PAB=QPp
+(§. 141. Geom. ). Habemus itaque
+(§. 267. Geom.)
+PB: AB Ξ pQ Pp
+V(1-⁴x²):1:dx: Pp
+
+adeoque Pp Ξ dx: d( 1- x2) 8( hinc
+porro arcus ΑΙ) :fflxz ’ΜΟ-χι). Ea-
+dem igitur formula satisfacit arcui ΑΡ
+ex chorda cognomine determinando ‚
+quam supra invenimus pro eodem cx
+finu PM determinando (§. 153) , ni-
+
+ 
+
+mirum arcus AP=x÷ ᾒ x³ -1—21—:4333‘5
+-ξ- -Ϊ-Ἠ- 36⁷ ¹⁴⁰⁵ss x⁹ διε. In
+2.4.6.7 2.4.6·8.9
+
+infinitum.
+
+Qodfi Pssz-:x ., erit PQ= dx ὃ( ΑΡ
+:(xs 1—x2), atque eodem prorsus mo-
+do reperitur arcus Pss=fflx25s(1—x2),
+ut adeo cadem series satisfaciat utrique
+¹arcui ΑΙ) Sc PB inveniendo,
+
+P R o B L E M A L X.
+
+170. Data chorda arcsu ΑΡ inveni—
+re figmentum circuli cognomine.
+
+Sit diameter circuli AB=1 , chor-
+da ΑΡ--τκ , erit per demonstrata in
+problemate praecedente PB Ξ μ (1—x2)
+& szrdx, nec non Δ ΑΡΒ ωΔΡΩΡε
+
+erit etiam (§. 267.(1'eom.)
+
+PB: Apsz: PQ
+ff(1-x27):x=dx=PQ
+
+adeo-2
+

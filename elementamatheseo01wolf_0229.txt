@@ -1,0 +1,107 @@
+Cap. VI. DE FIGURARUM DIMENSIONE ET DIVISIONE. 167
+
+DEMONSTRATIO.
+
+⁵ & ABCDE: Δ DCA= abcde: A dca
+
+Qoniam ABCDE tr> abcde per hy· Ι ἃς. ζ S. 173 Arithm.). Qod erat ter-
+
+poth. erit o=o & AB : BC: ab : bc 5
+( §.175). ErgoAbac tt> Δ BAQyzy ι
+atque bc ι ca=BC2CA( §. 183 >2 Est ᾖ
+vero etiam bc: cd: BC: CI) & 724- y '
+
+=n÷y( §. 175 ).Ergo'ca: cd=CA2
+ΕΙ) (§. 156 Arithm.) δίη-ζῆ( §. 91
+Arithm.)‚consequenterA bad ν) Δ BAD‚
+cd: da=CD:DA&u=a(§. 183).Est
+vero etiam u÷s·=u-†—s& cd ε de:
+CD1DE(§.I75). Ergo s=s (§. 91
+Arithm.) & da: de=DA: DE ( §. 196
+Arithm.)‚consequenter Δ deam Δ DEA
+(§. 1 83 ). Qoa' erat primum.
+Quoniam Δ ΑΒΕ m Aabc , Δ DAC
+andac δε Δ DAE cn A dae per de-
+monstratas erit Δ ΑΒΕ; Aabc-—-CA²:
+σαι , Δ DAC ε Adac=CA22 caz Ξ
+DA²: da² δέ Δ DAE: Adae-:DN ε da²
+’ (§. 398) ³ consequenter Δ ΑΒ C τ
+ΔΑπΞΔ DCA ε Δ dea δέ Δ DCA 2
+Δ dea :ADAE: Adae( Β. Ι 67 Arilh.)‚
+adeoque etiam Δ D EA : Δ dea =
+A ABC: Aabc (δαὶ. ). Sunt igitur AA
+ΑΒΕ , ACD , ADH, & abc ‚- aed, ade
+
+inter se proportionalia. ,Qtod erat Je-
+cundum.
+
+Quoniam denique A ΑΒΕ : Δ Λὼτ-
+ADCA: A dca=A DEA: A dea ‚ per
+secundum husus ,- erit A ABG ÷A DCA
+†ADEA: A abc÷A dca ÷A dea:
+AABC: A abc( §. 192 Arithm.). Sed
+AAssc-i-ADCA-i-ADEAzpolygono
+ABCDE ὃς Δ abc -1- Δ dca -Ι- Δ dea:
+abcde (§. 86 Arithm.).Erg0 ABCDE ε
+abcde=A ΑΒΕ z Δ ιώῑΞΔ DEA :
+Δ dca &c. (§. Ι 68 Arithm.) ‚consequen-
+ter ABCDE .· Λ ABG: abcde: Aabc ,
+
+tium.
+
+COROLLARIUM.
+
+404. Cum polygona regularia fint :equi-
+lztera &eequi211gui.1(§. 106), tum etiam
+fibi mutuo aequianguh( 5. 344),· polygona
+regularia ejusdem ordinis ‚ veluti onmia pen-
+tagona , omni: hexagona δίε. regularia in-
+ter se simili-1 sunt (5⁴. 175). Polygona igi-
+tur regularia ejusdem ordinis per &agon-‘iles
+in triangula fimilia dividuntur & inter se ‚
+
+,δε totis proportionalia.
+
+S C H 0 L 1 o N.
+
+405. Poterat theorema praesens ex notione
+determin.1tionis facilius demonstrari. Nimi-
+rum cum figurae ABCDE Θ· abcde fin! [imi—
+les ‚ per hypoth. adeoque anguli A (Τ a aeqm-
+les( §5- 175 ), atque praeterea diagonales AC,
+AD &⁴ ac, ad ex angulis lusce aequalibus A (θ’
+a ducantur,- AA ΑΒΕ & abe ‚ CAD &cad ,
+DAE& dne eodem modo determinantur (ᾗ.
+1 19 ) , consequenter &⁴ inter [efime'lia {imt θ’
+fimiles partes figurarum existunt ( 5. 120 )‚
+eandem adeo ad figuras tanquam tota rationem
+( 9. 170 Arithm. ) ‚ immo eandem intersera-
+tionem quarn polygona ant quadrilatera ha-
+bent( 5. 171 Arithm. ).
+
+THEOREMA LXXXIV.
+
+406. figure tam regulares , quam fi-
+
+miles irregulares habent rationem dupli-
+
+catam homologornm laterum.
+
+DEMONSTRATIO.
+
+Sint figurae ABCDE δε abcde five
+regulares , five· irregulares fimiles, eae-
+que five quadrilateree , five polygonae
+quaecunque ejusdem ordinis 3 erit
+ABCDE : abcde Ξ Δ ΑΒΕ .· A abc =
+AACD: Aacd= AADE2A ade
+(§-403. 404 ). Sed Δ ΑΒΕ .· Δ abc
+Ξ AB²t ah²=BC²: bc²‚· Δ ADC:
+Aadc= CD² .· αθ & Δ ΑΒΙΞε
+
+a e
+
+Vl:
+Ege
+1 1 ι.
+

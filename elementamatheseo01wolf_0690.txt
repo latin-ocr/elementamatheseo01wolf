@@ -1,0 +1,142 @@
+488 ELEMENTA ANALYSEOS.
+
+ 
+
+s-—ss—-m-——f
+
+pm 11. sen. ιι.Α
+
+ 
+
+CAPUT V(
+
+De effu Calculi integralis in Me‘Zhodo tangentium invevfic.
+
+DEFINITIO IX.
+
+224-
+
+[Δ est 2 qua cx data tan-
+
+gente aut linea quacunque alia , cujus
+
+determinatio a tangente pendet, inve-
+
+nitur aequatio ad curvam aut constru-
+&io curvae.
+
+COROL1.AR1UM.
+225. Cum expreffiones differentiales tan-
+gentis, subtangentis, subnormalis ‚ notma-
+lis δε arcus, itemque areae curvae superius
+
+traditae fuerint (520. 34. 35. 4498. 144); ,
+
+*fi valor datus expreffioni differentialiaeque-
+tur δε aequatio differentialis vel summetur,
+vel fi id fieri nequeat, construatur 2 curva
+defiderata innotescit.
+
+P Β, o Β L fi M A ⁸LXXXVIII.
+· 226. Invenire lineam curvam , cu-
+jus fizbzangens :⁶- 2jvy : a.
+aniam filbtangens lineae algebrai—
+ωε Ξγίκε dy (ἓ. 20); erit
+ydx: dy Ξ 239¹: a
+aydx Ξ 2y³dy
+adx ;-.·· '27dy
+ax Ξ y2
+Est adeo curva quaefita parabola (S.
+388. part. Ι .) , cujus construffio ex su-
+perioribus manifesta (§. 392. part. Ι).
+PRoBLEMA LXXXIX.
+227. Curvam invenire ‚ cujus fith-
+normalis cst constans, e. geza,
+QuonIam subnormalis lineae 'alge-
+braicae (§.3 5) ydy: dx3 enit
+μ’] = adx
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+{7² Ξ ax
+
+y² Ξ 2ax
+
+ 
+
+Ethodus Tangentium inver-
+
+Est adeo curva quaefita parabola, cu-
+jus parameter = 2a.
+
+P R ο Β L E M A X C.
+22 8. Invenire curvam, cujussitbnor-
+malis :⁴ r -ι x.
+
+Qoniam ydv: dx r: ν- x (§. 35.);
+
+———.—————-—=
+
+ydy Ξ rdx -ι xdx
+
+——-—--—-—-
+
+y2 ’Ξ er --’ xx
+Est adeo curva quaefita circulus, cu-
+jus radigm r seu diameter 2r (§. 377.
+part. 1. .
+
+PRoBLEMA XCI.
+
+229. Invenire curvam ³ cujue sttb-
+tangens cst tertia proportionalis ad
+r ——x ὠ y.
+
+Quoniam (ς’. 20)
+
+Q ydx
+νυ--κτ y—y: ——
+
+ 
+
+ 
+
+erit r--x : γ-Ξιζνε ded& ‚124 part. 1)
+rdx —- xdx :ydy
+
+rx—{x2={y2
+
+ 
+
+ 
+
+ 
+
+2rx—-—xx =y²
+Est adeo curva quaefita denuo circulus.
+
+PROBLEMA XCII.
+
+230. Invenire curvam , cujas [ἰώ-
+tangens est tertia proportionalis ad
+r »Β x ὠ y
+
+Quoniam (ς. 20)
+
+¹ — ydx
+rvi-«xny—y: ᾙ
+
+erit
+

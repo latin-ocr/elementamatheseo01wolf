@@ -1,0 +1,141 @@
+176
+
+Cum ex uno puntsto A ad eandem
+scenam CD perpendicularis nonnifi uni-
+ca duci possit&- 213) 3triangulaAC1‚
+1A2 , 2 AD eandem altitudinem (§.
+228), adeoque basium rationem ha-
+bent (§. 389 ). Sed bases aequales sunt,
+per constr. Ergo & triangula. Qud crat
+
+alterum .
+
+PROBLEMA LXV.
+441. figuram rechlineam quamcun-
+
+331³* que ABCDE in partes aequales dividere.
+
+fig: RESOLUTIQ
+
+139. 1. Qaeratur areafigurae (§. 400) & di-
+vidatur in tot partes aequaleS, in quot
+figura dividi debet, e. gr. in 3.
+
+2. Area parm, In nostro casu tertia* ,
+ulterius dividatur bifariam.
+
+3. Area trianguli AED subtrahatur a
+parte tertia ὃς residuum dividatur
+per}AD ς erit quotus altitudo trian-
+guli AlD priori AED addendum, ut
+AEDI fit pars tertia figurae ( §. 394).
+
+4. Quare intervallo hujus altitudinis du-
+catur parallela ipsi AD ( §. 2 ς 8 ), quae
+secabit latus AB in I: quo pundto da-
+to ‚ rectam DI ducere licet, tertiam
+
+partem figurae AIDE abscindentem.
+
+5. Pars tertia dimidia five sexta totius ·
+
+figurae dividatur per÷ D Ι, quotus erit
+altitudo trianguli IKD sextam figurae
+partem constituentis (§. 394).
+
+(x. Intervallo igitur hujus altitudinis
+agatur ipfi ID parallela , ut habeatur
+pundmm K (§. 25 8).
+
+7. Dividatur quoque dimidia pars ter-
+tia figura: per ὲ KD 2 ut habeatur
+altitudo trianguli KLD sextae iti-
+dem parti figurae aequalis (§.394).
+
+8. Quare hujus intervallo denuo aga·
+
+finis Partis Prioris..
+
+ELEMENTA GEOMETRIAE. PARsI.
+
+tur ipfi KD parallela (§. 258), ut
+pundturn L determinetur ducaturque
+reita KL , quae partem figurae ter- ,
+tiam KIDL resecabit.
+
+9. Si figura in plures quam tres par-
+tes resolvenda ; eodem modo ulte-
+rius procedendum.
+
+E.gr.SitAD: 516“‚AC: 580''‚EH :154⁰-
+DG: 315'‘,BF: 375'3eritAED: 397μ”
+ADC :91350 δι Asc: 108750(§. 392)
+adeoque area figurae 239832(§.400) 3 ejus
+pars tertia 79944,· pars sexta 39972..
+
+Pars 111=79944
+Afipjzwsz
+ΑΗ) :40212 <155÷seu156fere=1M
+,ιὶΑῡῑῑιςὲΗ 258
+144¹
+'3290
+1512
+1290
+
+ 
+
+ 
+
+ 
+
+ 
+
+υ
+
+Pars V1=39972 (151''= ΚΝ.
+{D1=264)264
+
+¹357
+[3 20
+
+372
+
+ 
+
+ 
+
+—264
+
+108
+ParsV1=39972 (139712LO
+¹3¹)K=287)287 -
+
+1127
+861
+
+2652
+258³
+79 .
+S c Η o L 1 o N I.
+
+442. Si A ΕΒ maJ'us tertia e. gr. parte figu-
+rae3ipsam ab illo subtrahi neceffe est (φ residuum '
+erit triangulum a triangulo AED auferendum,
+ut tertiae parti figura aequalis evadat. Saepe
+etiam consultum est, ut prima pars AEDIper
+duo triangula uti ceterae determinetur.
+
+S c H 0 L 1 ο Ν Ι Ι.
+
+443 ‚Ubi in charta divifio absoluta,· in cam-
+popunfsal ‚ K1 L per' quantitatem reflarum
+AI , 11< (θ’ DL facile determinantur (921 26).
+
+ELE-
+
+ 
+
+ 
+
+ 
+

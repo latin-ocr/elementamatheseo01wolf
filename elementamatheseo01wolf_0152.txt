@@ -1,0 +1,108 @@
+1114
+
+THEOREMA XV.
+173. Si centro circuli C applicetur
+lineae rec‘i‘ae C D, radio A C aqualis ‚ ex·
+‘tremam umarus alterum peripheriam at-
+tinget.
+
+Tab. 1.
+«fig. 2.
+
+“DEMONSTRATIQ
+
+Qoniam recia C D radio. aequalis
+per hypoth. ipfi congruet (ἓ. 168 ) , a-
+deoque eosdem* cum co terminos ha-
+bere debet( M). Sed radius cx centro
+eductus in peripheria terminatur( §. 3 9).
+Ergo & resta C D ipsi aequalis 2 fi al-
+terum extremum in C haereat , altero
+peripheriam attinget. Q e. d.
+
+THEoRpMA XVI.
+
+174. Anguli ssmilessimt etiam ‹equa-
+ἔξω..
+
+DEMONSTRATIO.
+
+In angulis fimilibus ea coincidunt,
+per quae ase invicem discerni debent
+(§. 24. Arithm. ). Qare cum anguli
+distinguantur per rationem arcuum ex
+vertice intra crura descriptorum ad pe-
+ripheriam ( §. 58 ), fi anguli sunt fimi-
+les , arcus isti ad suas peripherias ean-
+dem rationem habere , hoc est , & ipfi
+fimiles esse debent ( §. 141 Geom. &
+§.170.Arith.). Sunt igitur anguli aequa-
+les( 141 >. Qe. d.
+
+THnoREMA XVII.
+
+17 ς. In figuris stmilibus anguli ho-
+mologi fimt aquales &latera homologa
+proportionalia.
+
+DEMONSTRATlo.
+
+In figuris fimilibus ea coincidunt ,
+
+per quae a se invicem discerni debent =
+
+ELEMENTA GEOMETRIAE. PARsI.
+
+( §a 24 Arith. ). Qare cum figurae ne-
+queant distingui nm· per angulos δι la-
+tera ; illi aequales ( ς. 174) , haec pro· 1
+portionalia efl'e debent( §.1 54 Arith. ).
+
+Qud.
+
+SCHoLloN.
+
+176. Sermo nobis tantum est de figuris
+refftilmeis ‚ quarum latera in [e [postam om-
+nia inter se fimisst'a sunt. Alias addendum
+foret ‚ latera homologa debere effe insuper
+inter se similia &fimiliter posita, ε. gr. ar-
+cus circulorum similes convexitatem centro
+figura obvertentcs.
+
+THEOREMA XVIII.
+
+177. figurarumstbi mutuo congrum· Tab.1.
+tium RTUS δε rtus anguli εἰ* latera ᾖξας
+homologa inter fi> aqualia sitm.
+
+DEMONSTRATIO.
+
+Qoniam figurae RT US ὃς rtus fibi
+mutuo congruunt , per hypotb. iidem u-
+triusque termini effe poffunt (§. 3 )u
+Qare cum termini earum fint perime-
+tri ( §. 31 ),· una rtus supra alteram
+RTUS ita poni potest , ut tu ipfi TU,
+tr ipfi TR ‚ rs ipfi RS &c. congruat.
+Ergo latera homologa sunt inter se ae-.
+qualia < ,6. 161 ). de erat unum.
+
+Sunt vero T δέ t, Κᾶν, S& s &a
+verticem TU, TR ‚ RS , SU δε tu ,
+tr , rs, su crura angulorum homo ogo--
+rum (ς. 54 )⁴ Qamobrem & angu-.
+li homologi aequalcs sunt (§. 167).
+Qod erat alterum.
+
+S'cHoLloN..
+
+178. Patet ex scholio praecedente ‚ quomo-
+do idem theorema ad figuras quoque non rec-2.
+
+tumeas extendatur,
+
+ 
+
+CAPUt
+

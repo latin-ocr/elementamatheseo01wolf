@@ -1,0 +1,120 @@
+Tab.
+
+IX·
+th.
+ι 54.
+
+Tab.
+
+lx.
+Eg.
+
+155.
+
+188
+
+PROBLEMA VII.
+515. Rete pro priſsnate deſsribere.
+R Ε s o L tr T 1 ο.
+Ι. Construatur baiis prismatis e. gr.
+pro triangulari triangulum KBD.
+2. Continuetur latus BD in A δε Ε,
+donec fiat AB-:BK ὃς ΒΕΞΒΚ.
+3. Super AB, BD ec DE construantur
+parallelogramma AG > BH , DF ,
+quorum altitudo AC altitudini pris-
+matis aequalis (§. 339 ).
+4· Denique super GH triangulum (ΞΗ-Ι,
+ipfi BKD aequale (§. 205 ).
+Ex hoc reti prisma triangulare, nec ab-
+simili modo multangulare quodcunque
+construetur (§. 457).
+
+THEOREMA XX.
+
+516. Superficjes cylindri rec‘listclu-
+fis basibus aqualis cst rec7angulo fitb pe·
+ripheria ό· altitudine cylindri.
+
+DEMoNs‘rRATIO.
+
+Concipiatur arcus EF adeo parvus
+ut pro linea reda haberi poffit , du-
+canturque rectae EG ἃ FH inter se pa-
+rallelae ὃς ad EF perpendiculares, Qo-
+niam etiam arcus EF ipfi GH paralle-
+lus (§.465)3 erit EGHF recitangulum.
+Superficies itaque cylindri in innumera
+rectangula‚ ipfi EFHG aequalfa resol-
+vitur, quorum communis altitudo est
+EG seu altitudo cylindri (§. 229), ba-
+ses vero junctim sumtae peripheriae
+aequantur. Ergo eadem aequalis est
+restangulo sub peripheria & altitudine
+cylindri. (§. 389 )· Q e. d.
+
+S c H o L 1 o Ν.
+517. Nimirum arculus in quolibet casu
+
+tam exiguus affiaemitur , ut, fi ejus differen-
+aia multiplicari supponatur per numerum par·
+
+coni aequalis (§. 389 λ Q e. d.
+
+ELEMENTA GEOMETRIAE.PARsII.
+
+tium, in quas peripheria concipitur divifiz 2
+prodeat particula in dato casu inaffignabilis,
+adeoque contemptibilis parvitatis: quod fieri
+posse patet , quod polygonum circulo inscrip-
+tum continuo appropinquat ad peripheriam.
+Et idem tenendum esi in aliis casibus, ubi
+de infinite parvo fermo fuerit. Sed ex insli-
+tuto eade re dicimus in philofirphia prima,
+
+PROBLEMA VIII.
+
+518. Rete pro cylindro destribere.
+
+R Ε s o L u T 1 ο.
+1. Eadem diametro describantur cir'-
+
+culi AB δε CD.
+
+2. inveniatur horum peripheria (§. Tab.
+
+429 . lx.
+3. Supgr BC altitudini cylindri aequa- Eg·
+
+li construatur redlangulum (5339), ¹56⁶
+
+ita ut CD lit peripheriae inventae
+
+aequalis.
+Ex hoc reti construi potest cylindrus
+(§. 5171.
+
+THEOREMA XXI.
+
+ς 19. Superficies com· rec72' ſsclusa bast Tab0
+aqualis cst triangulo 2 cujus basts peri· Dfe
+pherta , altitudo latus coni. ἧς·
+
+DEMONSTRATIO. ¹5⁷⁰
+
+Si arcus LM infinite parvus adeo—-
+que a reeca non differens ‚- triangulum
+KLM pro retstilineo κᾶε habetur ‚
+cumque· angulus K fit infinite parvus ς
+anguli L & M a rectis non differunt
+(§. 240) , estque adeo KM ad LM
+perpendicularis (§. 78), consequenter
+trianguli· KML altitudo (§. 228). Sed
+coni recti superficies in innumera> istius-
+modi triangula inter se aequalia resolvi-=
+tur (§. 467. 251). Ergo integra coni Ι
+recti superficies :equalis est triangulo 2
+cujus altitudo lateri, baiis peripherIae
+
+COROL“¹
+

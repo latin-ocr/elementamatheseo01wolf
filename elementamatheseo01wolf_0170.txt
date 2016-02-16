@@ -1,0 +1,115 @@
+124
+
+DEMONSTRATIQ
+Qoniam H I perpendiculariS ad
+LM prr hypath. angulus x rectus est
+(§.78)‚ adeoque HK hypothenusa ,
+consequenter HK > HI (§.22c>). Q
+e. d.
+
+COROLLARIUM I.
+
+22 5. Ergo distantia puniti a linea vel pla-
+no est reeta nb illo puudto ad lineam vel
+planum perpendicularis (SV, 15 ).
+
+CoRoLLAR1UMlL
+Tab· 226. Qare si linea Hl fuerit ipsi KL
+
+ΠΙ. pnrallela , erunt perpendicula quaevis ex illa
+ῬΞ-8058. in hanc demissa GE, AB, CD iuret le
+aequalra & contra (9281 ).
+
+COROLLARI UM III.
+227. Altitudo figurae est perpendiculum
+ex vertice in balin demiffum ( J. 115 )
+
+COROLLARIUM IV.
+228. In triangulo rt·6kangtilo angulus K
+redtus (§. 91) & hinc cathetus.unus MK
+ad alterum KL perpendicularis (§. 78). Er-
+go si KL sumatur pro basi , erit M vertex
+(§. 114), adeoque MK altitudo (5. ΖΠ).
+
+COROLLARIUM V.
+
+Tab. Ι.
+Fig.19.
+
+Τὼ 1. 229. Similiter in quadrato ἅτ oblongo la-
+Rg 21' tus unum curn altero efficit metum C vel
+23 ⁶ ⁰ K (§. 98. 100) ‚ adeoque unum ad alterum
+⁰ perpendiculare (§. 78 ). Qod fi ergo latus
+unum CD vel 11< sumatur pro basi ·‚ erit A
+vel L vertex ( 5. 1 14) , consequenter AC vel
+
+LK altitudo (§. 227).
+
+THEOREMA XXXVI.
+
+T b 230. Si HI fuerit parallela ὠ BA
+131' perpendicularis ad KL; erit eadem ΑΒ
+
+535 g· eliam perpendicularis ad HI.
+
+DEMONSTRATIO.
+Fiat EB=BD ὃ( erIgantur ex E & D
+perpendiculares EG & DC (§. 212) 3
+
+cirtiofizco < ς. 225) ἃ 13:13sp
+
+ELEMENTA GEOMETRIAE. PARsI.
+
+(§. 78. 145), consequenter BG=BC
+&y Ξ u( §. 179). Sed quoniam AB
+perpendicularis ad KL , per hypoth. ideo
+u†x=o÷y ( §. 79). Ergo & x: o
+(§. 91. Arithm. ). Qarecum porro fit
+Α’ΒΞΑΒς erit&m:n( §. 179)‚ade0-
+que BA ad HI perpendicularis( §. 79 ).
+
+Qe. d.
+
+COROLLARIUM.
+
+231. Sunt ergo EG, AB , CD distantiat
+tum κᾶε KLa reeta HI, tum redtae HI a
+rech KL(5.225)‚ adeoque fi HI paralle-
+la ipfi KL , etiam KL parallel-2 est ipsi HI
+
+(si-81>- ’ἓ
+
+3
+
+THEOREMA XXXVII.
+
+232. Parallelae ΑΒ ὠ EF eidem ter· Tab0·¹
+tiae CD simt etiam parallelae interse, ἀ· ῙῙῙ·
+parallelis parallelae siml inter st paral· Fig'ffl'l
+lelae.
+
+DEMONSTRATIO.
+
+Ducantur GI ὃ( ΚΜ perpendiculares
+ad (ΣΙ) (§. 216) : erunt eaedem perpen-
+diculares ad AB δέ EF ( §. 214. 230).
+Ergo GHzKL δε HIzLM (§. 226) 2
+consequenter GH ÷H1 Ξ KL÷LM ( §.
+88. Arithm.) hoccstsslzKM( §.aa
+87 Arithm. ) adeoque AB parallela ipfi
+EF (§. 225. 8 1 ). Qod erat unum.
+
+Posterius patet per prius.
+
+ΤΗ EoRE M Α XXXVIII.
+
+233. Si duas parallelas ΑΒ &⁵ CD Ἠὼς,
+ficet transverfh EF in G ὠ H 3 erunt 1⁰. Hm& l
+anguli alterni y ὠν u aqualem 20. angu- g·
+lus externus X aequatur inlerno opposito
+υς 30. duo interm· opposta¹ o ὠ u stmt
+aequal& duobus rec‘st.
+
+DEMONSTRATIO.
+Si resta EF secet parallelas ABCg
+

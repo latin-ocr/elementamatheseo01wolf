@@ -1,0 +1,117 @@
+502 ELEMENTA ANALYSEOS. PARS II. SedJJV.
+
+“ww—mv<— ...22- , , ›mn-..-
+
+CAPUT
+
+ 
+
+ΙΙ.
+
+De* ffb Calculi differentio-dffe'rentialis in inveniendo pundffo
+
+stema Contrartz' curvarum.
+
+DEFINI 10 XVI,
+
+301 . Us'chumflexm contrarii est pun-
+gi} . <stum M, in quo curva flectitur
+Nssgii3⁶i11 partes contrarias, ut scilicet axi ‚
+
+aur pumero cuidam fixo convexitatem
+
+obvertat‚ cum antea concavitatem ob-
+
+verteret. Vocatur Pam‘Jum regreffln ,
+
+fi curva AMI in contrarias partes flexa
+
+regreditur versus verticem Α.
+
+PRossL E M A CXXIX.
+302. Dela-minare pltm‘t'um flexus
+contrarii in curvis , quarum ordinatae
+
+fimt inter st parallcbe.
+
+RESOLUT10½
+Tab Sint duae curvae ΑΜΒ, quarum una
+111. ⁸ axi concavitatem ‚ altera convexitatem
+fig-3 3. obvertat. Dusatur tangens TM, imt-
+N· ¹·2· que PM2pm δε Q infinite propinquae,
+ὃς szpQ, hoc est, dx fit constans.
+
+Demittantur ex punctis curvarum M
+
+& m perpendiculares MR & mr. Qo-
+
+niam pm ipsl Q parallela‚ per hffioih.
+
+erit angulus sz (§. 233. Gema).
+
+Sed MRZPp & mrzpq per hjpoth.
+
+adeoque MR=mr (ᾗ. 87. Aridum.)
+
+Ergo mRer (ἓ. 251 Geom.) Est
+
+vero Sr> Vr, quando curva axi conca-
+
+vitatem obvertit. ἃ Sr <2 V ν, quando
+convexitas curvae axem respicit. Qam-
+obrem in casu priore differentia se-
+miordinatarum dy continuo decrescit,
+in posteriore autem crescit, sumta al s-
+
+ciffae differentia dx pro constante. In
+
+Tab.
+
+pundio itaque flexus contrarii differen-
+tia semiordinatarum dy est minimum a·
+liquod, quando curva primum ad a-
+xem concava , deinde convexa ; maxi-
+mum vcro aliquod , quando curva ad
+axem primum convexa, deinde conca-
+va. invenitur adeo illud puno'tum ‚ fi
+fiat ddy=20 vel ddy: 00 , hoc est ‚
+fi sumpta dx pro constante, valor ipfi-
+us dy denuo differentietur (§. 300. ) δε
+quae prodit differentia vel nihilo, vel
+infinito aequalis ponatur.
+
+CoRoLLARIUM.
+
+305. uodfi aequatio ad curvam ignotam
+detur ; inveniri potest , utrum convexita-
+tem , an concavitatem axi obvertit, fi ex
+aequatione differentiaii eruatur ratio mr &
+MR. E. gr In parabola (5. 388. part. 1.)
+
+ax =y2
+
+-ἡ- -..ᾐ-
+
+adeoque adx = zydy
+
+a: 2] = dy :dx
+hoc est. a: zVax= dysdx
+Crescente adeo abst-iffa x, decrescit m²<
+tio a: ι sax (205. Ar.²tlnn.) Qare cum dx
+fit constans, pcr hypot‘). dy decrescere debtt
+(5. 204. Arithm.) parabola igitur constan-
+ter concavitatem axi obvertit, adeoque pun-
+<stum flexus contrarii habet nulium.
+
+PROBLEMA CXXX.
+
+304. Determinare puncfffmnflexm [θη-Τὼ,
+trarii M in Cysloide t'ssMN ejus natu-111.
+ree, utstt AQB: BN=AQQ1. 5· fig-34·
+
+ι It
+
+ 
+
+ 
+

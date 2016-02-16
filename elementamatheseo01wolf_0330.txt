@@ -1,0 +1,173 @@
+220 ELEMENTA TRIGONOMETRIJE PLANAE.
+
+Detur denique in triangulo obtusnngulo
+AGC angulus obtusus G 165⁰ 17¹ ‚ una cum
+cruribus AG: 179⁶& AC 223‘spr0 acuto C.
+Inferatur( 5. 35).
+
+Log.AC 2.3483o49
+Log. Sin. AGE 9.4 o 4 9 o O 9
+Lug-'AG 2.2. 5 7. ἐς] o Ι
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sum. Log. Sinssffi-&ff-LLEJLOE-'LZ-
+
+Log.Sin⁴C 9·3094490
+cui in §Sauone respondent qnam proxime
+1 1 0 46 .
+
+ 
+
+LEMMA.
+
+3 9. Si a sbmzfitmma duarum quantita-
+tum fitbtrahatur ſsmidtrffi’rentia ‚ relin-
+quitur quantitas mt'nor .· St vero illi
+lmc addatur , prodit major.
+
+DEMONSTRATIO.
+
+Numerus major componitur ex mi-
+nore ὃς differentia ( §. 64 Arithm. ) .-
+“ ergo summa ex minore bis sumta δε
+differentia ‚ consequenter semisumma ex
+minore &semidifferentia. Qare fi a
+semisumma semidifferentia subtrahatur ,
+minor quantitas relinquitur( ᾗ. cit.
+
+Arithm.» ). Qod erat uuum.
+Qodfi vero semisummae semidiffe-
+
+tentia addatur , aggregatum erit com-
+positum ex quantitate minore ὃς diffc-
+rentia( §. 61 Arithm.) 2 adeoque nu-
+merus major, per demonstr. Qod erat
+
+alterum.
+
+P R ο Β L E M A X V.
+40. Datis duobus lateribus ΒΑ &⁹
+AC cum angulo intercepto Α , invertire
+angulos reliques.
+Rusorurto.
+
+Ι. Si triangulum ΑΒΕ fuerit recitrtiigti=¹
+lum3 assumto crure uno circa retitum
+ΑΒ protadio, erit alterum CA tan-
+gens anguli oppositi P, ( §. 7. 8 ) In-
+feratur ergo :
+
+’ Log. AB-{ss AC
+
+ut crus unum AB
+ad alterum AC ς
+Ita finus totus
+ad tangentem anguli Β.
+
+Γ· Egr. Sit BA 79' ‚ AC 54': etit
+
+Log.BA 18976271
+Log.AC 17323933
+
+Log.Sin.Tot. 1 o 0 0 o ο 0 o 0
+
+Log. Tang. B 9.8 3 4 7 6 6 7 ‚ cui-in Ca-
+none respondent.qtmm proxime 340 μ’.
+Ergo angulus C 55⁰ 39¹ ( 5. 241 Geom. >.
+11. Si angulus A fuerit obliquus 3
+
+Ι . Inferatur .-
+ut summa laterum datorum ΑΒ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+& AC
+
+ad differentiam eorundeim
+
+Ita tangens semisummae angulorum
+quaefitorum C & Β.
+
+ad tangentem semidiffeoentiae eoff
+rundem.
+
+2.Addatur semiclifferentia ad semi-
+
+summam 3 aggregatum erit angu-
+lus major C. Eadem a semifum-
+ma subtrahatur ‚ refiduus fiet an-
+
+gulus minor B.
+E. gt. Sit AB 75'2 AC58' ‚A 108024',
+
+v erit .
+
+AB 75 AB 75 A÷ B÷C t790 60'
+
+..-.-——--›-————--————-.-—--—-..---—-
+
+ 
+
+}(B÷C) 35 48
+2. 1238516
+Log. AB -. AC 1. 2304489
+Log. Tang. }(B-}-—C) 9. 8580694
+{unumffll-d-o—g—&ffl 11. 0885183
+Log. Tang. {(C···‘ B) 8'. 9646567, cui
+in tabulis proxime respondent 50 16'.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+’ ÷(B÷C)=35⁰48' {UH-Q: 350‘48⁷
+
+{tc-Bm ⁵‚.1„⁶.„.÷(C-„¹,³)j s 1⁶·
+
+μ’ :⁴ 30 32
+
+C :41 4 B
+,, Dt-
+
+ 
+
+ 
+
+ 
+
+Tab. 12
+Fig. 7.
+
+ 
+

@@ -1,0 +1,119 @@
+250
+
+-CAPUT
+
+ELEMENTA ANALYSEOS. PARS 1.Sen.I.
+
+111.
+
+De uste Calculi Litteralis in inveniendis Theorematis.
+
+PROBLEMA XIVe
+
+72. Nvenire, qualis numerus prodeat
+ex pariam additione, fitbtrac‘lio-
+
+ne ac multiplicatione.
+Qoniam numerus par per 2 di-
+
+vidi potest (§. 72. Arithnt. ) ‚ di-
+
+catur za. Similiter alius numerus
+par fitz-*2 c. Erit
+2a 2a 2a
+2⁶ > 2c 2c
+
+Summa za ›1- κ Diff. za- zc Faeh ,μισ
+Themma ε Summa , item differentia at-
+, que frustum duorum numerorum parium est
+numerus par.
+
+PROBLEMA XV.
+
+73. Invenire, qualis numerus pro-
+deat ‚ fi parem impari addas , vel parem
+ab impari sttbtrahas‚ vel denique parem
+per imparem multiplices.
+
+Numerus par fit 2a ( §. 72 Arith.),
+impar 2c ÷ 1 (ὃ. 73 Arithm. >
+Erit
+
+ 
+
+2·c›}‹1 αὖ· 1
+za za
+zafflzcffl ι Summa : 2c÷1 —· za Diff.
+2 c »ἓν 1
+2a
+
+ 
+
+4. ac >kz a Fadium.
+
+Theorema. Si parem impari addas» aut
+unum ex altero subtraham ibi aggregatum,
+hic differentia est numerus impar. Si vero
+numerus par δε impar se mutuo multipli-
+
+cent, fidicum* cst. numerus Bur
+
+ 
+
+PROBLEMA XVI.
+
+74. Invenire, qualis prodeat numee·
+
+rus , st impar impari addatur, aut unus
+ex alterofitbtrabatur, aut st impar ima
+parem multiplicet.
+
+Sint numeri impares 2114- 1 ὃ( 2 b÷1 Ι
+
+(§. 73 Arithm. ): erit
+
+ 
+
+ 
+
+ 
+
+2a÷1 2a÷1
+2b÷1 2b÷1
+naal—1⁴2 Summa. ἶ-αἶ. 2b Differentw
+zzz-1⁴1
+2b÷1
+fflzahss—l—
+4ah÷2b
+
+ 
+
+ 
+
+ 
+
+-4ab *I* zet-{⁴ 2,b·1-‹—1 Fadium„
+
+Theorema: Si numerus impar impar}
+additur aut ab eo subtrahitur, ibi summa,
+hic differentia est numerus par. Si vero
+impar imparem multiplicet, fadium est nu,
+merus impari
+
+PRoBLl-:MA XVII„
+
+75. Invenire , qualis numerus prou
+deat , si meros numeros pares , aut nu-
+meros impares multitudine pari, aut de-
+nique numeros impares multitudine im=
+pari addas.
+
+Sint numeri pares 2a, 2b, 2c, 2d,
+&c. erit summa 2a ψ 2b ÷2c ιιι 2d ἃς,
+numerus par <§. 72 Aritium).
+
+Theorema: Summa numerorum parium
+quotcunque est numerus pat.
+
+Sint:
+

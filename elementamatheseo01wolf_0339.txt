@@ -1,0 +1,110 @@
+Cap.III.DE USU T'RIGONOMETRIAE. 229
+
+3. Summa angulorum ACB & BCE ,
+itemque BCE δέ E subtrahatur ex
+1 800, ut relinquantur anguliACD ὃς
+CBE ( J. 148 Geom. ) ε eodemque
+
+‚ modo inveniatur angulus DAC.
+
+4. Datis jam in triangulis DAC ὃ( CBE
+angulis cum latere uno , nempe DC
+in primo , (ΞΕ in altero , inveniun-
+tur AC 3< CB (ς. 36) &hinc porro
+angulus CAR (§. 40 ) , tandemque
+ΑΒ (ᾗ. 36).
+1> R o Β L E M A XXVIII.
+
+Tabu- 7 ς . Inveuire alntudinem acceffibilem
+figas. ΑΒ·
+R ε s o L tr T 1 ο.
+
+1. Statione in E electa instrumentoque
+(§. 284 Geom.) rite collocato ‚ inve—
+stigetur quantitas anguli ADC (5.1 ς 2
+Geom. ).
+
+2.' Qaeratur porro distantia stationis
+ab altitudine DC (§. 126 Geom. > ‚
+quae erit ad AC perpendicularis( 5.
+227 Geom. ).
+
+3. CumadeoCfit rectus( §.78 Ceam),
+in triangulo ACD invenietur AC
+(5. 36 )-
+
+4. Huic fi addatur BC 3 prodibit altitu-
+do integra AB. ΞΜ.
+
+THEOREMA VIII.v
+
+’ 76. Si in quantitate anguli Α iu-
+vestiganda aberretur , erit altitudo vera
+’BD ad falsum BC ut tangens anguli
+veri DAB ad tangentem anguli erronei
+
+CAR.
+
+DEMoNsTRATlo.
+
+Tabfl.
+figi 9
+
+Alsumto ΑΒ pro finu toto , erit DB
+
+altitudines BD & BC ut tangentes an-
+gulorum DAB ἃ BAC. Qud erat
+
+unum.
+Eodem modo se habet demonstra-
+tio , fi angulus erroneus fit minor vero.
+
+COROLLARIUM Ι.
+
+77. Qoninm posita endem quantitate
+anguli veri atque erronei eadem est ratio
+altitudinis verae ad erroneam (5. 76 ); error
+plurium pedum committitur in altitudine ma.
+jore quam in minore.
+
+CoRoLLARIUM II.
+
+78, Qia tangentes arcuum majorum &
+valde exiguotum scu teoto vel minuto pro-
+ximotum minorem titionem inter se habent
+quam tangentes mediocrium seu semitecto
+vicinorum , minore nempe ad majorem re.
+lata, canone tangentium teste ‚· fi* idem error
+committitur in angulo majore aut valde
+exiguo ὃ( mediocri 3error in altitudine ad-
+missus major eritin casu priore, quam in
+posteriore.
+
+SenotloN.
+
+79. Sit e.gr. angulus verus BAD 30⁰ 2
+AB 67² .· erit altitudo vem 508'6“.Ponamus
+assumi angulum erroneum B AC 310: ispro-
+ducet altitudinem erroneam BC 40 0'2¹‘ (5.
+36). Sit in distantia minore DE angutusDEB
+reete proximus 869 &⁶ assumitur per er-
+rorem angulus 870 ε rsperiecur altitudo erro-
+nea 501'6“ , quae erroneam supra inventam
+excedit 1⁰1¹4'7.
+
+COROLLARIUM III.
+
+80. Qoniam itaque in distantia minore
+ΕΒ angulus E major est quam DAB in rna-
+jore AB (5. 188 Geom. ) , in distantia au-
+tem valde remota difficulter anguli admo-
+dum exigui quantitas exuste determinatur-2
+in metiendis altitudinibus distantia stationis
+ab altitudine assumenda est mediocris, lta„
+
+tangens anguli DAB ,· CB autem tan- l ut ηιηὲιιὶιιεᾙΕΒ non multum abeat a semi·-
+
+gens anguli CAR( 57). Sunt itaque ἰ recto..
+
+'Iuno—⁷
+

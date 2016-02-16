@@ -1,0 +1,122 @@
+Cap.V.1)E FIGURARUM DESCRIPTIONE.
+
+PROBLEMA XXXIV.
+
+338. Super data recfi‘a CD quadra·
+iffig· tum construere.
+
+31³4· Rfls›01.UT10.
+
+“rain
+' VI·
+
+1. In C erigatur perpendicularis AC
+(§. 249 >= CD.
+
+2. Ex D & A intervallo vipsius CD fiat
+intersectiO in B (§. 197 ).
+
+3. Ducantur AB ὃς DB.
+DEMONSTRATIO.
+ACzCD= AB—:BD , per constr.
+
+Durata ergo diagonali AD , patet effe
+
+C-zss (ἕξ 204). Sed C rectus est per
+
+constr, Ergo B etiam rectus ( §. 145 ) ,
+
+consequenter o& x , item y & m semi-
+
+resti (S. 241 )‚ade0que o÷x ὃ( x÷m
+ν {tidem redtiiLQaZle figura est- quadratum
+i ’ 5. 98 ). . e. .
+ἶ “ Aliter.
+
+1. In C δε D erigantur perpendicula—
+res CA δε DB ipfi v'CD aequales
+
+< §.249 >-
+2, Ducatur recta AB.
+
+DEMONSTRATto.
+Est enim CA2D32CD , per
+
+con r. & quoniam AC & BD perpen- ς
+
+diculares ad (ΣΙ) per constr. anguli ad
+D ὃς C sunt redti (ᾗ. 78) adeoque BA
+
+parallela ipfi DC < §- 226 ) , consequen-
+ter anguli A &B sunt recfti ( §. 233)
+
+ὃς ob parallelas AC & BD( §. 256 )
+AB=CD(§. 238 ). Est igitur ABCD
+Qadratum ( §.98 ). ᾖε. d.
+
+PRVOBLEMA XXXV.
+
+339. Datis duabus rec‘t'is M] (ΞΝ JK
+
+reHangulum parallelogrammum ſsu oblon-
+gum construere. ι
+
+ 
+
+147
+ResoLuTIO.
+
+1. Jungantur MI ὃς IK ad angulos rec· 1315,-
+tos (5. 249 ). v1.
+
+2. Ex M intervallo ML=IK descri- Fig-
+batur arcus δε ex Kintervallo KL= ¹05⁴
+IM alius priorem intersecans in L
+
+( §. 197 ).
+3. Ducantur rectae ML ἃν KL.
+
+DEMONSTRATIO.
+
+MI=KL δέ ML=IK‚ per conf-
+truc‘l. Est ergo MIKL parallelogram-
+mum, (ΑΥ. 3 3 5 ) consequenter I=L 2 &
+1-1- M acI÷K==du0bus κῶας 3 37).
+Sed Iest rectuS , per constr. Ergo Sc L
+( ,οἳ 145 ) ‚ itemque M ὃς Κ restisunt,
+Est ergo figura constructa oblongum
+(5. 100 ). Qe. d.
+
+PRossLEMAXXXVI.
+
+340. Data rec‘Za GH una cum an· Τὼ),
+gulo obliquo G rhombum [construere. vl¹
+
+Fig.
+ι 060
+
+Rsssomrmo.
+
+Ι. Ad restam datam GH constituatur
+iu G angulus dato aequalis ( ς. 208).
+2. Fiat GEzGH ὃς reliqua peragan-⁴
+tur utin probl. 34. (5. 338).
+DEMONSTRATIO.
+
+EG-:EFzFHzHG , per cons-⁸
+ννιιὲῗ. Est ergo EFHG parallelogram-
+mum ( §.33 ς ) , cousequenter G=F δέ
+G÷H ac G÷F=duobus reetis ‘§.337).
+Sed G est angulus obliquus ex hypothcfi:
+Ergo ὃς F , consequenter etiam E ἅς H
+
+sunt obliqui. Adeoque figura cons-
+
+truita rhombus est (ΑΥ. 99). 0
+
+χι
+
+· e. d.
+
+ΤΞ Paa
+

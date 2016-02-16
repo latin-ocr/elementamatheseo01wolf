@@ -1,0 +1,116 @@
+72 · ELEMENTA ARITHMETICAE.
+
+SCHoLloN ΙΙ,
+
+288. Si tabulis numerorum cubicorum
+maris, idem operae compendium facere licet,
+quod sitpra ( ,οἳ 275) in extrahenda radice
+quadrata commendavimus.
+
+PROBLEMA XXXI.
+
+289. Examinare extraHionem radi-
+· cis quadrata ac cubicae.
+
+RusoLUT1o.
+
+Ι. Radix quadrata inventa ducatur in
+se ipsam &facto rcfiduum 2 fi quod
+fuerit , addatur„ Qodfi numerus
+prodeat , ex quo radix extraCta5 etit
+numerus inventus radix quadrata da-
+ti vel exausta, vel ( fi talem non ha-
+
+beat) prope vera (§. 246).
+
+E. gr. Radicem quadra-
+tam prope veram ex 345
+
+supra (ᾗ. 274) reperimus
+1 2 9 9 9 18355‘73, Duc radicem 18.
+
+18.57
+18-57
+
+——u-
+
+9 2 8 5 ⁷ 57 in seipsam δε facto
+
+1 4 8 5 6 3448449 adde residuum
+
+1 8 5 7 1551 : prodibit numerus
+
+κ -’-------34ς ex quo extrnetio
+
+3448 449 fieti debebat , qnatnot cy-
+1 5 5 1 plu-is amitus: ut m extrac-
+-—-·———-- tione ad inveniendas cente-
+
+3 45 o o o ο fimas faetum fuerat.
+
+112Radix cubica inventa ducatur in seip-
+sam , & faotum denuo in eandem.
+'Produsto posteriori addatur , fi
+quod fuerit , refiduum. Qodfi
+numerus prodeat ‚ ex quo extraaio
+faeta , operatio rite peraetaffl. 248 >.
+
+1. 44 Ε. ἓν. Superius (5. 287)
+1. 44 - ex 3 extra-sta radix est 11-3-3,
+
+-’-- Duc hanc radicem 1.44 in
+
+ς 7 6 seipsam & faelum 20736
+576 denuo in 1. 44. Pr0d116t0
+1 44 > alteri 2985984 adde , quodg
+
+ 
+
+--· supra residuum etat, :4016n
+2073 6 Aggregatum est radix 3 sex:
+ι 4 4 cyphris :mesta , ut in opeta0
+———-··-·— tione factum fuerat.
+82944
+82944
+20736
+
+——-.—
+
+2985984
+14016
+
+3000000
+
+LV.
+
+290. Exponens rationis quadrata?
+rum est quadratum , cuborum cubus' ὠ
+in genere potentiarum cujuscunque gras'
+dus potentia ejusdem gradus exponentis
+radicum.
+
+DEMONSTRATIO.
+
+Quadrata enim habent rationem du-
+plicatam , cubi triplicatam δι in geness
+re potentiae cujuscunque gradus ratio-
+nem multipIIcatam suarum radicum
+(ς. 2 59). Qare cum exponens rationis
+compofitae fit aequalis facto, quod pro-
+ducunt exponentes simplicium ( §. 214),
+exponens vero rationum simplicium ,
+ex quibus componunturduplicatae , tri-³
+plicatae ὃς in genere multiplicatae qua·-
+cunque ‚ idem fit(§. 159); exponens
+rationis duplicatae erit quadratum
+( 5. 246), triplicatae cubus (ς. 243)8ζ
+in genere multiplicatae cujuscunque
+
+THEOREMA
+
+potentia exponentis radicum. (ὅ. 2 50).
+
+Qe. d.
+
+THEO-
+

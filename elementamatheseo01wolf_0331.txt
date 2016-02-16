@@ -1,0 +1,73 @@
+cap. II. *DE ANALYSI TRIANGULORUM. 221
+
+DEMONSTRATIO. PRoBLEMA XVI.
+
+Crure majore dato AB ex vertice
+anguli dati A describatur circulus ( §. 4¹· Dans tribus lasembm AB' BCTa b·¹
+
+1 31 Geom.), & crus minus AC utrin- ὦ CA’ mvemre angulos Α) Β όν C· fig 8
+
+que continuetur (§ 21 Geom.)> donec . Ili-:somno ὠ DEMoNsTRArio
+circulo in E δε D occurrat. Erit ob ’ ¹· EX ‘effice mlgun Α ‘latere ῙὮῙΠῙ“’
+ΑΕΞΑΒΞΑΙ) (5. 40 Ceam.) ΟΕ mo AB describatur· circulus (ς,
+
+summa laterum datorum, CD diffe- ¹3¹ Geom‘)⁵ em Ob AD=AB
+( §. 40 Geom. ) C D summa crurum
+
+AC δε AB; CF xero diflerentia eo-
+
+* rundem. Et ideo inferre licet ( §
+333 Geom. )·
+
+ut Bafis BC
+ad summam crurum CD 2,
+Ita differentia crurum CF
+ad segmentum bafis CG.
+
+2. Inventum adeo segmentum CG (5.
+302 Arithm.) fi subtrahatur, a basi
+CB,· relinquitur chorda GB.
+
+3. Demittatur ex A perpendicularis ΑΕ
+ad chordam GB (.ff· 216 Ceam),
+eritBE—-EG:{ (ΞΒ (5- 291 Ceam).
+Datis adeo in triangulo redtangulo
+ΑΕΒ lateribus AB & ΒΕ , & in alte-
+
+rentia eorundem. Quoniam DE dia-
+meter (§. 39 Geom.); erit EBD semi-
+circulus ( §. 135 Ceam), consequen-
+ter angulus EssD scetus (ἕ. 317 Ceam),
+adeoque ΕΒ ad BD perpendicularis
+(5. 78 Gom). Qare fi BD suma-
+tur pro finu toto ,- erit ΕΒ tangens an-
+guli EDB ( §. 7. 8 ). Est vero οἰκ-μ]
+(§. 239 Geom.) &inde ob κΞὲο (§.
+313· Gema), u-df (xv-ky ). Ergo ΕΒ
+tangens semisummae angulorum quaefi-
+torum x ὠ y. Qloniam x-——u†n
+( §. 239 Geom.),· erit n semidifferentia
+angulorum x &y ( §. 39 ). Sumto ita-
+que DB denuo pro radio fi describatur
+arcus DG (§.1 1 Geom. <Sc in D exci- , ‚ ·
+tetur perpendictilaris DF (3249 Geom.); “J ΑΕΗ later {bus AC ἃ CE³ 'mve‘
+erit DF tangens anguli n (§·7· 8)) hoc muntur anguli Β atque A ι(Δΐ. 38),
+
+est , semidifferentiae angulorum quaefit0= Q ‘'⁰f' ὠ d·'
+
+rum x &yper demonstr. vJann cum an- Ἢ,
+guli EBD &FDB fint recti per demonstr. Ε· gr· Sit AB: 36², AC Ξ 4 5' ³ BC :40' 2
+& hinc FD ὃς ΕΒ parallelae (ς. 256 ), effi AC: 4 5' AC12245'
+adeoque BED & FDE :equales (ᾗ. 233 --ἑὲὄ-ὄ- -ff-BjE--m
+Ge.om )‚ item verticales ad C :equales AC÷AB Ξ 8 1 FC = 9
+
+(§ 156Geom.:) eritCE: EB=CD2 D⁰F
+
+(§. 266 Geom. ), consequenter ἃς Log. BC = 1.6 0 2 ο σο 0
+(ΣΕ. (ΣΒΞΕΒε DF(§.173 4rtl2r)1-0g·AC-l-AB Ξ 1·9 084850
+Data itaque per tangentem DF angulo· L⁰g0 FC Ξ 0-9 5 4 2 4 2 5
+rum quaes torum semidifferentia Creli- -ῖᾷ-(ῇῇῃ-α-’Ξῇῑῇῖςῇ
+qua in resolutione manifesta sunt per ———————————
+
+lemmaprecedensw, 39). O &med Log. CG z: 1.2t606675
+

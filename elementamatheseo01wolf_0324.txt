@@ -1,0 +1,108 @@
+TabJ.
+RK· 2· re tangentem EF&ſsctheW FC ejusdem
+
+216 ELEMENTA TRIGONOMETRIAE PLANAE.
+
+Inveniantur ergo finus intermedii per
+probl. 4. (S. 19). ,
+7. Denique finus scrupulorum secundo-
+rum ab 1 usque ad 60 inveniantur
+
+per probl. praec. ( §. 13).
+Ita Canon finuum erit constructus. O.
+
+af. χ
+
+PROBLEMA IX.
+
+26. Dato finn AD arcus AE inveni-
+
+arcuf-
+ResoLuTIo ὠ DEMONSTRATIO.
+
+Qia finus AD & tangens EF ad ra-
+dium EC perpendicularIS ζ §. 3. 8 ) ‚- erit
+ille huic parallelus (§. 256 Ceam).
+Qare ut colinus DC ad finum AD , ita
+finus totus ad tangentem EF : item ut
+
+Cofinus DC ad finum totum AC ita fi-
+nus totus EC ad secantem CF (§. 268
+Geom.) InvenIetur adeo per illatIOnem
+primam tangens EF ,· per alteram secans
+
+FC (§. 302.Arithm.) ΩΑ. i. ὠ d.
+
+SCHOLION.
+
+27. Conflrufio igitur Canone sinuum <52 ς),
+naua difficilis esi construam Canonis tangen-
+gcntium atque secantium. Uterque junffim
+sumtus Canon triangulorum naturalis dici so-
+’ let ‚ quia triangulorum analyfi inservit. Equi-
+dem paffim apud Authores theoremata non ine-
+degantia otturrunt ‚ quibus multi finm faci-
+dms inveniuntur, quam exposita haetenus me-
+thodo. Ursinus ( a ) praesertim docet , quomo-
+do ex fimt Canomis omnium primi, e. gr. unius
+secundi , per solam quafi additionem Θ sub-
+maiouim totus Canon derivetur. Enimve-
+ro cum ab aliis dudum conftrmfilus fir, luffi-
+
+{it uteunque ostendcffe , quomodo construi
+otuerct.
+
+(a) 'stigen lib. 2.. c. 5. p, 164
+
+PROBLEMA X.
+
+28. Invenire finus cujuscunque dati
+legarithmum.
+
+RESOLuTlo.
+
+Ut logarithmi eo accuratiores inve⁵
+niantur , assumendi sunt smus ad radium
+10000000000 constmffi. Muleiantur
+nempe Sinus in Canone Pitisci majore 4
+ultimis notis. Cum adeo finus fint nu-
+meri 10 utplurimum notis constantes ,
+in canone autem logarithmorum , qui
+prostat, maximo numeri naturales ultra
+ς notas non ascendunt5 logarithmi eo-
+rum inveniuntur per probl. 37. Arithm-
+(§. 349). Utendum vero est canone lo-
+
+garithmorum majore.
+
+E. gr. Sit inveniendus lognrithmus Sinus
+2 3⁰qui apud Pitzfium 3907 3 1 1 284. Kese-etis
+versus finistram quinque notis {9073 , ipsis
+respondens logarichmus est 4. 5918768. cona
+sequenter legarithmns numeri 3907300000
+est 9. 591 8768. Differentia tabularis est 1 1 Ι.
+Qate infertur : ut 100000 ad 111 ita notae.
+residnae smus dati 1 1 284 ad numerum quar-
+
+⁷ tum proportionalem 12: qui fi addatur logan
+’ rithmo 9. 5918768, prodit legarithmus quae-
+
+situs 9. 5918780 , qualis in Canone tuan<-
+gulorum artificiali reperitur.
+
+PROBLE‘MA XII.³
+
+2 9. Invenire legarithmmn tangentis 2 ⁷
+dato legarithmastnus (ῤ’ cestnuso
+
+RE soLUTIO,
+
+Ι. Logarithmus finus addatur logarith*
+mo smus totius,
+
+2. A summa subtrahatur logarithmus
+cofinus. Refiduum est logarithmus
+tangentis ( §. 26 Trigon. όν §. 3 59,
+
+Arithm. ). E gr
+

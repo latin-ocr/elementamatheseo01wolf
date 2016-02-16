@@ -1,0 +1,73 @@
+230 ELEMENTA TRIGONOMETRIAE PLANAE.
+T H Ε o R Ε Μ A Ι Χ. nempe fitu tam lineae AC, quam AB com.
+Tab.11, 81. Si instrumentum in A non fue· mlffum.
+
+fig-walt horizontaliter collocatum ‚ fid vel P R 0 B L E M A XXIX·
+
+quantita& angull ΒΑΕ mystis hormen. 83. Metiri altitudinem inacceffitm Tab.11.
+tem znclznatmn vel quantztate angult AB· fig-21·
+
+ΕΑΒ ab eodem reclinatum ,· erit altitu-
+do vera ad falsam ut tangens anguli
+veri C AB aa' tangentem erronei
+
+CADvelCAE.
+DEMoNSTRATIO.
+
+Sumto enirn AB pro radio, CB est
+tangens anguli veri (ΖΑΒ ( §. 7). In-
+serendum ergo : ut finus totus ad tan-
+gentem CAB ita AB ad altitudinem ve-
+ram. Infertur autem per errorem: ut
+finus totus ad tangentem CAD ita AB
+ad altitudinem erroneam. Qamobrem
+nt tangens (ΖΑΒ ad tangentem CAD ita
+altitudo vera ad erroneam ( ᾗ. 196
+Arithm. ). Quod erat primum.
+
+Idem eodem modo ostenditur , fi
+instrumentum quantitate anguli EAB a
+. fitu horizontali reclinetur. Qod erat
+alterum.
+
+S c H o L 1 ο Ν.
+
+82. Eadem ergo hic locum habent corolla-
+ria, quae modo theoremati praecedenti subjeci-
+mus. Caeterum patet altitudines exactas non
+inveniri ob duplicem errorem, ex vitioso
+
+RfisoLUUo.
+
+1. Eligantur duae stationes G &E cum
+altitudine AB in eadem reeta ( 5.
+284 Geom. ) tanto intervallo DF
+distantes, ut angulus FAD non sit
+nimis exiguus, nec altera statio* G
+nimis vicina altitudini AB (§. 78.
+80 ). ⁷
+
+2. Investigetur quantitas angulorum
+ADC , AFC δε CFB (§. 152
+Geom. >, itemque distantiae FD lon-
+gitudo (§. 126 Ceam).
+
+3 .Inveniatur primum in triangulo ΑΗ),
+ex datis angulo D per observationem ‚
+& angulo AFD ( §. 149 Geom.) δε
+latere ΡΙ), latus AF ( §. 36 ); dein ‚
+ex notis in triangulo ACF praeter rec-
+tum C angulo F & latere AF , latus
+AC itemque CF( §. 36),· tandem,
+ex cognitis in triangulo FCB praeter
+rectum C angulo CFB ὃς latere CF ,
+latus CB (§. 36).
+
+4. Addantur AC δε CB. Ita prodit
+
+altitudo quaefita AB (§. 86 Arithm.).
+
+,Finis Trtgonometriae planae.
+
+ELEMENTA
+

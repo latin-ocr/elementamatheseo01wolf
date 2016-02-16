@@ -1,0 +1,99 @@
+270 ELEMENTA ANALYsEos.PARs1.se27.11.
+
+D ε F 1 N 1 τ 10 X.
+
+137. Si valor ipsius x fuerit radix
+quantitatis negativae ‚ e. gr. „l -- 5 ,
+imaginaria appellatur < §. 71 ),
+
+DEFINITIO XI.
+
+138. AEquatia dicitur simplex sl
+quantitas incognita fuerit unius dimen-
+fionis , e· gr. si x:(a÷b); 2,
+
+DERINITIO XII.
+
+139. AEquatio dicitur quadrasica ‚ fi
+quantitas incognita ad duas dimenfio-
+fiones assurgit, ut x2 Ξ a² ÷b² : cubi-
+ca , fiad tres , ut x³=a³—-—h³ ἃς.
+
+S c H 0 L 1 o N.
+
+140. In hac scaione tantum de aequatio'-
+ne simplici (T quadratica agimus.
+
+PRoBLEMA XXXVI.
+
+141. Problema datum Algebraice re-
+sblvere.
+
+REsoLUTIO.
+
+1. Quantitates datae a quaefitis distin-
+guantur ὃς datae primis , quaefitae ul-
+timis Alphabeti litteris denominentur
+
+2.(Qaerantur tot aequationes , quot
+quantitates incognitae occurrunt ε
+quod fi fieri nequeat ‚ id indicio
+est 2 problema non effe determinatum,
+fed unam vel plures quaesitarum pro
+arbitrio affumi posse. Inveniuntur
+autern aequationes , niii in ipso proble- ᾗ
+mate contineantur per theoremata ἶ
+de :equalitate quantitatum agentia.
+
+3, uoniam in aequatione quantitates
+incognitae cognitis sunt permixtae3
+ea reducenda est2ita ut ex una par-
+te tantum compareat quantitas in-
+cognita una ‚ ex altera vero merx
+
+cognitae deprehendantur. Instituitur
+autem haec reductio , fi quantitates
+subductae addantur, additae subtrahan-
+tur ‚ multiplicatae dividantur, divisae
+multiplicentur, e potentiis radices ex-
+trahantur, radices ad potentias eve-
+hantur ‚ ut perpetua aequalitas conser-
+vetur ( §.88. 91.93.94.256 Arm.)-
+
+SCHOLION.
+
+142. Haec sufficiunt pro <aquationibus sim-
+plicibus reducendi53 sed ad altiores aliis ad-
+lmc subsidiis opus est , quae suo loco expone-
+mus , nunc nonnisi extraffionem radicis ex
+aequatione quadratica addituri.
+
+PROBLEMA XXXVII.
+
+143. Ex aquatione quadratica ra-
+dicem extrahere.
+
+Resoturro.
+
+Ι. Si aequatio fuerit pura ‚ ut x²=
+ab ς evidens est effe x=5lab.
+II. Si aequatio fuerit affecta , ut x2
+
+-I-ax-:J-b25 tum x assumatur pro
+una parte radicis , erit a quantitas
+cognita secundi termini duplum par-
+tis alterius (5. 261 Arithm. )‚ adeo-
+que } a pars altera. ‘Complebitur
+adeo quadratum , fi addatur ὲ aa
+(§. cit. ): quo facto , radix extrahi
+potest ‚ ut hic fastum effe apparet τ
+
+Castis Ι.
+
+x² *Ρ ax Ξ b²
+{aa {aa add.
+
+ 
+
+ 
+

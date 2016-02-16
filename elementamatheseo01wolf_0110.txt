@@ -1,0 +1,100 @@
+82 ELEMENTA
+
+ 
+
+ 
+
+Μ’
+
+ΑΚῙΤΗΜΈΤῙΕᾹΞ.
+
+ῇ-Μ--ψ--μ-
+
+CAPUT VIII.
+
+De Logarithmz‘s.
+
+Dflrlerlo LXII.
+
+332. Eries quantitatum juxta ean-
+S dem rationem crescentium vel
+decrescentium vocatur Progreffio Geome-
+trica. E. gr. 1. 2. 4. 8. 16. 32. 64. 128,
+ve1729. 243. 81. 27. 9.3. 1.
+
+DEFINIT10 LXIII.
+
+333. Series quantitatum secundum
+eandem differentiam crescentium vel
+decrescentium dicitur Progreffio Ariih-
+metica. Egr. 3.6.9. 12.15. 18. 21.
+24.27.3ovcl32.28.24.20.16.12.8.4.
+
+DEFINITlo LXIV.
+
+’ 334. Si numeris in ratione Geome-
+trica progredientibus subscribantur to-
+tidem alii aequidifferentes ς dicuntur hi
+illorum Logarithmi : Stzfelius inArith-
+metica sua (a) Evponentes vocat. E. gr.
+fint duae progreffiones :
+Geom.1.2.4.8.16.32.64.128-256.512.
+Arith. o.1.2.3. 4. 5. 6. 7. 8. 9.
+erit o logarithmus termini primi 1 ,- 5
+logarithmus sexti 32 ς 7 logarithmus
+octavi 128 &c.
+
+COROLLARIUM I.
+
+335. Si progreffio arithmetica fuerit se-
+ries numerorum naturalium & a cyphi-a in-
+cipiit , ut in exemplo allato3 logarithmi de-
+fignant distantias numerorum proportiona-
+
+liu m ab unitate.
+
+(a) Lib. 3. c. 5.p.249. b.
+
+COROLLARIUM II..
+
+336. Cumque in progressione geometri-
+ca ab unitate incipiente termini fint digni-
+tates ordine naturali se mutuo excipientes
+(5. 250. 332 )‚ fi progressio arithmetica ea-
+dem stt , quae in exemplo allato , logarithmi
+sunt exponentes dignitatum (ᾗ. 251 ). Ε. gr.
+2 est dignitas prima, ejusque exponens 15
+64 dignitas sexta , ejusque exponens 6.
+
+THEOREMA LXIII.
+
+. 337. Si Logarithmus unitatis fit
+
+03 erit legarithmus fach aequalis aggre-
+
+gato ex legarithmz's efficientium.
+
+DEfMoNs‘sRA‘i-io.
+
+Est enim ut unitas ad faetorem
+unum ita , factor alter ad saecum
+(ς. 66). Qare logarithmus faeti est
+aequidifferentium quartus ad logarith-
+mum unitatis δε logarithmos efficien-
+tium ( §. 334) , adeoque differentia in-
+ter logarithmurn unitatis δε summam
+logarithmorum efficientium ( §. 331 ),.
+Sed logarithmus unitatis est o ‚ per hy-
+poth. Ergo summa ex logarithmis effi-
+cientium est logarithmus faciti. ,Q e. d.
+
+CortoLLntttuM Ι.
+
+338. Cum faetores quadrati sint inter
+se aequales ‚ hoc est ‚ quadratum fit fatstum
+ex radice in seipsam < 5. 246 >3 loga-
+rithmus quadrati est duplus logarithmi [ειε-
+dicis.
+
+CortoL-
+

@@ -1,0 +1,123 @@
+v3 44
+
+ingrediantur faita vel ex potentiis abscissa-
+rum ὃ( semiordinataruin in co‘e'fficicntes da..
+tos, velex potentiis abscillfirum in potentias
+semiordinatarum ‚ vel ex meris quantitatibus
+datis, omnes vero :equationes nihilo aequa-
+les fieri possint (e. gr. si ax ΞΥ, emax-312
+··.:.· 0),- aequatio pro omnibus curvis algebrai.
+cis erit aym ›1‹ ὑπ” »1« cyr xs ›1- dfzo. Sig-
+num »1⁴ in omnibus terminis retinetur, quia
+in cafibus lingularibus infinitae variationes
+occurrere possunt. Et, fi plures potentiae
+ejusdem indeterminatae quantitatis ‚ v. gr. x
+occurrunt, co‘c'fficiens termini in formula,
+v. gr. b explicatur per omncs ejus co'e'fficien-
+tes & exponens dignitatis v. gr. n per omnes
+dignitatum exponentes,
+
+DEFINITIO XXXII.
+
+386. Sec'i‘iones canicie sunt lineae cur-
+vae > quae cx coni fec‘tione oriuntur.
+
+S c H o L 1 o Ν.
+
+387. sessiones conicae praeter circulumsunt
+tres; parabola ‚ Hyperbola &⁴ Ellipsis. Nos
+praecipuas earum proprietates, qua: scilicetfre-
+quentioris sunt usus, ex ‘aquationibus eas de-
+finientibus per calculum Algebraicum eruemus,
+quia nobis propositum est ‚ Algebrae ad Geo-
+metrz‘am sublimiorem applicattonem exemplis
+docere , licet non diffiteamur, communes ea-
+rum proprietates una eademque opera demons-
+trari ‚ fi in solido seu in cono, ex quo secan-
+tur ‚ confiderentur.
+
+DEFINITIO XXXIII.
+
+388. Parabola cst curva , in qua
+ax=y2, hoc est, quadratum semiordi-
+natae aequatur restangulo ex abscissa in
+reitam constantem ‚ quae axis Parame-
+ter > ab aliis Latus redium dicitur.
+
+S c H o L 1 o N.
+38 9. Hanc proprietatem parabolae compe-
+tere assumimus respefi‘u axis: quod vero etiam
+
+ipfi competere debeat respeb'lu cujuslibet dia-
+metri, infhrius demonstrabitur,
+
+, culatis infra lineam AC continuanda in N.
+
+E'LEMENTA ANALYSEOS. PARS 1. seir. Il.
+
+CORoLLARIUM Ι.
+
+390. Est ergo parabola curva primi ge-
+neris & crescentibus abscissis crescunt se.
+
+miordinatae ‚ consequenter curva in se non
+redit.
+
+CORoLLARIUM II.
+
+391. Et in ea x=y²z a atque a=y²: x,
+hoc cst, abscissa est tertia proportionalis ad
+parametrum & semiordinatam , pentameter
+vero tertia proportionalis ad abscissam & se-
+miordinatam.
+
+COROLLARIUM ΙΙΙ.
+
+397.. Porro Vax :y ‚ hoc est, semiordi-
+
+nata est media proportionalis inter parame-
+trum ὃς abscissam.
+
+IV.
+
+393. Data itaque parametro AB descri- Tab-
+bi potest parabola. 'continuetur enim pa- ΠΙ. “
+tameter AB m C & in B erigatur perpendi- fig-39·
+
+CoRoLLARIUM
+
+Ex centris ad libitum assumtis circino usque
+
+ad A aperto ducantur arcus, redtam BV
+
+in Ι, ΙΙ, ΙΙΙ, IV, V &c. rectam vero BC in
+
+1 , 2 ³ 3, 4, 5 &c. intersecantes: erunt 131,
+
+Ba, 33, 34, B5 &Q absciffae, ΒῙ, BH, BHI,
+
+BN, BV &a semiordinata: (Ε. 327 Geom.)·
+Qare si lineae 131, 132, B} &a ex reeta
+
+BC in BN transferantur &in punctis 1, 2,
+
+3 δεῖ. normales applicentur 11:131, 211 ·
+2:311, 3111=13111 &a curva per ριιηὲὶει
+
+1 , ΙΙ, ΙΙΙ &c. transiens parabola est: BN
+
+veto ejus axis (5. 392). Elegantius pa.. ‚rab
+rabola describitur ‚ s1 sumto Ax pro axe XH'
+parabolae δε Ριιηᾶὶο Α pro vertice fiat AB fi ’
+pat-ametro :equalis ὃς ducta reeta CD, quae *ξ’
+ῑεᾶὶῑιιῃ ΒΧ ad angulos rectos secet, descri-
+bantur pro arbitrio circuli quotcunque tran-
+seuntes per Β & axem secantes in P , P, 1³
+&c. erunt enim AD, ΑΡ, ΑΡ δίε. abs.
+ciffae, P1=A1 , PH = Α). , 1³111=A3 &c.
+semiordinatae parabolae (5. 327 Geom.).
+
+118.
+
+Coaor-
+

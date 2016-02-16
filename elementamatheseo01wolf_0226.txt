@@ -1,0 +1,128 @@
+Tab.
+VIII.
+
+164
+
+ΙΙ. Si triangulum ACB fuerit obli—
+quangulum , per perpendiculum DC
+in duo recitangula ADC ἅτ CDB resol-
+vetut (§. 78. 91 ). Ergo fi fiat FB:
+‘DG dimidiae altitudini ,· erit DGFB:
+Δ DCB δε AEGD=AACD ‚ per caſs
+1. Ergo AEFB=AACB (ΔΥ. 88 A-
+rithm. ). Qod erat unum.
+
+Sit DK=KB=÷DB δε GB=AG
+=÷AD; terit GKngss ‚ adeoque
+
+*ELEMENTA GEOMETRIAE. PARS Ι.
+
+COROLLARIUM 1.
+
+3 93. Triangula aequalia bases δε altitu<
+dines dimidias (§. 299 Arithm. )‚ conse-
+quenter eti-im bases δ’( altitudines integras te· ·
+ciprocant ( ,οἱ 178 Arithm. ).
+
+C0R0LLAR1UM‚11.
+
+394. Si area trianguli per bafin dimidiam di.²
+viditur, quotus est altitudo (J. 210 Arithmfl·
+
+PROBLEMA LV.
+
+Eg. dimidia bafis„ Jam CFKD=A DCB
+¹124. &GECDz-A ACD ‚per caſs 1.Qa·=
+
+’ re EGKF: -Acss < §- 88 Arnim. ).
+’ Qud erat alterum.
+
+” PROBLEM‘A LIV.
+392. Invenire aream Trianguli.
+RfisoLn T10&DEMONSTRAT10.
+1.Multiplicetur bafis AB per altitudinem
+
+CD :verit produCium area reitanguli
+
+ejusdem baseos &altitudinis (§.3 87).
+
+2. Produdum dividatur bifariam. Ita
+
+prodit area trianguli ΑΒΕ ( J, 386).
+Aliter.
+
+395. Invenire latus quadrati paral-
+lelogramma , vel triangulo dato aqualis.
+
+REsoLuTIO.
+
+Qaeratur inter basin δε altitudinem
+parallelogrammi, vel inter dimidiam
+basin ὃς altitudinem ‚ aut integram
+bafin ὃ( dimidiam altitudinem trian-
+guli media proportionalis per §. 327
+aut in numeris per §. 301 Arithm-
+Ita prodit latus quadrati quaefitum.
+
+Tab.
+
+vm.
+fig.
+125.
+
+DEMONSTRATIO.
+
+Faftum enim ex bafi in altitudinem
+
+l exprimit aream parallelogrammi (§. 3 7 ς .
+³ 387) ὅ( faustum ex dimidia bafi in al-
+titudinem , vel ex dimidia altitudine In
+basin aream trianguli (§. 392). Cum
+
+Bafis dimidia—{— ΑΒ multiplicetur per
+altitudinem CD5 vel bafis AB per al-
+titudinem dimidiam 5-CD. Fadum erit
+:area trianguliff. 391. 387).
+
+E. gr.Ass: 3⁰4s20 AB ’Ξ 304‘2'‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CD z 2 3 4 {CD Ξ 1 1 7 adeo quadratum lineae velnumerireper-
+’— 13-6—5- ’,μὶ 39}- ti fit in utroque casu fabio isti aequale
+1 26 3 4 2 (§. 298 Aritbm.) erit quadratum istud
+234 3—4? in priori casu parallelogrammo , in pos-
+
+2 ) 8 0 0 2 8 Δ 4 0 o 1 4 teriori triangulo aequale. ,ζει d. Α
+
+ΔΑΟΒ49014 Τ H Ε o R E M A LXXXI.
+. ἒ ἐξ L* ΞΟἹΙῙῌ 396. In parallelogrammis (ff triam
+’ἓὸ Ξ 4 gulis similibus altitudines simt lateribus
+5 1 3 4 hamologis proportionales& hasts ab iis
+
+¹3 4 2 > lateribus proportionaliter ficantur.
+
+Δ4οορῐ 4 . ¹
+
+ 
+
+ 
+
+DEMOst
+
+ 
+

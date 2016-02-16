@@ -1,0 +1,135 @@
+498 ELEMENTA ANALYSEOS. PARS 11. Sed't'. III.
+
+PROBLEMA CXVL
+Tab. 1. ²74· Q‘m's‘m' spatium Logz'sticum
+fig. &interminatum HPML
+Sit Logisticae subtangcns PT Ξ 1 ,[α,
+ΡΜΣ] ’ pl> Ξ dxs erit
+5232„ (§. 271 >.
+xla Ξ ly
+
+lLdffif-dgt- Ἄ( §· 243)
+dx Ξ dy : yla
+ydx :ydy : ylazdx: la
+sydxz-y .· la =y(l ; la ) :- PM. PT
+, CoRoLLAsslumL
+275. Spatium Logisticum interminatum
+HPMI cst trianguli subtangente PT,tangente
+TM , δέ semiordinata PM contenti duplum
+(§. 385Geom.).
+COROLLARIUM II.
+276. Quoniam Spatium HPMI= PM. PT
+&ISQI-I: SQPT (§. 274) 3 erit QMS
+( PM— SQ ) PT , hoc est ‚ spatium inter duas
+semiordinatas interceptum aequale restangulo
+ex subtangente in differendam semim-dina-
+tarum.
+
+PROBLEMA *CVXIL
+
+277. Cubare [blidum Logisticum ex
+rotatione spatii interminati HPMI
+circa asymptotum PH geniti.
+
+Qoniam (§. 274)
+cix-:dy :yla erit ( §. 197)
+
+ω’· dx: 2r=py2ycl: 2ryla=pydy ε 2νί,τ
+fpy2 dx : 2r=py2z 4rla.
+CO‘ROLLARIUM I.
+
+278. Qoniam py²2 ιν est circulus radio
+PM = y descriptus (5197), pyz : 4rla est
+cylindrus, cujus bafis eadem est cum 'qast so-
+fidi logistici ‚ altitudo vero 1 : zl.z seu {PT
+(§. 441* Geom. ).
+
+CoRoLLARIUM ΙΙ.
+
+279. Est ergo solidum istud logisticam ad
+conum, cujusnltitudo subtangens PT: ula,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+semidiametcr bafis PM=y ‚ ut py2 ς 4rla ad
+py2 : 6rla‚ hoc est, utjss ad {leuat 6 ad 40, aut
+ut 3 ad 2. (§. 124part 1). ⁷
+“P Ro B L ε Μ A CXVIII.
+280. Determinare fitbnormalem Lar
+gisticae.
+Qoniam ladx Ξ dy ty (ζ §· 274 >2¹
+
+erit dy :y ladx
+ydy: dZE-ffla—a'x‘ss‘dx (§. 35).
+=y²la Ξ y2 : {z-
+Est adeo subnormalis tertia propor-
+tionalis ad tangentem PT: 1 ε la δέ
+semiordinatam PM: y.
+
+CoRoLLARIUM.
+
+281. defi ergo parabola describatur 2
+cujus parameter subtangenti logisticae aequa-
+lis ; semiordinatae parabola: eaedem sunt cum
+semiordimtis logisticae , illius autem absciffis‘
+hujus subnormales aequantur.
+
+PRoBLEM A CXIX.
+
+2 82. Determmareſstbtangemem curm
+vae exponentialis , ad qaam xx Ξ y.
+
+Qoniam xlx z ly
+
+erit lxdx ›1‹ xdx: x: cly:y
+
+ylxdx ᾧ ydx Ξ dy
+
+Ergo subtangcns ydx:dy= yquv:(yLvdx
+*Fydx)=1:(lx¹·l⁴1). ’
+
+Est itaque PT tertia proportionalis
+adAB-i-AP: 1÷lx&AB=· 1(§.208).
+
+PROBL EMA CXX.
+
+283. Determinarefiaebnormalcm cnr-
+vae , adquam x* Ξ).
+
+Qiaylxdx 4ydx :dv ( §. 221 >merit
+fi1bnormalisydy: dx: (φ’-[κῶν ÷y2 dx >1
+dx(§- 34) :3³²l,·c-†-y² :ss (lx 4⁴1)
+
+Qaerenda igitur est ad AB: 1 & PM
+Ξ y tertia proportionalis y² & h1'nc por-
+ro ad AB: 1 , ΑΒ ÷ AP: 1 »Β lx atque
+
+lineam
+
+ 
+
+ 
+
+Tab.
+Il Ι.
+
+Fc'g.30.
+
+ 
+
+ 
+

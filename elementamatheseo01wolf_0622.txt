@@ -1,0 +1,127 @@
+426 ”
+parvoe (§. 2.). Qamobrem fi
+
+cx valore ipfius AT adjiciantur,
+quae in nul'am variabilem ducun-
+πυτς prodbit valor ipsius AC ,
+per quem pu115tu1n C determi-
+natur, cx qu.) asymptotus CD
+dmirur.
+
+2. Quodfi idun fiat in aequatione
+pro curva, & faCta differentia-
+tione inveniatur ratio dx: dy ς
+haud difficulter quoque eruitur
+valor ipfius AE: est enim in illo
+casu A MRmmACAE. Qod
+ut clarius intelligatur , ponamus
+abscissam ΑΡ effe infinitam, adeo-
+que TM asymptotum3 evidens
+cst Δ MRm υ, Δ TPM (s. 20).
+Sed A TPM υ) Δ TAG (S. 268.
+Ceam). Ergo ATAG ΜΔ MRm‚
+consequenter· MR: mR=TA2 AG
+(ξ. 267 Gema). Surrogetur jam
+in locum A TAG alterum CAH,-
+erit MR: mchAi ΑΕ, hoc est,
+dx: dy=CAz ΑΕ.
+
+COROLLARIUM Ι.
+
+47. In hyperbola Apolloniana AT :ax
+:(a ›i‹ zx) 5491. part. 1. Ergo AT=ax.·2x
+τε 5¹: a = Ac prorsus ut supra habetur
+(5. 474. part. 1 ). Porro ad hyperbolam
+Apolkoniarmm
+ay'- = bx (a ›1‹ x)
+hoc est in nostro casu ob a infinitefirnam
+ιη’ὲ = bxx
+consequenter ylla: λῖὸ
+ᾗ] Νη :dx Vb
+dx: dy :yffi-ffb
+adeoqae ob d.r,·dy=CA: ΑΕ (5246)
+Va: Vb :Lat ΑΕ
+Unde habetur ΑΕ = {V a·b.· Va :Lsab
+denuo ut supra (§.474p2r5, L), ὃ
+
+ 
+
+ 
+
+ 
+
+ELEMENTA ANALYSEOS. PARS 11. Sea. I.
+
+Idem etiam adhuc aliter invenitur. In
+casu infiniti seu asymptotico TP= CP =÷a
+
+’Β x =x, ob}a =0 quia x: 00 . Porro ob
+fimilitudinem ΔΔ ΤΡΜ & CAE est
+TP: PM = CA: ΑΕ
+
+x τκτῖζ-Ξ-ἒα :AE
+Vb
+1 τῇ ={-a :AE
+
+ΑΕ Ξέ adh: daz-35] ab.
+COROLLARIUM 11.
+48. Pro infinitis hyperbolis est AT =nax
+:(7na *1⁴ny ›1‹ nx) 5. 28. adeoque in casu
+asymptotico, in quo x = 00, AC = nax:
+(mx-1< nx) :nas-(m »Ι- n) ,οἳ 46. Qo-
+niam porro (5. 425 part. 1.).
+
+aym÷n -Ξ bxm (a ÷ κγ’
+erit Whss——b-Vffi— (5:46)-
+hoe est, fi fiat brevitatis gratia md< n=r2
+ay* Ξ bx'.
+yastr Ξ xbffr
+dyastr} dxblzr
+dv:a‘y{a1=r:'b¹³r=CA: ΑΕ
+
+Unde ob ca = na .- r, reperitur ΑΕ
+na (s b n <J a⁷-¹b.
+
+r <la — ²¹
+PRoBLEMA VII.
+
+49. Determinare fitbtangemem ό·
+fitbnormalem in Conchm'de.
+
+Qoniam Conchois est curva alge-
+braica ( §. 382.. 53 5 part. 1); subtan-
+gens ejus inveniri potest per probl. 4.
+ὃς subnormalis per probl. 5 . (§. 20& 3 ς),
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Enim vcro quia ob aequationem ejus. ο Χ
+
+admodum prolixam expressio utraque
+non satis concinna prodit; ideo consul-
+tius jud‘xcamus alia methodo utramque
+investigari, qua ὃς in cafibus aliis fimi·
+
+libus commode utendum.
+Sit
+
+ 
+
+ 
+

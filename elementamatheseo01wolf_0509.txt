@@ -1,0 +1,103 @@
+CoRoLLARIUM III.
+
+’ 572. Qnre pro infinitis spiralibus δε qua-
+draticibus erit rn xm ε’. p² y ⁷¹.
+
+DEFINITIO LVIII.
+
+Tab. 573, Cyclois vel Trachon e'st curva ,
+
+ἔῃ· quam describitpunctum a in peripheria
+tg·70· circuli, fi circulus super retra AC rota-
+
+tur.
+COROLLARIUM Ι.
+
+574. Recta igitur AC peripheriae3 AD se..
+miperipheriae circuli aequalis est , & in quo.
+cunque circuli genitoris s1tu Ad arcui Pa.
+
+COR01.LAR1UM 11.
+
+575. Si PL ducatur cum AD parallela;
+3 erit PM arcui ΒΜ circuli genitoris aequnlis
+¹ Est enim DA: Ad & hinc Pb: dD (β’. 574).
+Qare cum NL: Dcifflf. 226. Geom ) &
+ob Pb: ΜΒ etiam FN: ML (5. 12. Tri-
+gon.) 3 erit etiam ΡΝ ›1‹ NM= PM: ML ›t‹
+NM= NL: Dd , consequenter ob Dd= Pb
+= ΜΒ per demonstr. PM: ΜΒ. Sumto igi.
+tur arcu ΜΒ pro abscisi} ‚ PM pro semior-
+
+dinam ‚ fi BM: x ‚ PM=y3 erit x=y.
+
+DEFINerlo LIX.
+
+576. Epicyclois describitur, fi circu-
+sus non ut in praecedente definitione su-
+per reeta‚1e‹isuper peripheria alterius
+circuii incedat. Dicitur Epicycleisfitpe-
+r-ior, si circulus genitor per peripheriae
+convexitatem rotatur : Epi-'cycleae infe—
+rior, fi ejus concavitatem emetitur,
+
+SCHOLION 1.
+
+577. Logarithmica‚ logistica spiratis, Ii-
+nea firmum, linea tangentium , linea secan-
+tium , quadr-utrix Dinostratis·‚ quadratrix
+Tl‘lchirnbufiana ‚ SpIralis Archt'mcdea ‚ Cyclois,
+Epicycloz's sunt lineae transcendentes ,· neque
+enim per aquationes algebraicas explicari
+
+Cap. VI. GE OMETRIA SUBLIMIO R.
+
+375
+
+possunt. Tradidimus equidem pro aliquibus
+earum aquationes ; veruntamen cum in his
+a umlerimus arcus circulares in numerum
+indeterminatarunt , atqu-itiones algebruieae non
+fimt. ' Suppofifimus enim superius ‚ aquatio-
+nes algehraicas relationem, quam babent punc-
+ta curvarum ad axem vel diametros , per so-
+lat lineas restas explicare dehere.
+
+SenonroN ΙΙ.
+
+578. Innumerae autem curvanliae tam al*
+gebratcae , quam transcendentes excogitari pos-
+sunt ά· affin excogitata sum a Geometris. Sed
+dehis omnibus agere minime con ultum est.
+Trademus autem in analyfi infinitorum metho-
+dos generales ‚ quibus non modo curvarum hac-
+tenus explicaturum , sed etiam aliarum qua-
+rumcunquesymptomata, fi quando iis opus ha-
+bemus ‚ erui possunt. Ut tamen appareat ,
+quomodo plures excogitari possint ; unum al-
+terumque exemplum addere lubet.
+
+Pron L E M A CCXXVHI,
+
+§- 57 9. Invenire naturas curvarum ,
+quae prodeunt 2 stſsmiordinatae PM conti- Xss‘
+nitentur in N, donecstant chordis AM fia:
+aquales. 1 ἴς,
+Facile apparet, curvas infinitas , im-
+mo infinitas earum series construi posse,
+AEquatio igitur> in dato casu speciali
+eruenda ex aequatione curvae genetricis
+ΑΒΕ. Sit ea circulus ‚ cujus diameter a.
+Sit in omni casu Apzx, PN=y5 erit
+PM²=ax—x²( §. 377). Qare cum
+AP2 =x² & ΑΜΖ :AP2 4- PM2 (ἕ.
+417 Geom.); erit AM² tax, conse-
+quenter aeqtiatio ad curvam genitam
+AND‚ y²=ax. Est itaque curva AND
+parabola (§. 388 ).,
+Sit curva genetrix ΑΜΕ parabola:
+erit PM2 :ax (§, 388.) consequen-
+ter AM2 xPN÷=ax -ὲ- x2. Qom'am
+
+itaque,
+

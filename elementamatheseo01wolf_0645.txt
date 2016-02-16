@@ -1,0 +1,163 @@
+ 
+
+T ab. Ι.
+
+ie
+
+>st ig. 4.
+
+εφη. DE QUADRATUR'A CURVARUM.
+
+PROBLEMA XXXV.
+117· Qadrare omnes curva , qux
+definiuntur hac aequatione generali
+y =axm2 xl (b -ξ- cxv141),
+Elementum harum curvarum ydx
+=axmdx25l (b -Ι- cx7⁷¹÷¹). Ut integra—
+bile reddatur, fiat
+
+ 
+
+ 
+
+——-—-.--—--—-.——
+
+—--——--—-———-———.-. —-—-.
+
+yffizadv: (m 4- Ι) c
+sydx =2aw (m 4- I >c
+== 2a xl(b÷ cxm41):(m ›1‹ Ι ) c.
+
+Fiat x=o, relinquetur 2axlb: (nt-1⁴1 )c
+Est igiturarea ΞΜ( ἶζῖῖξέη Νὴ)
+PROB L E M A- XXXVI.
+
+1 18. Quadrare innumeras hyperba-
+las intra aſjmptotos.
+
+Pro infinitis hyperbolis intra. asymp-
+totos am÷n =y⁷²²x²².
+
+Fiat a Ξ 1.
+
+erit 1 =ymxn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+,96- ζ]’”
+κ-Μζή-Ϊ*
+ydx=x—n·m dt
+...ΔΖ n μ,- Q ”¹ tta—r
+[ἆλτ’-7η ν--ηχ *nt—n τ
+:gg-:n Ὀ κη ν ³ Z'Zanj
+Si m > n ς spatii interminati
+
+sMPAS quadratura stmper habetur :
+fi m < n , ob valorem negativum repc-
+ritur quadratura spatii IMPK': fi vero
+m=n , spatium neutrum: quadratur,
+
+Sit. enim¹ xy2 =a23 erit m=25 κει.
+
+445
+
+adeoque sMPAS=2xy. Si xy³=a ἕ
+erit m =4,n =1 , adeoque sMPAS :⁴3‘xy„
+Si x23=a ,- theorema dat a³: ,ΥΞ-κ]
+seu κγ pro spatio interminato IMPK.
+Si σθ’] = a⁵ 3-habctur m=1 2 n Ξ 4 ad-
+eoque ——ssxffi hoc est {xy2 IM PK.
+Sed fi xy= a25e1·itm Ξ 12n Ξ hadm-
+quem: (νη-η) = g: est adeo numerator
+respcetu denominatoris infinitus.
+
+SCHoLloN.
+
+1 19. ,iohannes Wallffius (e) spatium [ΑΡ
+MS, co in casu , ubi valor mgtm'vus, voca-
+vit plusquam infinitum.- ostendit vero cele-
+berrimus Varignonius (f), virum ceteroquin
+magno fito merito celebrem aliquid immani
+paffum esse, consentiente fimzmo Leibnitio (g).
+
+P'RoBLE MA XXXVII.
+
+120. Hyperbolm Apollonianam in*
+tra afflmptotos quadrare.
+
+Qoniam ad hyperbolam intra asym-
+protos (§.490.part.1.)a2 = by -1- xy, seu
+fi fiat a: b: 1 ( quod ponere licet ,
+cum quantitatis b determinatio fit τως
+bitraria 2 vi ἕ. cit )
+
+1=³yflr xy—
+erit 1:(1†x) :y
+hoc est , divifioue actu {aesta³ (§. 45„
+part. Ι.)
+y: Ι·- κ-ὶ-κῑ- x³ ΔΓΜ* -—:<⁵ ÷x⁶ &st
+y dxchv-xdx ψ x.²dx-—x³dx ›1‹ x⁴dx
+——rx⁵ dx ›1:- x⁵de &f- in infigit,-
+
+..mm——
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+βὼς-Ξ κμ- {xff »μ {x ³ — sssskffssffl—gff
+»p {x7 ἃς. in infinit.
+K k k 3 S c H ον
+
+(e) 11] Arithmet. infinit. S'chol. prop. 101. fol„
+407. Sc Prop. 104. sol. 409. ἡ .
+(f) Memoircs de l'Academie Royale des &ten--
+ces A. 1706, p. m· ις.
+. (an Λξὶὶε Exuditorum A. ¹712· p. 167, ὃς,
+
+seqq.
+

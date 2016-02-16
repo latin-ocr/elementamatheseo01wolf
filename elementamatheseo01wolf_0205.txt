@@ -1,0 +1,116 @@
+capua DE ementis. 145
+
+COROLLARIUM III.
+
+frab- 32 5. Si LM & MN smt tangentes ex eo-
+
+vl. dem puneto duck25 erit angulorum MLN
+Ι fig. δε MNL mensura arcus dimidius LN (J.
+aixoo. 322 ) , consequenter anguli ipfi sunt aequa-
+
+les (5. 142)&ideo LMzMN(J.253).
+
+COROLLARIUM IV.
+326. Qia angulorum L, M & N men-
+sura est semicirculus (5. 140. 3-43) ‚ angu-
+lorum veto L&N junctim suffitorum arcus
+LN (ἕ. 322 ); erit anguli M a duabus tan-
+gentibus LM 3< ΝΜ intercepti mensura dif-
+ferentia arcus intercepti LN a semicirculo.
+
+PROBLEMA XXXIII.
+Ῑῖῗῦ· 327. Inter duas lineas AB ἅ· ΒΕ
+
+Eg· mediam proportionalem Β D invenire.
+R E s o L U τ 1 o.
+
+1. Jungantur lineae datae AB &BE in
+directum , dividaturque ΑΕ bifariam
+in C (§· 210). ⁴
+
+2. Ex C intervallo ipsius AC descri-
+
+⁴ batur semicirculus ADE (§. 136 )·
+
+3. Ex B erigatur perpendicularis BD
+
+(§. 212).
+Dico effe AB : BD=BD .· BE.
+
+DEMONSTRATIO.
+
+Qoniam BD perpendicularis ad ΑΕ,
+per construcff. m δε n sunt anguli recti
+(§· 78). Sed o÷x est itidem restus
+(S. 317) ὃς y utrique triangulo ABD
+δε ADE communis. Ergoo-:z ( ς.
+246) . consequenter yzx (§· cia),
+«Sc tuncAB: BD=BD213E (5. 267).
+
+Qud.
+COROLLARIUM Ι.
+
+328. Cum fit AB: BD:}3D : BE3 ex
+data sagitta A B & dimidia chorda BD in-
+venitur diameter ( 5. 302 Arith.). Sit e. gr.
+
+, Wol i Oper. Mathem. Tom.I.
+
+ior.
+
+ 
+
+AB: 80¹⁹, BD Ξ 300'0' ·, erit BE :2 1 125''',
+adeoque AB-l-BE: ΑΕ 1205'‘' seu fere
+12'.
+
+COROLLARIUM ΙΙ.
+
+329. Ex demonstratione una liquet, Δ’
+re<stangulum ADE per lineam perpendicula..
+rem DB ex angulo reeco D in hypothenu-
+sam ΑΕ demissam resolvi in duo triangula.
+
+ZRBD δε BDE inter se ὅ( toti ADE similia
+,ς .26 7 ).
+
+CoRoLt ARI υΜ ΙΙΙ.
+
+33⁰· Cum adeo etiam sit AB : AD :AD2
+ΑΕ ( §.cin ); si lineae fuerint majores, una
+datarum ex A in B, altera ex Ain Ε transfer-
+tur, faffisque reliquis ut in resolutione pro-
+blematis erit AD media proportionalis quaefita,
+
+CORoLLARIUM IV.
+331. Si ergo AB sit unitas, erit BD ra-·
+dix ipsius ΒΕ , aut AD ipsius ΑΕ (5. 247.
+Arithm.).
+THEOREMA LXXI.
+
+332. Si duae chordae HM ό* LI fi Tab.r.·
+mutuo ecent in K ‚- erit HK ε LK: fig-14·
+KI: KlA.
+
+DEMONSTRATIO.
+
+Qoniam enim x-:x ὃς u=u(5.
+
+315): ideo HK : LK=K1: KM(§-
+267). Q e. d.
+THEOREMA LXXIII
+333. Si fuerint Δία ficantes GL ό· Tati.-
+G.M ex eodem punfflo G doeio,- erz't VI. 1
+GM: GL=GN: CO. 53'97‘
+DEMONSTRATio.
+Angulus x est utrique triangulo <No
+&GLM communis. AnguliGNO men-
+sura est semisumma arcuum NL δε ΝΟ
+(5. 324). Sed anguli GML mensura
+est semisumma eorundem arcuum (Δΐ.
+314). Qarc GNOzGML ( 5. 142 l,
+consequenter GM ε GL=GN: (ΞΟ
+
+(S. 267). Qe. d.
+T Tute„
+

@@ -1,0 +1,134 @@
+cap. m. D E
+
+demonstrationibus analyticis commodior videa-
+tm· ε quem in finem nos exponentis loco nunc
+‹ze-nominatorem assumimm.
+
+PROBLEMA XXX.
+
+1 18. Determinarefabi‘um ex termiiw
+primo in ultimum progreffionis geome-
+tricae.
+
+Sit terminus primusa 2 denominator
+m ; erit prbgreffio (ἓ. 332 Arithm. ὅ]
+§. 114 Analffi).
+
+a. ma, m²a. m³a. mhz. vsa. m⁶a.
+m‘a m ³ a. m ² a a
+
+m⁶a²:
+
+--—.,—-——„⁴—
+
+m ⁶ a²=m⁶a² Ξ m⁶a²
+
+ 
+
+ 
+
+ 
+
+Theorema. In progressione geometrica
+factum extremorum :equatur fac‘stro mediorum
+nb, extremis aequidistantium‚ itemque medii
+quadrato ‚ fi numerus terminorum impar.
+
+E. gr. 3. 6. 12. 24. 48. 96
+1 2. 6 ς
+288 :288 Ξ 288
+
+PROBLEMA XXXI.
+
+Ι 19. Determinare. quotum ex divtfia-
+ne differentia terminorum primi ac ulti-
+mi per denominatorem unitate muchet-
+tum emergentem.
+
+Sit terminus primus a , denominator
+m ‚ numerus terminorum ης erit termi-
+nus [altimus mn *ssa ‚ differentia primi
+nen—{am¹ a.Haec fi dividatur per m Ι ,
+erit quotus nen-‘2 a ÷m'²‘-·3a-†-m⁷¹—“³a
+-†- m”—5 a÷ mn*⁵a ἦ· mn-7 a &c.
+
+ 
+
+,ῃ 1 )m⁷-’· 'a-zz (mn- 2a-l›- mn- 34
+
+maffia-mutu 4- nan-44
+
+-*W—- ἦ- mn *54
+
+*bmn- 2 a- a 4 m⁷¹“⁶a
+
+mn -ΖΔ -mn 3 a ,ΐ- 7nn- 7d
+&C- Ι
+
+INVENIENDIS THEOREMATIS
+
+. 263
+
+-ἰν- mW-j· a-—a
+run—*3 a—m²²-4 a
+
+ἱ
+
+ 
+
+----
+
+-ι- nan—4 a-—a ·
+νβ’-4 Γνηη-’ἵ a
+
+ 
+
+ 
+
+ 
+
+Qodii n determinetur 2 e. gr. per 7,
+erit n 7:20 , consequenter mn*— ’74
+:mo zzz-*a , adeoque divifio termina-
+tur. Unde patet
+
+Theorcmiz 1. Si differentia termini primi
+δε ultimi progressionis geometricae dividatur
+per denominatorem unitate muletatur-ri, quo-
+
+ῑιιε est summa omnium terminorum. excepto
+ΠΜ X! Usi O ι
+
+Et cum sitm—1 : 1=m⁷2q1 a—tt:
+›nn—2a·-}—m⁷¹*3*a&c. -i- a ( §. 174
+169 Arithm.) 3patet porro
+
+Theorema 2. In progreffione geometrica
+est ut denominatot unitate rnuleatus ad uni-³
+
+tatem ita differentia termini maximi δε mi-
+
+nimi nd summam omnium terminorum ex,
+cepto maximo.
+
+ 
+
+CoRoLLAnlum L
+
+120. Qodfi ergo quoto ex divismnE-dif-
+ferentis: termini maximi δε minimi per dev
+nominatorem uui-tate imilstatum emergenti
+
+maxilmgs additum stimma totius progreffiow
+ms ia etur,
+
+COROLLARIUMIL
+
+12 t. Sit adeo terminus primus a denomi-
+natormmumerus terminorumn ‚ erit term-
+nus ultimus seu maximus m⁷² -ῐα , adeoque ⁴
+summa mn '‘ta ψ (mn ·-¹ a -α ):(m -1) Ξ
+(mr- a ·-m⁷¹ '‘Ja ›J‹ mn -ι ιι -a) ,· <iu—1)
+
+(ᾗ §¹0
+

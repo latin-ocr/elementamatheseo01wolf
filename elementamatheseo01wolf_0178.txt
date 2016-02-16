@@ -1,0 +1,119 @@
+Tib. ,
+
+Ill.
+Fig.64.
+
+Tab.
+ΙΙΙ.
+
+Eg.65.
+
+‘128
+
+DEMONSTRATIO.
+
+Fiat AB-:EG ducaturque reeta KL;
+erit HI ipsi KL parallela (§. 81 ) , con-
+sequenter EBzGA ( §. 238). Qare
+cum etiam fit GE: GB3 erit yzit
+(§· 204), consequenter EG ipfi AB
+parallela(§. 25 5 ). Qe. d.
+
+THEOREMA XLVII.
+
+25 7. Parallelae DF ὠ GA inter eas-
+dem parallelas FA (ῤ’ DGfiint aequalcs.Et
+contra,si DF ὠ GAfizerintparallelae ὠ
+aquales ,- erit etiam ΡΑ ipſs DGparal-
+lela c> aequalis.
+
+DEMoNSTRA‘rIo.
+
+Ducatur reeta DA(§. 121): erit
+x=y δε oza (§. 233).Qare cum
+AD=AD‚ erit DF=GA (K §· 25 1 )
+rol erat uniam.
+
+DFzAG , per hjpoth. & cum eae-
+dem linear {int parallelae per hypoth. oza
+(ξ. 233 ). Qare cum etiam fit DA
+:DA , erit.v-—-y(§.179)‚ consequen-
+ter ΡΑ ipfi DG parallela ( §. 2 5 5 )‚ adeo-
+que etiam aequalis per num. 1. Qoderat
+alterum.
+
+PRoBLEMA XX.
+253. Per datum punc‘lum V paral-
+lelam rec-'las RS ducere.
+
+R E s o L n T 1 o.
+
+I. In charta
+
+Ι. Ex V demittatur perpendicularis
+VK (§. 216).
+
+2. Ex puncto quolibet T erigatur 'per-
+pendicularis TAzKV (ς. 212).
+
+3. Per V δε Α ducatur retfta MN, quae
+erit ipfi RSparallela ( §. 81).
+
+Aliter.
+,12 Regula ad rectam RS applicetur
+
+ELEMENTA GEOMETRIAE. PARS Ι.
+
+& circinus intervallo VK aperiatur.
+2. Crus unum circinijuxta ducrum re·
+gulae ab R versus S promoveatur.
+Ita crus alterum per V parallelam ipfi
+
+RS describet( §. 81 ).
+
+Aliter.
+1. Per datum punctum V ducatur ut-
+cunque recta RG.
+2.111 V fiat o=x(§. 208).
+Erit VN seu MN parallela ipfi RS
+
+(§.255>·
+
+ 
+
+Aliter.
+Ex modo praecedente enatus* est se· Tab.
+
+quens. 311.
+
+1. Triangulum rectangulum AVN ex fleg-⁶⁶·
+ligno ebenino aut alio Indico para-
+tum ita 'applicetur ad rectam RS, ut
+basis ejus VN parti ipfius congruat.
+
+2. Hypothenulbe ejusdem Trianguli AV
+applicetur regula RG ‚ quae altera
+manu in hoc fitu immota detinea-
+tur.
+
+3. Triangulum AVN juxta dustum re-
+
+’ gulae- promoveatur, donec bafis punc-
+tum V attingat.
+
+Erit enim in quovis litu, bafis VN ‚ ob
+yO-—ycj ipfi RS parallcla (§ 255 ).
+
+Aliter.
+
+Utimur interdurn Parallelisr'no ‚ ex Tab.
+duabus regulis ligneis potius , quam ‘1¹14
+orichalceis (ὃ. 122) AB ὃς CD com- 1⁷²3&
+posito, quae ejusdem ubique latitudi-
+nis retinaculis EF & GH inter se aequa-
+libus ita conjunguntur ‚ ut retinacula.
+intervallis aequalibus EG &EH a sein-
+vicem distent , ipsae autem regulae va-
+riis intervallis diduci queant. NiRti-
+rum Ι. e-
+

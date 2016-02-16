@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elementamatheseo01wolf_0734.png"; bbox 0 0 2101 2869; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1201 0 1751 14">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1201 0 1751 14">
+     <span class='ocr_line' id='line_1_1' title="bbox 1201 0 1751 14; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1201 0 1751 14; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 863 173 1392 255">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 863 173 1392 255">
+     <span class='ocr_line' id='line_1_2' title="bbox 863 173 1392 255; baseline 0.04 -28"><span class='ocrx_word' id='word_1_2' title='bbox 863 190 929 229; x_wconf 49' lang='lat' dir='ltr'><em>Fla</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 944 173 1082 235; x_wconf 56' lang='lat' dir='ltr'><em>ss-&#39;&#39;Anal</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1091 216 1101 235; x_wconf 89' lang='lat'><em>.-</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1110 200 1153 255; x_wconf 61' lang='lat'><em>1¹23</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1157 202 1392 249; x_wconf 54' lang='lat' dir='ltr'><em>aaz-Tab-JJ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 98 208 2077 2673">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 98 208 2077 2673">
+     <span class='ocr_line' id='line_1_3' title="bbox 98 208 2077 2673; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 98 208 2077 2673; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

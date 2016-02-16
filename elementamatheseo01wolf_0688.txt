@@ -1,0 +1,123 @@
+“ 486
+
+1-AE
+
+r consequenter area circuli } pr
+
+-—-—- px »1« pff(§.429Geom.) &hince-le-
+
+mentum solidi {prdy—pxdy 4px2dy: 2ν.
+
+Si jam parameter parabolae 1 ς erit
+y2=x (§. 388-pa7‘l.1)& y‘* =x2:
+quibus valoribus in expreffioue ele-
+menti generali substitutis, erit id {prdy
+--py2dy ›1‹ py⁴ dy: 2r. Hujus integra-
+le ἒβη-ἕρφ’ ὥργε 10 r indefinite
+exprimit solidum ex rotatione portio-
+nis MNR circa NR geni-tum.
+
+Quodsi pro y2 ponatur x 5 habebi·
+mus pro eodem solido ὲ, pry— ξ pxy
+fflpx2y: 10r =p (ἑ ν]-ξ-κ] »ξι x2y:10r).
+
+Denique fi pro y iubstituatur b pro
+x vero νς prodibit solidum integrum
+p(}br—--¹5br *1⁴ ÷5br) t: (30— 20⁴< 6)
+pbr: 60:355pbr ={pr.‡{b ‚ hoc est ,
+bafis seu cirtulus radio AQdescriptus
+ducitur in T} altitudinis Q.
+
+CORoLLARJ υΜ.
+
+215. Cylindrus super eadem lmfi δε ejus-
+dem altitudinis est {pbr (9 541. Gmm.)
+
+adeoque ad fluidum hoc pimb dicum ut
+{pbr ad {pbnsss-‘f ‚ hoc est , ut 1 ad ἷξε.) seu
+ut ις ad 8 (§·124.ptzrt.1.).
+PROB L E M A LXXXIII.
+Tab.11. 216. Cubare filiclam ex rotatione
+Fig·26·spatt'i interminati hjperbolici juxta
+aſjmptotum CD tanquam axem genitum.
+Sit ΑΕΖΔ, AC :b, CP=x2 ΡΜΣ-1,·
+erit Pp :dx , & pofita peripheria ra-
+dio AB descripta :p ‚ peripheria radio
+PC descripta px: a ‚ quae dueta in PM
+Ξ y dat superficiem cylindri parallelo-
+orammo CPMR destript1=pxy= a (§.
+
+}'41. Gema), Haec vero fi ulterius du-
+
+ELEMENTA ANALYSEOS‘. PARS 11. Sefft‘. ῙῙ.
+peripheria radio MR descripta Ξ p
+
+catur in Pp=dx, prodibit cylindrulus -
+cavus , parallelogrammulo 1>qu des-
+criptus scu elementum solidi :pxydx2 a.
+Est vero ex natura hyperbolae intra
+asymptotos
+‚ry-:ab
+Qare y=ab: ,κ’-
+pxydx: a=pahxdx: ax =pbdx
+spxydx: 2=pbxu ‘
+Qodfi pro x substituatur bs pro-
+dibit solidum integrum pbb.
+
+COROLLARIUM.
+217. Cylindrus ex rotatione parallelo-
+grammi ACSB circa axem CS geniti est
+{plu (141. Geom.) , adeoque ad solidum hy-
+perbolicum ut {pha ad pbb ‚ hoc est ut {a
+
+aab, seu ut 1 a ad 2 b (ᾗ. 124part.1).
+S c H o L 1 ο N.
+
+218. Poffiznt etiam figurae plana: rotari
+circa tangentes , vel alim lineas quascunque .-
+Sed cum nihil in his difficultatss fit , plura
+non addimus.
+
+(§· 502 part. 1).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRoBLEMA LXXXIV.
+
+219. Metiri sitpetficiem corporis ro- TJth.
+tatione figure ANQ circa axem AQFt'g· 19·
+geniti.
+
+R ε s ο L u T 1 o.
+
+Sit ratio radii ad peripheriam=r: p,
+AP=x‚ PM = y , erit Pp :MR = dx,
+mR :dy3 Mmz §s (dx- —f- dy2)³ peri-
+pheria radio PM descripta :pyt ν, quae
+dueta in Mm dat elementum fixperficiei
+solidi ex rotatione circa axem ΑΩ gc·
+nitipy tuda-2 *I* df> : ν.
+
+Quodsi jam ex natura figura: ANQ
+valor ipfius dx² substituatur δε elemen-
+tum integrabile fiat3 superficies defide-
+rata per summationem habetur.
+
+Ι) R 0-
+
+ 
+

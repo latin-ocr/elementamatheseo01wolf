@@ -1,0 +1,108 @@
+Cap. VI. GEOMETRIA SUBLIMIOR.
+
+COROLLARIUM ΙΙ.
+472. lisdem ἀλεῖς, ρῑωᾶει quotcunque hy-
+perbolae determinantur , fi ex focofinter-
+vallo quocunque AB majore describatur ar-
+cus ‚ fiustofb == AB , intervallo refidno hm
+ex F ducatur artus alius priorem in m inter-
+secans2 erit enim obfm— Fm= AB, m punc-
+Τὼ· ῗῗξζεῖἷῖᾒῗῑῗῗίιῖρῇῗῖῐ,3Ξῖ·)ιτῑᾊεᾊὲῗῖἶέἶῖἶζῖῗ
+Χμ· verso aequalis determinenturque foci f & F
+th· (5. 463. ). JnngaturipfifO [etsta [Κ Iub
+¹²4· angulo acuto* quocunque & ex centro fm-
+diis ipffi fA majoribus describantur arcus
+quottunque concentrici secantes redtarn [Κ
+iuml. 111, &cAEiat FL = AB&ex foco F in-
+tervallis LI, LII, L111 &c. intersecentnr ar-
+cus isti utrinque in 1 ‚ 2, 3 : erunt pun<sta 1 ,
+2, 3 δερ. in hyperbola.Est enimflzf't ‚ fll
+’.τ-[ι. , [ΙΙΙ =f3 &c⁸ (5240 Geom.). Sed F1
+= LI , 1³2 :Lib F3= [ΙΙΙ &c. per constr.
+Ergo f¹·-· F1=f1 - L1= AB ‚ fz— Fz =
+fII* LII:- AB, f3'* F3=f111·-L111= AB
+&c. consequenter punita 1 ‚ 2, 3 &c. in
+hyperbOh (5. 470 ).
+Tab. PROBLEMA CCII.
+1v, 473. Determinare fitam rec‘Zae DE 2
+Fig.51 quae per verticem A ²2²>st ordinazae Mm
+parallela ducitur.
+Sit AP=x‚ PM: ‚ parameterz
+b ‚ axis transversus:a : erit y² :bx—-
+be :a (46. 460). Qoniam in vertice
+A fit x=05 erit etiam y=0 ‚ consc—
+quenter DE tota extra hyperbolam ca-
+dit, esamque adeo tangit.
+Theorema. Si τεᾶα DE per verticem A
+ordinatis Mm parallela ducatum. hyperbo-
+lam in A tangit.
+
+DEFINITIO XL.
+Tab, 474. Si resta DE per verticem hy-
+tv. perbolae A ordinatis Mm faraHela duca-
+lig-5⁷1. tur ‚ fiatque axi conjugato aequalis ³
+nempe pars DA 8< ΑΕ semim 3 prcc-
+terca ex centro Cper D & E agan„
+
+»—
+
+359
+
+tur reetae CF & CG : redtae hae dicun-
+tur Asy‘mptotae hyperbolae.
+
+COROLLARIUM L
+475. Qoni.1m(§. 268 Geom.) CA: ΑΕ
+:Cpt Pr δέ CA: < DA) AB: 21³: PR,- erit
+Pr Ξ PR (35. 177 Arithm. ) Qare cum fit
+
+PM=Pm<91 370); etit quoque MR: mr
+(5. 91 Arithm.).
+
+COROLLARIUM ΙΙ.
+476. Si AI ducatur parallela ipsi DC δεῖ
+ΑΗ ipfi cE; erit EA: RD: AI : DC (J.
+268 Geom.). Sed EA: ξ ED (J. 474). Er-
+gom τ. 3¹: DC: {Ca Et quoniam porro EA:
+AD = 51:1C(5.263. Geom. )‚· erit E1==
+CI: ὲ EC 2 consequenter AI: cl (5. 87)0
+
+DEFINITJO XLI.
+
+477. Qadratum ret‘tae CI vel AI
+dicitur Potentia hyperbolae.
+PRoB [ΗΜΛ CCIII.
+3 78 . Determmare potentiam hyperbolae«³
+Sit CA:{ a 2 AE={- c, erit, GE:
+«ΜΞΛΛ ’Β ἐκ) (§.417Geom.) adeo-
+que (ΗΞ-ξ xl& aa ἦ, ἐκ). Ergo CF
+aa ›1‹ cc
+’ 1 6 „ ’
+Theorema : Potentia hyperbolae est deci-
+
+rna sexta pars quadratorum axium conjuga-
+torum ‚ vel quarta pars quadratorum semia.
+
+xium conjugatorum.
+COROLLARIUM.
+
+479. Qoniam cc:- ab (5. 461 >3 erit (312
+„anzakzss affiaff-ssb ) 3 hoc est potem-
+
+tia hyperbolae :equatur restanguio ex quar-
+ta parte ¹vtis transverfi in quartam partem
+aggregati ex axe transverso & paramento,
+
+PRoBLEMA' CCIV-
+
+ 
+
+ 
+
+480. Determinare dffrqntiam qua· Τὼ,
+Ι V.
+
+Qoniam fig. 5 π
+
+ιίναῑονκηι ΡΜ (ἐξ PR„
+

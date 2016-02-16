@@ -1,0 +1,139 @@
+422
+
+Mm non differet a linea recta , adeoque
+MmR triangulum rectilineum reStangu-
+-lum: quod Triangulum curvae charadi‘e-
+rist'icum appellati solet , quialineae cut·-
+vae per illud a seinvicem distinguuntur.
+Ob parallelismum rectatum PM &pm
+(5. 37part. 1 ). angulus MmR =TM1³
+(§. 233 Geom).Q1are Δ MmR <o Δ
+ΤΜΡ (ἕ. 267 Gema.)- Sit itaque ΑΡ
+=x, Psz: erit Pp=MR Ξ dx ὅ( RM
+:dy (§ 8), consequenter (§. 267 Geom.)
+
+Rm : RM= PM: PT
+
+ydx
+
+⁸ d
+
+Qodfi ex aequatione cyurvae cujus-
+cunque data in expreffione subtangentis
+PT generali ydx :dy valor ipfius dx subs-
+tituatur : quantitates differentiales eva-
+nescunt proditque valor subtangentis in
+quantitatibus communibus.
+
+dy :dxzy
+
+Tab. 1⁴,
+fig, 4· curvae refertur ad axem AT.
+
+CoRoLLARIUM Ι.
+
+21. Pro parabola Apolloniam est:
+
+,ax-:2322 (§.388part. 1)
+
+——-—---—-—-
+
+Hine adxzzydy
+
+clx-1:23¹& : a
+PT :ydxzdyz2y2dymdyz 2y²:a= 2axta
+= zx: prorsus ut supra( Αἵ. 410 part-1.)
+COROLLARIUM II.
+22. Proinfinitis parabolis (§.519·Part.1.)
+
+am-
+
+——-——-———.—.-——
+——-——--—-.-—-———-.
+
+PTgc—aeoe—:c—l-y—:JyZJy-—am-:ssdy—‹zmym
+
+‹am—¹ :mam—1 x ε am-1z-mx,
+
+Idem valor eruitur , fi convexitas pm· Ῑ·)
+
+ELEMENTA ANALYSEOS. PARS 11. Sea. Ι.
+
+E. gt. Cum in paraboloide cubicali m
+= 3 ‚- erit subtangens = 3x : cum in surde.
+solidali m= 55 etit subtangens = 5x.
+
+CoRoLLARIUM 111.
+23. Pto circulo est (5. 377.part. 1.)
+ax-——xx =yy
+Ziffixdxe—-Tfflydy
+dx=2ydy: < ιτ-Ξζκ)
+PTr-Wdyzmssy: (a——2x5 dy:
+2y2 : (a—2x)=(2ax--—2xx): (a—2x)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ξ (ax--xx) τ (ὲιτψκ), hoc est, PC : Tffb·
+
+PB=AP: PT, consequenter [1 PC. PT ἧς·
+:ARPB (5ο 378 Geom. ) :PMz (§⁴
+
+377 part. Ι. )
+Ergo AT:(ax—xx>: (÷a-—x)—-—-xz>
+( ax——xx- {ax 4- xx) : (ξιτ-κ) Ξὲακ :
+
+(ἕψω-κ) hoc est , PC2PA=CA z AT.
+
+CoRoLLARIUM IV.
+24. Pto infinitis circulis est (5. 524.
+
+asem—xm& :yffi-1
+
+ 
+
+ 
+
+ 
+
+maxm—1-(m4— 1 )x”⁵
+PT=ydx: dy: ( m 4- 1)y²'‘²⁴'¹ τ (mamm—1
+—(m ÷1)xm)=(m»1-1)(axm—xm÷1):
+(maxm-1-(m ψ 1 )x⁷⁷²)= (m »μ 1) (ax
+—x²):(ma—mx—⁴ x)& AT=(m »ιη 1) (ax
+- x2) :(ma—(7n-1-1 ) x )—:<= ( max ›1‹ ax
+—mx2 —-x2 ——- max ›ff‹ mx2 ›f‹ x2 ):
+(ma— (ru-1« 1)x)=ax: (ma-fl (m »Ρ 1)x).
+Cumitaquein circulo secundi generis m: 2,-
+erit ΑΤ..--· ax ε (za— 3x) & PT: (κακ-
+
+-3x2):(2a-3x)
+COROLLARIUM V.
+
+25. Pro ellipfi Apolloniam est (5. 420 :¹
+
+part. 1. )
+ay2 -Ξ abx—-bx2
+
+Hinc
+
+ἒ
+i
+
+l
+
+,Α-
+

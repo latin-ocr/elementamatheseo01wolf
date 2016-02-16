@@ -1,0 +1,122 @@
+220
+
+S c H O 1, 1 0 N.
+34. Ut vero evidentius appareat, in trian-
+gulo obtusangusso pro firm anguli obtusi uten—
+
+dnm effefinu anguli acuti ‚ qui eidem dein.
+ceps ponitur, Θ quem esse etiam finum an-
+guli obcufi fhsra annotavimus (5. 6), se-
+quens addere lubet theorema.
+
+T H E o R E M Α Ι V.
+
+35. In triangulo obtufhngulo AGC
+Tap· Ῑ· ef? ut lasus angulo obtuſs G oppositum
+'hg‘g' AC dalfinum anguli acuti ΑΘΕ eidem
+
+deinceps positi , ita latus angulo 0th!ss
+adjacens GA ad stmtm anguli eidem
+oppofiti C.
+
+DEMONSTRATIO.
+
+Demittatur ex A in bafin continua-
+tam GC perpendicularis ΑΕ ;. erunt
+AEG ἅ.- AEC triangula rediangulaw.
+78· 91 Ceam). Cum itaque fit ut fi-
+nus totus ad Ac ita finus anguli C ad
+ΑΕ & ut AG ad finum totum ita ΑΕ
+ad finum anguli ΑΘΕ (5. 33 ) 3 erit
+etiam ut AG ad AC ita finus anguli C
+ad finum anguli ΑΕΗ( 5. 197 Arith.),
+consequenter larus angulo obtuso adja-
+cens GA cst· ad finum anguli eidem op-
+posni C flenti latus angulo obtuso op-
+positum AC ad finum anguli acuti ci-
+dem deinceps pofiti AGE ( 5. 173
+Ανίῑιόηα.) Q ads,
+
+PROBLEMA XIII.
+T ab* Ι, 36. Datis duobus angulis A ὠ· C ,
+fesga. una cum latere uni eorum C oppofito AB,
+invenire lacus alteri A oppositum Ec,
+R ε s o 1, υ T 1 o.
+Insctatur ( ,οἵ 33 )ε
+ut finus arguli C
+ad 'atus fibi oppositum datum
+
+AB:
+
+ELEMENTA TRIGONOMETRIAE PLANAE.
+
+Ita Sinus anguli alterius A
+ad latus q-uaefiturn BC. 1
+Invenietur adeo Logarithmorum ope
+
+BC per probl. 38. Arithm. (Ι. 351 )‚
+E. gnsitC: 48⁰ 35¹, A: 57ο 28'2
+
+AB: 74¹. Calculus talis erit:
+
+ng Sin. C 9.8750142
+
+Log. AB
+
+Log. Sin. A
+
+1.8691.317
+99255681
+
+ 
+
+*-
+
+Sum. Log. AB δε sin. A 11.7<>50998
+
+——-—-——.——-.———.—-—
+
+ 
+
+Log. BC 1.9200856.
+
+cui in Canone lognrithmorum pro numeris
+vulgaribus respondent 83'. Cum vem ¹03³-
+rithmus in tabulis non exaestus reperi-nur ς
+inveniri possunt numeri¹ inventi 83¹ frnffio-
+nes decimales ‚ hoc cst, in casu nostro di=
+giti , fi sub char &eristicn 2 post 830¹ denuo
+logarithmus spsms BL evolvatur: cai pro·-
+xime respondet numerus 831⁰. Qodfi prae..
+ter digitos etiam lineas dcfideress eundem
+logntit-hmum qua're post 8310'‘' ὅ( ei quam
+proxime respondere deprehendes 8319'00
+Immo ficanon major ad manus fit, ipsa seru*
+pula quatta expiscari licet fi logarixhrnus lna
+ventus post 83190'‘'' evolvatur ε ubi eidem
+quam proxime respondet lognrithmm ηιιηιεο
+ti 85192· Est ergo BC 803’1¹‘ 9”’ 2'¹‘¹ (5,
+3 5 5.‚Arz'thm. ).
+S c H o L 1 o N.
+
+37. Qrid fariza opus fit, fi logarithmi
+charafferissica fuerit ὅ, in. Arithmetiva loco
+citato docuimus,
+
+PROBLEMA XIV„
+
+38. Datis duobus lateribus ΑΒ &Th m
+BC una cum angulo C uni eorum opposi- Hg.1·„...‘
+to , invenire angulos reliquos Α &⁹ B. ζ
+Κ“εεοιυϊ.ιο,ι
+1.1nferatur (§. 33 ): ο Ἴ
+ut latus unum ΑΒ. ”
+ad finum anguli· dati fibi opposta
+
+ti C2·
+
+     
+   
+
+Ita
+

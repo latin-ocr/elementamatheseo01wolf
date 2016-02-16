@@ -1,0 +1,124 @@
+Capel. DE ARITHMETICA RATIONALIUM. 245⁷
+
+SenottoN II.
+
+51. Qtoniam fi ἑ Ξ ss in seriem re-
+solvitur , quotus ᾳ βἀῑῖἱοηε proposita , quan-
+tumlibet continuatus ‚ continuo differt ὲ
+(AI. 49 ⁸1, resolutio e'n praesenti casu irrita
+emissit. Unde patet· funs erroris 2 quem
+commisit Guidn Grandus in Tracffhtu de qua-
+aratura cin-uli CL* hyperbolae cor. 3. prop. 7.
+
+“ part. 1. p. 772. 29 ‚ nbi infert ob 1 -· 1 ›l‹
+
+1—⁴ 141—141— 1&c. in infinitum
+Ξ 0 summam infinitarum mallianum esse {-
+Νεσ veritatem attigisse liquet Leibnitium
+
+in Astis Eruditorum Tom. 5. Supplement. l
+
+p.{264. &seqq.
+DEFINITIO IV.'
+
+52 Series que ad verum valorem
+continuo appropinquant , dicuntur con-
+vergentes .· qux ab eodem continue rece-
+dunt , divergentes.
+
+CoRoLLARIUM Ι.
+
+53. Ergo series ftac'tionum continuo& de-
+crescentium( 5. 47. 48) sunt convergentes .-
+ceterae vero , quarum termini continuo cres-
+cunt (55. 49), divergentes.
+
+PRoBLEMgl VIII.
+
+54. Potentiam quamcunque per aliam
+eJusdem radicis multiplicare vel divi-
+dere.
+
+R E s ο L υ τ 1 o.
+
+1.1n multiplicatione addantur exponen-
+tes , summa est exponens faeci.
+
+Χῖ ym y'⁷²
+
+x4 ym yn
+
+κγ yzm ym-l-J‘z ani-lv xn÷s
+
+am κη ’
+a* xs
+
+ 
+
+ 
+
+ 
+
+ΙΙ. In divisione exponens dignitatis
+dividentis subtrahatur ab exponen-
+
+te dividendae3 reliduum est expo-
+nens quon
+
+ym÷n θ
+
+,, (ss
+
+x⁷
+Y‘* ζ ’γε y
+
+DEMONSTRATIO.
+
+am κη
+
+ar vs (am—r xta-’J
+
+Cum exponentes dignitatum in pron
+greffione Arithmetica ( §. 25 Ι. 333
+
+· Arithm. ) , dignitates in Geometrica
+
+( §.2 50. 332 Arithm. ) progrediantur 3
+illi pro harum Logarithmis redte ha-
+bentur (S. 334 Arithm.). Ergo sum-
+ma exponentium ‚ quos habent digni-
+tates se mutuo multiplicantes , est ex-
+ponens safti (ς. 337Arithm.); diffe-
+sentia exponentium , quos habent dig-
+nitates se mutuo dividentes , est ex-
+ponens quoti (S. 343 Arithm. ). Qe. d.
+
+SCHoLION.
+
+55. Progreffiones istae hae funt:
+
+κο. x¹. χῖ. x³. κὴ x⁵. x⁶. x7. &a
+
+0. 1. 2. 3. 4. 5. 6. 7. &tu
+Nempe x ι x = x¹ ε x¹=x⁰ (J. 54),
+Sed xzx= 1 (5. 69 Antium). Ergo
+
+⁷ x⁰=1 (5. 87 Arithm.).
+
+PROBLEMA IX.
+
+56. Potentiam quamcunque datam ad
+aliam dati exponentis evehere, aut ex
+eadem dati stmiliter exponentis radicem
+extrahere.
+
+R Ε s ο L u T Ι 0.
+
+Ι. Qoniam potentia data , intuitu ejus·
+ad quam evehenda> radix est (5246
+Arithm.) & exponentes logarithmi
+dignitatum existunt per demonstr..
+in probl. praec. (§. 54) : exponens
+
+Hh 3 poten-
+

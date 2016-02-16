@@ -1,0 +1,107 @@
+'sab-d.
+
+Fig. 1
+
+Cap.I. DE QALCULO DIFFER-ENTIALI.
+
+nitiana differentialium defignativ ‚ qua omnes
+reliqui utuntur, quia {i differentialis: denuo
+differentiantur fissile oritur punc'c'orumficon-
+fufio: ut taceam typothetas facilius punita
+negligere, quam litteram d omittere.
+
+CoRoLLAR1uM L
+
+10. Qoniam quantitates constantes pti..
+mis alphabeti litteris indigitamus (J. 376.
+“qi-zalyg. finit-h critola =o‚ db τ·- o ‚ dc :0 ‚
+( . 7 . -
+
+COROLLARIUM ΙΙ.
+
+ιι. Qare d(x ›by—a) :dx ψ dy &
+
+d (x -y »1⁴ a) :dx —dy. Facilis adeo est dif-
+ferentiatio quantitatum per additionem aut
+subtractionem compositarum.
+
+PRoBLEMA L
+
+1 2. Differentiam* quantitates se mu-
+tuo multiplicantes.
+
+RESOLUTIO.
+
+Ι, Si quantitates duae se mutuo mul-
+tiplicent , ut xy 3 differentiale
+unius factoris ducatur in facto-
+rem alterum3 summa duorum fac·
+torum ‚ quae hac ratione pro-
+deunt, xdy ›1‹ ydx erit differen-
+tiale quaefitum , hoc est, d (xy)
+:xdy 4· ydx.
+
+DEMoNsTnA Tlo.
+
+κ] repraesentat rectangulum ABDC‚
+,cujus latus unum AC :x , alterum
+DC τ·- y. Si concipiamus latus utrum-
+que augeri quantitate differentiali‚ nem-
+pe ut CA degeneret in CL = x -1- dx
+& CD in CE ,τ- y »p dy3 rectangulum
+CABD abit in majus CLGE. Diffe-
+rentiale adeo ipfius xy est differentia in-
+ter reetangulum CABD ὅ( CLGE (§.6).
+Qarea'( xy) .=: xy *1⁴ ydx ›f‹ xdy 4- dxdy
+
+· differentiale- ipfius DEFB.
+
+419
+
+.-. xy :ydx ÷xdy÷ dtdy, nempe ALBH
+»ξι DffllE »ια BHGF. Qodfi ‚ in rectan-
+gulo ALHB :ydx , AL :dx sumatur
+pro constante; erit HGFB :dxdy dif-
+ferentiale ejus (ς. 6). Eodem modo
+patet, esse idem rectangulum BHGF
+
+uam-
+obrem HBFG seu dx'dy respeetu Quan-
+gulorum ALHB δε ΒΒΕΡ, seu ydx δε
+xdy‚ habetur pro nullo, consequenter
+differentia inter rectangula CABD ὃς
+CLGE, seu differentiale ipfius xy est
+
+ydx »Β xdy‚ Qe. d.
+
+ΙΙ. Si plures quantitates se mutuo
+multiplicent, e. gr. fi fuerit vxy3
+fiat vx ει, erit vxy =ty‚ con-
+sequenter d (vxy) τε ta'y »ιι ydt, per
+cast Ι. Sed dt :vdx ›1‹ xdv, per
+cast 1. Ergo his valoribus in dif-
+ferentiali antecedente tdy ›1‹ ya't
+substitutis prodit d (vxy) ε·- vxdy
+›1‹ vydx ›f‹ xydv. Patet adeo factum
+
+ν ex binis ducendum esse in diffe-
+rentiale tertii.
+
+ΙΙΙ. Eodem modo reperitur ‚ quid
+facitu opus lit, fi plures quantita-
+tes se mutuo multiplicent. Sit
+enim e. gr. quantitas differentian-
+da vxyz. Fiat vxyzt, crit vxyz
+:tz , consequenter d (τε.) :adt
+÷tdz‚ per caſsi. Sed dtzd(vxy)
+r—-vxdy ψ vya'x »1« xydv, per cas 2.
+Ergo d(vxyz):zdt »μ tdz=
+zvxdy »μ zvydx q·- zxydv ›1‹ vxydf...
+
+IV. Qodfi crescente una varia-⁵
+bili altera y decresceret ,- evidens
+est, fore ydx—-xdy differentia-
+le ipsius xy.
+
+Ggg2 Co-
+

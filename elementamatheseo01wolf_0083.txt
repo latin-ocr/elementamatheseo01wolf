@@ -1,0 +1,110 @@
+cap.111.1)1÷ RATIONE ET PROPORTIONE. 55
+
+DEMONSTRATIO.
+
+8 : 4:12 : 6 Qoniam A : Β
+4:16: 3: 12 :E:F‚per hypoth.
+—- fi ponatur B: C:
+3:16 ==3 :6 F:G,eritA:C:
+E:G (§.194). Est vcro etiam B: C
+=D= E , per hjpoth. Ergo D : E:
+Fsz§.l67), δέ D2F=E:G(§.I73),
+consequenter A : C=D: F (§. 167).
+,Qenak
+
+CoRoLLARmM I.
+
+199. Quodsi fuerit A:B:E:F&C:B
+:Ezo ‚ cum etiam sit E:G:D2E
+
+(Αἵ. 169), erit A:c:D : F (5198)-
+
+ 
+
+ 
+
+CoRoLLARIUM II.
+
+200. Similiter fi fuerit B: A :1⁷:13 &
+E:G:D;E‚ cum etiam slt A:B:E:F
+
+(§.169),eritA:C=D:F(5.198).
+COROLLARIUM III.
+201. Si porro fuerit B:A:¹F.·E δέ
+
+OB: E : Dscum etiam fit B .- c:D:E
+(5169), eritA:C:D: F(§.200).
+
+CoRoLLARIUM IV.
+
+202. Si idem C vel aequalia pet majus
+A & minus B dividas , quotus prior F
+erit minor posteriore G. Est enim A ι
+C::1:F&B:C:1:G(§.174)‚adeo-
+queC:B:G:1(5.169). Ergo A:ss:
+G : F (ς. 198). Sed A > B, per hypoth-
+Ergo G > F (J. 149).
+
+THEOREMA XXXV.
+203. Majus A ad idem C majo-
+
+rem rationem habet , quam minus Β.
+DEMONSTRATIQ
+
+Qoniam A > Β, per hypoth. erit
+A: C 1> B: C (§. 202), hoc est,Aad
+C majorem rationem habet , quam
+
+fiad C (52158). ξε. d.
+
+THEOREMA XXXVI.
+
+204. Qud ad idem majorem lla-²
+bet rationem quam felterum , id alt&
+ro majus cst.
+
+DEMONSTRATIO.
+
+Habeat A ad C rationem majorem
+quam B ad idem C , per hypoth. Ergo
+pars ipfius A eandem ad C rationem
+habet quam Β ad idem C (§.186)‚
+adeoque ipfi B aequalis est (§.177)„
+Qare A > B(§.20). Qe. d.
+
+THEOREMA XXXVII.
+
+205. Idem C ad masus A minorem
+habet rationem quam ad minus Β,
+
+DEMONSTRATIO.
+
+Qoniam A > Β per hypoth. erit
+C: A <1 C ε Β (9202). Ergo C ad
+A minorem habet rationem quam ad
+B (Β. 158). ξε. d.
+
+ΤΗ Ερκ E MA XXXVIII.
+
+206. Ad quod idem majorem ra-'
+tionem habet quam ad alterum , id
+altero mimas est.
+
+DEMON'STRATIO.
+
+Habeat C ad A rationem majo*
+rem* , quam ad B, per hypoth. Ergo
+pars ipfius C , quae dicatur D , ad A
+eandem rationem habet ‚ quam ad B
+(§. 186) , hoc est, D:A-—C.· Β
+(§.152)‚ & hinc D2C2A13 (§.173).2
+Sed D < C(§.20)‚ ErgoA <x B (§.140).
+,ζει d.
+
+THEoREMA XXXIX.
+
+207.> Duae quantitates se? mutuo
+
+multiplicantes idem fadJungzjemmt.
+EMON 81-
+

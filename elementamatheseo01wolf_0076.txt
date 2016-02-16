@@ -1,0 +1,111 @@
+48 ELEMF NTAARITHMETICAE.
+
+DEMONSTRATIO.
+
+Numeri rationalis integri pars ali-
+quota est unitas( t 40) stactus vcro
+cum unitate partem aliquotam commu-
+
+nem habet (§. 41 ) Qae igitur sunt
+ut numerus rationalis ad numerum ra-
+
+tionalcm 3 eorum unum vel est pars
+
+aliquota alterius , vel utriusque pars ν
+
+aliquota communis datur. Qare
+commensurabilia sunt (ς. 31 )·Q216·d·
+
+COROLLAR1UMl.
+
+161. Cum in divisione fit ut divisor ad
+dividendum , ita unitas ad quotum (§.69);
+fi numerus rationalis per rationalem divi-
+ditur , unitas est ad quotum ut numerus
+
+· rationalis ad numerum rationalem , atque
+hinc quotus commensurabilis unitati, (J.
+160), adeoque numerus rationalis (9. 39 ).
+
+CoRoLLARIUM 11.
+
+162.. Qoniam ergo in ratione ra tinna-
+li exponens rationis prodit, numero ratio.
+nali pet rationalem diviso (§.134.136)·,
+tationis rationalis exponens est nnmerusii
+
+tionalis (§.161).
+
+THEOREMA XII.
+
+163.C0:ns⁷nettfitrabilia sl'mt inter fe,
+velut unitas adnumerum rationalem
+integrum ‚ vel ut numerus rationalis
+integer ad alium ratimalem integrum .-
+incommenfiaerabilia non item.
+
+DEMONSTRArio
+
+Commensurabilium aut unum est
+pars aliquota alterius ‚ aut utriusque
+datur pars aliquota communis ( §.31 ).
+Qodfi· adeo in casu priore quantitas
+minor‚in posteriore pars aliquota com-
+munis pro· unitate assummum respon-
+debit in priore quantitati majori> in
+
+posteriore utrique numerus rationalis
+integer (ς. 40). Ergo in casu priore
+quantitates sunt inter se ut unitas , in
+posteriore ut numerus rationalis in-
+teger ad numerum rationalem inte-
+grum. Qtod erat primum.
+Incommensurabilium nulla datur
+pars aliquota communis (§. 31); Nul-
+la ergo datur unitas, cui commensu-
+rabilia existant. uate cum omnis
+numerus rationalis unitati commensu-
+rabilis existat (S. 39)‚· ipsa non sunt
+ut numerus rationalis ad numerum ra-
+tionalem. Qod erat alteram.
+
+COROLLARIUM Ι.
+
+164. Commensnribilium ratio est ia
+tionalis 3 incomnensurabilium irritionalis
+
+(5M134)
+SCHOLION.
+
+165. Dari quantitates incommensurabi-
+les ‚ in Geometria demonstrabitur.
+COROLLARIUM 11.
+
+166. Rationis commensurabilium expo-
+nens est numerus rationalis (J. 162).
+THEoREMA XIII.
+
+167. RationesA: B&F:Gstmi-
+les eidem tertia C: D fimt etiam fimi-
+les inter ft² (ῥ’ fimilibus fimiles fimt
+inter st ssmiles.
+
+DEMONSTRATIQ
+
+Rationes fimiles eidem tertiae sunt
+6: 3:82 4 etiam eaedem eidem
+
+10: 5:82—- 4 tertiae (§·154)
+
+Esg06· 3:10· 5 nare cum
+fit Ἀ. B=F: G&C:D=F:G
+(§.152); erit A: B=C: D (§.87),
+consequenter A ad B ut C ad D
+(5152). Qod erat unum.
+
+ 
+
+ 
+
+Porro
+

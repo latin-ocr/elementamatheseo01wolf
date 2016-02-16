@@ -1,0 +1,145 @@
+Cap. ΙΙ. DE SOLVENDIS PROBLEMATIS INDETERMINATIS.
+
+ingredi debent ‚ ut in utroque aequationis
+membro (it a²÷ b2. Porrovero in valore la-
+teris alterius y multipltcari debet per z , ut
+
+sublato utrinque az ÷ b² residuum fit divifi-
+ln'le per z. Ita enim z reducitur ad unam di-
+
+menftonem, sicque aequatio in terminis rationa-
+libus est reciucibilis.
+
+PROBLEMA XCIII.
+
+232. Invenire duos quadratos nume-
+ros, qui dlffi⁷runt numero dato.
+
+Sit latus quadrati minoris=x , majo-
+riszy ÷ x ‚ differentia quadratorum:
+d: erit quadratum majuszxz -ξ- 2xy -Ι-
+7², minus Ξ κ··, consequenter per con-
+
+ditionem problematis.
+zxy 4 γι = d
+-———---—---—-yz sub.
+zxy = d— y2
+.-. —-—-*—2y div.
+x: ( d ——y²): 2y
+
+Unde apparet , proy affumi debete nume-
+rum , qui fit minor quqm vsd·
+
+She-..gnei ’.εἶα-γ =3 :erit x: (¹0 ——9):6=
+—}&x†y =3†-} :¹39‚Sitd=11‚y=
+1:eritx·.=(11 ·-1):2=10.· 2:5&x÷
+y :5 ›3-11 =6.Sit‹l =48,y =4terit x =(48 ..-
+16):8= 6--2=4&x÷y=4 ÷4=8.
+
+PROBLEMA XCIV.
+
+233. Numerum datum dividere, in duos
+alios3 quorum fabium est numerus quadratus.
+
+Snt numerus datus =- 2a‚ differentia =2y:
+erit major a-Py ‚ minor a -y (Αἵ. 5), fastum
+== aa ···-yy.Utc;1lculusab irrationalitate libe-
+tetur, pro latere quadrati assumendus est va-
+lor ’. quem ingreditury δε qui divertis gaudet
+ssgms. Sit ergo = xy —- a : erit per conditio-
+nem problemntis.
+
+αα- y² Ξ aa -2axy ,ᾖ xzyz
+*ss—-—M———-—a2sub.
+u--yl Ξ ι-Ζαλῖγ 4 x2y2
+
+—— -—‘——-——ydm
+
+ 
+
+ἰ· y = -, zax ψ x2y
+·-—-† ——·—y ›1‹ zax add.
+aax =x*y ÷y
+———————x2 4· 1 div.
+2ax ,· (x² -1- 1) : y
+Woffi Oper. Mathem. Tom. Ι.
+
+297
+
+Site.gr.2a=1o,x=2:erity=20:(4
+»Ρ 1 )=·.20: 5 =4Erg0a÷y= 5 44:95
+a—y=5·-4=1. Sit2a=10‚ x: 3: etit
+y··=30=[9·1·‹1)=30:10=3.
+
+PROBLEMA XCV.
+
+234. Datum numerum dividere in
+
+duos numeros , quorum dcffi’rentia cll mt-
+
+merus quadratus.
+Sit numerusdatus= a, quaefitorum
+
+major=x‚ minor=y .· erit per conditio-
+nes problematis.
+
+x -1- y -τ a x —y=v²
+·—-- ——y sub ——-—y add
+x-——a——y κεν-μ]
+a-y=v² ÷y
+--——-*vmd
+a =v² -}- 2y
+——-—- —u -—v² subt
+&zizi—2 dlv
+( a—-v² ): 2 :y
+
+Pro v² itaque assumendus est numerus
+quadratus, qui cx numero datoa sub-
+duetus parem relinquit.
+
+Sit e. gr. a =4o. v'- :16:e1·ity = (40...
+16): 2 = 24: 2 ευ.. Ergo x = 40·-· 12:
+28. Sit a :40 , v* =4zerity .·= ( 40... 4):2
+= 36: 2= 18. Ergoxt-:Afo- 18 =12. Sit
+at: 35 , v² =9.· erity=(35 ——9):2 :262
+:13 &x=35 ’- 13 :22-
+
+PROBLEMA CXVI.
+
+2 3 5. Invenire duos numeros ejus con-
+ditionisfflt unus additus quadrato alterius
+effi ciat numerum quadratum , cujus radix
+aequatursttmmae numerorum.
+
+Sit numerus un11s:x‚alter=y .· erit
+per conditionem problematis.
+
+νῆιν-ε x2÷÷fw²
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+> ,ἶῖχ 4 ζ 1² sub.
+{Layss-yy- ”yda
+1 -yss-z—Jc -· y subf.
+
+->*—·- 2. dxv.
+
+ 
+
+ 
+
+(1 -y)·· 2 ΞΣ
+Pp Nume-
+

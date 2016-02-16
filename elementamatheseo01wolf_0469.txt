@@ -1,0 +1,136 @@
+th.42.
+
+Εμῳ
+
+Tab.
+III.
+
+Tab.
+111.
+
+Cap.VI. GEOMETRIA SUBLIMIO R.
+
+Ο
+
+Theorema 2. Si MR fuerit ad parabolam
+in punisto M normalis & ex R ducatur ad
+rectnn FM ex foco F in idem parabolae
+punctum M duetum normalis RH3 etit ΜΗ
+subn‹›rnmli PR & HF portioni axis inter
+focum F & semiordinatam PM interceptae
+aequalis.
+
+PROB LEMA CLXXXIV.
+
+419. Invenire aequationem ad para-
+bolam externam , hoc est , punc‘h's para—
+bolae M ad ree‘t'am AO ‚ quae ad axem
+AR tn vertice A perpendicularis ,
+relatis.
+
+Sit abscissa AN=x‚ semiordinata
+Nsz, parameterza. uoniam AN
+per hypoth. ὃς ΡΜ (§. 368) perpen-
+dicularis ad AR ς erit AN ipsi PM pst-
+rallela ( §. 256 Geom. >. Cum ex ea-
+dem ratione NM sit parallela ipfi AR ,-
+
+erit Aszvt δε NM: AI> (§. 257 Χ ⁰
+
+Geom. >2 consequenter PM:x , AP
+=y‚ atque ideo x²=ay ( §. 388 ),
+
+DEFINITIQ XXXVI.
+
+420². Ellz'jsss· est linea curva , in
+qua quadratum semiordinatae PM est
+‘ad reetangulum ex segmentis axis ΑΡ
+& PB ut parameter ad axem, hoc est,
+fi AB=a, parameter=b, PM=y,
+Ap:x‚ erit'b: ΛΞΓ-ε ax x² adeo-
+que ay2=abx—bx2.
+
+CoRorLAR1UM L
+
+ 
+
+421. Est ergo y2= bx- ὀξεῖ-ε a, hoc est,
+quadratum femiordinatae aequritur redtangu-
+lo ex paron-netto in abscissam ‚ demto tamen
+alio redbangnlo ex eadem abscissa in quar-
+
+tarn proportionalem ad axem , paramettum
+δί ὠΐιὶῐίἶιιῃ.
+
+COROLLARLUM ΙΙ.Ι
+422. Fiat y: o, erit bx— bx2: a= 0¹,
+adeoque οὑκ-τ. bx2 conseqqenter atax. Pa,
+
+349
+
+tet adeo curvam secare AB in A & B‚c0n.
+sequenter in se redire.
+
+CoRoLLARIUM 111.
+
+423· Fiat x z} a. Erit y22} ab--‘
+ΑΖ h: 4a=2²g ab, consequenter y=CD=
+v} ab. Ergo ΒΕΞΖ ss} ΛΞΜ ab ,
+hoc est ‚ axis minor ED est medius proportio·
+nalis inter majorem AB ὃς pat-amenum ,
+
+consequenter pataineter tertia proportionab-
+lis ad axem majorem & minorem.
+
+CORoLL AR1UM IV.
+42⁷4. Qiti ay²:„sz— bx’*
+
+——ss—
+
+erit bx²= alne—- αγ-
+
+b-1‘2 .· (bx—yffi >= a
+Invenitur ergo axis parametro , absciffi &
+
+semiordinatad.1tis, si fiat, 1⁰.b :y=y.·y÷
+‚72⁷ lax-—yz
+
+. ''edla-:⁶ [J
+axis AB positione datus δε parame-ter AL
+ad eum perpendicularis. Datis abscissa ΑΡ &
+semiordimta PM, fiat AN: AQ: PM, duc-
+ta NF ipfi LQparallela , erit AF=y2t b,
+consequenter F122x-y2 : h. continuetur
+LA in G , factaque ΑΗΖ FP & AG: Ap
+ducatur ΟΒ ipsi ΗΡ parallelo. : crit AB:
+
+bx² : (bx ·-· y² ) , adeoque axis quaefitus,
+
+: x: x: 'a- Nimirum fit
+
+ 
+
+Tab;
+XI I,
+fig.
+
+120.
+
+CoRoLLARlUM V.
+
+425. Qia ay² Ξ abx= bx2
+erit 0312} (ια-«κζ )= b consequen· '525-
+ter 10.x: y=yz 33—² &v 20. a— x: “²J—²=a.·b. 5345·
+
+Datis ergo axe AB , abscissi ΑΡ &- semiordi-
+nam PM, ita invenitur pataineter AG.1⁰. Fiat
+A1= PM δε ex A per Mrdncatur reeta AL.
+2⁰. In I erigaturperpendicularis L13e1⁴iri§.268,
+Gema) ob AP: PM: A1:L1;L1:y2:x.‚.
+30.Pr0ducatur PM in Ostonec P02L1:y ΖΞΧ,
+δε ex B per O ducatur redt.1BG.4.'1nA excitetur
+
+X x 3 per-
+
+——-—————-
+

@@ -1,0 +1,119 @@
+Tab-
+lv.
+
+3347.
+
+Capffsl, GE OMETRIA SUBLIMIORi
+
+neorema. Ut distantia semiordinatae a
+centro ed axem dimidium ‚ ita. abscissa ad
+portionem fiibt.1ngentis inter verticem ellips15
+δε tangentem interceptam.
+
+ConoLLARIUM L
+
+441. Qia PC: Ac= ΑΡ : AT·, erit etiam
+PC ε AD: AC ε AT (§. 173 Arithm.), con-
+sequenter PC : Pc÷ ΡΑ = AC : CA »Β AT
+(5190 A7·itl1m.)‚hocest ‚ PC: AC: AC:
+
+COROLLARIUM IL
+
+442. Est ergo AC²=PC. CT (ᾗ. 377
+Geom.) hoc est quadratum dimidii axis AC
+:equatur restangulo ex CTiu PC.
+
+CoRoLLARnrM 111.
+443. Crescentibus abscissis x, decrescit
+
+{a ·-x, consequenter ratio {a ·-x : {a mi-
+nuitur (ς. 203 Arithm. ). Abscissa igitur ma-
+jor„ ad AT rationem minorem habet quam
+mmor.
+COROLLARIUM IV.
+444. six: ὲ a ‚ hoc est, quando AC fit
+abscissa, {a - x: 0, consequenter abscissa
+
+rationem infinitam habet ad AT,adeoque tan-
+gens TM cum subtangente TP nunquam
+concurrit. 13st igitur axi parallela.
+
+COROLLARIUM ·V.
+
+445. Hinc vero ulterius liquet, quanti-
+tatem finitam Ac respectu infinitae pro nihilo
+
+habendam else.
+PRossL E MA CXC.
+446. Determmare quantitatem rec-
+tanguli ex fitbtgngentePT in abftiffian
+Sit PC=x , PT=t ‚ AC=r 3 erit
+AP= r—x δε PB=r -1-κ , CT=
+t÷ x. Qoniam ( §.441)
+PC :AC= AC ε CT
+x :r = r ε t ÷ x
+erit tx ἦ· xx=r²
+
+—————
+
+tx=r²-—x²=AP. PB
+W'olfii Oper. Mathem. Tom.1. ‚
+
+353
+'Tbeorema- Redangulum ex submiigente
+
+PT in abscissam CP aequatur reftangulo ex
+segmentis axis.
+
+PRossLEMA CXCI. Tb
+a ο
+
+447. Determinare valorem sitbtan- 1v,
+gentis PT ‚ ahsc'iffis acentro computatis. figam„
+Sit AC:r‚ PC=v20rit PB: r ÷v‚
+AP= r—v , consequenter ( §.440 ).1
+PC τ PB: AP: PT
+
+υτνώυΞν-υυεῑ
+
+tv= ν’· - v²
+Theorema. Rectangulum ex subtangente
+δε distantia ordinatae a centro aequatur dif-
+ferentiae quadrati hujrts distantiae a quadrato
+semiaxis transversi.
+
+PRoBLEMA CXCII.
+
+448. Determinare quantitatem ficl- Ταίῃ
+tangentis ΚΕ in axe conjugato. IV.
+Si tangens TM continuetur, donec figm-
+axi conjugato continuato in E occurrat,
+δε ex M demittatur perpendicularis MK
+:PC (§.1 57 Geom.) erit ob parallelis-
+inum testarum KM & CT angulus T
+:EMK (§. 233 Geom). consequenter
+
+ 
+
+ 
+
+(§.267 Geom.)
+’ TP: PM: MK ε ΚΕ
+rz„ v² —— . μοι),
+v ·“ )’“-υ“ῗι,-υι «
+Qodfi fiat DC = c‚DK=. z,erit Kc:
+PM =y :c ·-z &v²= ”K —f-z-ZL (§.
+
+ 
+
+c c
+43 6). Hinc r2—v²=(c²r² ·- 2r²cz÷r²z²):c²
+ὃς v²y (z 2r26z--· r²z²) (c-z):c². uase
+v²y: (νζ-ι v²)= (2r2cz2-- r²z²) (c.- z):
+( c²r2-2r²cz·1‹ r²z²)=(2r²cz-—r²z²):(rr²—7 2 g 3
+Ξ( 2cz—z2 ) .· (c—z)
+Expressio itaque subtangentis in axe
+
+conjugato eadem 2 quae in transverso.
+Y y Pao-
+

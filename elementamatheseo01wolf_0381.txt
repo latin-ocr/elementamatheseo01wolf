@@ -1,0 +1,104 @@
+Cap. III. DE IN VENIENDIS THEOREMATIS.
+
+ac .· mad = bc .· mbd
+
+ 
+
+a ‘ma b ‚Lm—b
+ἐ- ῖ-ε “ d
+Sit ordinate a: rna-:bx mb
+& ma : mnaz-mb : mnb
+
+erit ex aequo a ι mna=b : mnb
+
+Sit perturbate a ε ma=b : bmb
+
+ὅ( ma: mna=3:b
+
+erit ex aequo a: mna=7by mb
+
+Ipsae nimirum expreffiones , fi quoti
+reducentur per regulas fratirionum ‚ ra-
+tionum similitudinem in omnibus lo-
+quuntur. E. gr. ac: mac-:1 τ m ὃ(
+b:mb=1:m. En utrobique exponentem
+eundem 1: m!
+
+COROLLARIUM.
+
+125. Cum s1t in progressione geometrica
+ᾧ m—1: 1 :mn-¹ a—a: mn-za ›hm-³ a
+*1⁴ ,nn-*a &c.÷a(th.2.§.1 1 9)‚f1tverom -121
+:ma—a.- a (5- 124n. 1.); ma--a :a
+:mn-1 a —a:m”-2 a *brun-³ a *1⁴ mn‘4a &c-
+ἦ( a , hoc est , excessus termini secundi supra
+primum est ad primum ut excelsus ultimi five
+maximi supra primum ad summam omnium
+terminorum demto maximo.
+
+PRO B LEM A XXXIII.
+Ι 26. Investigare symptomata progrcf
+
+stonum geometricarum ab unitate inci·
+plentlllm.
+
+Si terminus primus est unitas ‚ secun-
+dus idem est cum denominatore rationis
+(§· 114). Est vero terminus secundus
+ξ vel numerus primus , vel compositus δε
+in casu altero vel quadratus, vel poten—
+tia alia cujuscunque ordinis vel nulla.
+
+Cum numerus primus in se non poffit
+
+Wolffii. Oper. Msathem. Tom. Ι.
+
+265
+dividi nifi per unitatem solam ( §.7 ς
+
+Arithm. )‚ charactere primitivo m rec-
+te exprimitur. Unde emergit series in
+ratione geometrica progredientium ε
+
+1. 772¹. νηὶ. m³. m⁴. m.⁵ ψ’, &C-
+
+Qoniam termini omnes prodeunt
+continuata multiplicatione secundi in
+seipsum §. 334 Arith. ); per nullum
+quoque numerum primum dividi possunt
+exaee nisi per secundum , seu nullus nu-
+merus primus terminos metitur praeter
+secundum. In formula generali idem ad
+oculum patet: etenim m²m³m⁴m5 m⁶ &c.
+non poffe dividi nisi per m , patet < §.
+54). Et curn terminus secundus in hoc
+casu fit potentia prima, termini sequens
+tes fint potentiae continuo ordine pro-
+gredientes ejusdem numeri ( §- 254
+Arithm.); terminus quilibet major di-
+vidi potest per quemlibet minorem , sed
+per nullum alium (ς. 54). Habemus
+adeo
+
+Theorema 1 . Si numerorum ab unitate con.
+tinue proportionalium proximus unitati pri-
+mus est , maximum nullus alius metitur prae-
+tet eos5 qui sunt in serie , consequenter nec
+primus alius ‚ nifi secundus seu ab unitate
+proximus.
+
+Et quoniam in omni casu numerorum
+ab unitate continue proportionalium
+termini ultra secundum sunt potentiae
+continuo ordine progredientes ejusdem
+termini secundi, qui communis omnium
+radix est (5. 334. 254 Arithm. >3 igi-
+tur in genere patet
+
+Theorema 2. In serie numerorum ab uni-
+tate continue proportionalium minor qui-
+hbet quemlibet majorem metitur per ali-
+quem numerum, qui est in serie.
+
+L l Cum
+

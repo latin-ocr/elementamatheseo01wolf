@@ -1,0 +1,115 @@
+“136
+
+(586 Arithm.). Q e. d.
+Aliter.
+
+Tab.v. 1. Mensula In D verticaliter erigatur ,
+
+fig-84. ita ut latus ipsius F E fit horizonti
+
+η parallelum: id quod obtinetur ope
+perpendiculi Q
+
+Tab. 2. Ducatur reeca ef lateri mensulae pa-
+
+IV. rallela , & regula cum dioptris ad
+
+Rg·81. hanc applicata vertamur mensula ,
+
+donec collineatio in altitudinem quae-
+sitam fiat.
+
+3. Circa punitum e vertatur regula ‚
+donec oculo per dioptraff transpicien-
+ti apex altitudinis A occurrat, du-
+caturque reeca eb.
+
+4. Qaeratur distantia stationis ab altitu-
+dine e C (Δΐ. 126 J&
+
+’ 5. Ex Scala Geometrica minore trans-
+feratur ex e in c (AY. 279).-
+
+6. Ex c erIgatur perpendiculum bc
+(§. 212 J , quod
+
+7. Ad Scalam Geometricam applica-
+tum ( §. 279 ) partem altitudinis AC
+manifestat. ’
+
+8. Addatur altitudo BC.
+
+Dico , summam effe altitudinem AB.
+
+DEMONSTRATIO.
+
+Qoniam AC perpendicularis ad BD
+(§. 227) & Ce ipfi BD parallela per
+constr. erit eadem AC perpendicularis ‚
+ad CE (§. 230 J. Sed ad eandem etiam
+
+b c perpendicularis ‚ per constr. Ergo i 1. Statione in D eledia mensula ⁶0110·Tab.v.'··
+bc ipfi AC parallela ( §. 256), conle- ἒ
+
+quenter e c: cb2EC2CA(§. 268).
+
+ELEMENTA GEOMETRIAE. PARS Ι.
+
+&AC (per constr. &§- 227) 3 eritFC 2
+:HA (9'. 226). Quare BH÷FC= ’
+BH÷ HA (Αἵ. 88 Arithm.) ΖΒΑ Α
+
+Aliter.
+1. Investigetur quantitas anguli e (5-
+152 ) δε distantia stationis e C (5.
+Ι 26 ).
+2. Super e c in Scala Geometrica mi-
+nore assumta(§.279) construatur
+triangulum ad c restanguium che
+
+(55. 264).
+3. Reliqua fiant ut ante.
+DEMoNSTRATIO.
+Est enim c=C&e=E , per constr.
+Ergo ec: cb: EC: CB(5. 267 J
+
+Qud.
+
+ScirorroN.
+
+28 5. In omnihus ιῚΞὶς refhlutionibus suppa:
+nitur planities perfcfbe horizontalis : qux
+cum rariffime in praxi occurrat , fi notabilis
+fuerit declivitas , non tam instrumenti alti-
+tudo , quam ipsa CB addenda ‚ in altitudine
+accessa facile investiganda. Necesse etiam est ‚-
+ut baculi ‚ quantum fieri potest, exaffliffime
+ad horizontem perpendiculariter infigantur
+&⁵ in instrumentis praescripta ratione collocan-
+dis cura maxima adhibeatur .· immo altitudo
+BC eodemmodo investigari potest , quo ip-
+sam AC invenimus.
+
+PRonLEMA XXVIII.
+
+ 
+
+286. Altitudinem inaccessttm ΑΒ me* Tab. V.
+
+tiri. fig-83·
+R Ε s o L u T 1 o.
+
+Sine instrumentis prolixa est opera-
+tio. Nimirum
+1. Distantia stationis CA vel ΡΗ (μιεεΕ
+ritur per problema 25 (5. 280).
+2. Reliqua fiunt, utin problemate prae-
+cedente (5. 284 J.
+Aliter.
+
+    
+
+cetur ut in problemate praecedente figgffl
+(5 234)θ n·1·
+2. l
+

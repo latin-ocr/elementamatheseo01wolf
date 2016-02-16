@@ -1,0 +1,114 @@
+cap. VJ. DE FIGURARUM DIMEN 51οΝΕ ET DIVISIONE. ¹73
+
+trum effe ad peripheriam ut 100 ad 314,
+vel in circulis majoribus ut 1 0000 ad 3 i 41 5 :
+in qua proportione Ptolemaeus ‚ Victa , Hu-
+genius cum Ludolpho consentiunt. Hugenius
+(a) compendiosiorem monstravit viam3 scd plu-
+ribus theorematis nixam ‚ qux in hisbe Ele-
+mentis non demonstrantur.
+COROLLAR1UM.
+
+427. Si diameter fuerit 1 13 3 erit periphe-
+ria ¹13· 31415: 10000 (5272 Arichm.)
+hoc est 355 quam proxime.
+
+Ι 8011011οΝ ΙΙ.
+
+428. Haec proportio ‚ quam Adrianus Me.
+tius tradit (b) a parente suo inventam Θ dc-
+monstratam (c) 3 inter omnes, quae parvis nu-
+meris exprimuntur,accurat‘iffima. QOdfi enim
+numerum 355 [eptem cyphi-as aci obtinendas
+frailiones decimales nudum per' 113 dividas 3
+quotus cum proportione Ludolphina collatus
+
+ostffindet eam ne quidem wgo—{5353 a vera
+di erre.
+
+PROBLEMA LIX.
+
+429. Data diametro circuli invenire
+peripheriam ὠ· aream ejus , (ῤ’ data peri-
+pheria diametrum.
+
+ResoLurio όν DEMONSTRATIO.
+1. Cum detur ratio diametri ad periphe-
+
+riam (ᾗ. 426. 427 )5 una data, in-
+
+venietur altera (5. 302 Arithm.).
+2. Peripheria dunsta in quartam diame-
+
+tri partem , habetur area circuli (§.
+
+410. 392).
+Ε, gr. Sit diameter 56: erit
+
+ 
+
+100--314—-56 Periph. 17584'''
+5 6 {Diam 1400
+1 8 8 4 7033600
+1 5 7 0 1 7 584
+{1705‘804U‘ Area 24⁰ 61¹76sfoo'f‘
+
+(a) In inventis de circuli magnitudine prop. 10.
+Ρ· ἐξ) {pgepdrissiri'si gijaiffica part. 1. c. 10. §. 3. p.
+m'({3)9⁸1n libello adversus quadraturam circuli Si-
+monis a Qercu conscripto.
+
+CoRoLLAmum I.
+
+430. Si diameter 1003 peripheria 314
+(5. 426 ), adeoque area εἰη-11117850 (5,
+429 ). Est vero quadratum diametri 10000
+(9⁸. 370) ι ergo hoc ad aream circuli ut
+10000 ad 7850, hoc est, ut 1000 ad785
+(ᾗ. 181 Arithm. ) quarn proxime.
+
+CORoLLARiuM ΙΙ.
+
+431. Similiter fi diameter 1 13 , peripheria
+355 (5427), adeoque area circuli 1002&ss—
+(ὦ, 429 ). Est vero quadratum diametri
+12769 (9⁶. 370). Ergo hoc ad illam ut
+12'769 ad 1001ῧὲ hoc est, ut 51076 ad
+401 15 (5. 178 Arithm.) consequenter (divi-
+dendo per 113 ) ut 452 ad 355 (5. 181
+Arithm.)‚ quae Metiana proportio priori
+ssCCUl‘D-thl'·
+
+CoaoLLA RIUM ΙΙΙ.
+
+43 2. Area igitur circuli etiam invenitur 2
+fi ad 1000, 785 & quadratum diametri ς vel
+ad 452 , 355 δε quadratum diametri nunne-
+rus quartus proportionalis quaeratur (5. 30²-
+Arithm. ).
+
+Sit e. gr. diameter 56 0'' , erit quadratum
+eius 31⁰ 36' 00¹¹. Qar'e
+
+1000 ·—- 31⁰ 36² 00⁷¹ -785
+785
+
+———-.-—-
+
+Area circuli.
+
+COROLLARIUM IV.
+
+433. Si area circuli minoris GEHF sub. T b
+traiicitur ex area majoris concentrici ADBC3 νᾶμ’
+relinquitur annulus ADBCGEHF. fig·
+
+PRO-BLEMA LX. 1350
+434. Data area circuli , invenire
+diametrum.
+
+R ε s 0 1. υ r 1 0.
+1. Qaeratur ad 785, 1000 & aream
+circuli datam 246 176 numerus quar-
+Y 3 tus
+

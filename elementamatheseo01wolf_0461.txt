@@ -1,0 +1,107 @@
+cap.V1.GEoMETR1A SUBL11v1310R.'
+
+AB =a, AI> =x , PM :y , erit PB =a -κ,
+consequenter ob PM2 Ξ ΑΡ. ΡΒ (35. 327·
+
+, 377 Geom. ] ‚y2 =: ax -x2- Vel fitPC =x‚
+, AC =a , PM =y3 etit(5. 417 Geomf) MC²
+
+...1²02 =PM²‚ hoc est, a2— x² =y².
+S c H o 1. 1 o N I.
+
+378. Dicuntur aequationes atgebraicae, quae
+determinati sunt gradus , ita ut aequtztio sem-
+per eadem maneat in singulis punitis curvae.
+
+SCHOLION ΙΙ.
+
+379. Vulgo cum Cartefio (a) lineas alge-
+braicas Geomsstricas vocant ‚ quod eas tantum
+ad construenda problemata admittant, adeo-
+que in Geometriam recipiant. Aliter vero
+nobis videtur ‚ non refragantibus summis in
+re Geometrica arbitris Leibnitio atque New—
+
+tono(b).
+Dssr- 1 N 1 T10 XXIX.
+
+, 380. Curva transcendens cst, quae
+per aequationem algebraicam definiri
+
+nequit.
+S C H ο L 1 ο N.
+
+381. Curvae transcendentes ab aliis Car-
+tefii exemplo dicuntur messhmicae &⁸ ex Geo-
+metria ejiciuntur ‚ aliter sentientibus viris
+summis Leibnitio atque Nevvtono. Invenit
+quoque Leibnitius novum aquationum trans-
+cendentium genus ‚ quihus curvae transcenden-
+tes definiuntur (Τ quae funt gradus indefini-
+ti, hocest non constanter· eadem in omnibus
+curvae punffis (c ).
+
+DEFINITIO XXX.
+
+382. Curvae algebraicae ejusdem gene-
+
+(a) Lib.2. p. m. 17. δε seq.
+(b) Λᾶ. Erudit. Lips A. ¹708· p. 526·
+(c) Act. Erudit. Lips. A. 1684. p. 234. 235·
+
+343
+
+ris sunt , quarum aequationes ad ean-
+dem dimensionem affurgunt. Cum ve-
+ro sola aequatio, quae renam definit ,
+unius dimenfionis effe poffit , Curva
+primi generis vocatur , in qua :equatio
+ad duas dimenfiones affurgit5 fi ad tres,
+curva ecundt' generis ς fi ad quatuor ,
+
+curva tertii generis, &a
+
+E. gr. aequatio pro circulo est y2 :ax —x2 2
+vel etiama² —-· x² =y² (Δΐ. 377 ). Est ergo
+circulus curva primi generis, Similiter cur-
+va primi generis est, quae definitur per aequa.
+tionem ax ΞΥ. Sed curva secundi generis
+est , quam definit :equatio a²x =y35
+
+DEFINITIO XXXI„
+
+383. Familia curvarum vocatur
+plurium curvarum diverfi generis con-
+gerIes‚ quae omnem, per eandem aequa-
+tionem indeterminati gradus , sed pro
+diversitate generis diversimode expli—
+
+candi definiuntur.
+
+E.gt.f1t aequatio indeterminati gradus anst—¹2·
+εγω. Sim=2 ‚ erit ax=y². Sim: 3 2
+erit a²x=y³ ς fi m =4, etit a³x =y4 , ἃς,
+in infinitum. Omnes istae curvae dicuntur
+ejusdem familiae.
+
+SCHOLloN.
+
+384. AEquationes‚ per quas curvarum fa-
+miliae definiuntur ‚ cum transcendentibus non
+fimt confundendae. Licet enim intuitu totius
+fizmiliae sint gradus indeterminati 3 cujusli-
+bet tamen ex familia curvae respec'tu gradum
+determinatum habent ‚ cum aeqtmtz'ones trans-
+cendentes respefflu ejusdem curvae indefiniti
+gradus existant (5. 381 ),
+
+COROLLARIUM.
+385. Omnes adeo curvae a'xgcbmicae fas
+militm quandam componunt, cx innume-
+
+ris aliis constantem ‚ quntum una queclibet
+infinita genera comple&itur. Cum enim
+
+:equationes per quas cutvae dzfiniuntur ,
+ingre*
+

@@ -1,0 +1,114 @@
+496
+
+Eadem ratione inveniri potest differen-
+tiale quantitatis exponentialis cujuscunque
+
+alterius.
+
+PRoBL EMA CXII.
+266. Dafferentiale legarithmicum in-
+tegrare.
+
+Sit differentiae integrandum :cla-alx. ff
+
+Fiat
+x: Ι -i— y
+
+erit ,ίκ-Ξῖῐ-ιῑῆ
+8( dx Ξ dy
+
+xlxdx :l(1÷y)(1÷y)dy-
+Est vero l< 1 -r- y>=y-÷y² ψ {f-{f
+q.. ξ 7⁵ &c. in Infinitum (ξ. 2 5 ς J. Ergo
+l(1÷7>(1÷y)dy=(1÷y)dy(y-÷J²
+q< {y —‹ {s ψ ›}-y⁵ &c. in infinitum J
+Ξ ( multiplicatione astu flusta J
+ydy* ὲνὲαᾷνψὲνᾶν - ssy⁴dy÷lzv⁵dy &C-
+ΗΖ dy* {f dy ÷÷y⁴dy —ssfdy &c-
+h-cffdy-ffiy‘dy* 37³⁶& ÷f'÷)¹⁴d)·--÷¹2‚y⁵dy&c.
+Unde tandem habetur Jxlxdx
+:if Ῥ ’ὲῦβ “-· ziy'* Ῥ 31δᾶῥῇ ·a·}·5y⁶&c·
+1 1 1
+
+1.2.3.4y⁴4‘1'.].ffiy⁵
+
+ 
+
+Ι
+
+:I-Iy'Lffl -ῖῖ-ὲ· y³ --
+·-· -—-—-1 y⁶ &e in Infinitum : in qua
+
+1·4·5-6
+serie y=x —- 1.
+
+PROB LE M A CUII.
+
+267. Dff’rentialc exponentialem
+quantitatem involvens integrare.
+
+Sit differentialc integrandum xvdx.
+Fiat x=1÷y‚ crit x¹:(1÷y)¹÷7,
+adeoque xfdxzo ÷y)¹÷ydy. Fiat
+
+(14y)1÷y=1÷v 7
+
+erit (1 ÷y)l(1 ÷y)zl(1 Ῥ ἵ’)
+
+hocest‚(1÷y)(y-÷yz *1⁴ ÷y³-iy⁴÷÷y⁵
+
+&c. in infinitu1n)=21- ὲ v2 ψ {72³ — ὲ v*
+
+›1‹ ÷v⁵ ἅτε. in infinitum (ὃ. 25 ς J.
+
+ELEMENTA ANALYSEOS. PARS 11. seez. ΙΙΙ.
+
+seu per calculum praecedentem y
+›1- {s- — &st ψ ssyffl— 3¹3y⁵ &c in infi-
+nitum-——v—{w ›i‹ {ast—{ff νι- ᾇ v⁵ ἅτε.
+in infinitum (§. 266).
+Fiat porro
+v :y-x« ky'- ›f‹ my³ 4- κγ* -†-py5&c¹
+critv² Ξ vi< y² ψ 2ky³ †k²y⁴ -f- 2kmy⁵
+
+÷2my⁴† 2ny⁵
+a -ε ÷ y³ ÷3ky⁴÷3k2y⁵
+-i- 3my⁵
+21⁴: ἦ- y* ÷4ky
+v⁵= -ὲ- y
+(ὃ 95 part. 1). Unde
+v=y÷=ky²÷my³÷ny⁴ *Ppy ἦ(
+-÷v = —-y2— kf vifis-‘my
+-. my4 ... ny5
+ἢέν = *ἐφ’ *1⁴ ky* Μὶν
+·-1- 7779*ς
+-ss' = - ἐς] — ff
+›1‹ —}-v⁵= ᾧ ῖγς
+
+- y-··{y²÷ &st - τῑῑγ* 42¹3y⁵= ο
+Habemus ergo
+1- 1=o k--}=o m—k -1‹ -ζ- ψ-ὲῗέι
+
+ 
+
+——-- ... ψα-*μ---ῄ-
+
+ 
+
+ 
+
+7ῌᾸ77ῆ7ψᾸΜήΗὲΤὲ-ο-ῗ-ῑο
+p: ψκΙ--ξ-ψΙ-ῑδ-τῌ :fr-³ = -
+
+consequente}
+(14y31†1=1›1‹ v=1÷y÷y2 437³
+›1- ἔγ* 4 γὲ y⁵ ἃς. in infinitum.
+
+Qare differentiale ad integrandum
+propofitum (ι 4 y)1÷ydy z dy ψ ydy
+Ῥ y²dy >1⁴ {My ψ ÷y4 d) ψ 2÷y⁵ dy &c-
+in infinitum , adeoque s ( 1 ψ y ) Ἠ αἶψ’
+Ξ] 4- ÷y² ψ ÷y³ ψ ἐν* ›bf-'sy‘ 4³³³]ss &0
+
+R 0·-
+

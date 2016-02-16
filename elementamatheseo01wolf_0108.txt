@@ -1,0 +1,94 @@
+'80 ELEMENTA ARITHMETICAE.
+
+'5 &¹ quotus 6 ab eodem subtrahatur, relin-
+quitur quaefitum 24. Item: pretium 8 libra—
+rum est 24 thalerorum ‚ quantum erit libra-
+rum 9 ἓ Κ. Qia pretium 9 librarum una
+
+parte ottava excedit pretium 8 librarum ,
+pretium datum 24 dividatur per 8 Θ quo-
+τως eidem addatur ‚ summa 27 erit quaefitum.
+SCHOLION XVI.
+321. Nonnunquam compendiis pluribus
+una uti datur⁰ E. gr.
+
+Pret.1oo libraest 30 th. 4 gr. quant. 50 lib.
+
+50) Ζ· 2) '— 1
+Fac. 1 5 th. 2 gr.
+It .· Pret. 60 libr. est 80 th. quant. 2520 lib„
+
+60) 1 6 42
+480—- -Ξῑῂ
+7 7
+
+————
+
+Fac, 3360 thal.
+
+C A P U T VII.
+De Qtnntitatibus AEquidtfferentibus.
+
+DEFINITIO LXI.
+
+322. I in serie trium quantitatum
+eadem fuerit differentia primae
+& secundae, quae secundae ac tertiae3
+eas continue aequidtfferentes voco. Si
+vero in serie quatuor eadem fuerit dif-
+ferentia primae ὃς secundae , quae ter-
+tiae ac quartae, distretim aequidffirentes
+appello. Ita 3 , 6, 7 ὃς 10 sunt numeri
+discreti1n aequidifferentes ε 3, 6 , & 9
+numeri continue aequidifferentes.
+
+ScHoL1oN.
+
+3 2 3. Dicuntur hae quantitates vulgo Arith-
+metice proportionales , ( (9⁹ vere proportio-
+nales , de quibus ante ‚ Geometrice propor-
+tionales appellari solent , ut ab iis distin-
+guantur: ) sed minus proprie , nec ad men-
+tem veterum.
+
+CoRoLLARIUM I.
+
+324. Si termini semper crescunt, in
+
+continue aequidiffetentibus terminus secun-
+
+dus est aggregatum ex primo ὃς differentia, ο
+tertius summa ex secundo ὃς differe11tia;fi
+dec1e‚scunt primus est aggregatum ex se-
+cundo & differentia3 secundus aggregatum
+ex tertio & differentia(5.106).
+
+CoRoLLARnrM II.
+
+325. Similiter in discretim aequi {ifferenti-
+bus fi termini crescunt, secundus est aggre-
+gutum exprimo & differentia, quartus ex ,Ρ
+tertio δε differentia .· fi vero decrescunt , ’
+primus est aggregatum ex secundo & diffe-
+rentia ς tertius ex quarto ὃ( differentia.
+
+(510⁶)
+THEOREMA LXI.
+
+3 2 6. Si fuerint tres quantitates con-
+
+tinue aequidiffi’rentes , summa primi ἐν,
+
+tertii cst medii dupla.
+DEM0NsT RATI o.
+
+4. 7. 10 Si enim termini
+
+7 4 crescunt ‚ secundus
+-—--—— componitur ex pri-
+14=14 mo & differentia ,'
+tertius ex secundo&
+
+differentia ( 5. 324), adeoque ex pri-
+mo
+

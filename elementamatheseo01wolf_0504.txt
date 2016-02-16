@@ -1,0 +1,122 @@
+372
+
+COROLLARIUM.
+
+541.Q1‹1res1CE Ξῖ), EA=a, CQ
+
+mx ‚ Q == y , erit ab Ξ xy ἃ pro infi-
+nitis conchoidibus (1²2³ hm Ξ xn y η .
+
+S c Η 0 L 1 o N.
+542. AEquatio hac videtur eadem clam
+
+aequatione hyperbolae inter asymptotos (AVAS 6) ς Δ
+
+eadem tamen non eft , cum in prsscfhnte cszsbt
+‘equatio non exprimat relationem pmzft‘orum
+per rems parallelas ad eandem reftam ροβ-
+tione (latam ‚ quemadmodum in hyperbola-
+
+pizo B LE M A CCXXVI.
+
+543. Invenire aquationem ad quodli-
+bet punc'hme Conchojdjs > in qua CE :
+CQZQT : AB.
+
+Sit miz-m, (ΞΕ-τὲ, PM-zy, PE
+:x 9 eriz-(21):&÷x , (21³2 :b2 -ὶ-
+be-l- ,τὶ , CM² =y2 4- ὀὶ ·†- 2bx÷
+xz (§. 417. Ceam.) ἃ (§. 268.Geom.)
+CP: CM:CE ε (ΣΩΞ--ΕΡι QL Qia-
+re CE. EP: CQ. QM= CP'- : CM2(§.
+213.Arithm. )3 hoc est, ob CQ QM
+Ξ CE. EA per hypoth.
+
+(ΞΕ. EP ε CE. ΙΞΑΞΕΡζ : CM2
+hoc &MS-181),
+
+EP: EA: CP2 ς CM2
+
+x : a=b2÷2bx÷x2 .· y2÷b2 4- be ÷ x2
+ab2 ÷2abx÷ax2=y2 x÷b2x ÷2 bx2÷x³
+quae est aequatio defidcrata.
+
+ 
+
+ 
+
+DEFINITIO L.
+
+Tab 544. Diametro AB semicirculiAOB
+Ἦ] jungatur ad angulos festos reasta indefi-
+fig-63· nita BC. Ducatur recia ΑΗ fiatque
+AM=1H 2 vel in altero quadrante LC
+:AN2 erit punstum M , itemque L
+in curva AMOL , quam Cssoidem di-
+
+xit Diocles inventori
+
+ELEMENTA ANALYSEOS. PAas1.SecJ. ῙῙ.
+
+COROLLARIUM Ι.
+
+545. Ducantur rec‘kae PM ὅ( KI ad AB
+normales ; erunt eaedem inter se parallelae
+¹(J. 256. Geom.) &(§. 268. Geom.) AP:
+KB: AM: IH. Sed AM: IH (ς. 544).
+Ergo Ap: ΚΒ ( §- 149. Arithm. ) ‚ conse-
+queuter AK: ΡΒ ( §- 88. Arithm.) &PN
+
+:z IK. .
+
+ 
+
+ 
+
+i COR01.LAR1UM II.
+
+546. Eodem modo patet , Ciffoidem
+AMO semicirculum ΑΟΒ bifariam dividere.
+Est enim AO.- OF: AG : ΟΒ( 5. 268.
+Geom.). Sed AO ετ. OF ( 5. 544. ). Ergo AG
+= ΕΒ (5. 149. Arithm. ). Est itaqueffANO
+quadrans, . ·
+
+COROLLARIUM III.
+
+547. AK:K1= K1:KB(§.327.Geom.)‚
+hoc est, AK:PN= PN: AP(§. 545).
+Porro AK: (Kl) ΡΝ = AP: PM( 5. 268.
+Geom. ). Ergo ΡΝ .· AF: AP: PMQV. 167.
+Arithm. ). Sunt adeo AK , ΡΝ , AP &PM
+
+quatuor lineae continue proportionales &‚ fi
+fiat PN=v, AP==x‚ PM=y‚ x² t: vy²
+Eodem modo ostenditur effe AP, PN, ΑΚ,
+KL continue ptoportionales. .
+
+P ROB L E MA CCXXVH.
+
+548. Invenire aquationem 2 quae na-
+turam Ciffoidis AMOL declarat*
+
+Sit AB—-zz , AP--x ,. PM=y; erit
+AK=PB( §. 545.) Ξ a———x2KI2 ετ-
+PNz :ax—ff δε (§. 547. 124..)
+
+ι AK2 τ PN² ΞΑΡι :PM2
+‚1⁷- -—- 2ax-1—x2 :ax— ,τ’-Ξ x2 ε y2
+Ἔῖ-ζῖίῆἷῑ-Πεεακὸ -‹ x4
+β’-ἧΐῖἶζᾙι =x3 -
+
+hOC est > (a ”x)y2· :753
+
+Theorema. In Ciffoide Dioclis cubus abs-
+ciffie ΑΡ :equatur solido ex quadrato semior-
+dinatae PM in complementum diametri cir-
+
+f culi genitoris PB.
+C0R0L3
+
+ 
+

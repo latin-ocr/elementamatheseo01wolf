@@ -1,0 +1,111 @@
+αφ. III. DE RATIONE ET PROPORTIONE. 47
+
+SCHoLION. 11.
+
+153. Alii fignis anis utuntur. Commu-
+m'ter Ἀ. B .·.· C. D. scribere solent. Sed
+fecundum leges Artis charafteristicae signa
+scientifica non-scientificis proferri debent.
+Sunt autem signa scientifica, seu ad inve-
+niendum apta, que per characteres deriva-
+ti'vos exprimunt , quorum notiones ex aliis
+fimplicioribus componuntur.
+
+COROLLARIUM. ΠΙ.
+
+154. Cum rationes non discernantur nifi
+per exponentes (J. 141 )‚ in rationibus
+autem iisdem exponentes iidem sint (Β.
+149), rationes eaedern sunt etiam fimiles
+(5. 24), & contra.
+
+DEFINITIO XLIX.
+
+155. ‘Rationum duarum identitas
+
+vel similitudo dicitur Propertio. Et
+
+hinc quantitates eandem rationem ha-
+
+bentes dicuntur proportionales. E. gr.
+
+Si A: B: C: D‚dicunturA,B‚ C& D,
+
+seu 8, 4, 30 & 1 ς proportionales. ’
+D E F 1 Nl r 1 o L.
+
+156. Propertio continua est , fi
+consequens primae rationis idem cum
+antecedente secundae, ut fi 3: ότ-
+6: 12 :i Discreta vero, fi consequens
+primae diversus ab antecedente se-
+cundae, ut fi 3: 6=4: 8. In
+proportione continua terminus , qui
+consequentis primae δε antecedentis
+secundae vicem tuetur ‚ Medius pro-
+portionalis appellatur. Ita numerus
+6 est medius proportionalis inter 3
+δε 12. -
+
+S c Η o L 1 ο N.
+157. Gregorius a S. Vincentio (a) con-
+
+siderat quoque rationes, quas habent ratio· ,
+
+num exponentes, ’όν proportionalitatem vo-
+cat proportionem ‚ quae inter exponentes qua-
+tuor rationum intercedit, ut modos argu-
+
+(a) Qadraturae Circuli lib. 8. f. 865.
+
+mentandi in Geometria etiam a rationibus
+diffimilibus desumere liceat. Sed nos hac doc:
+mna non utemur.
+
+DEFINITIO LI.
+
+158. Rationum diversarum A: B
+ἃ F : G major dicitur A :B , fi fue-
+rit A : B> F: G‚· contra minor F:
+G‚fiF2G < A:B. Unde δε ratio-
+nem majorem ac minorem hoc modo
+designabimus. E. gr. 6 ad 3 majorem
+habet rationem quam ς ad 4 , nam
+6: 3(=2) > 5:4(2122->3sed 3 ad
+6 minorem habet, quam 4 ad 5, nam
+3-—} <1 ἐξ.
+
+DEFINITIO LII.
+
+159. Ratio ex duabus vel pluri-
+bus aliis composita dicitur , quam ha-
+bet fastum ex duarum vel plurium ra-
+tionum antecedentibus ad saecum ex
+earundem consequentibus. Ita 6 ad
+
+2 96 est* in ratione composita 2 ad 8
+
+& 3 ad 12. In specie duplicata νοπΙ
+catur , quae ex duabus5 trzssicata ,
+quae ex tribus,- quadruplicata, quae
+ex quatuor &a & in genere multi-
+plicata , quae ex pluribus rationibus sx-
+milibus componitur, multiplicata nem- ’
+pe uniuscujusque rationum fimiliulm
+Ita 48 ε 3 seu 16 : 1 est ratio duplica-
+ta ipsarum 4: 1 & 12: 3. Unde fi-
+mul intelligitur, quaenam ratio dicen-
+da fit ficbduplicata , sithtrlplicata , βώ-
+quadruplicata Sec. ὅ( in genere sicbmul-
+
+‚tiplicatae Nempe 4: 1 est ratio sub-
+
+duplicata ipfius 16 ἐ 1 vel 48 : 3.
+T H E o R E M A X Ι,
+
+160. Qaesimt ut numerus rationa-
+lis ad numerum rationalem , conamen—
+
+ficrabilia stom.
+Demons-
+

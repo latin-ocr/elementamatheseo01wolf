@@ -1,0 +1,128 @@
+VI..
+Fig.
+103·
+
+Tfflss
+V Ι.
+Fig.
+1207.
+
+148 ELEMENTA GEOMETRIAE. PARS· Ι.
+
+Pron LE M A XXXVII.
+341. Datis duabus redi'is ΟΝ &⁴ ΟΡ
+una cum angulo intercipiendo O rhom-
+haidem construere.
+R Ε s o L U 'r 1 o.
+1. Jungantur reetae ΟΝ & ΟΡ sub an-
+gulo dato (5. 208 )·
+2. Reliqua peragantur ut in probl. 35..
+ῖς. 339 >-
+DEMONSTRATIO.
+Eadem est, quae problematis praece-
+
+dentis.
+THEoREMA LXXVI.
+
+342. Si peripheria circuli dividatur
+
+in partes quotcunque ‘equales ducantur- Δ
+
+que sitbten ιε ΑΒ , BC , CD &a figura ,
+
+circulo inscripta regularis est.
+DEMoNsTRA Tro.
+
+Cum enim arcus AB 2 BC , CD &a
+smt aequales , per hypoth. etiam chordae
+eognomines aequales sunt ( 5. 289 )
+tumque anguli A 2 B , C δίς. aequali-
+bus arcubus BCDE , CDEA ‚ DEAB
+ἃς. infistant , ipfi quoque aequales sunt
+(5. 315). flgura Igitur circulo inscri-
+pta regularis est (§. 106 ). Q e. d.
+
+PROBL E E M A XXXVIII.
+343. Invenire st'tmmam omnium an-
+gulorum in quocunque polygono.
+R Ε s o L u T 1 o.
+⁴21. Multiplicentur 1800 per numerum
+laterum.
+2· A ρῑοάιιέὶο subtrahantur 360ο : re-
+siduum est summa quaefita.
+
+E, gr.-Pent.1g. 1 80 Hexag3 1⁷8 0
+
+ 
+
+5 6
+900 1080
+360 360
+
+ 
+
+——-—...
+
+i540 ἶ ,720
+
+DEMONSTRATIO.
+
+Quaelibet figura ex affumto in ea Talia*
+puncto F in tot triangula ΑΡΒ, BFC , w,
+CFD ὅτε. resolvitur , quot habet la- fig.
+tera AB,BC , CD &cr Si ergo 1800 1084
+per numerum laterummultiplices‚ pro· ³
+dit summa omnium angulorum in dic-
+tis triangulis ( §. 240). Sed anguli cir-
+ca pumstum F , qui non pertinent ad
+angulos polygoni 2 semper efficiunt 3 600
+(§. 159). Qodli ergo a laeto supra
+invento subtrahantur 360⁰ , summa an-
+gulorum polygoni relinquitur. Qad,
+
+Alitert ,
+
+Cum numerus triangulorum ABG, Τὼ· ³
+
+’ CAD ἃ DAE, in quae resolvitur figura VI·
+
+Fig.
+1 1 1 ο
+
+polygona per diagonales AC <Sc AD
+ex ρυηέὶοΑ duitas , a numero laterum
+AB, BC2CD5 DE‚EA constanter bina-
+rio differam fi 180⁰ multiplicentur per
+numerum laterum binario mulctatum ‚
+prodit summa omnium angulorum A 2
+
+B, C,D&E(§. 240). Qe.i.&d„
+E. gr. pro Pentag. 180 pro Hexag. 180
+
+3 4
+
+ 
+
+ 
+
+540 720
+
+Co oLLARl um Ι.
+344. Qodfi summa inventa per numen*
+rum laterum dividatum quotus est angulus-
+polygoni regularis (5106).
+
+Ssscnor1oN.
+
+34 5. En tibi tabulam, in qua summa ungu-3
+lorum in figuris rec‘lilineis quibuscunque (θ’
+quantitas unius in regularibus a trigono ufi-
+que ad*¹ dodecagonum exhibetur ( 9'. 343 ).
+Construit-ur columna secanda continua addi<-
+tione 180 ,·tertc'a vero numeris in volan-
+
+πα per numerum angulorum five& lar-2.
+enm!
+
+ 
+

@@ -1,0 +1,104 @@
+[46 ELEMENtA ARITHMETICAE.
+
+SertoL1‹)N L
+
+147. En genera θ’ species rationum ra-
+tionalium, quarum quidem nomina apud re-
+centiores rarius occurrunt (eorum enim loco
+terminis rationum minimis utuntur, c. gr.
+pro dupla 2: 1 , pro sesquialtera 3 : 2 ‚· ) non
+tamen ab eo ignorari possunt ‚ ‘lui scripta
+Mathematicorum evolvit. Ceterum jam Cla-
+vius annotavit (a) exponentes rationis ma-
+joris inaequalitatis Θ re , (θ’ nomine; ratio-
+nes vero minoris inaequalitatis re tantum, non
+autem nomine denominare. Facile vero in
+his nomen invenies, fi denominatorem expo-
+nentis dividas per numeratorem. E. gr. si
+exponens fuerit{; erit 8.- ςΞΙξ. Unde
+innotescit, rationem vocari subsupertripartien-
+tem quintas. De nominibus rationum irra-
+tionalium nemo hactenus cogitavit.
+
+ScHoLloN ΙΙ.
+
+148. Nomina rationum rationalium facile
+memoriae mandaturus, idemque perspcsturus
+speciebus recensitis plures non dari, confide-
+rare debet , quotum ex divisione termini ma-
+joris per minorem emergentem ‚ seu exponen-
+tem rationum majoris inaequalitatis ‚ vel effe
+10- Numerum integrum, vel mixtum, hunc
+vero vel 20. ex unitate Θ frusilone, cujus
+numerator eli unitas, vel 3⁰. ex unitate ⁴&
+ftaeffionessujus numerator est numerus, vel40.
+ex numero θ’] frusilone , cujus numerator est
+unicas , vel denique 50. ex numero (iv fraffio-
+ne , cujus numerator numerus est, confla-
+re. Habemus ergo in casu primo rationes
+multiplices & submultiplices ‚ insecundo su-
+perparticulares δε subsuperparticulares, in
+tertio superpartientes & subsuperpartien-
+teS‚ in quarto multiplices superparticulares
+& submultiplices subsuperparticulares, in
+quinto denique multiplices superpartientes &
+submultiplices substipetpartienteS. Rationes
+minoris inaequalitatis per >proprios quoque
+exponentes determinari possunt. Aut enim
+exponens 1⁰. cst fral‘t'io , cujus numerator
+
+(a) In Commeat· ad Elem. V. Euclidis. f.
+179· Tem. ι. Oper.
+
+unitas ; aut fracillo, cujus numerator uni-
+tate' major, tumque vel fimplum numera-
+toris, vel ejus multiplum denominatore mll-
+nus. Si simplum numeratoris denominato-
+re minus, ejus differentia a denominatore
+vel 20. unitas esi, vel 30. unitate major.
+Similiter fi multiplum numeratoris denomi-
+natore minus, differentia vel 4⁰. unitas
+cst, vel 50. unitate major. ln casu pri-
+mo ratio est submultiplex·, in secundo sub.
+superparticularis3 in tertio subsuperpartiens
+in quarto submultiplex subsuperparticula-
+ris5 in quinto submultiplex subsuperpar-
+ttens.
+
+DEFINITIO XLVHL
+
+149. Rationes eaedem sunt ‚ qua-
+rum antecedentes ad suos consequen-
+tes eodem modo referuntur , hoc
+est , quarum antecedentes per suos
+consequentes divifi dant exponentes
+aequales,
+
+Sc H01.1()N L
+
+150. Per hanc definitionem agnofii poffe
+etiam identitatem rationum irrationalium pa-
+tet exsoliol. def. 42. (5. 137).2
+
+COROLLARIUM Ι,
+
+151. Qoties ergo antecedens unius ra.
+tionis suum consequentem, vel quantam
+consequentis partem continet 3 toties ante-
+cedens alterius suum consequentem , vel
+tantam consequentis partem continet .· vel
+etiam quoties antecedens unius in conse-
+quente suo continetur, toties antecedens
+alterins continetur in suo consequente
+(§.131L
+
+COROLLARIUM II.
+152. Si fuerit A ad B ut C ad D;
+
+etit A: 13:C: D, seu in exemplo fin..
+galati 8: 4:30: ¹5- Et hoc modo iden-
+titatem rationum in posterum designabi-
+
+mus (ὗ. 141 ).
+scum
+

@@ -1,0 +1,101 @@
+cap. VLDE POTENTIIS ET RADICIBUS. 73
+
+TnEoREMA LVI.
+
+291. Si ex divisione numeri quadra-
+ti per quadratum , cubi per cubum ὠ*
+m genere potentiae cujuscunque per aliam
+fimilem , numerus integer prodit ,- etiam
+ex divisione radicis per radicem integer
+prodire debet.
+
+DEMONSTRATIO.
+
+Qotus ex divisione numeri quadra-
+ti per quadratum , cubi per cubum
+&in genere potentiae cujuscunque per
+aliam similem emergens est exponens
+rationis quadratorum , cuborum ‚ vel
+in genere potentiarum similium se rnu-
+tuo dividentium ( §. 136 ) , adeoque
+quadratum, cubus &in genere poten-
+tia exponentis rationis radicum ( §.
+290). Qare cum idem fit numerus
+rationalis integer, per hypoth. erit idem
+numerus rationalis integer quadratus ,
+cubus vel potentia alterius gradus: cu-
+jus quoniam radix itidem rationalis in-
+teger esse debet ( 5. 250 ) ς etiam ex-
+ponens radicum numerus rationalis in-
+teger erit„ Q e. d.
+
+CORoLLARIUM.
+
+292. Qare fi mdix radicem non me-
+titur ‚ nec quadratum quadratum, nec cu-
+
+bus cubum, nec potentia quaecunque aliam
+fimiiem metitur (35. 74) ‚consequenter frac-
+tio integro major ex istiusmodi quadratis ,
+cubis vel potentiis quibuscunque fimilibus
+composita ad numerum integrum irreduci-
+
+bilis (5223).
+THEOREMA LVII.
+
+293. Si numeri integri non datur ra.
+dix in integris , nec dabitur per fradi‘os,
+
+Waffia' Oper. Mathem. TQm. Ι.
+
+VDEMONS TRA TIO.
+
+Ponamus dari numerum faustum, qui
+fit radix. Ex ejus itaque iterata multi.
+plicatione per seipsum produci deber¹
+numerus datus (§. 2 50) Sed quoties
+cunque fraetum per seipsum muli *s litas ’
+produt‘tum semper est fraerus (§. 239 )
+isque in praesente casu ad integrum ir<
+reducibilis (§. 292 ). Qare cum nu-
+merus datus fit integer, ex hypoth. fracff
+tus ejus radix ess'e nequit. Q e. d.
+
+COROLLARIUM.
+
+294. Jam cnm numeri primi in se ex
+nullo alio numero in se aliquoties ducto
+oriantur (AY. 75 ) ·, ex numeris primis in se
+nulla perfecsta radix extrahi potest in inte-2
+
+gris ( 9‘. 256), adeoque nec per fractos da-
+ri potest(§· 293 ).
+
+HYPoTHESIS XIII.
+
+295. Interdum utile est , εκῐναέῗία-
+nem radicis tantum indicari, praeſsrtim
+fi perfidia haberi nequit. Est autern si-
+gnum radicale sequens ss : cui in vertice
+jungitur exponens dignitatis , st altio-
+ris gradus ‚ quam quadram. E. gr. xl„
+denotat radicem ex 23 <l §denotat
+radicem cubicam ex ς.
+
+SCHOLION.
+
+296. ln Geometria (φ’ Analysi demonstra-
+bitur ‚ tales radices ‚ qnae atta dari non ρο]ἰ
+fitnt ‚ esse ad unitatem ut refiam lineum ad
+restam alitam , consequenter numeros (ΑΥ. 10 )
+eosque irrationales ‚ cum ex hypothefi ra-
+tionales non fint. Dicuntur vulgo numeri
+surdi : quamvis olim lmjns vocis significatus
+,[Ζνὶἑῖἱον fuerit (b). Et olim , ΕΤ nunc in-
+terdum radicales nuncupari sueverunt.
+
+K ,CAPUT
+
+(t) Vid. Stifhlius in Arithm. integra lib. z
+c. 12· p. 134.
+

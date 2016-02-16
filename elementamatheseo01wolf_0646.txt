@@ -1,0 +1,110 @@
+446
+
+S c H 0 ι, 1 o N.
+
+ιη . Hanc qua iraturam hyperbolae3 pri-
+mus dedit serierum infinitarum inventor Ni-
+mbus Mercator (h). Cum autem seriem quae-
+[ivisset ρον diwfionem3 celeberrimi Goomctrae
+Leibnitius atque Nevvtonus (i) methodum
+hanc seriorum infinitarum promoverunt, bic
+quidem cas eliciens per radicum extramo-
+nes ‚ ille autem cx serie quadam praefuppofita.
+Utoeiusque exempla in sequentibus occurrunt.
+
+PROBLEMA XXXVIIL
+122. Qadrare curvam, in qua x²y
+
+÷y=h
+QonIam x‘y 4- γΞΙ
+
+ 
+
+ΪΞκΤ-ιῗι
+
+‘⁶¹ 2=ss
+yd.x:dx·—(->c—²—-f- 1)
+vel :dx:(1÷x2)
+
+Resolvatur 1 ι ( κζ ‚1⁴ 1 ) per divisio-
+nem in seriem infinitam (§.45.part.1.),
+reperietur
+
+1 1
+7:3*3- —xss— {⁸- &C-
+—2-2— v‘4-l-x—‘3 ,νε-’3 δεῖ.
+
+uarc
+ἓν =x-2dx-x-⁴dx »ιι x-6dx-x-2dv &cn
+
+adeoque
+sjdx=x-¹ 4- {x-³ —},·<-⁵ 4- &At-⁷ δίς.
+
+x 32⁵ 5x⁵ 3x⁷
+
+seriem (§. cit.) ‚ reperietur
+y=1 —x2 -†- x⁴-—-x⁵ †x⁸ &c.
+adeoque
+ydxza'x—x2 dsc÷x⁴dx-x⁶dx -1- x⁸dx &a
+Qvarcſjd‘mx—{ff -1- ἐμή-,ψ ÷ ἐν· ἃς.
+Qoniam series exprimit aream ‚
+(12) In Logarithmotechnia prop.17. p 3¹· δε seqq„
+
+(ι’) Vide Epistolae ipsorum apud Wallssum vol,
+ΣΠ. Operum Mathematic„
+
+ELEMENTA ANALYSEOS. mnu. semu.
+
+’ „s b consequenter sydx= «Μαι b) stix
+, „lonc -ξ- x2). Qoniamstlx «ρκ’-ωτι)
+
+quia convergit ‚ hoc est, termini con-
+tinuo fiunt minores , ut in casu fingu-
+lari tandem deveniatur ad particulam
+inaffignabilem , etiamfi terminorum nu-
+merus fit finitus . series autem prior ci- .
+tius convergit posteriorem ideo utenu
+dum est serie prima ‚ fi x fuerit satis
+magna, secun'da vero , fi satis parva.
+PROBLEMA XXXIX. ἴ
+123. Quadrare hyperbolum AMP. Τὼ»
+Quoniam in hyperbola ay² =abx ΗΞ·
+†bx²(§.499part. Ι .)3y =v (ax†x³) xla: ⁴
+d b ‚ adeoque ydx :dxxl (ax ÷x²)5la'=
+
+   
+
+est arca hyperbolae aequilaterae (ς. 507.
+part-1) hac data datur etiam area hy-
+perbolae scalenae. Qare ut elementum
+areae hyperbolae aequilaterae integrabile
+reddatur ‚ solvatur vs(ax *1* x2) in seriem
+infinitam (§. 98. pand), erit in theoreff
+mate generali
+
+m= Ln=2>P==ax
+Q=xz a= a-’¹ x
+ΖΞ- AQ=÷a¹22x¹²2.--
+·=}a·-¹·²x³²²= B
+”52² BQ: -·· ὲ. {ct-¹²²x3‘ ².a'>‘¹x
+
+Ξ *ᾖα-3η x5²2= C
+
+a-1x
+
+ 
+
+ 
+
+ 
+
+371 24
+Ξ-ξ-έέε 4—522x7 ιζ D
+’,ΖΜ DQ= - ἐ. ᾖξε a·‘⁵ 2 x⁷ 2 a-¹⁹c
+=— &iffi-2 ‘emm—E
+225-AE EQ: *⁷0- ·-· 2¹4³& a'⁷ 2x⁹³2 a-1x
+n . .
+=†²;.}.5⁸.33a-9,au=2 &c
+
+ 
+

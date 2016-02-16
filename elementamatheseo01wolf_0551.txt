@@ -1,0 +1,130 @@
+Tab.
+
+xm.
+
+⁴Iv'ig.
+12²2·
+
+Capstm. DE CONSTRUCTIONE AEQJJATJONUM.
+
+Qodli AR & AS jungantur ad an-
+gulos reetos ὃ( circa axem AR parame-
+tro a describatur Parabola ΑΜΙ-Ι, cir-
+ca AS vero parametro b parabola al-
+tera AMI secans priorem in M; erit
+AI> ’,ι-κ, PM :yz quem modum inve-
+nit‘Mnechmus ex conditione proble-
+matis absque calculo analytico facile
+eruendum, ὃ( nos ideo apponimus, quia
+inde enata est methodus construendi
+oequariones per duorum locorum com—
+binationem. Est enim vi parabolae· pri-
+mae y2 :ax δε νὶ secundae x2 τῷ, adeo-
+que a:y=:y: x&y: x=xz b.
+
+COROLLARIUM.
+
+625. Sit latus cubi=ae‚ latus cubi du-
+pli =y3 erit 2a³ εγ, seu ponendo za ΞΖ),
+aab :y³. Qaerendae igitur sunt inter latus
+cubi & ejus duplum duae mediae continue
+proportionales ‚ eritque earum prima latus
+cubi dupli. Et in genere pro tantuplicacio-
+
+ne cubi est ma³ =y³ ‚ adeoque inter a & ma
+quaerendae sunt duae mediae.
+
+SCHOLION.
+
+626. Coincidit adeo problema Deliacum
+de duplicando cubo , quod Deliis remedium
+contra pestem quaerentibus oraculum propo-
+suisse fertur , cum problemate de inveniendis
+duabus mediis continue proportionalibus (quod
+primus observavit Hipocrates Chius): unde
+Θ· ipsum problema Deliacum appellari folet.
+
+Celebre hoc problema jam olim inter Geome- ξ
+
+tras Graecos extitit, quos inter Plato, Heron
+Alexandrinus , Apollonius Pergaeus, Eratos-
+thenes ‚ Pappus Alexandrinus, Sporus, Me-
+nechmus, Architas Tarentinus, Philo Byzan-
+tius7 Philoponus, Diocles δε Nicomedes mo-
+
+dis diversis ab Eutocio (a) conservatis stl—
+verunt.
+
+(a) ln commmentariis in lib. 2. Archimedis de
+sphera δε cylindro.
+
+W’offii Oper. Mathem. T01n‚I.
+
+409
+
+PRoBLrMA CCI vl.
+
+627. Reffam ΑΒ utcunque divishm Τὼ,
+in C ulterius dividerem D, ita ut fit XL
+CD: DB = AC2: CD2. fig.
+
+Sit AC ΞΑ, CB τό, cD εχ, erit 106³
+DB :bss-—y , consequenter per condi-
+tionem problematis
+
+y: b-—a y t: a2: y²
+Ut nova indeterminata introducatur,
+
+cum ob y³=a2bssa2y problema soli»
+dum effe facile intelligatur, fiat
+
+d2y=y2 x
+
+ 
+
+ 
+
+erit I. ax=y2 ὃς hinc
+y:b-—y=a²: ax
+:a : x
+
+ΙΙ. xy :ab—*ay
+Porro ob y: b-—y=a:x
+y2: by—-y²=a: x (S. 124)
+axeby—yzza: x
+x: by—f-yzzl: x (§. cit.)
+
+ 
+
+ 
+
+III. κζ :by -—y2
+axzy2, add.
+iv μ ›lasz—b}
+axzf add
+V. Fssffixzffffl y'ss-
+
+ 
+
+ 
+
+Dem'que ob ax=y2 (I.)
+δέ -x2zby—y2(111.)subc.
+
+**.—.-——-
+
+VI. Zq2=2y2½by
+
+³ Habemus adeo aequationcs locales
+
+I. y2—- ax=0 ad parabolam.
+ΙΙ. xy ›i-ay--abzo ad hyperbo-
+lam intra asymptotos0
+ΙΙΙ. y2 -i-x2--byzo ad circulum.
+IV. x2÷ax-by:o ad parabolam.
+
+V. y2—-—-x2-†- by—2ax=0 ad hyper-
+
+bolam aequilateram.
+VI. yz -Ι- ὲκῑψὲὲχ-ὲὲικϊ-ἷο ad elfiga]
+

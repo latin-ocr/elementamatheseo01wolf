@@ -1,0 +1,137 @@
+i
+
+J
+
+οἴμῃ. GEOMETRIA SUBLIMIOR.
+
+Similiter >ob parallelas AI δι CR, an-
+gulus AIE=CDE δε ob parallelas DE
+δε Rm, CDE=sRm (§. 233 Geom.).
+,Ergo IAE:R (§. 87 Arithm.)‚ ³couse-
+quenter (§. 267 Geom.)
+AE: IE=mR:sm
+¹ cy ἣ cc ι ccy.
+⁶ ·T*'Z '‘z-<T
+Qare sm. qmssccyy: ει. Est ve-
+ro etiam A12 =c2 y2: εἰ. Ergo sm. qm
+ᾖΑΡ.
+Theorema. Si qm cum asymptoto CF
+parallela ducatut,1·e<stangulum ex qm in Cq
+:equatur potenti-‘2 hyperbolae.
+
+COROLLARIUM Ι.
+488. Qnre fx fiat C1=A1=a, Cq :x
+ὃς qm ==y3 erit αἶ :xyz quae est sequatio na-
+turam hypetbolae intra asymptotos declarans.
+CoRoLLAthJM ΙΙ.
+489. Datis ergo asymptotis posltione &
+'hitere potentiae hyperbolae Cl vel AI , fi in
+una asymptotorum CG {lunantur abscissae
+quotcunque, invenientur totidem semiordi-
+natae & per eas puneh quotlibet hyperbolae
+determinabuntur , quaerendo ad abscissas &
+latus potentiae GI tertia proportionales (J.
+271 Geom.). Nimirum smt AB & AC asymp.
+toti, AD =D1=a latus potentiae hyperbo-
+lae. Sit ΑΡ =x. Ducatur FG parallela ipfi
+AC & ΡΝ parallela ipfi 1313 erit ΡΝ =D1
+(5. 257 Geom.) =a. Ducatur AN secans
+DI iu H: erit (5268 Geom.)
+AP: ΡΝ ΞΑΒε DH
+x: a = a :DH
+adeoque -DH :affl x. Qare fi fiat PM
+(εγ) =DH.· erit y =a².· x ‚ consequenter
+{x παῖ), adeoque punQum M in hyperbola
+§.488 . ’
+COROLLAR1UM HL '
+
+Tab.
+
+· X111.
+fig.
+
+-ι 23.
+
+Τὼ. 490. Qodfi absciffae non computentur
+
+IV· a centro C, sed ab alio quovis punsto L,
+
+[ἴω 1. dicaturque CL =b3 etit Cq :b *I* x, conse-
+quentct ae2 :by 4 xy-
+
+Wol ti Oper. „Mathem Tom. I.
+
+(ἔα ÷ x)b: (ax ÷ x2): &a -ξ- x),
+
+361
+
+PROBLEMA CVIII.
+
+491. Determinare in hyperbola fi‘b· T2b·
+tangentem PT (y fiaenarmtem PR. 5¹¹2
+Sit parametenzb, axis transveisus· ς’ ’
+=a, A-P:x‚1>M=y, RMzz, ΕΑΖ-ῃ,
+erit PR-:t—x, PM 2’Ξ--εβ--ιῑ -ξ- 2tx-x2‚
+Qare (§. 417 Ceam).
+,εὶ-,ὓ ÷ 2 zx——x2sz4-bx2: a
+
+az ι--αιῑ-ξ- 2 atx———ax2 =abx -i- bxs
+
+--.-—.——..———-———— ——w-
+
+bx² -f- ax2 ÷ abx 4- at²=0
+
+ 
+
+ 
+
+—2atx——az2
+——-—-————·-—--——-——b4a
+ι ab ·-2t1t αεὶ ·-a1t.² αὓῑὲαζίή
+x ÷ b4a'x4 1245] ÷a *Ο
+
+Fiat jam ob rationes supra (§· 410)
+allatas x—v=0.· erit x 2—2vx ÷ v2='0,
+ἃ· quia haec aequatio cadem cum praecc-
+dente ‚ habetur
+
+ala—2at
+———————-= -2v
+b -I- a
+------ψ-·--[14Η
+ab--zast— —2b0—2av
+
+ 
+
+ 
+
+ 
+
+ 
+
+ab 4- {bv —b—2av: 2at
+
+——————-—-—— ———·—·--2cz
+
+÷b÷3÷v=t
+
+hoc est, quia κεπτ] ,
+ξῶ-ὶ- bx: a -ἑ- ,κ’ΞιΞῙῖΑ.
+Ergo PR-——ff ÷ bx: a -ἱ- x———x
+ε--ὲὸ -}-hx: a:(-}1 ·†· x)b.· a.
+Theorcma ln hyperbola est ut axis trane.
+
+versus ad parametrum , ita aggregatum ex se-
+miaxe transverso δε abscissa ad subnormalem.
+
+Porro (§· 409)
+
+ 
+
+PR ε ΡΜ = ΡΜ :PT
+{⁴²5²- &uffae—f& =5l(bx÷h{-²) PT
+
+Reperitur ergo 1³11:be -4- bx²):
+
+Z z Theo· ,
+

@@ -1,0 +1,125 @@
+ 
+
+fssapJII. DE USU ALGEBRAE IN GEOMETRIA.
+PRoBLrMA CXXXL ,ψ
+
+286. Datis duobus quadratis inveni-
+re duo alia reciproca ‚ quorum dffrentia
+aequatur quadrato dato.
+
+Sint quadrata data ff, gg, hh, quaefita
+
+yy & hh ψῃ. Erit per conditionem pro-
+blematis
+
+yy=ff=gg= hh ÷yy
+
+y* ÷ {big :ffggi h*
+
+4 4
+
+E-TsshlfssLfflgg &Q
+y=ff <—-;- hh —1‹ ss (ffgg -ι- μ’»
+
+construebio. Eadem fere, quae problema-
+tis praecedentis.
+
+ 
+
+ 
+
+PROBLEMA CXXXII.
+
+Tab.11. v 287. Datis tribus lateribus trianguli
+Rg.2 1· cujuscunque HL , LI& IH ‚ invenire al-
+”· ¹· titudinem ML.
+
+Sit HL=c‚ Ll=d, H1=g‚ HM=z,
+
+erit ‘MI=g--z. Qare (9⁶. 417 Geam.)
+bls invento valore ipsius MLz
+
+——-——————-——,—-,--
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cc -I-‹gg-——dd :L
+„ 2g
+
+ 
+
+ 
+
+Geometrica constructio non defideratur,
+utpote ex elementis manifesta sed tantum
+regula arithmetica.
+
+PVdfixi Oper. Mathem. Tom. I.
+
+313
+
+COROLLARIUM.
+
+288. Vi aequationis tertiae dd —cc :gg ·-
+zgz. Sedgg --2g<. est differentia inter 4< ὃς
+gg ·- 2gz, -1- z<- Ergo in omni triangulo dif-
+ferentia quadratorum crurum HL δέ Ll aequa-
+
+tur differentiae quadratorum segmentorum
+bafis HM δε ΜΙ.
+
+PROBLEMA CXXXIII.
+
+289. Triangulo dato HLI aequale ἀ Tabfl,
+alteri dato NOP fimiie construere. sign.
+SitHI :fi LM=e2NP=m‚ Q) mh&
+:z n , bafis trianguli quaefiti :y ‚ al· 20
+titudo Ξ z : erit
+(9‘. 396 Geom.) (Β. 392 Geom..)
+
+ 
+
+ 
+
+ 
+
+⁷⁷²² n=y=z fe=zy
+maz· Ξ ny -Ῑῖ y :zffl
+'m'ft'UEZZ''
+ny: mfi :y
+'‘Zyssz'ffl—
+-ῖςῑηῇῑ
+
+y Ξ ss (mfez n)
+
+Construffiio. Producatur altitudo OQrians
+guli NOP in M ‚ donec altitudini alterius
+LM aequalis fiat. Producuntur itidem crura
+trianguli in R& S, ὅ( per M agatur ipsi NP
+parallela .- erit Rs = me: n. Qlaeratur inter
+Rs 1& Si=f media proportionalis TS :¹-
+Vlmfem) ‚ super qua ob angulos N & P da·-
+tos triangulum TSV construi potest. (AY.
+264 Geom. ).
+
+Aliter.
+n.·m=z:y fh=zy ι
+fiatn:m=e:r ftz=y:e(§.299
+
+Arithm.)
+erit z :y Ξ e r (ς. 167, Arithm.)
+Ergof: y :y : r (§. 194 Ar'ithm.)
+
+Est ergoy media proportionalis int-T f&
+
+r ‚ seu interf& em: n , ut ante.
+R r PRO-2
+

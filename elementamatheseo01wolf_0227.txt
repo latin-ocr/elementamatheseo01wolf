@@ -1,0 +1,114 @@
+αφ. VJ. DE FIGURARUM DIMENSIONE ET DIVISIONE. 165
+
+-DEMO‘NSTRATIQ
+Cum altitudines ΑΕ δε ae fint ad ba-
+ses CD& cd perpendiculares( §. 227 >3
+Erunt ,E ἃ e anguli recti ( §. 78) adeo-
+que aequales (§. 145 ). Et quia paralle-
+logrammum ABDC ipfi abdc3 triangu-
+lum CAD ipfi cad fimilc2per hypoth. erit
+Cz=c (ἓ. 17 5). QareACzAEz-aoeae
+ᾧ. 267). Est vero etiam AC ι CD=
+ac: cd(§· 175 >— Ergo AE: CD=ae2
+cd (§. 196 Arithm.) Qud eratunum.
+Qoniam E = e ἃς Czc, per de-
+monstr. erit AC: CE=ac .· ce ( §. 267).
+Est vero etiam AC : CD———ac : cd ( §-
+175 ). Ergo CE: CD=ce.- cd( §. 196
+Arithm.);. adeoque ED : CEzea': ce
+(ἓ. 193 Arithm. ). Qe. d.
+S c H o 1. 1 o N.
+
+397. Patet quoque a priori. Qoniam enim
+ABDC ω abde ΕΤ Δ ACD ω Δ acd‚per hy-
+poth. perpendicula AB& ae pariterque seg-
+menta basium ΟΕ &⁶ ce, itidemque ΕΙ) &⁴ ecl
+eodem modo determinantur (5. 1 ι 9. 216 ) ,
+
+, adeoquefimilia sunt ( 5. 120). Cum adeo ea
+
+eadem fint , per quac a se invicem difierni de-
+bebant (ᾗ. ²4 Arithm.) ‚ lineae autem rcft'ae
+utpote similes < 5. ¹7 ) non aliter nisi ratione
+dzfcerni poffint ( 5. 132 Arithm.) 3 tam per-
+pendicula ‚ quam segmenta bafinm ad latera
+homologa figurarum eandem rationem habere
+debent (5. 149. Aridum). Eodem modo ge-
+neraliter pater, restas quascunque in figuris
+similibus eodem modo determinatas tum inter
+se ‚ tum ad latera homologa eandem rationtm
+habere.
+CoRoLLARIUM Ι.
+
+398. Qoniam parallelogramma ὃς trian-
+gula sunt in ratione cmnpolita altitudinum ὃ(
+
+basium (ᾗ. 388 )‚ similia vero hibent bases
+altitudinibus proportionales (ᾗ. 396)‚· igitur
+parallelogramma &triangula similia, habent
+rationem duplicatam homologorum laterum
+(Ι. 159 Ariciam). Et eodem modo patet ²
+
+¹ quod etiam fint in ratione duplicata altitudi-
+
+num ac segmentotum base053 immo linea„
+rum eodem modo utlibet determinatarum
+(5. 397)-
+CoRoLLARIUM 11.
+
+399. Sunt ergo ut quadrata laterum altitu.;
+diuum & segmentorum basium homologo-
+rum ‚ necnon linearum eodem modo utlibet
+determinatarum (5. 374).
+
+PROBLEMA LV.
+
+400. Invenire aream polygoni irregtt- 51³ Ξῖ
+fig.
+im.
+1. Resolvatur per diagonales AD & AC ¹¹· 1⁰
+
+laris ac trapezii.
+R E s o L υ T 1 o.
+
+in triangula.
+2. Inveniantur areae fingul orum trian-
+
+gulorum (.§· 392) &
+3. Addantur. Erit summa area quaefita
+
+( 5. 86 Arithm.).
+E.gr.}Ap :43' {AD Ξ 43' {AC :42¹
+
+ 
+
+EF:35 GC: 45 BH: 30
+215 215 AABCnmo
+129 172
+
+——m———-
+
+AAED, 1505 ADAQ 1935
+AAED,1505
+AAssc, 12 60
+
+Area polygoni irreg. 470001
+Qodfi {AD multiplicetur per suma
+mam altitudinum EF -l- GC , vel intc-
+gra AD per {- (EF -Ι- GC ); prodibit
+arca trapezii AEDC.
+E. gr. EF=35 {AD 2:43
+GC=45 EF÷GC3-: 80
+
+AEAEQQ ,ΑΕΒό-Ξ- 3440
+
+ 
+
+(EF†GC) Ξ 40
+--- . Ali—‘86
+AEDC Ξ 3440
+
+ 
+
+Simi-
+

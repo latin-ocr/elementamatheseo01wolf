@@ -1,0 +1,117 @@
+Tab.
+IV.
+
+Fig- 47·
+
+352 ELEMENTA ANALYSEOS. PARS 1. Scan.
+
+DC2: CB2=PM2: ΑΡ. ΡΒ
+
+cc: rr=z2—-2cz ÷c2: r2—v2
+
+——.——--————-—.—-.-—-—-.—-—-
+
+——-———-—.-—.——.———-.—-
+
+2cz-z2: c2=v2 .r2 (§. 193 Arithm. )
+· 2cz-—z²: v²=2c² :rz (§. 173 Arithm.)
+DR. RE: RM² :DC21 ·AC².
+
+Theorema. Re&angulu1n ex segmentis axis
+conjug1ti est ad quadr1tu1n semior dinatae sp.
+slus ut quadratum axis conjugati ·1d quadn
+tum axis majoris.
+
+CoRoLLARIUMl.
+
+438. Habent ergo ad axem conjugatum
+coordinatae eandem rel1tionem,quae inter
+coordinatas ad axem majorem intercedit.
+
+COROLLARIUM II.
+
+439. Qoniam v* —« ⁷⁸—c—z—-c2 rz—zffi· 437)3
+
+fi fiat 2r² ιε’-ρ, erit v 2—-pz— pz².· ιε.
+Est adeo p parameter axis conjugati (5. 420).
+Qate parametet axis conjugati tertia pro-
+portionalis ad zc δε zr, {eu ad axem conjuga-
+tum & axem majorem.
+
+PRoB LEM A CLXXXIX.
+
+440. Determinaresitbtangentem PT
+ὠ· fitbnormalem PR in Ellipfi.
+
+Eadem prorsus methodo utendum ,
+quain parabola ufi sumus, Nimirum
+fit parameter=b‚ axis major--—-a> ΑΡ
+εκ, Psz, MR=t‚ RA=z3 crit
+PR=z—x‚ consequenter ΡΜῑ---ειῑ--ζΖ
+-1- 2zx-x2. Est vero etiam PM2sz*
+
+——-——- —————-—....—-
+
+———-———————-————n -.-———-·—
+
+ 
+
+ 
+
+Cum ex superioribus constet, aequa-
+tionem hanc duas habere debere radi-
+ces aequales,· ponatur ut supra (§.410)
+x—-v=O> crit x2—2vx ÷ v²=o ,
+aequatio eadem cum anteriore, conse-
+quenter
+
+(ab—Zaz): (a—b)=-2v
+
+—m—-———
+——-———-——————
+
+{b -i- v--bv .· a=z
+
+Est vero v-:x‚ per hypoth. Quare
+fi x pro v substituatur, prodibitz——b
+—i- x—bx: a=AR. Ergo PR=-b
+÷ x—bx. a—xz-b—bx· a—(-7¹3ab
+—-—bx): a, quae cxpreffio hanc suppedi-
+tat analogiam:
+
+a: b==—}a——x: PR
+Theorema. In ellipfi est ut axis primus
+
+ad patametrum ita distantia semiotdinatae a
+centro ad filbnormalem
+
+Porro PR. PM: PM: PT (§-409)·
+
+-75ab--bx — ἄν -
+a - y—y ἠαΙν-Ιυι·
+
+ 
+
+ 
+
+Est vero ay²=abx——bx² (§. 420).
+Ergo PT—- (abx——b κεῖ) (ῑιῑῶ-έκ>;-·
+(ax——x2): (ῑΛ-κ.) Habemus adeo
+
+{a—-xt xza——x: PT
+PC: AP-:PBt PT
+Ergo PB. AP:CP. PT
+
+Theorema. In ellipfi reffangulum ex seg-
+mentis axis aequatur tetstangulo ex distantia
+semiordinatae a centro in subtangentem.
+
+Tandem AT :PT—AP-‘t (ax-x2):
+
+({a-——x)—x=(ax——-x²——{ax 4- x2):
+
+(ἐα--ήῷΞΞ-ακτ (ὲ a—x ). Qare
+{a—-x : {azx : AT
+PC .- AC zAP: AT
+Theo⁴⁴
+

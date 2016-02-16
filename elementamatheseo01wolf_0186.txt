@@ -1,0 +1,130 @@
+{132
+
+3. Super harum partium intervallo
+construatur triangulum aequilaterum
+CED ( §. 198 ).
+
+’3. Ex E in a transferatur reeta AB, iti-
+demque ex E in b.
+
+24. Ducatur reeta ab : ducantur itidem
+aliae ex E in 1. 2. 3. ἃς.
+
+Dico effe athB‚ a 1 =} AB, a2
+
+z} ΑΒ &c-
+
+.,, DEMONSTRATIO.
+Qoniam Ea=E b& EC=ED,
+
+per construcsff. erit E a .· E b :E C: ED.
+
+(§. 168 Arithm. ) Qare cum angu-
+
+lus E utrique triangulo E CD & E ab
+
+com-munis fit z erit EC ε CD=E a:
+
+ab &o=x(§. 183. ). Sed EC=CD
+
+per tonstrua. Ego E a :AB Ξ a b
+
+(5. 151. Arithm.). Qod erat unum.
+Qoniam οἰκ per demonstrent a l
+
+parallela ipsi C ι (§. 255), conse-
+
+quenter EC:C1=Ea: al (5268),
+
+hoc est , ob E C=CD , per construe?
+
+&Ea-:ab ,per demonstr. CD :C Ι
+:ab .· a 1 (5168 Arithm.). Sed CI
+=÷ CD, per construe? Ergo a 1
+=}ab (ς. ΙςΙ Arithm.). Qod erat
+alterum.
+
+Eodem modo ostenditur ‚ effe a 2
+ssz} AB 2 consequenter 1 2 ‘=÷A Β,
+a& ita porro„
+
+CoRoLLARIUM.
+
+Τὼ, 275. Qodsi ergo CD fuerit- utcunque di-
+
+lv, visa in 1 ὃς 2 3 eodem modo resta a b seca-
+?1‘374, bitur in eadem ratione. Est nempe CD : C 1
+Ξ ab: a 1·‚CD: cz: ab: a 2 &C.(§.274).
+
+SenotroN.
+
+276'. Corollaric' hujus usus amplissimus est
+rin Architeetma tam civili, quam militari,
+praesertim ubi Ichnographiae vel amplianda,
+vel gonaahendae„
+
+A.
+
+ELEMENTA GEOMETRIAE.PARsI.
+
+fl}
+l
+
+PRoBLEMA XXIV.
+277. scalam Geometricam cons? trab. ξ
+
+truere. IV.
+
+RsssoLUT10, Fi375·
+
+1 . Ducatur recta A F ὅ( in eam transfe-
+rantur partes 10 aequalesB1‚ 12223,
+3 4 &c. intervallum vero 10 partium
+AB totidem exB in E, ex Ein F &c-
+quotics libuerit..
+
+2. In A excitetur perpendicularis A C
+arbitraria? longitudinis ‚ in partes 10
+aequales divisa (AY. 249 ),
+
+3. Per puntfta divisionum Ι. 2. 3. 4. ᾗ
+&c. agantur parallelae cum A F
+ffl· 25 8 )·
+
+4. In ultimam CD transferantur partes
+10 partibus ipsius AB aequales.
+
+5. Tandem punita 10 ἃ 9, 9& 8 , 8
+& 7 δίε. lineis transverfis connectan-
+tur (§. 121 ).
+
+Dico > fi AB 'fuerit decempeda, fore Br,
+
+1 2 ‚ 23, 3 4 δίε. pedes, 9 9 digi-
+
+tum unum , 8 8 digitos duos, 7 7tres 2
+
+6 6 quatuor &c.
+DEMONsT-RATIO.
+B21=12=2 3 &c.= -ζ-δΑΒ 2
+
+per construe? Sed pes est decempedae
+
+pars decima < 5. 25). Ergo cum AB fit
+
+decempeda 2 per hypoth. erunt B 1,
+
+1 2, 23 ἃς. pedes. Quod erat unum„
+
+Porro quia 9 9 est parallela ipfi A 9,
+per construH. C 9 : C Ass9 9: A 9,
+(5. 268). Sed (29:5¹1- CA ‚ per
+construam Erg09 9:3¹3 A 9 (92151
+Arithm ). Qare cum A 9 fit pes , per
+demonstr. erit 9 9 digitus (5, 25 ). Eo-
+dem modo ostenditur effe 8 8 duos ,
+7 7 tres &c.. digitos. Qod erat alP
+terum-2
+
+S Ω H 05* .
+

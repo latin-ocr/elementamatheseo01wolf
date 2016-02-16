@@ -1,0 +1,110 @@
+Cap. VI. DE FIGURARUM DIMENSIONE ET DIVISIONE. 163
+
+Nam Parall. ACDB :⁸ Parall.ECDF (523 84),
+sed Δ ACD Ξ ὲ Parall. ACDB & Δ FCD Ξ
+ὲ Parall. ECDF (Ι. 337). Ergo Δ ACD:
+Δ FCD (J. 94 Arith.)
+CoRoLLARIUM III.
+386 Quodcunque adeo triangulum CFD
+est dimidium parallelogrammi ACDB su-
+ξιῖἷωῗῑῖἷῗζῗ [ἔὲιῑιῖῗῖἰῗῶἓξῖ ρῗῖἷι iiia? “⁵133ssss
+Acron> ACD (5. 337). Sed Δ ACD
+Ξ ³2· l‘arall. ACDB (5. 355). Ergo Δ CFD
+z} Parall. ACDB (5. 87 Arithm. ).
+PROBL EM A LIII.
+
+387· Invenire aream rhombi ὠ
+rhomboidir ſsu parallelogrammi obli-
+quanguli.
+
+R E s o L U T 1 0.
+Tab. 1. In CD pro bafi assumtam demit-
+
+Tab.
+v1 1.
+fig.
+
+Ι 2 1 ο
+
+ΣΠ· tatur perpendiculum ΑΕ (§. 216),
+¹⁸22 quae erit altitudo parallelogrammi
+
+2. iviultziiilici‘tur bafis per altitudinem.
+
+Ε. gr. Sit CD :t 405'6‘'
+ΑξΞ :2 2 3 4
+
+ 
+
+1824
+1368
+912
+
+Erit Area: 1 006 7'0 4ss
+DEMONSTRATIQ
+Parallelogrammum obliquangulum
+aequatur rectangulo super eadem bati
+CD & ejusdem altitudinis (ΣΕ (§. 3 84).
+Sed arca recianguli aequatur facto ex
+
+basi in altitudinem (§. 375 ἔγ 229 )·
+Ergo eidem aequalis est area parallelo-
+
+grammi obliquanguli ( §. 87 Arithm.).
+
+Q. d.
+
+CoaoLLA RNJM Ι.
+388. Parallelogramma sunt in ratione
+eompofita altitudinum δε basmm (5. 159
+
+Arithm. )‚ adeoque δε triangula eorum di-
+midia (ᾗ. 386) in eadem existunt (5. 181
+Arithm. ). ·
+C0R0LLAR1UM II.
+389. Ergo fi altitudines sunt aequales.
+basiani,- fi bases sunt aequales Ι, altitudinum
+rationem habent (5. 181 Arithm.).
+CoRoLLARIUM 111.
+3 90 parallelogramma aequalia bases & al«-
+titudines reciprocant (ᾗ. 299 Aritbm.).
+
+THEORE MA LXXX.
+
+391. Triangulum est aequale paralle- ,rab
+logrammo super eadem basi fid dimidiae VH ’
+altitudinis ‚ itemque parallelogramma Ῑ-ῑέ
+super dimidia basi (θ’ ejuſslem altitudi- 123.
+nis·
+
+DEMoNs TRATIO.
+
+Sit AEFB parallelogrammum rec-
+tangulum , cum obliquangulo cuicun-
+que super eadem basi AB δε intra eass
+dem basi parallelas AB & EF existen-
+ti aequale fit ( §. 383) atque adeo ei-
+dem salva quantitate substitui poffit ( §.
+
+15 Arithm. ). Jam
+
+1. Si triangulum ADC fuerit rec-
+tangulum , assumta AD pro bafi, erit
+CD altitudffi sumta vero DC pro basi,
+erit AD altitudo ( §. 228). Jam cum
+altitudo parallelogrammi redtanguli ΑΕ
+( §. 2 29) fit altitudini dimidiae trianguli
+CG aequalis per hypoth. <Sc angulus ad
+D fit rectus (§. 91) adeoque ob EF &
+
+AB parallelas (§. 102) is ad G {imili-
+ter rectus (§. 233), ac praeterea angu-
+lus ad E itidem rectus (§. 100), δε
+hinc G=E (§. 145 ); fint vero etiam
+verticales ad H aequales (§. 156) :
+erit ACGH-:AEHA (§. 252), con·-
+sequenter EGDA-——A ACD (§. 88
+
+Arithm.). ,Q c. d.
+X 2 11· Si
+

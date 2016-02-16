@@ -1,0 +1,121 @@
+Tab.11.
+fig. 24.
+
+(με
+
+3. Similiter collineatio fiat in punctum
+A ducaturque c a.
+
+[4. Investigetur longitudo rectarum cA
+ὃς cB( §. 126) δε
+
+1ς ‚Ex mensura modica transferantur li-
+neae istis proportionales ex c ina δε b.
+
+6. Tandem in eadem mensura invenia-
+tur longitudo ipfius a b(§. 126).
+
+Iidem numeri indicabunt distantiam
+
+ΑΓΒ in mensura majore, qua in campo
+
+u us es.
+
+DtmoNs-rmmo.
+
+Coincidit cum proxime praecedente.
+S c H o 1. 1 0 N Ι.
+
+19 5. Qodfi angustia spatii non permit-
+tit ‚ ut integrae AC& BC in a ἴθ’ b transfe-
+
+rantur ; poterunt a C φ’ b Cfieri ἐ, {² ἑ
+
+&c- ipsarum AC& BC: quo in casu eodem
+modo ut in resolutione secunda demonstrabi-
+tur, effe ab Σεὲ, vel ξ, vel {reffe- ip-
+fius AB.
+
+S c H o L 1 o N 11.
+
+196. Notent tyrones artificium ‚ quo de-
+monstrationes Geometricas non modo ad facil-
+limam intelligentiam reducere , sed (θ’ proprio
+Marte invenire poffunt. Nimirum quicquid
+vel ex construetioneproblematis aut hypothe-
+[ἱ theorematis ‚ vel ex conspeetu figurae utram-
+que repraesentantis ‚ distinete cognoscitur, per
+charafteres distincte exprimatur , veluti in de-
+monstratione prima praesentis ‚ quod x Ξ y
+aC ,.·“..· AC &⁹ bC :BG Qu fatto dis-
+piciatur , cujusnam theorematum anteceden-
+tium hypothesis in iis contineatur .- thefis enim
+illius theorematis ostendit· ‚ quidex iis couse-
+quatur ‚ veluti in nostro exemplo , quod ⁶ch
+Ξ ΑΒ. Cum vero maxima demonflrxtt'onmn
+pars ex paucis de ,congruentia (Τ similitudine
+triangulorum theorematis deriwtur ·‚ eorun-
+dem recordatio tandem familiartffima evadat
+
+opus est.
+
+⁷ do ostenditur, fi ex centro O radio ΟΡ
+
+ELEMENTA GEOMETRIAE. PARS I.
+
+TH-EOREMA XXVI.
+
+197. Si ex >panaris extremis C t& O Τὼ· 10'
+reth alicujus radiis CP ὠ ΡΟ „ qui fig· θ’· l
+junc‘t‘im sumti recita CO majores sunt, l
+desc'ribantur circuli ,- ii se mutuo seca- j
+
+bunt.
+
+DEMONSTRATIO.
+
+Sit CP < CO ς eritparti hujus ve-
+luti CN aequalis (§. 20 Arithm.) , adeo‹
+que ipfi congruit (§. 168). Qare fiex
+centro Cradio CP circulus PNQ P des-
+cribatur (§· 131 ); erit pundmm N in
+peripheria ipsius( §. 173). Eodem mo-
+
+describatur circulus ; fore punCtum
+M in peripheria ipsius. Cum ergo CN
+-Ι- ΝΟ < CP÷ ΡΟ , per hypoth. &CP
+:CN (§. 40); erit No< ΡΟ (5.
+92 Arithm.). Sed PO=MO (ς. 40
+ὃς per demonst. ). Ergo ΝΟ < ΜΟ ( §.
+89. Arithm. ). Quare punctum N peri-
+pheriae circuli PNQ> cadit intra circu-
+lum PMRP ‚ consequenter circuli se mu-
+
+tuo secant (§. 52). Qod erat unum. Ἄ
+Nec absimili modo idem ostenditur ‚ ξ ἰ
+
+fi fuerit CP > CO > vel CP=CO.
+Qod erat alterum.
+
+P R o B L E M A X. ³ χ
+198. Super data reeta AB triangu- ¹
+
+lum aequilaterum construere. Tab. 1.
+
+Hg.16.
+
+ 
+
+RESOLUTIO.
+
+1. Ex Atanquam centro intervallo ip-
+ssus AB describatur arcus y, &
+
+2. Ex B eodem intervallo aliusx (§. 1 31),
+qui priorem in Cintersecabit(§.197).
+
+3. Ducantur reStae AC ὃς CB .- erit
+
+ACB trizmgulum aequilaterum. D
+E-
+

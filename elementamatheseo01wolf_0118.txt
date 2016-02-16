@@ -1,0 +1,114 @@
+90 ELEMENTA ARITHMETICAE.
+
+sunt logarz'thmi frastionum decimanum , qui
+numerorum integrorum, uisa quod characte-
+rtstica differant.
+COROLLARIUM V.
+368. Qia chara&eristica lognrithmi de-
+nominatoris ftaffionis decimalis eadem est
+
+cum apice ultima* notae (θ’. 364 )‚· logarith-
+mus fraffionis decimalis prodit, si a logarith-
+mi muneratoris charaeteristica apex ultimae
+
+notae subducitur (Β. 566),
+
+S c H o L 1 ο N 1 Ι.
+
+3621). E. gr. In fraffione decimali 8. 7 3 §W
+apex ultime notae esi 3 ; a legarithmi igitur
+numeri 8735 , qui est ‚ 3· 9412629 , charac-
+teristica 3 subducitur ternarius ‚ ut prodeat
+legaritlmms fraffionis decimalis o. 941 26 29-
+Apex isle tot continet unitates , quot denomi-
+nator habet cjsphras , seu quot a punito se-
+quuntur ηοω.- unde patet, fi nullus adscrip-
+tus fuerit apex, cot unitates a charaeta-isti.
+ca numeraton's fidzducc* ‚ quot denominator cy-
+pbras habet ‚ scu quot notae puuc'ium sequun-
+tur·
+
+DEFINITIO LXVI.
+
+370. Frasf‘t‘io decimalis exad‘ia est ,
+quae veram exhibet rationem partis ‚
+quarn designat , ad totum,
+
+E. gr. (),8;-;ἶ30-·-·ἶ exprimit tationem
+partis 4 ad totum 5 veram ‚ cum fit 8⁷: 10
+:.--=4:5<Ai.1}31)u
+
+DEF {NITIO LXVII.
+- 371. FraeJio decimalis approximans
+est , quae rationem partis, quam defig-
+nat 2 ad totum exhibet prope veram ,
+
+nempe vel vera minorem, vel majo-
+
+ 
+
+rem ‚ defediu tamen vel excessu infra
+unitatem notae ultimae convenientem
+existente.
+
+E. gr. 37- >o0 4285? ‚ sed <z o.42858.
+exprimit adeo fraffio approximans ξ’ἒξὲἔὸ
+rationem nonnisi prope veram defedim
+
+{cilicet existente minore, quam 100200.
+
+ 
+
+DEFINITIO LXflVIII.
+
+372. Notae fraffionum decimanum
+ejusdem ordinis dicuntur , quarum iidem
+
+sunt denominatores vel apices.
+
+E. gr. Si duae fuerint fraetiones decimales
+o. 42857 δε 0. 0047 ‚ notae 8 & 4 ejusdem
+ordinis sunt ‚ quoniam utrique respondens¹
+denominatot,est 1000 vel apex '‘':nam 8,
+
+designat —1-027, & 4 denotat γεῆ-ο.
+
+XLIII„ ’
+
+373. Fraffiones decimales addere ³⁷
+vel ast} invicem sithtrahere.
+
+ResoLuTio όν DEMON8--
+TRATIO.
+
+PRoBLEMA
+
+Qoniam fraRiones decimales pe-
+rinde ac numeri integri constant ex no-
+tis , quarum unitates in ratione decupla
+progrediuntur( §. 364 ); notis ejusdem
+ordinis sub se invicem scriptis, additio ὃς
+Γιὼῐῑεὶᾶἰο eodem modo peragitur ac in
+numeris vulgaribus (§. 98. 103 )‚ nisi
+quod in approximantibus locus ultimus
+
+fit incertus (§. 371 )‚
+Vide exemplum
+1. Additionis:
+
+3·50782'' 0.0638'v
+o.0003. o.oo562‘'
+51 247 7 138
+μ5Δμ7ςς17. 7.2o742
+ILSubstmffionis.
+2..7864’ν 0.9.5.436v
+0.158 008512
+——26284 086924
+
+P'RoBLl-:MA XLIV.
+
+3⁴74. Fraffiones decimales per st’ in-
+
+vicem multipascareq R
+Eso-
+

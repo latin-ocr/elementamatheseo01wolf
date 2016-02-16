@@ -1,0 +1,121 @@
+ 
+
+Tab. Ι.
+Fz'g.10.
+1 1.
+
+432
+
+CAPUT
+
+ELEMENTA ANALYSEOS.
+
+PARS ΙΙ. seez. l.
+
+ΙΙΙ.
+
+De 'ff Calculi differentialis in lvlethodo de maximis
+
+Εἴ minimis.
+
+DEFINITIO IV.
+
+Ι semiordinatae alicujus curvae
+usque ad certum terminum con-
+tinuo crescunt vel decrescunt, quem
+praetergress'ae denuo decrescunt vel cres-
+cunt5 methodus, per quam determina-
+tur carum maxima vel minima , dicitur
+Methodm de maximis ὠ* minimis.
+S c H o L 1 o N.
+6 2. Potest vero haec methodus etiam ad de-
+
+terminandas quantitates alias ‚ qux ad cer-
+tum aliquem terminum crescant vel decres-
+
+61.
+
+cunt ‚ adhiberi. Sed reprissentandae sunt per ‚
+curvarum semiordl'niztas, ut exempla inferius ξ
+
+adducenda loquuntur.
+
+PROBLEMA XIII.
+
+.
+63. Delermifmre maximam vel mi-
+
+nimam applicamm iit sarva algcbraica.
+RfisoLUTio.
+Qoniam in curvis maximum velini-
+nimum habentibus tangens TM degene-
+
+rat tandem in DE & axi parallcla cva-
+dit , adeoque normalis MH coincidit
+
+cum maxima vel minima applicata CC ς ³
+
+crit in casu maximi vel minimi subtan—
+
+gcns ΤΡ infinita atquc fiibnormalis PH ῑ
+’ ax— xxzy2 substituatun prodibit
+
+nihilo aequalis. Est vcro PH: ydy : dx.
+Qodli crgo ponatur yasy : dx: O ς rc-
+
+penetus ιζγΞ o ἃ ob PT z μέν : dy 4
+
+¹1
+
+Ξ 00 ( quae cst nota infinitatis) ὧν
+Ξ 00.
+
+tum jaceat semiordinatae GC ε
+
+subnormalis PH fitinfinita. Est vero PT
+:ydxz dy: O (§. 20.) quare fi pona-
+tur ydx : dy: Ο habebimus dx Ξ ο.
+Vel ob PH: ydy : dx Ξ 00 reperitur
+dy Ξ 00 . Sunt nimirum tam dx , quam
+y intuitu dy infinitefimae.
+
+Ex aequatione itaque curvae quaeren-
+dus est valor ipsius dy, ὃς vel nihilo„
+vel infinito :equandus> ut habeatur va-
+lor abscissie, cui maxima applicata co-
+ordinatur.
+
+CoRoLLARI U M Ι.
+64. Qoniam in circulo (5377. part. 1.)
+
+ax Ξ xxzf
+erit adx — 2xdx :52de
+Η( adx -ι 2xa7x ) : 2373: 0
+a ·-⁴ 2x Ξ 0
+
+a Ξ 2x
+
+{a Ξ x
+'Nempe maxima semiordinata in circulo
+erigitur ex centro ‚ uti ex elementis constat
+(AY. 299.Geom.).
+
+Qiodli porro valor ipsius x in aequatione
+z-ffaa—
+=yy hoc est, {aaz yy. Unde {a ἐγ 2 id
+quod denuo ex elementis manifestum est.
+Qodli ponamus zydy : (a —- zx) Ξ dx
+-< 00: erit a -‹ zx respectu muneratoris
+
+.-.
+
+· ι . ο · zydy infinite parva , adeoque (5. 3 )a—- zx
+Fieri potest, ut tangens HGm direc- ᾗ = 0 , ut antes
+
+CoRoL-
+
+. quo in Tab. ,
+caiu subtangens PT nihilo aequatur & Figa.
+
+ 
+

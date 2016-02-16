@@ -1,0 +1,114 @@
+88 ELEMENTA ARITHMETICAE. ³
+
+inter 1000 & 10000 τ qui enim ibi
+eidem respondet numerus , tot frad‘cio-
+nes decimales adj unctas habet,quot cha-
+
+raeteristicae unitates acceffere (§. 346 ).
+
+E. gr. Qaeratut numerus logarithmo
+1.9201662 conveniens. Cum in tabulis pro.
+xime minori respondeat numerus 83 3 loga-
+rithmus idem evolvitur (ub charaeteristica 3
+post 8500 ‚ ubi proxime minori respou-
+det numerus 83. 21. Est itaque quaefitus
+831255 Qodfi fraffionibus his non fueris
+contentus per casum primum minores istis
+inveniri possunt.
+
+P R o B 1. ε Μ Α Χ L.
+
+356. Invenire numerum convenien-
+tem legarithmo majori iis, qui in tabulis
+sorltlnentur.
+
+R E s ο L U T 1 o.
+
+1. Α logarithmo dato subtrahatur lo-
+garithmus numeri 10, vel 100 2 vel
+1000 2 vel 10000 , donec relin-
+quatur logarithmus ultimo tabulae
+
+ΠΉΠΟΓ.
+2. Qlaeratur numerus ei respondens
+
+( §· 355 > δε
+3. Multiplicetur per 10 , vel 100 2 vel
+
+1000 ‚ vel 10000.
+- Factum est numerus quaefitus (§. 346).
+
+E. gr. Qaereudus est numerus logarithmi
+7. 7589982. subtrahatur [ogar'ithmus nu-
+meri 10000 , qui est 4. ooooooo ‚ ut relin-
+’ quatur ἦ. 7589982 , cui respondeus numerus
+ς 7 4 1 ὲὲ- ducatur in ιο 000 fastum
+
+l 0 0
+5741 1 100 erit numerus quaefitus.
+
+S c H 0 L I 0 N.
+
+357. Facile apparet , subtrahi poffe loga-
+rithmum numeri cujuscunque in tabam occur-
+rentem ‚ modo per cundem numerum multipli-
+cetur ‚ quilogarithmo refiduo respondet. Sed
+operatio taediosa evadit.
+
+PRoBLEMA XLI.
+
+358. Invenire numerum dato lo-
+
+garithmo dcfi’c'ffivo respondentem.
+
+R E s o L υ T 1 o.
+1. Dato logarithmo defectivo addatur
+logarithmus ultimus tabulae five nu-
+
+meri 10000 , hoc est, ille ab hoc
+subtrahatur.
+
+2. Logarithmo refiduo conveniens nu-
+merus quaeratur ( §. 35 ς ).
+Dico , hunc effe numeratorem fra-itio-
+
+nis ‚ cujus denominator est 10000.
+E. gr. Qaeratur fractio respondens Lo.
+
+gar. defeetivo—-m 3679767. Hic
+ex 4. ooooooo subd.
+relinquit 3. 6320 23 ς, cui convenit
+
+numerus 4285 {g—o. Est ergo fradkio quae.
+
+fita 428371
+1000000·
+
+DEMONSTRA‘TJ'I'O.
+
+Cum fraffio fit quotus cx divifione
+numeratoris per denominatorem emer-
+gens (§. 138)‚· erit unitas ad fractio-
+nem ut denominator ad numeratorem
+(§. 69). Sed ut unitas ad frad‘cioncm
+dato logarithmo defectivo responden-
+tem , ita 10000 ad numerum logarith-
+mo refiduo convenientem ( §.3 37.66):
+Ergo fi 10000 sumatur pro denomina-
+tore, erit numerus iste numerator stae-
+
+tionis quaefitae ( §. 305 ). Qe. d.
+PRoBLEMA XLII.
+
+359. Datis tribus numeris inveni-
+re quartum proportzonalem.
+
+R E s o L U T 1 ο.
+1. Logarithrnus secundi addatur loga-
+rithmo tertii. .
+2. Ab aggregato subtrahatur logarith-
+mus primi.
+Refiduus est logarithmus quarti quaefiti
+
+(§. 302· 337· 343 )· E· gr·
+

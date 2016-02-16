@@ -1,0 +1,113 @@
+capJu. METHODUS DE MAx1M1s ET MINIMIS. 437
+
+aequale (ς. 63), hoc est ‚ 2de ——- 2516&
+——2pdx ÷ 2xdx=0 feu (yssq) asy
+——dx (p--x)=0. Reliqua pera·
+genda sunt utin problemate 14 (§.71).
+CoRoLLARIUM Ι.
+82. Qoniam (y —- q) dy :z (p ·- x) dx
+
+ 
+
+. -—-...— .—
+
+ 
+
+ 
+
+ 
+
+erit g = 5—:5
+m--Q—-QEQQ
+dx y ›— ᾳ ΜΗ
+
+Qare cum fit MH: HC = PM: PR (5.
+268 Geom.) ς erit PR subnonmlis (AV. 35 ).
+Patet adeo denuo·
+
+Theorema. In omni curva AMO linea
+normalis est breviffima, quae a dato intra
+eam pundko C ad eam duci potest.
+
+CoRoLLARuvM II.
+83. Lineaitaque ad curvam normalis est
+hteviffimn omnium ‚ quae a dato quocunque
+in eodem plano pumsto ad eam duci potest
+(5. 76. 79. 82).
+PROBLEMA XVII.
+Tubu, 84. Lineam rec‘Jam AB ita ficare
+1³ig.15¹ in D , ut reffangulum ex AD (ὲν DB fit
+maximum eorum, qux hac ratione conf
+trm' poffimt.
+Sit Assza, *AD-:Q erit DB-:a
+*κ , consequenter AD. DB Ξ ax
+-—-xx maximum aliquod, atque hinc
+(§. 63) ejus differentialc nihilo xqua-
+le: concipitur nempeeffe ad circulum,
+ad quem
+
+aex -— x x Ξ y y
+
+——m———w—
+
+(Qare adx —— 2xdx Ξ 256& ΞΟ
+
+--ι-ῇ--ψ-η
+
+{a :2 x
+Linea igitur ΑΒ cst secanda in duas
+partes aequales , estque quadratum om-
+
+nium redbuigulorum maximum ‚ quo-
+rum altitudines & bases junstim sumtae
+inter se aeq'uantur.
+
+PROBLEMA XVIII.
+
+85. Lineam restam AB ita secare Tqb 11,
+in D ‚ ut ADm. DBn sit maximamflzc- 1:23 Ι e„
+torum fimili modoformatorum. ”
+
+Sit denuo AB=a2 ADr-x, erit
+DB=a—x ‚ consequenter ΑΒΜ. Dssn
+:xm (a κγ’. Erit igitur x abscissa
+respondens semiordinatae maximae in in-
+finitis circulis, ad quos xm (a-—xjn
+=y⁷²²†'²(§. 517.part.1.) ἃ hinc (ς. 63)
+
+mxm‘¹ (a -κγ dx—nx²⁷¹(a—x)²³-¹dx=0
+
+-——-————.———-,—-———--.
+
+ 
+
+ 
+
+mazmx ·-}— nx
+
+ma: (m -ss- n) Ξ x
+Sit e. gr. m Ξ 2, n = 1 , erit x ’,τ-ἔα, hoc
+est , fi retsta AD ,τὲ-,τ 3< BD =}.z‚ atque ED'
+sumatur pro altitudine mifimtis, AD pro la-
+tere quadrati, quod est bnsxs ejusdem3 erit
+prii-mx omnium umimum eorum ‚ qua: ex
+
+div-itione· reikae AB in duas partes formari'
+possunt.
+
+PR O B L 13 M A XIX.
+
+86. &sper resta ΑΒ tanquam hypo· Tab.11,
+themtstz tr,¹.zi2gulum ῑτεῗαῐῆξπίιωι maxi- 523⁷de
+mum construere.
+
+Sit ΑΒΣΛ , ACz--x3 erit (§. 417
+Geom.) EC: gs (aa—³.·x),area (ᾗ. 3 92 .
+Θίθ7ῆ;)Ξ-ξ ΑΕ. CB Ξ {xv‘(a01——-.·<x).1
+Habemus adeo aquationem ad curvam
+quarti generis
+
+x γ’ (αλψ--κλῇῐ 2 y2
+
+-—--—-———-——-—-—
+
